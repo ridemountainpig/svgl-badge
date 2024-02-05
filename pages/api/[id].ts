@@ -111,7 +111,7 @@ export default async function svglBadge(
                         <img src="data:image/svg+xml;base64,${svgBase64}" class="h-7 w-7" />
                     </div>
                     <div class="pr-2">
-                        <span class="truncate text-[15px] font-bold tracking-wide text-center ${theme == "dark" ? "text-white" : "text-black"}">
+                        <span class="truncate text-[15px] font-semibold font-sans tracking-wide text-center ${theme == "dark" ? "text-white" : "text-black"}">
                             ${svgName}
                         </span>
                     </div>

@@ -644,6 +644,10 @@ video {
   text-align: center;
 }
 
+.font-sans {
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -651,10 +655,6 @@ video {
 
 .text-\[15px\] {
   font-size: 15px;
-}
-
-.font-bold {
-  font-weight: 700;
 }
 
 .font-semibold {

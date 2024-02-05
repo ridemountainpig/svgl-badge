@@ -135,8 +135,9 @@
     {
         "id": 18,
         "title": "Spotify",
-        "category": "Software",
+        "category": "Music",
         "route": "https://svgl.app/library/spotify.svg",
+        "wordmark": "/library/spotify_wordmark.svg",
         "url": "https://www.spotify.com/"
     },
     {
@@ -1338,7 +1339,10 @@
     {
         "id": 179,
         "title": "WordPress",
-        "category": ["Software", "CMS"],
+        "category": [
+            "CMS",
+            "Software"
+        ],
         "route": "https://svgl.app/library/wordpress.svg",
         "url": "https://wordpress.org/"
     },
@@ -2770,6 +2774,13 @@
     },
     {
         "id": 368,
+        "title": "Web.dev",
+        "category": "Education",
+        "route": "https://svgl.app/library/webdev.svg",
+        "url": "https://web.dev/"
+    },
+    {
+        "id": 369,
         "title": "SWR",
         "category": "Library",
         "route": {
@@ -2779,7 +2790,7 @@
         "url": "https://swr.vercel.app/"
     },
     {
-        "id": 369,
+        "id": 370,
         "title": "Refine",
         "category": "Framework",
         "route": {
@@ -2787,5 +2798,37 @@
             "dark": "https://svgl.app/library/refine_light.svg"
         },
         "url": "https://refine.dev/"
+    },
+    {
+        "id": 371,
+        "title": "Youtube Music",
+        "category": "Music",
+        "route": "https://svgl.app/library/youtube_music.svg",
+        "wordmark": {
+            "light": "/library/youtube_music_wordmark_light.svg",
+            "dark": "/library/youtube_music_wordmark_dark.svg"
+        },
+        "url": "https://music.youtube.com/"
+    },
+    {
+        "id": 372,
+        "title": "TIDAL",
+        "category": "Music",
+        "route": {
+            "light": "https://svgl.app/library/tidal_light.svg",
+            "dark": "https://svgl.app/library/tidal_dark.svg"
+        },
+        "wordmark": {
+            "light": "/library/tidal_wordmark_light.svg",
+            "dark": "/library/tidal_wordmark_dark.svg"
+        },
+        "url": "https://tidal.com/"
+    },
+    {
+        "id": 373,
+        "title": "OBS",
+        "category": "Software",
+        "route": "https://svgl.app/library/obs.svg",
+        "url": "Website"
     }
 ]
