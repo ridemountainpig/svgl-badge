@@ -1340,8 +1340,8 @@
         "id": 179,
         "title": "WordPress",
         "category": [
-            "Software",
-            "CMS"
+            "CMS",
+            "Software"
         ],
         "route": "https://svgl.app/library/wordpress.svg",
         "url": "https://wordpress.org/"
