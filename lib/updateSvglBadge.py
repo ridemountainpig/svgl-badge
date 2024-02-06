@@ -8,6 +8,9 @@ def getSvglJson():
         response.raise_for_status()
 
         data = response.json()
+        for svg in data:
+            if type(svg["category"]) == list:
+                svg["category"].sort()
         file_path = "public/svgs.json"
 
         with open(file_path, 'w', encoding='utf-8') as f:
