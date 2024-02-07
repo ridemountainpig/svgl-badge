@@ -392,6 +392,7 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/371?theme=light) | `https://svgl-badge.vercel.app/api/371?theme=light` |
 | TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/372?theme=light) | `https://svgl-badge.vercel.app/api/372?theme=light` |
 | OBS | ![OBS](https://svgl-badge.vercel.app/api/373?theme=light) | `https://svgl-badge.vercel.app/api/373?theme=light` |
+| Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/374?theme=light) | `https://svgl-badge.vercel.app/api/374?theme=light` |
 ## Dark Theme
 
 | Title | Badge | Markdown |
@@ -770,3 +771,4 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/371?theme=dark) | `https://svgl-badge.vercel.app/api/371?theme=dark` |
 | TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/372?theme=dark) | `https://svgl-badge.vercel.app/api/372?theme=dark` |
 | OBS | ![OBS](https://svgl-badge.vercel.app/api/373?theme=dark) | `https://svgl-badge.vercel.app/api/373?theme=dark` |
+| Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/374?theme=dark) | `https://svgl-badge.vercel.app/api/374?theme=dark` |

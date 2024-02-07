@@ -2586,6 +2586,10 @@
             "light": "https://svgl.app/library/flask-light.svg",
             "dark": "https://svgl.app/library/flask-dark.svg"
         },
+        "wordmark": {
+            "light": "/library/flask-wordmark-light.svg",
+            "dark": "/library/flask-wordmark-dark.svg"
+        },
         "url": "https://flask.palletsprojects.com/"
     },
     {
@@ -2830,5 +2834,13 @@
         "category": "Software",
         "route": "https://svgl.app/library/obs.svg",
         "url": "Website"
+    },
+    {
+        "id": 374,
+        "title": "Stack Overflow",
+        "category": "Software",
+        "route": "https://svgl.app/library/stackoverflow.svg",
+        "wordmark": "/library/stackoverflow_wordmark.svg",
+        "url": "https://stackoverflow.com/"
     }
 ]

@@ -375,3 +375,4 @@
 | Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/371?theme=dark) | `https://svgl-badge.vercel.app/api/371?theme=dark` |
 | TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/372?theme=dark) | `https://svgl-badge.vercel.app/api/372?theme=dark` |
 | OBS | ![OBS](https://svgl-badge.vercel.app/api/373?theme=dark) | `https://svgl-badge.vercel.app/api/373?theme=dark` |
+| Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/374?theme=dark) | `https://svgl-badge.vercel.app/api/374?theme=dark` |
