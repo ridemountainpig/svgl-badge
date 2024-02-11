@@ -156,223 +156,225 @@
 | Apple | ![Apple](https://svgl-badge.vercel.app/api/152?theme=dark) | `https://svgl-badge.vercel.app/api/152?theme=dark` |
 | Windows | ![Windows](https://svgl-badge.vercel.app/api/153?theme=dark) | `https://svgl-badge.vercel.app/api/153?theme=dark` |
 | Python | ![Python](https://svgl-badge.vercel.app/api/154?theme=dark) | `https://svgl-badge.vercel.app/api/154?theme=dark` |
-| Turbopack | ![Turbopack](https://svgl-badge.vercel.app/api/155?theme=dark) | `https://svgl-badge.vercel.app/api/155?theme=dark` |
-| Builder | ![Builder](https://svgl-badge.vercel.app/api/156?theme=dark) | `https://svgl-badge.vercel.app/api/156?theme=dark` |
-| Babel | ![Babel](https://svgl-badge.vercel.app/api/157?theme=dark) | `https://svgl-badge.vercel.app/api/157?theme=dark` |
-| Surrealdb | ![Surrealdb](https://svgl-badge.vercel.app/api/158?theme=dark) | `https://svgl-badge.vercel.app/api/158?theme=dark` |
-| Jetbrains Space | ![Jetbrains Space](https://svgl-badge.vercel.app/api/159?theme=dark) | `https://svgl-badge.vercel.app/api/159?theme=dark` |
-| Stimulus | ![Stimulus](https://svgl-badge.vercel.app/api/160?theme=dark) | `https://svgl-badge.vercel.app/api/160?theme=dark` |
-| WindiCSS | ![WindiCSS](https://svgl-badge.vercel.app/api/161?theme=dark) | `https://svgl-badge.vercel.app/api/161?theme=dark` |
-| Mastodon | ![Mastodon](https://svgl-badge.vercel.app/api/162?theme=dark) | `https://svgl-badge.vercel.app/api/162?theme=dark` |
-| Upstash | ![Upstash](https://svgl-badge.vercel.app/api/163?theme=dark) | `https://svgl-badge.vercel.app/api/163?theme=dark` |
-| Storyblok | ![Storyblok](https://svgl-badge.vercel.app/api/164?theme=dark) | `https://svgl-badge.vercel.app/api/164?theme=dark` |
-| Cloudflare Workers | ![Cloudflare Workers](https://svgl-badge.vercel.app/api/165?theme=dark) | `https://svgl-badge.vercel.app/api/165?theme=dark` |
-| Cloudflare | ![Cloudflare](https://svgl-badge.vercel.app/api/166?theme=dark) | `https://svgl-badge.vercel.app/api/166?theme=dark` |
-| Bing | ![Bing](https://svgl-badge.vercel.app/api/167?theme=dark) | `https://svgl-badge.vercel.app/api/167?theme=dark` |
-| Cloudinary | ![Cloudinary](https://svgl-badge.vercel.app/api/168?theme=dark) | `https://svgl-badge.vercel.app/api/168?theme=dark` |
-| Dart | ![Dart](https://svgl-badge.vercel.app/api/169?theme=dark) | `https://svgl-badge.vercel.app/api/169?theme=dark` |
-| hCaptcha | ![hCaptcha](https://svgl-badge.vercel.app/api/170?theme=dark) | `https://svgl-badge.vercel.app/api/170?theme=dark` |
-| Appwrite | ![Appwrite](https://svgl-badge.vercel.app/api/171?theme=dark) | `https://svgl-badge.vercel.app/api/171?theme=dark` |
-| Loom | ![Loom](https://svgl-badge.vercel.app/api/172?theme=dark) | `https://svgl-badge.vercel.app/api/172?theme=dark` |
-| Hulu | ![Hulu](https://svgl-badge.vercel.app/api/173?theme=dark) | `https://svgl-badge.vercel.app/api/173?theme=dark` |
-| Stackblitz | ![Stackblitz](https://svgl-badge.vercel.app/api/174?theme=dark) | `https://svgl-badge.vercel.app/api/174?theme=dark` |
-| Binance | ![Binance](https://svgl-badge.vercel.app/api/175?theme=dark) | `https://svgl-badge.vercel.app/api/175?theme=dark` |
-| Messenger | ![Messenger](https://svgl-badge.vercel.app/api/176?theme=dark) | `https://svgl-badge.vercel.app/api/176?theme=dark` |
-| NHost | ![NHost](https://svgl-badge.vercel.app/api/177?theme=dark) | `https://svgl-badge.vercel.app/api/177?theme=dark` |
-| Medusa | ![Medusa](https://svgl-badge.vercel.app/api/178?theme=dark) | `https://svgl-badge.vercel.app/api/178?theme=dark` |
-| WordPress | ![WordPress](https://svgl-badge.vercel.app/api/179?theme=dark) | `https://svgl-badge.vercel.app/api/179?theme=dark` |
-| Microsoft | ![Microsoft](https://svgl-badge.vercel.app/api/180?theme=dark) | `https://svgl-badge.vercel.app/api/180?theme=dark` |
-| Elementor | ![Elementor](https://svgl-badge.vercel.app/api/181?theme=dark) | `https://svgl-badge.vercel.app/api/181?theme=dark` |
-| Prime video | ![Prime video](https://svgl-badge.vercel.app/api/182?theme=dark) | `https://svgl-badge.vercel.app/api/182?theme=dark` |
-| Chrome | ![Chrome](https://svgl-badge.vercel.app/api/183?theme=dark) | `https://svgl-badge.vercel.app/api/183?theme=dark` |
-| RxJS | ![RxJS](https://svgl-badge.vercel.app/api/184?theme=dark) | `https://svgl-badge.vercel.app/api/184?theme=dark` |
-| Electron | ![Electron](https://svgl-badge.vercel.app/api/185?theme=dark) | `https://svgl-badge.vercel.app/api/185?theme=dark` |
-| Redux | ![Redux](https://svgl-badge.vercel.app/api/186?theme=dark) | `https://svgl-badge.vercel.app/api/186?theme=dark` |
-| Trust Wallet | ![Trust Wallet](https://svgl-badge.vercel.app/api/187?theme=dark) | `https://svgl-badge.vercel.app/api/187?theme=dark` |
-| Php | ![Php](https://svgl-badge.vercel.app/api/188?theme=dark) | `https://svgl-badge.vercel.app/api/188?theme=dark` |
-| Hugo | ![Hugo](https://svgl-badge.vercel.app/api/189?theme=dark) | `https://svgl-badge.vercel.app/api/189?theme=dark` |
-| Sass | ![Sass](https://svgl-badge.vercel.app/api/190?theme=dark) | `https://svgl-badge.vercel.app/api/190?theme=dark` |
-| Arc | ![Arc](https://svgl-badge.vercel.app/api/191?theme=dark) | `https://svgl-badge.vercel.app/api/191?theme=dark` |
-| Pinia | ![Pinia](https://svgl-badge.vercel.app/api/192?theme=dark) | `https://svgl-badge.vercel.app/api/192?theme=dark` |
-| Neon | ![Neon](https://svgl-badge.vercel.app/api/193?theme=dark) | `https://svgl-badge.vercel.app/api/193?theme=dark` |
-| Infojobs | ![Infojobs](https://svgl-badge.vercel.app/api/194?theme=dark) | `https://svgl-badge.vercel.app/api/194?theme=dark` |
-| Linear | ![Linear](https://svgl-badge.vercel.app/api/195?theme=dark) | `https://svgl-badge.vercel.app/api/195?theme=dark` |
-| Tor | ![Tor](https://svgl-badge.vercel.app/api/196?theme=dark) | `https://svgl-badge.vercel.app/api/196?theme=dark` |
-| Codesandbox | ![Codesandbox](https://svgl-badge.vercel.app/api/197?theme=dark) | `https://svgl-badge.vercel.app/api/197?theme=dark` |
-| Skype | ![Skype](https://svgl-badge.vercel.app/api/198?theme=dark) | `https://svgl-badge.vercel.app/api/198?theme=dark` |
-| Tauri | ![Tauri](https://svgl-badge.vercel.app/api/199?theme=dark) | `https://svgl-badge.vercel.app/api/199?theme=dark` |
-| WebKit | ![WebKit](https://svgl-badge.vercel.app/api/200?theme=dark) | `https://svgl-badge.vercel.app/api/200?theme=dark` |
-| Google Bard | ![Google Bard](https://svgl-badge.vercel.app/api/201?theme=dark) | `https://svgl-badge.vercel.app/api/201?theme=dark` |
-| Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/202?theme=dark) | `https://svgl-badge.vercel.app/api/202?theme=dark` |
-| Zod | ![Zod](https://svgl-badge.vercel.app/api/203?theme=dark) | `https://svgl-badge.vercel.app/api/203?theme=dark` |
-| Dreamweaver | ![Dreamweaver](https://svgl-badge.vercel.app/api/204?theme=dark) | `https://svgl-badge.vercel.app/api/204?theme=dark` |
-| OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/205?theme=dark) | `https://svgl-badge.vercel.app/api/205?theme=dark` |
-| Threads | ![Threads](https://svgl-badge.vercel.app/api/206?theme=dark) | `https://svgl-badge.vercel.app/api/206?theme=dark` |
-| Instagram | ![Instagram](https://svgl-badge.vercel.app/api/207?theme=dark) | `https://svgl-badge.vercel.app/api/207?theme=dark` |
-| VueUse | ![VueUse](https://svgl-badge.vercel.app/api/208?theme=dark) | `https://svgl-badge.vercel.app/api/208?theme=dark` |
-| Microsoft SQL Server  | ![Microsoft SQL Server ](https://svgl-badge.vercel.app/api/209?theme=dark) | `https://svgl-badge.vercel.app/api/209?theme=dark` |
-| Hono | ![Hono](https://svgl-badge.vercel.app/api/210?theme=dark) | `https://svgl-badge.vercel.app/api/210?theme=dark` |
-| Million | ![Million](https://svgl-badge.vercel.app/api/211?theme=dark) | `https://svgl-badge.vercel.app/api/211?theme=dark` |
-| PandaCSS | ![PandaCSS](https://svgl-badge.vercel.app/api/212?theme=dark) | `https://svgl-badge.vercel.app/api/212?theme=dark` |
-| Pulumi | ![Pulumi](https://svgl-badge.vercel.app/api/213?theme=dark) | `https://svgl-badge.vercel.app/api/213?theme=dark` |
-| FastAPI | ![FastAPI](https://svgl-badge.vercel.app/api/214?theme=dark) | `https://svgl-badge.vercel.app/api/214?theme=dark` |
-| Codium | ![Codium](https://svgl-badge.vercel.app/api/215?theme=dark) | `https://svgl-badge.vercel.app/api/215?theme=dark` |
-| Crossplane | ![Crossplane](https://svgl-badge.vercel.app/api/216?theme=dark) | `https://svgl-badge.vercel.app/api/216?theme=dark` |
-| Volta | ![Volta](https://svgl-badge.vercel.app/api/217?theme=dark) | `https://svgl-badge.vercel.app/api/217?theme=dark` |
-| Typesense | ![Typesense](https://svgl-badge.vercel.app/api/218?theme=dark) | `https://svgl-badge.vercel.app/api/218?theme=dark` |
-| Bitcoin | ![Bitcoin](https://svgl-badge.vercel.app/api/219?theme=dark) | `https://svgl-badge.vercel.app/api/219?theme=dark` |
-| Ethereum | ![Ethereum](https://svgl-badge.vercel.app/api/220?theme=dark) | `https://svgl-badge.vercel.app/api/220?theme=dark` |
-| Solana | ![Solana](https://svgl-badge.vercel.app/api/221?theme=dark) | `https://svgl-badge.vercel.app/api/221?theme=dark` |
-| Dogecoin | ![Dogecoin](https://svgl-badge.vercel.app/api/222?theme=dark) | `https://svgl-badge.vercel.app/api/222?theme=dark` |
-| XRP | ![XRP](https://svgl-badge.vercel.app/api/223?theme=dark) | `https://svgl-badge.vercel.app/api/223?theme=dark` |
-| BNB | ![BNB](https://svgl-badge.vercel.app/api/224?theme=dark) | `https://svgl-badge.vercel.app/api/224?theme=dark` |
-| Link | ![Link](https://svgl-badge.vercel.app/api/225?theme=dark) | `https://svgl-badge.vercel.app/api/225?theme=dark` |
-| Polygon | ![Polygon](https://svgl-badge.vercel.app/api/226?theme=dark) | `https://svgl-badge.vercel.app/api/226?theme=dark` |
-| Algorand | ![Algorand](https://svgl-badge.vercel.app/api/227?theme=dark) | `https://svgl-badge.vercel.app/api/227?theme=dark` |
-| Tether | ![Tether](https://svgl-badge.vercel.app/api/228?theme=dark) | `https://svgl-badge.vercel.app/api/228?theme=dark` |
-| X | ![X](https://svgl-badge.vercel.app/api/229?theme=dark) | `https://svgl-badge.vercel.app/api/229?theme=dark` |
-| Adobe | ![Adobe](https://svgl-badge.vercel.app/api/230?theme=dark) | `https://svgl-badge.vercel.app/api/230?theme=dark` |
-| After Effects | ![After Effects](https://svgl-badge.vercel.app/api/231?theme=dark) | `https://svgl-badge.vercel.app/api/231?theme=dark` |
-| Canva | ![Canva](https://svgl-badge.vercel.app/api/232?theme=dark) | `https://svgl-badge.vercel.app/api/232?theme=dark` |
-| Illustrator | ![Illustrator](https://svgl-badge.vercel.app/api/233?theme=dark) | `https://svgl-badge.vercel.app/api/233?theme=dark` |
-| InDesign | ![InDesign](https://svgl-badge.vercel.app/api/234?theme=dark) | `https://svgl-badge.vercel.app/api/234?theme=dark` |
-| Lightroom | ![Lightroom](https://svgl-badge.vercel.app/api/235?theme=dark) | `https://svgl-badge.vercel.app/api/235?theme=dark` |
-| Photoshop | ![Photoshop](https://svgl-badge.vercel.app/api/236?theme=dark) | `https://svgl-badge.vercel.app/api/236?theme=dark` |
-| Premiere | ![Premiere](https://svgl-badge.vercel.app/api/237?theme=dark) | `https://svgl-badge.vercel.app/api/237?theme=dark` |
-| VK | ![VK](https://svgl-badge.vercel.app/api/238?theme=dark) | `https://svgl-badge.vercel.app/api/238?theme=dark` |
-| Hoppscotch | ![Hoppscotch](https://svgl-badge.vercel.app/api/239?theme=dark) | `https://svgl-badge.vercel.app/api/239?theme=dark` |
-| Dub | ![Dub](https://svgl-badge.vercel.app/api/240?theme=dark) | `https://svgl-badge.vercel.app/api/240?theme=dark` |
-| Opera | ![Opera](https://svgl-badge.vercel.app/api/241?theme=dark) | `https://svgl-badge.vercel.app/api/241?theme=dark` |
-| Salesforce | ![Salesforce](https://svgl-badge.vercel.app/api/242?theme=dark) | `https://svgl-badge.vercel.app/api/242?theme=dark` |
-| Unreal Engine | ![Unreal Engine](https://svgl-badge.vercel.app/api/243?theme=dark) | `https://svgl-badge.vercel.app/api/243?theme=dark` |
-| Godot Engine | ![Godot Engine](https://svgl-badge.vercel.app/api/244?theme=dark) | `https://svgl-badge.vercel.app/api/244?theme=dark` |
-| Datadog | ![Datadog](https://svgl-badge.vercel.app/api/245?theme=dark) | `https://svgl-badge.vercel.app/api/245?theme=dark` |
-| Tron | ![Tron](https://svgl-badge.vercel.app/api/246?theme=dark) | `https://svgl-badge.vercel.app/api/246?theme=dark` |
-| Randevum | ![Randevum](https://svgl-badge.vercel.app/api/247?theme=dark) | `https://svgl-badge.vercel.app/api/247?theme=dark` |
-| Chromium | ![Chromium](https://svgl-badge.vercel.app/api/248?theme=dark) | `https://svgl-badge.vercel.app/api/248?theme=dark` |
-| Edge | ![Edge](https://svgl-badge.vercel.app/api/249?theme=dark) | `https://svgl-badge.vercel.app/api/249?theme=dark` |
-| Safari | ![Safari](https://svgl-badge.vercel.app/api/250?theme=dark) | `https://svgl-badge.vercel.app/api/250?theme=dark` |
-| Vivaldi | ![Vivaldi](https://svgl-badge.vercel.app/api/251?theme=dark) | `https://svgl-badge.vercel.app/api/251?theme=dark` |
-| Beacon | ![Beacon](https://svgl-badge.vercel.app/api/252?theme=dark) | `https://svgl-badge.vercel.app/api/252?theme=dark` |
-| Affinity Designer | ![Affinity Designer](https://svgl-badge.vercel.app/api/253?theme=dark) | `https://svgl-badge.vercel.app/api/253?theme=dark` |
-| Affinity Photo | ![Affinity Photo](https://svgl-badge.vercel.app/api/254?theme=dark) | `https://svgl-badge.vercel.app/api/254?theme=dark` |
-| Affinity Publisher | ![Affinity Publisher](https://svgl-badge.vercel.app/api/255?theme=dark) | `https://svgl-badge.vercel.app/api/255?theme=dark` |
-| Roblox | ![Roblox](https://svgl-badge.vercel.app/api/256?theme=dark) | `https://svgl-badge.vercel.app/api/256?theme=dark` |
-| Stately.ai | ![Stately.ai](https://svgl-badge.vercel.app/api/257?theme=dark) | `https://svgl-badge.vercel.app/api/257?theme=dark` |
-| XState | ![XState](https://svgl-badge.vercel.app/api/258?theme=dark) | `https://svgl-badge.vercel.app/api/258?theme=dark` |
-| Hashnode | ![Hashnode](https://svgl-badge.vercel.app/api/259?theme=dark) | `https://svgl-badge.vercel.app/api/259?theme=dark` |
-| Rowy | ![Rowy](https://svgl-badge.vercel.app/api/260?theme=dark) | `https://svgl-badge.vercel.app/api/260?theme=dark` |
-| Cal.com | ![Cal.com](https://svgl-badge.vercel.app/api/261?theme=dark) | `https://svgl-badge.vercel.app/api/261?theme=dark` |
-| Calendly | ![Calendly](https://svgl-badge.vercel.app/api/262?theme=dark) | `https://svgl-badge.vercel.app/api/262?theme=dark` |
-| Mintlify | ![Mintlify](https://svgl-badge.vercel.app/api/263?theme=dark) | `https://svgl-badge.vercel.app/api/263?theme=dark` |
-| Patreon | ![Patreon](https://svgl-badge.vercel.app/api/264?theme=dark) | `https://svgl-badge.vercel.app/api/264?theme=dark` |
-| Peerlist | ![Peerlist](https://svgl-badge.vercel.app/api/265?theme=dark) | `https://svgl-badge.vercel.app/api/265?theme=dark` |
-| Product Hunt | ![Product Hunt](https://svgl-badge.vercel.app/api/266?theme=dark) | `https://svgl-badge.vercel.app/api/266?theme=dark` |
-| Remotion | ![Remotion](https://svgl-badge.vercel.app/api/267?theme=dark) | `https://svgl-badge.vercel.app/api/267?theme=dark` |
-| Warp | ![Warp](https://svgl-badge.vercel.app/api/268?theme=dark) | `https://svgl-badge.vercel.app/api/268?theme=dark` |
-| SST | ![SST](https://svgl-badge.vercel.app/api/269?theme=dark) | `https://svgl-badge.vercel.app/api/269?theme=dark` |
-| Documenso | ![Documenso](https://svgl-badge.vercel.app/api/270?theme=dark) | `https://svgl-badge.vercel.app/api/270?theme=dark` |
-| Bash | ![Bash](https://svgl-badge.vercel.app/api/271?theme=dark) | `https://svgl-badge.vercel.app/api/271?theme=dark` |
-| C | ![C](https://svgl-badge.vercel.app/api/272?theme=dark) | `https://svgl-badge.vercel.app/api/272?theme=dark` |
-| C++ | ![C++](https://svgl-badge.vercel.app/api/273?theme=dark) | `https://svgl-badge.vercel.app/api/273?theme=dark` |
-| Cobol | ![Cobol](https://svgl-badge.vercel.app/api/274?theme=dark) | `https://svgl-badge.vercel.app/api/274?theme=dark` |
-| Fortran | ![Fortran](https://svgl-badge.vercel.app/api/275?theme=dark) | `https://svgl-badge.vercel.app/api/275?theme=dark` |
-| Haskell | ![Haskell](https://svgl-badge.vercel.app/api/276?theme=dark) | `https://svgl-badge.vercel.app/api/276?theme=dark` |
-| matlab | ![matlab](https://svgl-badge.vercel.app/api/277?theme=dark) | `https://svgl-badge.vercel.app/api/277?theme=dark` |
-| R | ![R](https://svgl-badge.vercel.app/api/278?theme=dark) | `https://svgl-badge.vercel.app/api/278?theme=dark` |
-| Rust | ![Rust](https://svgl-badge.vercel.app/api/279?theme=dark) | `https://svgl-badge.vercel.app/api/279?theme=dark` |
-| Zig | ![Zig](https://svgl-badge.vercel.app/api/280?theme=dark) | `https://svgl-badge.vercel.app/api/280?theme=dark` |
-| Instatus | ![Instatus](https://svgl-badge.vercel.app/api/281?theme=dark) | `https://svgl-badge.vercel.app/api/281?theme=dark` |
-| Front | ![Front](https://svgl-badge.vercel.app/api/282?theme=dark) | `https://svgl-badge.vercel.app/api/282?theme=dark` |
-| Monero | ![Monero](https://svgl-badge.vercel.app/api/283?theme=dark) | `https://svgl-badge.vercel.app/api/283?theme=dark` |
-| Axiom | ![Axiom](https://svgl-badge.vercel.app/api/284?theme=dark) | `https://svgl-badge.vercel.app/api/284?theme=dark` |
-| Django | ![Django](https://svgl-badge.vercel.app/api/285?theme=dark) | `https://svgl-badge.vercel.app/api/285?theme=dark` |
-| Zeabur | ![Zeabur](https://svgl-badge.vercel.app/api/286?theme=dark) | `https://svgl-badge.vercel.app/api/286?theme=dark` |
-| MetaMask | ![MetaMask](https://svgl-badge.vercel.app/api/287?theme=dark) | `https://svgl-badge.vercel.app/api/287?theme=dark` |
-| shadcn/ui | ![shadcn/ui](https://svgl-badge.vercel.app/api/288?theme=dark) | `https://svgl-badge.vercel.app/api/288?theme=dark` |
-| putio | ![putio](https://svgl-badge.vercel.app/api/289?theme=dark) | `https://svgl-badge.vercel.app/api/289?theme=dark` |
-| Pinterest | ![Pinterest](https://svgl-badge.vercel.app/api/290?theme=dark) | `https://svgl-badge.vercel.app/api/290?theme=dark` |
-| Reflex | ![Reflex](https://svgl-badge.vercel.app/api/291?theme=dark) | `https://svgl-badge.vercel.app/api/291?theme=dark` |
-| Stripe | ![Stripe](https://svgl-badge.vercel.app/api/292?theme=dark) | `https://svgl-badge.vercel.app/api/292?theme=dark` |
-| Linux | ![Linux](https://svgl-badge.vercel.app/api/293?theme=dark) | `https://svgl-badge.vercel.app/api/293?theme=dark` |
-| XD | ![XD](https://svgl-badge.vercel.app/api/294?theme=dark) | `https://svgl-badge.vercel.app/api/294?theme=dark` |
-| Axure | ![Axure](https://svgl-badge.vercel.app/api/295?theme=dark) | `https://svgl-badge.vercel.app/api/295?theme=dark` |
-| Penpot | ![Penpot](https://svgl-badge.vercel.app/api/296?theme=dark) | `https://svgl-badge.vercel.app/api/296?theme=dark` |
-| Sketch | ![Sketch](https://svgl-badge.vercel.app/api/297?theme=dark) | `https://svgl-badge.vercel.app/api/297?theme=dark` |
-| Gimp | ![Gimp](https://svgl-badge.vercel.app/api/298?theme=dark) | `https://svgl-badge.vercel.app/api/298?theme=dark` |
-| Ubuntu | ![Ubuntu](https://svgl-badge.vercel.app/api/299?theme=dark) | `https://svgl-badge.vercel.app/api/299?theme=dark` |
-| Cypress | ![Cypress](https://svgl-badge.vercel.app/api/300?theme=dark) | `https://svgl-badge.vercel.app/api/300?theme=dark` |
-| Reddit | ![Reddit](https://svgl-badge.vercel.app/api/301?theme=dark) | `https://svgl-badge.vercel.app/api/301?theme=dark` |
-| JetBrains WebStorm | ![JetBrains WebStorm](https://svgl-badge.vercel.app/api/302?theme=dark) | `https://svgl-badge.vercel.app/api/302?theme=dark` |
-| JetBrains PyCharm | ![JetBrains PyCharm](https://svgl-badge.vercel.app/api/303?theme=dark) | `https://svgl-badge.vercel.app/api/303?theme=dark` |
-| JetBrains Fleet | ![JetBrains Fleet](https://svgl-badge.vercel.app/api/304?theme=dark) | `https://svgl-badge.vercel.app/api/304?theme=dark` |
-| JetBrains RubyMine | ![JetBrains RubyMine](https://svgl-badge.vercel.app/api/305?theme=dark) | `https://svgl-badge.vercel.app/api/305?theme=dark` |
-| JetBrains PhpStorm | ![JetBrains PhpStorm](https://svgl-badge.vercel.app/api/306?theme=dark) | `https://svgl-badge.vercel.app/api/306?theme=dark` |
-| MonkeyType | ![MonkeyType](https://svgl-badge.vercel.app/api/307?theme=dark) | `https://svgl-badge.vercel.app/api/307?theme=dark` |
-| PyCharm | ![PyCharm](https://svgl-badge.vercel.app/api/308?theme=dark) | `https://svgl-badge.vercel.app/api/308?theme=dark` |
-| Shopify | ![Shopify](https://svgl-badge.vercel.app/api/309?theme=dark) | `https://svgl-badge.vercel.app/api/309?theme=dark` |
-| WebFlow | ![WebFlow](https://svgl-badge.vercel.app/api/310?theme=dark) | `https://svgl-badge.vercel.app/api/310?theme=dark` |
-| Sanity | ![Sanity](https://svgl-badge.vercel.app/api/311?theme=dark) | `https://svgl-badge.vercel.app/api/311?theme=dark` |
-| sky | ![sky](https://svgl-badge.vercel.app/api/312?theme=dark) | `https://svgl-badge.vercel.app/api/312?theme=dark` |
-| Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/313?theme=dark) | `https://svgl-badge.vercel.app/api/313?theme=dark` |
-| Uber | ![Uber](https://svgl-badge.vercel.app/api/314?theme=dark) | `https://svgl-badge.vercel.app/api/314?theme=dark` |
-| Gmail | ![Gmail](https://svgl-badge.vercel.app/api/315?theme=dark) | `https://svgl-badge.vercel.app/api/315?theme=dark` |
-| Outlook | ![Outlook](https://svgl-badge.vercel.app/api/316?theme=dark) | `https://svgl-badge.vercel.app/api/316?theme=dark` |
-| Slack | ![Slack](https://svgl-badge.vercel.app/api/317?theme=dark) | `https://svgl-badge.vercel.app/api/317?theme=dark` |
-| Snapchat | ![Snapchat](https://svgl-badge.vercel.app/api/318?theme=dark) | `https://svgl-badge.vercel.app/api/318?theme=dark` |
-| Ebay | ![Ebay](https://svgl-badge.vercel.app/api/319?theme=dark) | `https://svgl-badge.vercel.app/api/319?theme=dark` |
-| IBM | ![IBM](https://svgl-badge.vercel.app/api/320?theme=dark) | `https://svgl-badge.vercel.app/api/320?theme=dark` |
-| TrustPilot | ![TrustPilot](https://svgl-badge.vercel.app/api/321?theme=dark) | `https://svgl-badge.vercel.app/api/321?theme=dark` |
-| Raycast | ![Raycast](https://svgl-badge.vercel.app/api/322?theme=dark) | `https://svgl-badge.vercel.app/api/322?theme=dark` |
-| Procure | ![Procure](https://svgl-badge.vercel.app/api/323?theme=dark) | `https://svgl-badge.vercel.app/api/323?theme=dark` |
-| Julia | ![Julia](https://svgl-badge.vercel.app/api/324?theme=dark) | `https://svgl-badge.vercel.app/api/324?theme=dark` |
-| SWC | ![SWC](https://svgl-badge.vercel.app/api/325?theme=dark) | `https://svgl-badge.vercel.app/api/325?theme=dark` |
-| PlayStation | ![PlayStation](https://svgl-badge.vercel.app/api/326?theme=dark) | `https://svgl-badge.vercel.app/api/326?theme=dark` |
-| Xbox | ![Xbox](https://svgl-badge.vercel.app/api/327?theme=dark) | `https://svgl-badge.vercel.app/api/327?theme=dark` |
-| Cody | ![Cody](https://svgl-badge.vercel.app/api/328?theme=dark) | `https://svgl-badge.vercel.app/api/328?theme=dark` |
-| Sourcegraph | ![Sourcegraph](https://svgl-badge.vercel.app/api/329?theme=dark) | `https://svgl-badge.vercel.app/api/329?theme=dark` |
-| Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/330?theme=dark) | `https://svgl-badge.vercel.app/api/330?theme=dark` |
-| Perplexity AI | ![Perplexity AI](https://svgl-badge.vercel.app/api/331?theme=dark) | `https://svgl-badge.vercel.app/api/331?theme=dark` |
-| Spring | ![Spring](https://svgl-badge.vercel.app/api/332?theme=dark) | `https://svgl-badge.vercel.app/api/332?theme=dark` |
-| Directus | ![Directus](https://svgl-badge.vercel.app/api/333?theme=dark) | `https://svgl-badge.vercel.app/api/333?theme=dark` |
-| Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/334?theme=dark) | `https://svgl-badge.vercel.app/api/334?theme=dark` |
-| Emacs | ![Emacs](https://svgl-badge.vercel.app/api/335?theme=dark) | `https://svgl-badge.vercel.app/api/335?theme=dark` |
-| Svgl | ![Svgl](https://svgl-badge.vercel.app/api/336?theme=dark) | `https://svgl-badge.vercel.app/api/336?theme=dark` |
-| Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/337?theme=dark) | `https://svgl-badge.vercel.app/api/337?theme=dark` |
-| Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/338?theme=dark) | `https://svgl-badge.vercel.app/api/338?theme=dark` |
-| Remix | ![Remix](https://svgl-badge.vercel.app/api/339?theme=dark) | `https://svgl-badge.vercel.app/api/339?theme=dark` |
-| Steam | ![Steam](https://svgl-badge.vercel.app/api/340?theme=dark) | `https://svgl-badge.vercel.app/api/340?theme=dark` |
-| Tabby | ![Tabby](https://svgl-badge.vercel.app/api/341?theme=dark) | `https://svgl-badge.vercel.app/api/341?theme=dark` |
-| 1Password | ![1Password](https://svgl-badge.vercel.app/api/342?theme=dark) | `https://svgl-badge.vercel.app/api/342?theme=dark` |
-| Flask | ![Flask](https://svgl-badge.vercel.app/api/343?theme=dark) | `https://svgl-badge.vercel.app/api/343?theme=dark` |
-| Alacritty | ![Alacritty](https://svgl-badge.vercel.app/api/344?theme=dark) | `https://svgl-badge.vercel.app/api/344?theme=dark` |
-| Qt | ![Qt](https://svgl-badge.vercel.app/api/345?theme=dark) | `https://svgl-badge.vercel.app/api/345?theme=dark` |
-| Bitwarden | ![Bitwarden](https://svgl-badge.vercel.app/api/346?theme=dark) | `https://svgl-badge.vercel.app/api/346?theme=dark` |
-| Voicemod | ![Voicemod](https://svgl-badge.vercel.app/api/347?theme=dark) | `https://svgl-badge.vercel.app/api/347?theme=dark` |
-| Neovim | ![Neovim](https://svgl-badge.vercel.app/api/348?theme=dark) | `https://svgl-badge.vercel.app/api/348?theme=dark` |
-| Pitch | ![Pitch](https://svgl-badge.vercel.app/api/349?theme=dark) | `https://svgl-badge.vercel.app/api/349?theme=dark` |
-| Biomejs | ![Biomejs](https://svgl-badge.vercel.app/api/350?theme=dark) | `https://svgl-badge.vercel.app/api/350?theme=dark` |
-| Gradio | ![Gradio](https://svgl-badge.vercel.app/api/351?theme=dark) | `https://svgl-badge.vercel.app/api/351?theme=dark` |
-| Meta | ![Meta](https://svgl-badge.vercel.app/api/352?theme=dark) | `https://svgl-badge.vercel.app/api/352?theme=dark` |
-| Stability AI | ![Stability AI](https://svgl-badge.vercel.app/api/353?theme=dark) | `https://svgl-badge.vercel.app/api/353?theme=dark` |
-| Google PaLM | ![Google PaLM](https://svgl-badge.vercel.app/api/354?theme=dark) | `https://svgl-badge.vercel.app/api/354?theme=dark` |
-| Android | ![Android](https://svgl-badge.vercel.app/api/355?theme=dark) | `https://svgl-badge.vercel.app/api/355?theme=dark` |
-| Sentry | ![Sentry](https://svgl-badge.vercel.app/api/356?theme=dark) | `https://svgl-badge.vercel.app/api/356?theme=dark` |
-| Grafana | ![Grafana](https://svgl-badge.vercel.app/api/357?theme=dark) | `https://svgl-badge.vercel.app/api/357?theme=dark` |
-| Notion | ![Notion](https://svgl-badge.vercel.app/api/358?theme=dark) | `https://svgl-badge.vercel.app/api/358?theme=dark` |
-| Litecoin | ![Litecoin](https://svgl-badge.vercel.app/api/359?theme=dark) | `https://svgl-badge.vercel.app/api/359?theme=dark` |
-| ElysiaJS | ![ElysiaJS](https://svgl-badge.vercel.app/api/360?theme=dark) | `https://svgl-badge.vercel.app/api/360?theme=dark` |
-| TensorFlow | ![TensorFlow](https://svgl-badge.vercel.app/api/361?theme=dark) | `https://svgl-badge.vercel.app/api/361?theme=dark` |
-| Midday | ![Midday](https://svgl-badge.vercel.app/api/362?theme=dark) | `https://svgl-badge.vercel.app/api/362?theme=dark` |
-| C# | ![C#](https://svgl-badge.vercel.app/api/363?theme=dark) | `https://svgl-badge.vercel.app/api/363?theme=dark` |
-| Replicate | ![Replicate](https://svgl-badge.vercel.app/api/364?theme=dark) | `https://svgl-badge.vercel.app/api/364?theme=dark` |
-| Markdown | ![Markdown](https://svgl-badge.vercel.app/api/365?theme=dark) | `https://svgl-badge.vercel.app/api/365?theme=dark` |
-| Movie Web | ![Movie Web](https://svgl-badge.vercel.app/api/366?theme=dark) | `https://svgl-badge.vercel.app/api/366?theme=dark` |
-| Radix UI | ![Radix UI](https://svgl-badge.vercel.app/api/367?theme=dark) | `https://svgl-badge.vercel.app/api/367?theme=dark` |
-| Web.dev | ![Web.dev](https://svgl-badge.vercel.app/api/368?theme=dark) | `https://svgl-badge.vercel.app/api/368?theme=dark` |
-| SWR | ![SWR](https://svgl-badge.vercel.app/api/369?theme=dark) | `https://svgl-badge.vercel.app/api/369?theme=dark` |
-| Refine | ![Refine](https://svgl-badge.vercel.app/api/370?theme=dark) | `https://svgl-badge.vercel.app/api/370?theme=dark` |
-| Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/371?theme=dark) | `https://svgl-badge.vercel.app/api/371?theme=dark` |
-| TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/372?theme=dark) | `https://svgl-badge.vercel.app/api/372?theme=dark` |
-| OBS | ![OBS](https://svgl-badge.vercel.app/api/373?theme=dark) | `https://svgl-badge.vercel.app/api/373?theme=dark` |
-| Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/374?theme=dark) | `https://svgl-badge.vercel.app/api/374?theme=dark` |
+| Solidity | ![Solidity](https://svgl-badge.vercel.app/api/155?theme=dark) | `https://svgl-badge.vercel.app/api/155?theme=dark` |
+| Turbopack | ![Turbopack](https://svgl-badge.vercel.app/api/156?theme=dark) | `https://svgl-badge.vercel.app/api/156?theme=dark` |
+| Builder | ![Builder](https://svgl-badge.vercel.app/api/157?theme=dark) | `https://svgl-badge.vercel.app/api/157?theme=dark` |
+| Babel | ![Babel](https://svgl-badge.vercel.app/api/158?theme=dark) | `https://svgl-badge.vercel.app/api/158?theme=dark` |
+| Surrealdb | ![Surrealdb](https://svgl-badge.vercel.app/api/159?theme=dark) | `https://svgl-badge.vercel.app/api/159?theme=dark` |
+| Jetbrains Space | ![Jetbrains Space](https://svgl-badge.vercel.app/api/160?theme=dark) | `https://svgl-badge.vercel.app/api/160?theme=dark` |
+| Stimulus | ![Stimulus](https://svgl-badge.vercel.app/api/161?theme=dark) | `https://svgl-badge.vercel.app/api/161?theme=dark` |
+| WindiCSS | ![WindiCSS](https://svgl-badge.vercel.app/api/162?theme=dark) | `https://svgl-badge.vercel.app/api/162?theme=dark` |
+| Mastodon | ![Mastodon](https://svgl-badge.vercel.app/api/163?theme=dark) | `https://svgl-badge.vercel.app/api/163?theme=dark` |
+| Upstash | ![Upstash](https://svgl-badge.vercel.app/api/164?theme=dark) | `https://svgl-badge.vercel.app/api/164?theme=dark` |
+| Storyblok | ![Storyblok](https://svgl-badge.vercel.app/api/165?theme=dark) | `https://svgl-badge.vercel.app/api/165?theme=dark` |
+| Cloudflare Workers | ![Cloudflare Workers](https://svgl-badge.vercel.app/api/166?theme=dark) | `https://svgl-badge.vercel.app/api/166?theme=dark` |
+| Cloudflare | ![Cloudflare](https://svgl-badge.vercel.app/api/167?theme=dark) | `https://svgl-badge.vercel.app/api/167?theme=dark` |
+| Bing | ![Bing](https://svgl-badge.vercel.app/api/168?theme=dark) | `https://svgl-badge.vercel.app/api/168?theme=dark` |
+| Cloudinary | ![Cloudinary](https://svgl-badge.vercel.app/api/169?theme=dark) | `https://svgl-badge.vercel.app/api/169?theme=dark` |
+| Dart | ![Dart](https://svgl-badge.vercel.app/api/170?theme=dark) | `https://svgl-badge.vercel.app/api/170?theme=dark` |
+| hCaptcha | ![hCaptcha](https://svgl-badge.vercel.app/api/171?theme=dark) | `https://svgl-badge.vercel.app/api/171?theme=dark` |
+| Appwrite | ![Appwrite](https://svgl-badge.vercel.app/api/172?theme=dark) | `https://svgl-badge.vercel.app/api/172?theme=dark` |
+| Loom | ![Loom](https://svgl-badge.vercel.app/api/173?theme=dark) | `https://svgl-badge.vercel.app/api/173?theme=dark` |
+| Hulu | ![Hulu](https://svgl-badge.vercel.app/api/174?theme=dark) | `https://svgl-badge.vercel.app/api/174?theme=dark` |
+| Stackblitz | ![Stackblitz](https://svgl-badge.vercel.app/api/175?theme=dark) | `https://svgl-badge.vercel.app/api/175?theme=dark` |
+| Binance | ![Binance](https://svgl-badge.vercel.app/api/176?theme=dark) | `https://svgl-badge.vercel.app/api/176?theme=dark` |
+| Messenger | ![Messenger](https://svgl-badge.vercel.app/api/177?theme=dark) | `https://svgl-badge.vercel.app/api/177?theme=dark` |
+| NHost | ![NHost](https://svgl-badge.vercel.app/api/178?theme=dark) | `https://svgl-badge.vercel.app/api/178?theme=dark` |
+| Medusa | ![Medusa](https://svgl-badge.vercel.app/api/179?theme=dark) | `https://svgl-badge.vercel.app/api/179?theme=dark` |
+| WordPress | ![WordPress](https://svgl-badge.vercel.app/api/180?theme=dark) | `https://svgl-badge.vercel.app/api/180?theme=dark` |
+| Microsoft | ![Microsoft](https://svgl-badge.vercel.app/api/181?theme=dark) | `https://svgl-badge.vercel.app/api/181?theme=dark` |
+| Elementor | ![Elementor](https://svgl-badge.vercel.app/api/182?theme=dark) | `https://svgl-badge.vercel.app/api/182?theme=dark` |
+| Kick | ![Kick](https://svgl-badge.vercel.app/api/183?theme=dark) | `https://svgl-badge.vercel.app/api/183?theme=dark` |
+| Prime video | ![Prime video](https://svgl-badge.vercel.app/api/184?theme=dark) | `https://svgl-badge.vercel.app/api/184?theme=dark` |
+| Chrome | ![Chrome](https://svgl-badge.vercel.app/api/185?theme=dark) | `https://svgl-badge.vercel.app/api/185?theme=dark` |
+| RxJS | ![RxJS](https://svgl-badge.vercel.app/api/186?theme=dark) | `https://svgl-badge.vercel.app/api/186?theme=dark` |
+| Electron | ![Electron](https://svgl-badge.vercel.app/api/187?theme=dark) | `https://svgl-badge.vercel.app/api/187?theme=dark` |
+| Redux | ![Redux](https://svgl-badge.vercel.app/api/188?theme=dark) | `https://svgl-badge.vercel.app/api/188?theme=dark` |
+| Trust Wallet | ![Trust Wallet](https://svgl-badge.vercel.app/api/189?theme=dark) | `https://svgl-badge.vercel.app/api/189?theme=dark` |
+| Php | ![Php](https://svgl-badge.vercel.app/api/190?theme=dark) | `https://svgl-badge.vercel.app/api/190?theme=dark` |
+| Hugo | ![Hugo](https://svgl-badge.vercel.app/api/191?theme=dark) | `https://svgl-badge.vercel.app/api/191?theme=dark` |
+| Sass | ![Sass](https://svgl-badge.vercel.app/api/192?theme=dark) | `https://svgl-badge.vercel.app/api/192?theme=dark` |
+| Arc | ![Arc](https://svgl-badge.vercel.app/api/193?theme=dark) | `https://svgl-badge.vercel.app/api/193?theme=dark` |
+| Pinia | ![Pinia](https://svgl-badge.vercel.app/api/194?theme=dark) | `https://svgl-badge.vercel.app/api/194?theme=dark` |
+| Neon | ![Neon](https://svgl-badge.vercel.app/api/195?theme=dark) | `https://svgl-badge.vercel.app/api/195?theme=dark` |
+| Infojobs | ![Infojobs](https://svgl-badge.vercel.app/api/196?theme=dark) | `https://svgl-badge.vercel.app/api/196?theme=dark` |
+| Linear | ![Linear](https://svgl-badge.vercel.app/api/197?theme=dark) | `https://svgl-badge.vercel.app/api/197?theme=dark` |
+| Tor | ![Tor](https://svgl-badge.vercel.app/api/198?theme=dark) | `https://svgl-badge.vercel.app/api/198?theme=dark` |
+| Codesandbox | ![Codesandbox](https://svgl-badge.vercel.app/api/199?theme=dark) | `https://svgl-badge.vercel.app/api/199?theme=dark` |
+| Skype | ![Skype](https://svgl-badge.vercel.app/api/200?theme=dark) | `https://svgl-badge.vercel.app/api/200?theme=dark` |
+| Tauri | ![Tauri](https://svgl-badge.vercel.app/api/201?theme=dark) | `https://svgl-badge.vercel.app/api/201?theme=dark` |
+| WebKit | ![WebKit](https://svgl-badge.vercel.app/api/202?theme=dark) | `https://svgl-badge.vercel.app/api/202?theme=dark` |
+| Google Bard | ![Google Bard](https://svgl-badge.vercel.app/api/203?theme=dark) | `https://svgl-badge.vercel.app/api/203?theme=dark` |
+| Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/204?theme=dark) | `https://svgl-badge.vercel.app/api/204?theme=dark` |
+| Zod | ![Zod](https://svgl-badge.vercel.app/api/205?theme=dark) | `https://svgl-badge.vercel.app/api/205?theme=dark` |
+| Dreamweaver | ![Dreamweaver](https://svgl-badge.vercel.app/api/206?theme=dark) | `https://svgl-badge.vercel.app/api/206?theme=dark` |
+| OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/207?theme=dark) | `https://svgl-badge.vercel.app/api/207?theme=dark` |
+| Threads | ![Threads](https://svgl-badge.vercel.app/api/208?theme=dark) | `https://svgl-badge.vercel.app/api/208?theme=dark` |
+| Instagram | ![Instagram](https://svgl-badge.vercel.app/api/209?theme=dark) | `https://svgl-badge.vercel.app/api/209?theme=dark` |
+| VueUse | ![VueUse](https://svgl-badge.vercel.app/api/210?theme=dark) | `https://svgl-badge.vercel.app/api/210?theme=dark` |
+| Microsoft SQL Server  | ![Microsoft SQL Server ](https://svgl-badge.vercel.app/api/211?theme=dark) | `https://svgl-badge.vercel.app/api/211?theme=dark` |
+| Hono | ![Hono](https://svgl-badge.vercel.app/api/212?theme=dark) | `https://svgl-badge.vercel.app/api/212?theme=dark` |
+| Million | ![Million](https://svgl-badge.vercel.app/api/213?theme=dark) | `https://svgl-badge.vercel.app/api/213?theme=dark` |
+| PandaCSS | ![PandaCSS](https://svgl-badge.vercel.app/api/214?theme=dark) | `https://svgl-badge.vercel.app/api/214?theme=dark` |
+| Pulumi | ![Pulumi](https://svgl-badge.vercel.app/api/215?theme=dark) | `https://svgl-badge.vercel.app/api/215?theme=dark` |
+| FastAPI | ![FastAPI](https://svgl-badge.vercel.app/api/216?theme=dark) | `https://svgl-badge.vercel.app/api/216?theme=dark` |
+| Codium | ![Codium](https://svgl-badge.vercel.app/api/217?theme=dark) | `https://svgl-badge.vercel.app/api/217?theme=dark` |
+| Crossplane | ![Crossplane](https://svgl-badge.vercel.app/api/218?theme=dark) | `https://svgl-badge.vercel.app/api/218?theme=dark` |
+| Volta | ![Volta](https://svgl-badge.vercel.app/api/219?theme=dark) | `https://svgl-badge.vercel.app/api/219?theme=dark` |
+| Typesense | ![Typesense](https://svgl-badge.vercel.app/api/220?theme=dark) | `https://svgl-badge.vercel.app/api/220?theme=dark` |
+| Bitcoin | ![Bitcoin](https://svgl-badge.vercel.app/api/221?theme=dark) | `https://svgl-badge.vercel.app/api/221?theme=dark` |
+| Ethereum | ![Ethereum](https://svgl-badge.vercel.app/api/222?theme=dark) | `https://svgl-badge.vercel.app/api/222?theme=dark` |
+| Solana | ![Solana](https://svgl-badge.vercel.app/api/223?theme=dark) | `https://svgl-badge.vercel.app/api/223?theme=dark` |
+| Dogecoin | ![Dogecoin](https://svgl-badge.vercel.app/api/224?theme=dark) | `https://svgl-badge.vercel.app/api/224?theme=dark` |
+| XRP | ![XRP](https://svgl-badge.vercel.app/api/225?theme=dark) | `https://svgl-badge.vercel.app/api/225?theme=dark` |
+| BNB | ![BNB](https://svgl-badge.vercel.app/api/226?theme=dark) | `https://svgl-badge.vercel.app/api/226?theme=dark` |
+| Link | ![Link](https://svgl-badge.vercel.app/api/227?theme=dark) | `https://svgl-badge.vercel.app/api/227?theme=dark` |
+| Polygon | ![Polygon](https://svgl-badge.vercel.app/api/228?theme=dark) | `https://svgl-badge.vercel.app/api/228?theme=dark` |
+| Algorand | ![Algorand](https://svgl-badge.vercel.app/api/229?theme=dark) | `https://svgl-badge.vercel.app/api/229?theme=dark` |
+| Tether | ![Tether](https://svgl-badge.vercel.app/api/230?theme=dark) | `https://svgl-badge.vercel.app/api/230?theme=dark` |
+| X | ![X](https://svgl-badge.vercel.app/api/231?theme=dark) | `https://svgl-badge.vercel.app/api/231?theme=dark` |
+| Adobe | ![Adobe](https://svgl-badge.vercel.app/api/232?theme=dark) | `https://svgl-badge.vercel.app/api/232?theme=dark` |
+| After Effects | ![After Effects](https://svgl-badge.vercel.app/api/233?theme=dark) | `https://svgl-badge.vercel.app/api/233?theme=dark` |
+| Canva | ![Canva](https://svgl-badge.vercel.app/api/234?theme=dark) | `https://svgl-badge.vercel.app/api/234?theme=dark` |
+| Illustrator | ![Illustrator](https://svgl-badge.vercel.app/api/235?theme=dark) | `https://svgl-badge.vercel.app/api/235?theme=dark` |
+| InDesign | ![InDesign](https://svgl-badge.vercel.app/api/236?theme=dark) | `https://svgl-badge.vercel.app/api/236?theme=dark` |
+| Lightroom | ![Lightroom](https://svgl-badge.vercel.app/api/237?theme=dark) | `https://svgl-badge.vercel.app/api/237?theme=dark` |
+| Photoshop | ![Photoshop](https://svgl-badge.vercel.app/api/238?theme=dark) | `https://svgl-badge.vercel.app/api/238?theme=dark` |
+| Premiere | ![Premiere](https://svgl-badge.vercel.app/api/239?theme=dark) | `https://svgl-badge.vercel.app/api/239?theme=dark` |
+| VK | ![VK](https://svgl-badge.vercel.app/api/240?theme=dark) | `https://svgl-badge.vercel.app/api/240?theme=dark` |
+| Hoppscotch | ![Hoppscotch](https://svgl-badge.vercel.app/api/241?theme=dark) | `https://svgl-badge.vercel.app/api/241?theme=dark` |
+| Dub | ![Dub](https://svgl-badge.vercel.app/api/242?theme=dark) | `https://svgl-badge.vercel.app/api/242?theme=dark` |
+| Opera | ![Opera](https://svgl-badge.vercel.app/api/243?theme=dark) | `https://svgl-badge.vercel.app/api/243?theme=dark` |
+| Salesforce | ![Salesforce](https://svgl-badge.vercel.app/api/244?theme=dark) | `https://svgl-badge.vercel.app/api/244?theme=dark` |
+| Unreal Engine | ![Unreal Engine](https://svgl-badge.vercel.app/api/245?theme=dark) | `https://svgl-badge.vercel.app/api/245?theme=dark` |
+| Godot Engine | ![Godot Engine](https://svgl-badge.vercel.app/api/246?theme=dark) | `https://svgl-badge.vercel.app/api/246?theme=dark` |
+| Datadog | ![Datadog](https://svgl-badge.vercel.app/api/247?theme=dark) | `https://svgl-badge.vercel.app/api/247?theme=dark` |
+| Tron | ![Tron](https://svgl-badge.vercel.app/api/248?theme=dark) | `https://svgl-badge.vercel.app/api/248?theme=dark` |
+| Randevum | ![Randevum](https://svgl-badge.vercel.app/api/249?theme=dark) | `https://svgl-badge.vercel.app/api/249?theme=dark` |
+| Chromium | ![Chromium](https://svgl-badge.vercel.app/api/250?theme=dark) | `https://svgl-badge.vercel.app/api/250?theme=dark` |
+| Edge | ![Edge](https://svgl-badge.vercel.app/api/251?theme=dark) | `https://svgl-badge.vercel.app/api/251?theme=dark` |
+| Safari | ![Safari](https://svgl-badge.vercel.app/api/252?theme=dark) | `https://svgl-badge.vercel.app/api/252?theme=dark` |
+| Vivaldi | ![Vivaldi](https://svgl-badge.vercel.app/api/253?theme=dark) | `https://svgl-badge.vercel.app/api/253?theme=dark` |
+| Beacon | ![Beacon](https://svgl-badge.vercel.app/api/254?theme=dark) | `https://svgl-badge.vercel.app/api/254?theme=dark` |
+| Affinity Designer | ![Affinity Designer](https://svgl-badge.vercel.app/api/255?theme=dark) | `https://svgl-badge.vercel.app/api/255?theme=dark` |
+| Affinity Photo | ![Affinity Photo](https://svgl-badge.vercel.app/api/256?theme=dark) | `https://svgl-badge.vercel.app/api/256?theme=dark` |
+| Affinity Publisher | ![Affinity Publisher](https://svgl-badge.vercel.app/api/257?theme=dark) | `https://svgl-badge.vercel.app/api/257?theme=dark` |
+| Roblox | ![Roblox](https://svgl-badge.vercel.app/api/258?theme=dark) | `https://svgl-badge.vercel.app/api/258?theme=dark` |
+| Stately.ai | ![Stately.ai](https://svgl-badge.vercel.app/api/259?theme=dark) | `https://svgl-badge.vercel.app/api/259?theme=dark` |
+| XState | ![XState](https://svgl-badge.vercel.app/api/260?theme=dark) | `https://svgl-badge.vercel.app/api/260?theme=dark` |
+| Hashnode | ![Hashnode](https://svgl-badge.vercel.app/api/261?theme=dark) | `https://svgl-badge.vercel.app/api/261?theme=dark` |
+| Rowy | ![Rowy](https://svgl-badge.vercel.app/api/262?theme=dark) | `https://svgl-badge.vercel.app/api/262?theme=dark` |
+| Cal.com | ![Cal.com](https://svgl-badge.vercel.app/api/263?theme=dark) | `https://svgl-badge.vercel.app/api/263?theme=dark` |
+| Calendly | ![Calendly](https://svgl-badge.vercel.app/api/264?theme=dark) | `https://svgl-badge.vercel.app/api/264?theme=dark` |
+| Mintlify | ![Mintlify](https://svgl-badge.vercel.app/api/265?theme=dark) | `https://svgl-badge.vercel.app/api/265?theme=dark` |
+| Patreon | ![Patreon](https://svgl-badge.vercel.app/api/266?theme=dark) | `https://svgl-badge.vercel.app/api/266?theme=dark` |
+| Peerlist | ![Peerlist](https://svgl-badge.vercel.app/api/267?theme=dark) | `https://svgl-badge.vercel.app/api/267?theme=dark` |
+| Product Hunt | ![Product Hunt](https://svgl-badge.vercel.app/api/268?theme=dark) | `https://svgl-badge.vercel.app/api/268?theme=dark` |
+| Remotion | ![Remotion](https://svgl-badge.vercel.app/api/269?theme=dark) | `https://svgl-badge.vercel.app/api/269?theme=dark` |
+| Warp | ![Warp](https://svgl-badge.vercel.app/api/270?theme=dark) | `https://svgl-badge.vercel.app/api/270?theme=dark` |
+| SST | ![SST](https://svgl-badge.vercel.app/api/271?theme=dark) | `https://svgl-badge.vercel.app/api/271?theme=dark` |
+| Documenso | ![Documenso](https://svgl-badge.vercel.app/api/272?theme=dark) | `https://svgl-badge.vercel.app/api/272?theme=dark` |
+| Bash | ![Bash](https://svgl-badge.vercel.app/api/273?theme=dark) | `https://svgl-badge.vercel.app/api/273?theme=dark` |
+| C | ![C](https://svgl-badge.vercel.app/api/274?theme=dark) | `https://svgl-badge.vercel.app/api/274?theme=dark` |
+| C++ | ![C++](https://svgl-badge.vercel.app/api/275?theme=dark) | `https://svgl-badge.vercel.app/api/275?theme=dark` |
+| Cobol | ![Cobol](https://svgl-badge.vercel.app/api/276?theme=dark) | `https://svgl-badge.vercel.app/api/276?theme=dark` |
+| Fortran | ![Fortran](https://svgl-badge.vercel.app/api/277?theme=dark) | `https://svgl-badge.vercel.app/api/277?theme=dark` |
+| Haskell | ![Haskell](https://svgl-badge.vercel.app/api/278?theme=dark) | `https://svgl-badge.vercel.app/api/278?theme=dark` |
+| matlab | ![matlab](https://svgl-badge.vercel.app/api/279?theme=dark) | `https://svgl-badge.vercel.app/api/279?theme=dark` |
+| R | ![R](https://svgl-badge.vercel.app/api/280?theme=dark) | `https://svgl-badge.vercel.app/api/280?theme=dark` |
+| Rust | ![Rust](https://svgl-badge.vercel.app/api/281?theme=dark) | `https://svgl-badge.vercel.app/api/281?theme=dark` |
+| Zig | ![Zig](https://svgl-badge.vercel.app/api/282?theme=dark) | `https://svgl-badge.vercel.app/api/282?theme=dark` |
+| Instatus | ![Instatus](https://svgl-badge.vercel.app/api/283?theme=dark) | `https://svgl-badge.vercel.app/api/283?theme=dark` |
+| Front | ![Front](https://svgl-badge.vercel.app/api/284?theme=dark) | `https://svgl-badge.vercel.app/api/284?theme=dark` |
+| Monero | ![Monero](https://svgl-badge.vercel.app/api/285?theme=dark) | `https://svgl-badge.vercel.app/api/285?theme=dark` |
+| Axiom | ![Axiom](https://svgl-badge.vercel.app/api/286?theme=dark) | `https://svgl-badge.vercel.app/api/286?theme=dark` |
+| Django | ![Django](https://svgl-badge.vercel.app/api/287?theme=dark) | `https://svgl-badge.vercel.app/api/287?theme=dark` |
+| Zeabur | ![Zeabur](https://svgl-badge.vercel.app/api/288?theme=dark) | `https://svgl-badge.vercel.app/api/288?theme=dark` |
+| MetaMask | ![MetaMask](https://svgl-badge.vercel.app/api/289?theme=dark) | `https://svgl-badge.vercel.app/api/289?theme=dark` |
+| shadcn/ui | ![shadcn/ui](https://svgl-badge.vercel.app/api/290?theme=dark) | `https://svgl-badge.vercel.app/api/290?theme=dark` |
+| putio | ![putio](https://svgl-badge.vercel.app/api/291?theme=dark) | `https://svgl-badge.vercel.app/api/291?theme=dark` |
+| Pinterest | ![Pinterest](https://svgl-badge.vercel.app/api/292?theme=dark) | `https://svgl-badge.vercel.app/api/292?theme=dark` |
+| Reflex | ![Reflex](https://svgl-badge.vercel.app/api/293?theme=dark) | `https://svgl-badge.vercel.app/api/293?theme=dark` |
+| Stripe | ![Stripe](https://svgl-badge.vercel.app/api/294?theme=dark) | `https://svgl-badge.vercel.app/api/294?theme=dark` |
+| Linux | ![Linux](https://svgl-badge.vercel.app/api/295?theme=dark) | `https://svgl-badge.vercel.app/api/295?theme=dark` |
+| XD | ![XD](https://svgl-badge.vercel.app/api/296?theme=dark) | `https://svgl-badge.vercel.app/api/296?theme=dark` |
+| Axure | ![Axure](https://svgl-badge.vercel.app/api/297?theme=dark) | `https://svgl-badge.vercel.app/api/297?theme=dark` |
+| Penpot | ![Penpot](https://svgl-badge.vercel.app/api/298?theme=dark) | `https://svgl-badge.vercel.app/api/298?theme=dark` |
+| Sketch | ![Sketch](https://svgl-badge.vercel.app/api/299?theme=dark) | `https://svgl-badge.vercel.app/api/299?theme=dark` |
+| Gimp | ![Gimp](https://svgl-badge.vercel.app/api/300?theme=dark) | `https://svgl-badge.vercel.app/api/300?theme=dark` |
+| Ubuntu | ![Ubuntu](https://svgl-badge.vercel.app/api/301?theme=dark) | `https://svgl-badge.vercel.app/api/301?theme=dark` |
+| Cypress | ![Cypress](https://svgl-badge.vercel.app/api/302?theme=dark) | `https://svgl-badge.vercel.app/api/302?theme=dark` |
+| Reddit | ![Reddit](https://svgl-badge.vercel.app/api/303?theme=dark) | `https://svgl-badge.vercel.app/api/303?theme=dark` |
+| JetBrains WebStorm | ![JetBrains WebStorm](https://svgl-badge.vercel.app/api/304?theme=dark) | `https://svgl-badge.vercel.app/api/304?theme=dark` |
+| JetBrains PyCharm | ![JetBrains PyCharm](https://svgl-badge.vercel.app/api/305?theme=dark) | `https://svgl-badge.vercel.app/api/305?theme=dark` |
+| JetBrains Fleet | ![JetBrains Fleet](https://svgl-badge.vercel.app/api/306?theme=dark) | `https://svgl-badge.vercel.app/api/306?theme=dark` |
+| JetBrains RubyMine | ![JetBrains RubyMine](https://svgl-badge.vercel.app/api/307?theme=dark) | `https://svgl-badge.vercel.app/api/307?theme=dark` |
+| JetBrains PhpStorm | ![JetBrains PhpStorm](https://svgl-badge.vercel.app/api/308?theme=dark) | `https://svgl-badge.vercel.app/api/308?theme=dark` |
+| MonkeyType | ![MonkeyType](https://svgl-badge.vercel.app/api/309?theme=dark) | `https://svgl-badge.vercel.app/api/309?theme=dark` |
+| PyCharm | ![PyCharm](https://svgl-badge.vercel.app/api/310?theme=dark) | `https://svgl-badge.vercel.app/api/310?theme=dark` |
+| Shopify | ![Shopify](https://svgl-badge.vercel.app/api/311?theme=dark) | `https://svgl-badge.vercel.app/api/311?theme=dark` |
+| WebFlow | ![WebFlow](https://svgl-badge.vercel.app/api/312?theme=dark) | `https://svgl-badge.vercel.app/api/312?theme=dark` |
+| Sanity | ![Sanity](https://svgl-badge.vercel.app/api/313?theme=dark) | `https://svgl-badge.vercel.app/api/313?theme=dark` |
+| sky | ![sky](https://svgl-badge.vercel.app/api/314?theme=dark) | `https://svgl-badge.vercel.app/api/314?theme=dark` |
+| Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/315?theme=dark) | `https://svgl-badge.vercel.app/api/315?theme=dark` |
+| Uber | ![Uber](https://svgl-badge.vercel.app/api/316?theme=dark) | `https://svgl-badge.vercel.app/api/316?theme=dark` |
+| Gmail | ![Gmail](https://svgl-badge.vercel.app/api/317?theme=dark) | `https://svgl-badge.vercel.app/api/317?theme=dark` |
+| Outlook | ![Outlook](https://svgl-badge.vercel.app/api/318?theme=dark) | `https://svgl-badge.vercel.app/api/318?theme=dark` |
+| Slack | ![Slack](https://svgl-badge.vercel.app/api/319?theme=dark) | `https://svgl-badge.vercel.app/api/319?theme=dark` |
+| Snapchat | ![Snapchat](https://svgl-badge.vercel.app/api/320?theme=dark) | `https://svgl-badge.vercel.app/api/320?theme=dark` |
+| Ebay | ![Ebay](https://svgl-badge.vercel.app/api/321?theme=dark) | `https://svgl-badge.vercel.app/api/321?theme=dark` |
+| IBM | ![IBM](https://svgl-badge.vercel.app/api/322?theme=dark) | `https://svgl-badge.vercel.app/api/322?theme=dark` |
+| TrustPilot | ![TrustPilot](https://svgl-badge.vercel.app/api/323?theme=dark) | `https://svgl-badge.vercel.app/api/323?theme=dark` |
+| Raycast | ![Raycast](https://svgl-badge.vercel.app/api/324?theme=dark) | `https://svgl-badge.vercel.app/api/324?theme=dark` |
+| Procure | ![Procure](https://svgl-badge.vercel.app/api/325?theme=dark) | `https://svgl-badge.vercel.app/api/325?theme=dark` |
+| Julia | ![Julia](https://svgl-badge.vercel.app/api/326?theme=dark) | `https://svgl-badge.vercel.app/api/326?theme=dark` |
+| SWC | ![SWC](https://svgl-badge.vercel.app/api/327?theme=dark) | `https://svgl-badge.vercel.app/api/327?theme=dark` |
+| PlayStation | ![PlayStation](https://svgl-badge.vercel.app/api/328?theme=dark) | `https://svgl-badge.vercel.app/api/328?theme=dark` |
+| Xbox | ![Xbox](https://svgl-badge.vercel.app/api/329?theme=dark) | `https://svgl-badge.vercel.app/api/329?theme=dark` |
+| Cody | ![Cody](https://svgl-badge.vercel.app/api/330?theme=dark) | `https://svgl-badge.vercel.app/api/330?theme=dark` |
+| Sourcegraph | ![Sourcegraph](https://svgl-badge.vercel.app/api/331?theme=dark) | `https://svgl-badge.vercel.app/api/331?theme=dark` |
+| Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/332?theme=dark) | `https://svgl-badge.vercel.app/api/332?theme=dark` |
+| Perplexity AI | ![Perplexity AI](https://svgl-badge.vercel.app/api/333?theme=dark) | `https://svgl-badge.vercel.app/api/333?theme=dark` |
+| Spring | ![Spring](https://svgl-badge.vercel.app/api/334?theme=dark) | `https://svgl-badge.vercel.app/api/334?theme=dark` |
+| Directus | ![Directus](https://svgl-badge.vercel.app/api/335?theme=dark) | `https://svgl-badge.vercel.app/api/335?theme=dark` |
+| Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/336?theme=dark) | `https://svgl-badge.vercel.app/api/336?theme=dark` |
+| Emacs | ![Emacs](https://svgl-badge.vercel.app/api/337?theme=dark) | `https://svgl-badge.vercel.app/api/337?theme=dark` |
+| Svgl | ![Svgl](https://svgl-badge.vercel.app/api/338?theme=dark) | `https://svgl-badge.vercel.app/api/338?theme=dark` |
+| Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/339?theme=dark) | `https://svgl-badge.vercel.app/api/339?theme=dark` |
+| Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/340?theme=dark) | `https://svgl-badge.vercel.app/api/340?theme=dark` |
+| Remix | ![Remix](https://svgl-badge.vercel.app/api/341?theme=dark) | `https://svgl-badge.vercel.app/api/341?theme=dark` |
+| Steam | ![Steam](https://svgl-badge.vercel.app/api/342?theme=dark) | `https://svgl-badge.vercel.app/api/342?theme=dark` |
+| Tabby | ![Tabby](https://svgl-badge.vercel.app/api/343?theme=dark) | `https://svgl-badge.vercel.app/api/343?theme=dark` |
+| 1Password | ![1Password](https://svgl-badge.vercel.app/api/344?theme=dark) | `https://svgl-badge.vercel.app/api/344?theme=dark` |
+| Flask | ![Flask](https://svgl-badge.vercel.app/api/345?theme=dark) | `https://svgl-badge.vercel.app/api/345?theme=dark` |
+| Alacritty | ![Alacritty](https://svgl-badge.vercel.app/api/346?theme=dark) | `https://svgl-badge.vercel.app/api/346?theme=dark` |
+| Qt | ![Qt](https://svgl-badge.vercel.app/api/347?theme=dark) | `https://svgl-badge.vercel.app/api/347?theme=dark` |
+| Bitwarden | ![Bitwarden](https://svgl-badge.vercel.app/api/348?theme=dark) | `https://svgl-badge.vercel.app/api/348?theme=dark` |
+| Voicemod | ![Voicemod](https://svgl-badge.vercel.app/api/349?theme=dark) | `https://svgl-badge.vercel.app/api/349?theme=dark` |
+| Neovim | ![Neovim](https://svgl-badge.vercel.app/api/350?theme=dark) | `https://svgl-badge.vercel.app/api/350?theme=dark` |
+| Pitch | ![Pitch](https://svgl-badge.vercel.app/api/351?theme=dark) | `https://svgl-badge.vercel.app/api/351?theme=dark` |
+| Biomejs | ![Biomejs](https://svgl-badge.vercel.app/api/352?theme=dark) | `https://svgl-badge.vercel.app/api/352?theme=dark` |
+| Gradio | ![Gradio](https://svgl-badge.vercel.app/api/353?theme=dark) | `https://svgl-badge.vercel.app/api/353?theme=dark` |
+| Meta | ![Meta](https://svgl-badge.vercel.app/api/354?theme=dark) | `https://svgl-badge.vercel.app/api/354?theme=dark` |
+| Stability AI | ![Stability AI](https://svgl-badge.vercel.app/api/355?theme=dark) | `https://svgl-badge.vercel.app/api/355?theme=dark` |
+| Google PaLM | ![Google PaLM](https://svgl-badge.vercel.app/api/356?theme=dark) | `https://svgl-badge.vercel.app/api/356?theme=dark` |
+| Android | ![Android](https://svgl-badge.vercel.app/api/357?theme=dark) | `https://svgl-badge.vercel.app/api/357?theme=dark` |
+| Sentry | ![Sentry](https://svgl-badge.vercel.app/api/358?theme=dark) | `https://svgl-badge.vercel.app/api/358?theme=dark` |
+| Grafana | ![Grafana](https://svgl-badge.vercel.app/api/359?theme=dark) | `https://svgl-badge.vercel.app/api/359?theme=dark` |
+| Notion | ![Notion](https://svgl-badge.vercel.app/api/360?theme=dark) | `https://svgl-badge.vercel.app/api/360?theme=dark` |
+| Litecoin | ![Litecoin](https://svgl-badge.vercel.app/api/361?theme=dark) | `https://svgl-badge.vercel.app/api/361?theme=dark` |
+| ElysiaJS | ![ElysiaJS](https://svgl-badge.vercel.app/api/362?theme=dark) | `https://svgl-badge.vercel.app/api/362?theme=dark` |
+| TensorFlow | ![TensorFlow](https://svgl-badge.vercel.app/api/363?theme=dark) | `https://svgl-badge.vercel.app/api/363?theme=dark` |
+| Midday | ![Midday](https://svgl-badge.vercel.app/api/364?theme=dark) | `https://svgl-badge.vercel.app/api/364?theme=dark` |
+| C# | ![C#](https://svgl-badge.vercel.app/api/365?theme=dark) | `https://svgl-badge.vercel.app/api/365?theme=dark` |
+| Replicate | ![Replicate](https://svgl-badge.vercel.app/api/366?theme=dark) | `https://svgl-badge.vercel.app/api/366?theme=dark` |
+| Markdown | ![Markdown](https://svgl-badge.vercel.app/api/367?theme=dark) | `https://svgl-badge.vercel.app/api/367?theme=dark` |
+| Movie Web | ![Movie Web](https://svgl-badge.vercel.app/api/368?theme=dark) | `https://svgl-badge.vercel.app/api/368?theme=dark` |
+| Radix UI | ![Radix UI](https://svgl-badge.vercel.app/api/369?theme=dark) | `https://svgl-badge.vercel.app/api/369?theme=dark` |
+| Web.dev | ![Web.dev](https://svgl-badge.vercel.app/api/370?theme=dark) | `https://svgl-badge.vercel.app/api/370?theme=dark` |
+| SWR | ![SWR](https://svgl-badge.vercel.app/api/371?theme=dark) | `https://svgl-badge.vercel.app/api/371?theme=dark` |
+| Refine | ![Refine](https://svgl-badge.vercel.app/api/372?theme=dark) | `https://svgl-badge.vercel.app/api/372?theme=dark` |
+| Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/373?theme=dark) | `https://svgl-badge.vercel.app/api/373?theme=dark` |
+| TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/374?theme=dark) | `https://svgl-badge.vercel.app/api/374?theme=dark` |
+| OBS | ![OBS](https://svgl-badge.vercel.app/api/375?theme=dark) | `https://svgl-badge.vercel.app/api/375?theme=dark` |
+| Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/376?theme=dark) | `https://svgl-badge.vercel.app/api/376?theme=dark` |
