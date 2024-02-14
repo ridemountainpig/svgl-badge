@@ -1,7 +1,7 @@
 
 # Svgl Badges
 
-[![Svgl](https://svgl-badge.vercel.app/api/336?theme=light)](https://svgl.app)
+[![Svgl](https://svgl-badge.vercel.app/api/338?theme=light)](https://svgl.app)
 [![GitHub](https://svgl-badge.vercel.app/api/1?theme=light)](https://github.com/ridemountainpig/svgl-badge)
 [![Vercel](https://svgl-badge.vercel.app/api/4?theme=light)](https://vercel.com)
 [![Next.JS](https://svgl-badge.vercel.app/api/9?theme=light)](https://nextjs.org)
