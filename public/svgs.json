@@ -2859,5 +2859,12 @@
         "route": "https://svgl.app/library/stackoverflow.svg",
         "wordmark": "/library/stackoverflow_wordmark.svg",
         "url": "https://stackoverflow.com/"
+    },
+    {
+        "id": 377,
+        "title": "TikTok",
+        "category": "Social",
+        "route": "https://svgl.app/library/tiktok.svg",
+        "url": "https://www.tiktok.com/"
     }
 ]
