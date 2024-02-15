@@ -50,11 +50,11 @@ def updateSvglBadgeReadme():
     readme = """
 # Svgl Badges
 
-[![Svgl](https://svgl-badge.vercel.app/api/338?theme=light)](https://svgl.app)
-[![GitHub](https://svgl-badge.vercel.app/api/1?theme=light)](https://github.com/ridemountainpig/svgl-badge)
-[![Vercel](https://svgl-badge.vercel.app/api/4?theme=light)](https://vercel.com)
-[![Next.JS](https://svgl-badge.vercel.app/api/9?theme=light)](https://nextjs.org)
-[![Tailwind CSS](https://svgl-badge.vercel.app/api/39?theme=light)](https://tailwindcss.com)
+[![Svgl](https://raw.githubusercontent.com/ridemountainpig/svgl-badge/main/public/badges/svgl.svg)](https://svgl.app)
+[![GitHub](https://raw.githubusercontent.com/ridemountainpig/svgl-badge/main/public/badges/github.svg)](https://github.com/ridemountainpig/svgl-badge)
+[![Vercel](https://raw.githubusercontent.com/ridemountainpig/svgl-badge/main/public/badges/vercel.svg)](https://vercel.com)
+[![Next.JS](https://raw.githubusercontent.com/ridemountainpig/svgl-badge/main/public/badges/nextjs.svg)](https://nextjs.org)
+[![Tailwind CSS](https://raw.githubusercontent.com/ridemountainpig/svgl-badge/main/public/badges/tailwindcss.svg)](https://tailwindcss.com)
 
 The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 
