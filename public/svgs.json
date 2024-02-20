@@ -2154,6 +2154,10 @@
             "light": "https://svgl.app/library/axiom-light.svg",
             "dark": "https://svgl.app/library/axiom-dark.svg"
         },
+        "wordmark": {
+            "light": "/library/axiom-wordmark-light.svg",
+            "dark": "/library/axiom-wordmark-dark.svg"
+        },
         "url": "https://axiom.co/"
     },
     {
