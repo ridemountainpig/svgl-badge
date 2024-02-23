@@ -2870,5 +2870,33 @@
         "category": "Social",
         "route": "https://svgl.app/library/tiktok.svg",
         "url": "https://www.tiktok.com/"
+    },
+    {
+        "id": 378,
+        "title": "Ngrok",
+        "category": "Software",
+        "route": {
+            "light": "https://svgl.app/library/ngrok-light.svg",
+            "dark": "https://svgl.app/library/ngrok-dark.svg"
+        },
+        "url": "https://ngrok.com"
+    },
+    {
+        "id": 379,
+        "title": "Lemon Squeezy",
+        "category": "Software",
+        "route": "https://svgl.app/library/lemonsqueezy.svg",
+        "url": "https://www.lemonsqueezy.com"
+    },
+    {
+        "id": 380,
+        "title": "Asana",
+        "category": "Software",
+        "route": "https://svgl.app/library/asana-logo.svg",
+        "wordmark": {
+            "dark": "/library/asana-wordmark-dark.svg",
+            "light": "/library/asana-wordmark-light.svg"
+        },
+        "url": "https://asana.com"
     }
 ]

@@ -379,3 +379,6 @@
 | OBS | ![OBS](https://svgl-badge.vercel.app/api/375?theme=dark) | `https://svgl-badge.vercel.app/api/375?theme=dark` |
 | Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/376?theme=dark) | `https://svgl-badge.vercel.app/api/376?theme=dark` |
 | TikTok | ![TikTok](https://svgl-badge.vercel.app/api/377?theme=dark) | `https://svgl-badge.vercel.app/api/377?theme=dark` |
+| Ngrok | ![Ngrok](https://svgl-badge.vercel.app/api/378?theme=dark) | `https://svgl-badge.vercel.app/api/378?theme=dark` |
+| Lemon Squeezy | ![Lemon Squeezy](https://svgl-badge.vercel.app/api/379?theme=dark) | `https://svgl-badge.vercel.app/api/379?theme=dark` |
+| Asana | ![Asana](https://svgl-badge.vercel.app/api/380?theme=dark) | `https://svgl-badge.vercel.app/api/380?theme=dark` |
