@@ -2175,6 +2175,10 @@
             "light": "https://svgl.app/library/zeabur-light.svg",
             "dark": "https://svgl.app/library/zeabur-dark.svg"
         },
+        "wordmark": {
+            "light": "/library/zeabur_wordmark_light.svg",
+            "dark": "/library/zeabur_wordmark_dark.svg"
+        },
         "url": "https://zeabur.com/"
     },
     {
