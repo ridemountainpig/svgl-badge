@@ -2902,5 +2902,12 @@
             "light": "/library/asana-wordmark-light.svg"
         },
         "url": "https://asana.com"
+    },
+    {
+        "id": 381,
+        "title": "Zoom",
+        "category": "Software",
+        "route": "https://svgl.app/library/zoom.svg",
+        "url": "https://zoom.us/"
     }
 ]

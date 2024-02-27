@@ -382,3 +382,4 @@
 | Ngrok | ![Ngrok](https://svgl-badge.vercel.app/api/378?theme=dark) | `https://svgl-badge.vercel.app/api/378?theme=dark` |
 | Lemon Squeezy | ![Lemon Squeezy](https://svgl-badge.vercel.app/api/379?theme=dark) | `https://svgl-badge.vercel.app/api/379?theme=dark` |
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/380?theme=dark) | `https://svgl-badge.vercel.app/api/380?theme=dark` |
+| Zoom | ![Zoom](https://svgl-badge.vercel.app/api/381?theme=dark) | `https://svgl-badge.vercel.app/api/381?theme=dark` |
