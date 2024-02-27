@@ -400,6 +400,7 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Lemon Squeezy | ![Lemon Squeezy](https://svgl-badge.vercel.app/api/379?theme=light) | `https://svgl-badge.vercel.app/api/379?theme=light` |
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/380?theme=light) | `https://svgl-badge.vercel.app/api/380?theme=light` |
 | Zoom | ![Zoom](https://svgl-badge.vercel.app/api/381?theme=light) | `https://svgl-badge.vercel.app/api/381?theme=light` |
+| Tina | ![Tina](https://svgl-badge.vercel.app/api/382?theme=light) | `https://svgl-badge.vercel.app/api/382?theme=light` |
 ## Dark Theme
 
 | Title | Badge | Markdown |
@@ -786,3 +787,4 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Lemon Squeezy | ![Lemon Squeezy](https://svgl-badge.vercel.app/api/379?theme=dark) | `https://svgl-badge.vercel.app/api/379?theme=dark` |
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/380?theme=dark) | `https://svgl-badge.vercel.app/api/380?theme=dark` |
 | Zoom | ![Zoom](https://svgl-badge.vercel.app/api/381?theme=dark) | `https://svgl-badge.vercel.app/api/381?theme=dark` |
+| Tina | ![Tina](https://svgl-badge.vercel.app/api/382?theme=dark) | `https://svgl-badge.vercel.app/api/382?theme=dark` |

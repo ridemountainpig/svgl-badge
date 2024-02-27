@@ -2909,5 +2909,13 @@
         "category": "Software",
         "route": "https://svgl.app/library/zoom.svg",
         "url": "https://zoom.us/"
+    },
+    {
+        "id": 382,
+        "title": "Tina",
+        "category": "CMS",
+        "route": "https://svgl.app/library/tina.svg",
+        "wordmark": "/library/tina_wordmark.svg",
+        "url": "https://tina.io/"
     }
 ]
