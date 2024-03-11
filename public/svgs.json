@@ -1785,6 +1785,7 @@
         "title": "Dub",
         "category": "Software",
         "route": "https://svgl.app/library/dub.svg",
+        "wordmark": "/library/dub-wordmark.svg",
         "url": "https://dub.co"
     },
     {
