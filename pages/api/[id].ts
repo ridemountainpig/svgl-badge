@@ -106,7 +106,7 @@ export default async function svglBadge(
                 ${css}
             </style>
             <foreignObject x="0" y="0" width="${svgWidth}" height="40" class="rounded-md overflow-hidden">
-                <div xmlns="http://www.w3.org/1999/xhtml" class="w-full h-full flex justify-center items-center ${theme == "dark" ? "bg-black" : "bg-white"} border ${theme == "dark" ? "border-neutral-800" : "border-neutral-200"}  rounded-md gap-x-2">
+                <div xmlns="http://www.w3.org/1999/xhtml" class="w-full h-full flex justify-center items-center ${theme == "dark" ? "bg-neutral-900" : "bg-white"} border ${theme == "dark" ? "border-neutral-800" : "border-neutral-200"}  rounded-md gap-x-2">
                     <div class="pl-2">
                         <img src="data:image/svg+xml;base64,${svgBase64}" class="h-7 w-7" />
                     </div>
