@@ -1,5 +1,6 @@
 import requests
 import json
+from urllib.parse import quote
 
 
 def getSvglJson():
@@ -33,10 +34,11 @@ def updateSvglBadge():
     with open("public/svgs.json", "r") as f:
         data = json.load(f)
         for svg in data:
-            badgeId = svg["id"]
+            badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
+            badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
             title = svg["title"]
-            lightUrl = f"https://svgl-badge.vercel.app/api/{badgeId}?theme=light"
-            darkUrl = f"https://svgl-badge.vercel.app/api/{badgeId}?theme=dark"
+            lightUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light"
+            darkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
             light_badge_md += f"| {title} | ![{title}]({lightUrl}) | `{lightUrl}` |\n"
             dark_badge_md += f"| {title} | ![{title}]({darkUrl}) | `{darkUrl}` |\n"
     with open("public/light_badge.md", "w") as f:
