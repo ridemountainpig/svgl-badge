@@ -11,6 +11,7 @@
         "title": "Aliexpress",
         "category": "Software",
         "route": "https://svgl.app/library/aliexpress-icon.svg",
+        "wordmark": "/library/aliexpress-logo.svg",
         "url": "https://aliexpress.com/"
     },
     {
