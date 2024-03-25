@@ -55,12 +55,13 @@ export default async function svglBadge(
         const svgNameParam = svgParam[1] as string;
         const theme = req.query.theme as string;
 
-        const svglJson = jsonData.find(
-            (svg: iSVG) =>
-                svg.title === svgNameParam &&
-                (typeof svg.category === "string"
-                    ? svg.category === svgCategoryParam
-                    : svg.category?.includes(svgCategoryParam)),
+        const svglJson = jsonData.find((svg: iSVG) =>
+            svg.title.includes("/")
+                ? svg.title.replace("/", "") === svgNameParam
+                : svg.title === svgNameParam &&
+                  (typeof svg.category === "string"
+                      ? svg.category === svgCategoryParam
+                      : svg.category?.includes(svgCategoryParam)),
         );
 
         if (!svglJson) {
