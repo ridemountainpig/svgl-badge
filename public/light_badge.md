@@ -387,3 +387,4 @@
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light` |
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=light) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=light` |
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=light` |
+| Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light` |

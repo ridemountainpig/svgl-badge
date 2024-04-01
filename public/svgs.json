@@ -2958,5 +2958,12 @@
         "category": "Library",
         "route": "https://svgl.app/library/nodejs.svg",
         "url": "https://nodejs.org/"
+    },
+    {
+        "id": 386,
+        "title": "Raindrop.io",
+        "category": "Software",
+        "route": "https://svgl.app/library/raindrop.svg",
+        "url": "https://raindrop.io/"
     }
 ]

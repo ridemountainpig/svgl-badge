@@ -404,6 +404,7 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light` |
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=light) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=light` |
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=light` |
+| Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light` |
 ## Dark Theme
 
 | Title | Badge | Markdown |
@@ -794,3 +795,4 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark` |
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark` |
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark` |
+| Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark` |
