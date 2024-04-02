@@ -48,6 +48,33 @@ def updateSvglBadge():
     print("Badges updated successfully.")
 
 
+def updateSvglWordmarkBadge():
+    light_badge_md = f"""
+| Title | Badge | Markdown |
+| --- | --- | --- |
+"""
+    dark_badge_md = f"""
+| Title | Badge | Markdown |
+| --- | --- | --- |
+"""
+    with open("public/svgs.json", "r") as f:
+        data = json.load(f)
+        for svg in data:
+            if svg.get("wordmark"):
+                badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
+                badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
+                title = svg["title"]
+                lightUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
+                darkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
+                light_badge_md += f"| {title} | ![{title}]({lightUrl}) | `{lightUrl}` |\n"
+                dark_badge_md += f"| {title} | ![{title}]({darkUrl}) | `{darkUrl}` |\n"
+    with open("public/light_wordmark_badge.md", "w") as f:
+        f.write(light_badge_md)
+    with open("public/dark_wordmark_badge.md", "w") as f:
+        f.write(dark_badge_md)
+    print("Wordmark Badges updated successfully.")
+
+
 def updateSvglBadgeReadme():
     readme = """
 # Svgl Badges
@@ -84,4 +111,5 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 
 getSvglJson()
 updateSvglBadge()
+updateSvglWordmarkBadge()
 updateSvglBadgeReadme()
