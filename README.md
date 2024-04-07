@@ -405,6 +405,7 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=light) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=light` |
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=light` |
 | Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light` |
+| Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light` |
 ## Dark Theme
 
 | Title | Badge | Markdown |
@@ -796,3 +797,4 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark` |
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark` |
 | Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark` |
+| Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark` |

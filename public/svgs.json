@@ -2965,5 +2965,12 @@
         "category": "Software",
         "route": "https://svgl.app/library/raindrop.svg",
         "url": "https://raindrop.io/"
+    },
+    {
+        "id": 387,
+        "title": "Microsoft Todo",
+        "category": "Software",
+        "route": "https://svgl.app/library/microsoft-todo.svg",
+        "url": "https://to-do.office.com/"
     }
 ]

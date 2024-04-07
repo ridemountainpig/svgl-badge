@@ -388,3 +388,4 @@
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark` |
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark` |
 | Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark` |
+| Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark` |
