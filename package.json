@@ -12,9 +12,12 @@
         "tailwind": "tailwindcss -i ./app/globals.css -o ./app/svgl-badge.css --watch"
     },
     "dependencies": {
+        "lucide-react": "^0.366.0",
         "next": "14.1.0",
+        "prettier-plugin-tailwindcss": "^0.5.13",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-dom": "^18.2.0",
+        "react-hot-toast": "^2.4.1"
     },
     "devDependencies": {
         "@types/node": "^20.11.14",
