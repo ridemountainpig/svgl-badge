@@ -116,4 +116,4 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 getSvglJson()
 updateSvglBadge()
 updateSvglWordmarkBadge()
-updateSvglBadgeReadme()
+# updateSvglBadgeReadme()
