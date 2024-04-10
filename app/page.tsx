@@ -1,19 +1,25 @@
-import Image from "next/image";
+import fs from "fs";
+import { Toaster } from "react-hot-toast";
+
+import { Navbar } from "@/components/navbar";
+import { Search } from "@/components/search";
 
 export default function Home() {
+    const badgeData = fs.readFileSync("public/badge.json", "utf-8");
+    const badges = JSON.parse(badgeData);
+    const badgeCount = Object.keys(badges).length;
+
     return (
-        <main className="flex min-h-screen items-center justify-center bg-white">
-            <div className="flex flex-col h-fit items-center gap-y-4">
-                <Image
-                    src="/svgl.svg"
-                    alt="Svgl Logo"
-                    width={100}
-                    height={100}
-                />
-                <span className="text-3xl font-semibold tracking-wide">
-                    Svgl Badge
-                </span>
-            </div>
+        <main className="min-h-screen w-full flex-col justify-center bg-white/90 font-sans text-black dark:bg-neutral-900 dark:text-white">
+            <Navbar></Navbar>
+            <Search badgeCount={badgeCount} badges={badges}></Search>
+            <Toaster
+                position="bottom-right"
+                toastOptions={{
+                    className:
+                        "text-[14px] tracking-wide font-bold text-neutral-900 font-sans w-[18rem] h-[4rem] bg-white dark:bg-neutral-900 dark:text-white border border-neutral-300 dark:border-neutral-800 rounded-md shadow-lg",
+                }}
+            />
         </main>
     );
 }
