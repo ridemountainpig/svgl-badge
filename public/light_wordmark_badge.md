@@ -15,6 +15,7 @@
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true` |
+| Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/Software/Pnpm?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Pnpm?theme=light&wordmark=true` |
 | Flask | ![Flask](https://svgl-badge.vercel.app/api/Framework/Flask?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Flask?theme=light&wordmark=true` |
 | Replicate | ![Replicate](https://svgl-badge.vercel.app/api/AI/Replicate?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Replicate?theme=light&wordmark=true` |
 | Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/Music/Youtube%20Music?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Youtube%20Music?theme=light&wordmark=true` |
