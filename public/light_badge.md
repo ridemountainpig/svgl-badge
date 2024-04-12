@@ -27,7 +27,6 @@
 | Algolia | ![Algolia](https://svgl-badge.vercel.app/api/Library/Algolia?theme=light) | `https://svgl-badge.vercel.app/api/Library/Algolia?theme=light` |
 | Bootstrap | ![Bootstrap](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light` |
 | Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light` |
-| Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=light) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=light` |
 | Vite.js | ![Vite.js](https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light` |
 | Facebook | ![Facebook](https://svgl-badge.vercel.app/api/Social/Facebook?theme=light) | `https://svgl-badge.vercel.app/api/Social/Facebook?theme=light` |
 | Twitter | ![Twitter](https://svgl-badge.vercel.app/api/Social/Twitter?theme=light) | `https://svgl-badge.vercel.app/api/Social/Twitter?theme=light` |
@@ -389,3 +388,4 @@
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=light` |
 | Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light` |
 | Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light` |
+| Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=light) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=light` |

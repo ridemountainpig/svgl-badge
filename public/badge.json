@@ -103,10 +103,6 @@
         "light": "https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark"
     },
-    "Supabase": {
-        "light": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=light",
-        "dark": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark"
-    },
     "Vite.js": {
         "light": "https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=dark"
@@ -1538,5 +1534,9 @@
     "Microsoft Todo": {
         "light": "https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark"
+    },
+    "Supabase": {
+        "light": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark"
     }
 }
