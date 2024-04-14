@@ -16,7 +16,7 @@ export function Badges({ badges }: BadgesProps) {
                 const svgWidth = key.length * 10 + key.length * 0.4 + 52;
                 return (
                     <React.Fragment key={index}>
-                        <Image
+                        <img
                             src={badge.light}
                             alt={key}
                             width={svgWidth}
@@ -28,7 +28,7 @@ export function Badges({ badges }: BadgesProps) {
                             }}
                         />
                         {badge.dark && (
-                            <Image
+                            <img
                                 src={badge.dark}
                                 alt={`${key}-dark`}
                                 width={svgWidth}
