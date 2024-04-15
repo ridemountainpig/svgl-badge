@@ -1538,5 +1538,9 @@
     "Supabase": {
         "light": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark"
+    },
+    "Gleam": {
+        "light": "https://svgl-badge.vercel.app/api/Language/Gleam?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark"
     }
 }

@@ -389,3 +389,4 @@
 | Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=light` |
 | Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=light` |
 | Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=light) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=light` |
+| Gleam | ![Gleam](https://svgl-badge.vercel.app/api/Language/Gleam?theme=light) | `https://svgl-badge.vercel.app/api/Language/Gleam?theme=light` |

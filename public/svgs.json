@@ -2980,5 +2980,12 @@
             "light": "/library/supabase_wordmark_light.svg",
             "dark": "/library/supabase_wordmark_dark.svg"
         }
+    },
+    {
+        "id": 388,
+        "title": "Gleam",
+        "category": "Language",
+        "route": "https://svgl.app/library/gleam.svg",
+        "url": "https://gleam.run/"
     }
 ]
