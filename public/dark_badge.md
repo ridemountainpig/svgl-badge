@@ -68,7 +68,7 @@
 | Express.js | ![Express.js](https://svgl-badge.vercel.app/api/Framework/Express.js?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Express.js?theme=dark` |
 | Fastify | ![Fastify](https://svgl-badge.vercel.app/api/Framework/Fastify?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Fastify?theme=dark` |
 | JavaScript | ![JavaScript](https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark) | `https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark` |
-| jQuery | ![jQuery](https://svgl-badge.vercel.app/api/Language/jQuery?theme=dark) | `https://svgl-badge.vercel.app/api/Language/jQuery?theme=dark` |
+| jQuery | ![jQuery](https://svgl-badge.vercel.app/api/Library/jQuery?theme=dark) | `https://svgl-badge.vercel.app/api/Library/jQuery?theme=dark` |
 | Rapid API | ![Rapid API](https://svgl-badge.vercel.app/api/Software/Rapid%20API?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Rapid%20API?theme=dark` |
 | TypeScript | ![TypeScript](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark) | `https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark` |
 | Bun | ![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Bun?theme=dark` |
@@ -390,3 +390,4 @@
 | Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark` |
 | Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark` |
 | Gleam | ![Gleam](https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark` |
+| Flowbite | ![Flowbite](https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark` |

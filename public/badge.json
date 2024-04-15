@@ -268,8 +268,8 @@
         "dark": "https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"
     },
     "jQuery": {
-        "light": "https://svgl-badge.vercel.app/api/Language/jQuery?theme=light",
-        "dark": "https://svgl-badge.vercel.app/api/Language/jQuery?theme=dark"
+        "light": "https://svgl-badge.vercel.app/api/Library/jQuery?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Library/jQuery?theme=dark"
     },
     "Rapid API": {
         "light": "https://svgl-badge.vercel.app/api/Software/Rapid%20API?theme=light",
@@ -1542,5 +1542,9 @@
     "Gleam": {
         "light": "https://svgl-badge.vercel.app/api/Language/Gleam?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark"
+    },
+    "Flowbite": {
+        "light": "https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark"
     }
 }

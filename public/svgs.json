@@ -503,7 +503,7 @@
     {
         "id": 67,
         "title": "jQuery",
-        "category": "Language",
+        "category": "Library",
         "route": {
             "light": "https://svgl.app/library/jquery.svg",
             "dark": "https://svgl.app/library/jquery_dark.svg"
@@ -2987,5 +2987,12 @@
         "category": "Language",
         "route": "https://svgl.app/library/gleam.svg",
         "url": "https://gleam.run/"
+    },
+    {
+        "id": 389,
+        "title": "Flowbite",
+        "category": "Framework",
+        "route": "https://svgl.app/library/flowbite.svg",
+        "url": "https://flowbite.com/"
     }
 ]
