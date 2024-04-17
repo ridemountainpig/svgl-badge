@@ -6,6 +6,9 @@ export const metadata: Metadata = {
     title: "Svgl Badges",
     description:
         "A beautiful badges with svgl SVG logos. Decorate your README.md profile with svgl badges",
+    verification: {
+        google: "MsZruHXSkmggHUEIMwVqn24AappLAZUSBmLcp4XwFGo",
+    },
     keywords:
         "svgl, svgl badges, svgl badge, svgl logo, svgl logos, svgl svg, svgl svg logos, svgl svg logo, svgl svg badges, svgl svg badge",
     authors: [
