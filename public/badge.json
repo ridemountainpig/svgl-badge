@@ -1546,5 +1546,9 @@
     "Flowbite": {
         "light": "https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark"
+    },
+    "Hume AI": {
+        "light": "https://svgl-badge.vercel.app/api/AI/Hume%20AI?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/AI/Hume%20AI?theme=dark"
     }
 }

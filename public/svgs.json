@@ -2994,5 +2994,12 @@
         "category": "Framework",
         "route": "https://svgl.app/library/flowbite.svg",
         "url": "https://flowbite.com/"
+    },
+    {
+        "id": 390,
+        "title": "Hume AI",
+        "category": "AI",
+        "route": "https://svgl.app/library/hume-ai.svg",
+        "url": "https://hume.ai/"
     }
 ]
