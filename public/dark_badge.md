@@ -392,3 +392,4 @@
 | Gleam | ![Gleam](https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark` |
 | Flowbite | ![Flowbite](https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark` |
 | Hume AI | ![Hume AI](https://svgl-badge.vercel.app/api/AI/Hume%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Hume%20AI?theme=dark` |
+| Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=dark` |

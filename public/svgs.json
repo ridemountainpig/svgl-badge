@@ -11,7 +11,7 @@
         "title": "Aliexpress",
         "category": "Software",
         "route": "https://svgl.app/library/aliexpress-icon.svg",
-        "wordmark": "/library/aliexpress-logo.svg",
+        "wordmark": "https://svgl.app/library/aliexpress-logo.svg",
         "url": "https://aliexpress.com/"
     },
     {
@@ -124,7 +124,7 @@
         "title": "Spotify",
         "category": "Music",
         "route": "https://svgl.app/library/spotify.svg",
-        "wordmark": "/library/spotify_wordmark.svg",
+        "wordmark": "https://svgl.app/library/spotify_wordmark.svg",
         "url": "https://www.spotify.com/"
     },
     {
@@ -312,7 +312,7 @@
         "title": "YouTube",
         "category": "Social",
         "route": "https://svgl.app/library/youtube.svg",
-        "wordmark": "/library/youtube-wordmark.svg",
+        "wordmark": "https://svgl.app/library/youtube-wordmark.svg",
         "url": "https://www.youtube.com/"
     },
     {
@@ -330,7 +330,7 @@
         "title": "Google",
         "category": "Social",
         "route": "https://svgl.app/library/google.svg",
-        "wordmark": "/library/google-wordmark.svg",
+        "wordmark": "https://svgl.app/library/google-wordmark.svg",
         "url": "https://www.google.com/"
     },
     {
@@ -425,7 +425,7 @@
         "title": "MongoDB",
         "category": "Database",
         "route": "https://svgl.app/library/mongodb.svg",
-        "wordmark": "/library/mongodb-wordmark.svg",
+        "wordmark": "https://svgl.app/library/mongodb-wordmark.svg",
         "url": "https://www.mongodb.com/"
     },
     {
@@ -571,8 +571,8 @@
         "category": "Crypto",
         "route": "https://svgl.app/library/coinbase.svg",
         "wordmark": {
-            "light": "/library/coinbase-wordmark-light.svg",
-            "dark": "/library/coinbase-wordmark-dark.svg"
+            "light": "https://svgl.app/library/coinbase-wordmark-light.svg",
+            "dark": "https://svgl.app/library/coinbase-wordmark-dark.svg"
         },
         "url": "https://www.coinbase.com/"
     },
@@ -1675,8 +1675,8 @@
         "category": "Crypto",
         "route": "https://svgl.app/library/link.svg",
         "wordmark": {
-            "light": "/library/link-wordmark-light.svg",
-            "dark": "/library/link-wordmark-dark.svg"
+            "light": "https://svgl.app/library/link-wordmark-light.svg",
+            "dark": "https://svgl.app/library/link-wordmark-dark.svg"
         },
         "url": "https://chain.link/"
     },
@@ -1786,7 +1786,7 @@
         "title": "Dub",
         "category": "Software",
         "route": "https://svgl.app/library/dub.svg",
-        "wordmark": "/library/dub-wordmark.svg",
+        "wordmark": "https://svgl.app/library/dub-wordmark.svg",
         "url": "https://dub.co"
     },
     {
@@ -2132,8 +2132,8 @@
             "dark": "https://svgl.app/library/axiom-dark.svg"
         },
         "wordmark": {
-            "light": "/library/axiom-wordmark-light.svg",
-            "dark": "/library/axiom-wordmark-dark.svg"
+            "light": "https://svgl.app/library/axiom-wordmark-light.svg",
+            "dark": "https://svgl.app/library/axiom-wordmark-dark.svg"
         },
         "url": "https://axiom.co/"
     },
@@ -2153,8 +2153,8 @@
             "dark": "https://svgl.app/library/zeabur-dark.svg"
         },
         "wordmark": {
-            "light": "/library/zeabur_wordmark_light.svg",
-            "dark": "/library/zeabur_wordmark_dark.svg"
+            "light": "https://svgl.app/library/zeabur_wordmark_light.svg",
+            "dark": "https://svgl.app/library/zeabur_wordmark_dark.svg"
         },
         "url": "https://zeabur.com/"
     },
@@ -2330,8 +2330,8 @@
         "category": "CMS",
         "route": "https://svgl.app/library/shopify.svg",
         "wordmark": {
-            "dark": "/library/shopify-wordmark-dark.svg",
-            "light": "/library/shopify-wordmark-light.svg"
+            "light": "https://svgl.app/library/shopify-wordmark-light.svg",
+            "dark": "https://svgl.app/library/shopify-wordmark-dark.svg"
         },
         "url": "https://www.shopify.com"
     },
@@ -2361,7 +2361,7 @@
         "title": "Airbnb",
         "category": "Software",
         "route": "https://svgl.app/library/airbnb.svg",
-        "wordmark": "/library/airbnb-wordmark.svg",
+        "wordmark": "https://svgl.app/library/airbnb-wordmark.svg",
         "url": "https://www.airbnb.com"
     },
     {
@@ -2393,7 +2393,7 @@
         "title": "Slack",
         "category": "Software",
         "route": "https://svgl.app/library/slack.svg",
-        "wordmark": "/library/slack-wordmark.svg",
+        "wordmark": "https://svgl.app/library/slack-wordmark.svg",
         "url": "https://www.slack.com"
     },
     {
@@ -2430,8 +2430,8 @@
         "category": "Software",
         "route": "https://svgl.app/library/raycast.svg",
         "wordmark": {
-            "light": "/library/raycast-wordmark-light.svg",
-            "dark": "/library/raycast-wordmark-dark.svg"
+            "light": "https://svgl.app/library/raycast-wordmark-light.svg",
+            "dark": "https://svgl.app/library/raycast-wordmark-dark.svg"
         },
         "url": "https://raycast.com/"
     },
@@ -2521,8 +2521,8 @@
             "dark": "https://svgl.app/library/pnpm_dark.svg"
         },
         "wordmark": {
-            "light": "/library/pnpm_wordmark_light.svg",
-            "dark": "/library/pnpm_wordmark_dark.svg"
+            "light": "https://svgl.app/library/pnpm_wordmark_light.svg",
+            "dark": "https://svgl.app/library/pnpm_wordmark_dark.svg"
         },
         "url": "https://pnpm.io/"
     },
@@ -2597,8 +2597,8 @@
             "dark": "https://svgl.app/library/flask-dark.svg"
         },
         "wordmark": {
-            "light": "/library/flask-wordmark-light.svg",
-            "dark": "/library/flask-wordmark-dark.svg"
+            "light": "https://svgl.app/library/flask-wordmark-light.svg",
+            "dark": "https://svgl.app/library/flask-wordmark-dark.svg"
         },
         "url": "https://flask.palletsprojects.com/"
     },
@@ -2754,8 +2754,8 @@
             "dark": "https://svgl.app/library/replicate_dark.svg"
         },
         "wordmark": {
-            "light": "/library/replicate-wordmark_light.svg",
-            "dark": "/library/replicate-wordmark_dark.svg"
+            "light": "https://svgl.app/library/replicate-wordmark_light.svg",
+            "dark": "https://svgl.app/library/replicate-wordmark_dark.svg"
         },
         "url": "https://replicate.com/"
     },
@@ -2819,8 +2819,8 @@
         "category": "Music",
         "route": "https://svgl.app/library/youtube_music.svg",
         "wordmark": {
-            "light": "/library/youtube_music_wordmark_light.svg",
-            "dark": "/library/youtube_music_wordmark_dark.svg"
+            "light": "https://svgl.app/library/youtube_music_wordmark_light.svg",
+            "dark": "https://svgl.app/library/youtube_music_wordmark_dark.svg"
         },
         "url": "https://music.youtube.com/"
     },
@@ -2833,8 +2833,8 @@
             "dark": "https://svgl.app/library/tidal_dark.svg"
         },
         "wordmark": {
-            "light": "/library/tidal_wordmark_light.svg",
-            "dark": "/library/tidal_wordmark_dark.svg"
+            "light": "https://svgl.app/library/tidal_wordmark_light.svg",
+            "dark": "https://svgl.app/library/tidal_wordmark_dark.svg"
         },
         "url": "https://tidal.com/"
     },
@@ -2850,7 +2850,7 @@
         "title": "Stack Overflow",
         "category": "Software",
         "route": "https://svgl.app/library/stackoverflow.svg",
-        "wordmark": "/library/stackoverflow_wordmark.svg",
+        "wordmark": "https://svgl.app/library/stackoverflow_wordmark.svg",
         "url": "https://stackoverflow.com/"
     },
     {
@@ -2883,8 +2883,8 @@
         "category": "Software",
         "route": "https://svgl.app/library/asana-logo.svg",
         "wordmark": {
-            "dark": "/library/asana-wordmark-dark.svg",
-            "light": "/library/asana-wordmark-light.svg"
+            "light": "https://svgl.app/library/asana-wordmark-light.svg",
+            "dark": "https://svgl.app/library/asana-wordmark-dark.svg"
         },
         "url": "https://asana.com"
     },
@@ -2900,7 +2900,7 @@
         "title": "Tina",
         "category": "CMS",
         "route": "https://svgl.app/library/tina.svg",
-        "wordmark": "/library/tina_wordmark.svg",
+        "wordmark": "https://svgl.app/library/tina_wordmark.svg",
         "url": "https://tina.io/"
     },
     {
@@ -2915,8 +2915,8 @@
             "dark": "https://svgl.app/library/vercel_dark.svg"
         },
         "wordmark": {
-            "light": "/library/vercel_wordmark.svg",
-            "dark": "/library/vercel_wordmark_dark.svg"
+            "light": "https://svgl.app/library/vercel_wordmark.svg",
+            "dark": "https://svgl.app/library/vercel_wordmark_dark.svg"
         },
         "url": "https://vercel.com/"
     },
@@ -2929,8 +2929,8 @@
         ],
         "route": "https://svgl.app/library/nextjs_icon_dark.svg",
         "wordmark": {
-            "light": "/library/nextjs_logo_light.svg",
-            "dark": "/library/nextjs_logo_dark.svg"
+            "light": "https://svgl.app/library/nextjs_logo_light.svg",
+            "dark": "https://svgl.app/library/nextjs_logo_dark.svg"
         },
         "url": "https://nextjs.org/"
     },
@@ -2939,7 +2939,7 @@
         "title": "Mistral AI",
         "category": "AI",
         "route": "https://svgl.app/library/mistral-ai_logo.svg",
-        "wordmark": "/library/mistral-ai_wordmark.svg",
+        "wordmark": "https://svgl.app/library/mistral-ai_wordmark.svg",
         "url": "https://mistral.ai/"
     },
     {
@@ -2977,8 +2977,8 @@
         "route": "https://svgl.app/library/supabase.svg",
         "url": "https://supabase.com/",
         "wordmark": {
-            "light": "/library/supabase_wordmark_light.svg",
-            "dark": "/library/supabase_wordmark_dark.svg"
+            "light": "https://svgl.app/library/supabase_wordmark_light.svg",
+            "dark": "https://svgl.app/library/supabase_wordmark_dark.svg"
         }
     },
     {
@@ -3001,5 +3001,19 @@
         "category": "AI",
         "route": "https://svgl.app/library/hume-ai.svg",
         "url": "https://hume.ai/"
+    },
+    {
+        "id": 391,
+        "title": "Resend",
+        "category": "Software",
+        "url": "https://resend.com/",
+        "route": {
+            "light": "https://svgl.app/library/resend-icon-black.svg",
+            "dark": "https://svgl.app/library/resend-icon-white.svg"
+        },
+        "wordmark": {
+            "light": "https://svgl.app/library/resend-wordmark-black.svg",
+            "dark": "https://svgl.app/library/resend-wordmark-white.svg"
+        }
     }
 ]

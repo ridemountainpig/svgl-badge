@@ -27,3 +27,4 @@
 | Next.js | ![Next.js](https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true` |
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light&wordmark=true` |
 | Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=light&wordmark=true` |
+| Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=light&wordmark=true` |
