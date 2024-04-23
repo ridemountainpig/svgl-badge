@@ -3015,5 +3015,15 @@
             "light": "https://svgl.app/library/resend-wordmark-black.svg",
             "dark": "https://svgl.app/library/resend-wordmark-white.svg"
         }
+    },
+    {
+        "id": 392,
+        "title": "Layers",
+        "category": "Design",
+        "route": {
+            "light": "https://svgl.app/library/layers_light.svg",
+            "dark": "https://svgl.app/library/layers_dark.svg"
+        },
+        "url": "https://layers.to/"
     }
 ]

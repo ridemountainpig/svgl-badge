@@ -1554,5 +1554,9 @@
     "Resend": {
         "light": "https://svgl-badge.vercel.app/api/Software/Resend?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Software/Resend?theme=dark"
+    },
+    "Layers": {
+        "light": "https://svgl-badge.vercel.app/api/Design/Layers?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Design/Layers?theme=dark"
     }
 }
