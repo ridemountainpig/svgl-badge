@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true` |
 | YouTube | ![YouTube](https://svgl-badge.vercel.app/api/Social/YouTube?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Social/YouTube?theme=dark&wordmark=true` |

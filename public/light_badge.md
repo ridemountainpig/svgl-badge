@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=light) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=light` |
 | Discord | ![Discord](https://svgl-badge.vercel.app/api/Software/Discord?theme=light) | `https://svgl-badge.vercel.app/api/Software/Discord?theme=light` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light` |
 | Github | ![Github](https://svgl-badge.vercel.app/api/Software/Github?theme=light) | `https://svgl-badge.vercel.app/api/Software/Github?theme=light` |
@@ -394,3 +395,4 @@
 | Hume AI | ![Hume AI](https://svgl-badge.vercel.app/api/AI/Hume%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Hume%20AI?theme=light` |
 | Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=light) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=light` |
 | Layers | ![Layers](https://svgl-badge.vercel.app/api/Design/Layers?theme=light) | `https://svgl-badge.vercel.app/api/Design/Layers?theme=light` |
+| Exome | ![Exome](https://svgl-badge.vercel.app/api/Library/Exome?theme=light) | `https://svgl-badge.vercel.app/api/Library/Exome?theme=light` |

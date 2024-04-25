@@ -1,4 +1,8 @@
 {
+    "ahooks": {
+        "light": "https://svgl-badge.vercel.app/api/Library/ahooks?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark"
+    },
     "Discord": {
         "light": "https://svgl-badge.vercel.app/api/Software/Discord?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"
@@ -1558,5 +1562,9 @@
     "Layers": {
         "light": "https://svgl-badge.vercel.app/api/Design/Layers?theme=light",
         "dark": "https://svgl-badge.vercel.app/api/Design/Layers?theme=dark"
+    },
+    "Exome": {
+        "light": "https://svgl-badge.vercel.app/api/Library/Exome?theme=light",
+        "dark": "https://svgl-badge.vercel.app/api/Library/Exome?theme=dark"
     }
 }
