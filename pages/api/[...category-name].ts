@@ -93,7 +93,7 @@ export default async function svglBadge(
             }
         }
 
-        let svgString = await getSvglSVGs(svgUrl);
+        let svgString = await getSvglSVGs(svgUrl.replace("https://svgl.app/", "https://raw.githubusercontent.com/pheralb/svgl/main/static/"));
         if (!svgString) {
             throw new Error("Failed to fetch svgl svg");
         }
