@@ -2,6 +2,22 @@ import requests
 import json
 from urllib.parse import quote
 
+def fetchSvg(svgFileUrl):
+    try:
+        svgFileName = svgFileUrl.split("/")[-1]
+        svgFileUrl = svgFileUrl.replace("https://svgl.app/", "https://raw.githubusercontent.com/pheralb/svgl/main/static/")
+        response = requests.get(svgFileUrl)
+        response.raise_for_status()
+
+        data = response.text
+        file_path = f"static/library/{svgFileName}"
+
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(data)
+
+        print(f"SVG {svgFileName} download successfully.")
+    except Exception as error:
+        print(error)
 
 def getSvglJson():
     try:
@@ -22,6 +38,27 @@ def getSvglJson():
         print(error)
 
 
+def getSvglLibrarySvg():
+    try:
+        with open("public/svgs.json", "r") as f:
+            data = json.load(f)
+            for svg in data:
+                if type(svg["route"]) == str:
+                    fetchSvg(svg["route"])
+                else:
+                    fetchSvg(svg["route"]["light"])
+                    fetchSvg(svg["route"]["dark"])
+                
+                if svg.get("wordmark"):
+                    if type(svg["wordmark"]) == str:
+                        fetchSvg(svg["wordmark"])
+                    else:
+                        fetchSvg(svg["wordmark"]["light"])
+                        fetchSvg(svg["wordmark"]["dark"])
+    except Exception as error:
+        print(error)
+
+
 def updateSvglBadge():
     light_badge_md = f"""
 | Title | Badge | Markdown |
@@ -38,10 +75,12 @@ def updateSvglBadge():
             badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
             badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
             title = svg["title"]
-            lightUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light"
-            darkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
-            light_badge_md += f"| {title} | ![{title}]({lightUrl}) | `{lightUrl}` |\n"
-            dark_badge_md += f"| {title} | ![{title}]({darkUrl}) | `{darkUrl}` |\n"
+            lightUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=light"
+            darkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=dark"
+            lightBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light"
+            darkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
+            light_badge_md += f"| {title} | ![{title}]({lightBadgeUrl}) | `{lightBadgeUrl}` |\n"
+            dark_badge_md += f"| {title} | ![{title}]({darkBadgeUrl}) | `{darkBadgeUrl}` |\n"
             badge_json_data[title] = {"light": lightUrl, "dark": darkUrl}
     with open("public/light_badge.md", "w") as f:
         f.write(light_badge_md)
@@ -114,6 +153,7 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 
 
 getSvglJson()
+getSvglLibrarySvg()
 updateSvglBadge()
 updateSvglWordmarkBadge()
 # updateSvglBadgeReadme()
