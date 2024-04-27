@@ -81,7 +81,6 @@ export default async function svglBadge(
             } else {
                 svgUrl = svglJson["wordmark"];
             }
-            svgUrl = "https://svgl.app/" + svgUrl;
         } else {
             if (typeof svglJson["route"] == "object") {
                 svgUrl =
