@@ -28,18 +28,9 @@ function getSvglBadgeCss() {
 }
 
 async function getSvglSVGs(url: string) {
-    try {
-        const response = await fetch(url);
-
-        if (!response.ok) {
-            throw new Error("Failed to fetch svgl svg");
-        }
-
-        return await response.text();
-    } catch (error) {
-        console.log(error);
-        return null;
-    }
+    const filePath = path.join(process.cwd(), "static", url);
+    const svgContent = fs.readFileSync(filePath, "utf8");
+    return svgContent;
 }
 
 export default async function svglBadge(
@@ -92,7 +83,9 @@ export default async function svglBadge(
             }
         }
 
-        let svgString = await getSvglSVGs(svgUrl.replace("https://svgl.app/", "https://raw.githubusercontent.com/pheralb/svgl/main/static/"));
+        let svgString = await getSvglSVGs(
+            svgUrl.replace("https://svgl.app/", ""),
+        );
         if (!svgString) {
             throw new Error("Failed to fetch svgl svg");
         }
