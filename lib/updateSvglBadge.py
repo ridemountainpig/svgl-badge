@@ -32,6 +32,7 @@ def updateSvglBadge():
 | --- | --- | --- |
 """
     badge_json_data = {}
+    wordmark_badge_json_data = {}
     with open("public/svgs.json", "r") as f:
         data = json.load(f)
         for svg in data:
@@ -40,15 +41,22 @@ def updateSvglBadge():
             title = svg["title"]
             lightUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light"
             darkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
+            if svg.get("wordmark"):
+                lightWordmarkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
+                darkWordmarkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
             light_badge_md += f"| {title} | ![{title}]({lightUrl}) | `{lightUrl}` |\n"
             dark_badge_md += f"| {title} | ![{title}]({darkUrl}) | `{darkUrl}` |\n"
             badge_json_data[title] = {"light": lightUrl, "dark": darkUrl}
+            if svg.get("wordmark"):
+                wordmark_badge_json_data[title] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl}
     with open("public/light_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_badge.md", "w") as f:
         f.write(dark_badge_md)
     with open("public/badge.json", "w") as f:
         json.dump(badge_json_data, f, ensure_ascii=False, indent=4)
+    with open("public/wordmark-badge.json", "w") as f:
+        json.dump(wordmark_badge_json_data, f, ensure_ascii=False, indent=4)
     print("Badges updated successfully.")
 
 

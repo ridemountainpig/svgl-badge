@@ -1,0 +1,114 @@
+{
+    "ahooks": {
+        "light": "https://svgl-badge.vercel.app/api/Library/ahooks?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true"
+    },
+    "Aliexpress": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true"
+    },
+    "Spotify": {
+        "light": "https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true"
+    },
+    "YouTube": {
+        "light": "https://svgl-badge.vercel.app/api/Social/YouTube?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Social/YouTube?theme=dark&wordmark=true"
+    },
+    "Google": {
+        "light": "https://svgl-badge.vercel.app/api/Social/Google?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Social/Google?theme=dark&wordmark=true"
+    },
+    "MongoDB": {
+        "light": "https://svgl-badge.vercel.app/api/Database/MongoDB?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true"
+    },
+    "Coinbase": {
+        "light": "https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true"
+    },
+    "Link": {
+        "light": "https://svgl-badge.vercel.app/api/Crypto/Link?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true"
+    },
+    "Dub": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Dub?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Dub?theme=dark&wordmark=true"
+    },
+    "Axiom": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Axiom?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true"
+    },
+    "Zeabur": {
+        "light": "https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=dark&wordmark=true"
+    },
+    "Shopify": {
+        "light": "https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark&wordmark=true"
+    },
+    "Airbnb": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark&wordmark=true"
+    },
+    "Slack": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Slack?theme=dark&wordmark=true"
+    },
+    "Raycast": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark&wordmark=true"
+    },
+    "Pnpm": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Pnpm?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true"
+    },
+    "Flask": {
+        "light": "https://svgl-badge.vercel.app/api/Framework/Flask?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true"
+    },
+    "Replicate": {
+        "light": "https://svgl-badge.vercel.app/api/AI/Replicate?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/AI/Replicate?theme=dark&wordmark=true"
+    },
+    "Youtube Music": {
+        "light": "https://svgl-badge.vercel.app/api/Music/Youtube%20Music?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Music/Youtube%20Music?theme=dark&wordmark=true"
+    },
+    "TIDAL": {
+        "light": "https://svgl-badge.vercel.app/api/Music/TIDAL?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Music/TIDAL?theme=dark&wordmark=true"
+    },
+    "Stack Overflow": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=dark&wordmark=true"
+    },
+    "Asana": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Asana?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Asana?theme=dark&wordmark=true"
+    },
+    "Tina": {
+        "light": "https://svgl-badge.vercel.app/api/CMS/Tina?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark&wordmark=true"
+    },
+    "Vercel": {
+        "light": "https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark&wordmark=true"
+    },
+    "Next.js": {
+        "light": "https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Framework/Next.js?theme=dark&wordmark=true"
+    },
+    "Mistral AI": {
+        "light": "https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark&wordmark=true"
+    },
+    "Supabase": {
+        "light": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark&wordmark=true"
+    },
+    "Resend": {
+        "light": "https://svgl-badge.vercel.app/api/Software/Resend?theme=light&wordmark=true",
+        "dark": "https://svgl-badge.vercel.app/api/Software/Resend?theme=dark&wordmark=true"
+    }
+}
