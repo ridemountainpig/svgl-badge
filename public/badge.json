@@ -1,4 +1,12 @@
 {
+    "Mercado Pago": {
+        "light": "/api/Payment/Mercado%20Pago?theme=light",
+        "dark": "/api/Payment/Mercado%20Pago?theme=dark"
+    },
+    "Basewell": {
+        "light": "/api/AI/Basewell?theme=light",
+        "dark": "/api/AI/Basewell?theme=dark"
+    },
     "ahooks": {
         "light": "/api/Library/ahooks?theme=light",
         "dark": "/api/Library/ahooks?theme=dark"
@@ -1566,5 +1574,9 @@
     "Exome": {
         "light": "/api/Library/Exome?theme=light",
         "dark": "/api/Library/Exome?theme=dark"
+    },
+    "Poper": {
+        "light": "/api/AI/Poper?theme=light",
+        "dark": "/api/AI/Poper?theme=dark"
     }
 }

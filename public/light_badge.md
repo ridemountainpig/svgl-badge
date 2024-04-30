@@ -1,6 +1,8 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=light) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=light` |
+| Basewell | ![Basewell](https://svgl-badge.vercel.app/api/AI/Basewell?theme=light) | `https://svgl-badge.vercel.app/api/AI/Basewell?theme=light` |
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=light) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=light` |
 | Discord | ![Discord](https://svgl-badge.vercel.app/api/Software/Discord?theme=light) | `https://svgl-badge.vercel.app/api/Software/Discord?theme=light` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light` |
@@ -75,7 +77,7 @@
 | Bun | ![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=light) | `https://svgl-badge.vercel.app/api/Library/Bun?theme=light` |
 | Twilio | ![Twilio](https://svgl-badge.vercel.app/api/Software/Twilio?theme=light) | `https://svgl-badge.vercel.app/api/Software/Twilio?theme=light` |
 | Arc | ![Arc](https://svgl-badge.vercel.app/api/Social/Arc?theme=light) | `https://svgl-badge.vercel.app/api/Social/Arc?theme=light` |
-| Arc | ![Arc](https://svgl-badge.vercel.app/api/Fintech/Arc?theme=light) | `https://svgl-badge.vercel.app/api/Fintech/Arc?theme=light` |
+| Arc | ![Arc](https://svgl-badge.vercel.app/api/Software/Arc?theme=light) | `https://svgl-badge.vercel.app/api/Software/Arc?theme=light` |
 | Qwik | ![Qwik](https://svgl-badge.vercel.app/api/Framework/Qwik?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Qwik?theme=light` |
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light` |
 | Authy | ![Authy](https://svgl-badge.vercel.app/api/Software/Authy?theme=light) | `https://svgl-badge.vercel.app/api/Software/Authy?theme=light` |
@@ -396,3 +398,4 @@
 | Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=light) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=light` |
 | Layers | ![Layers](https://svgl-badge.vercel.app/api/Design/Layers?theme=light) | `https://svgl-badge.vercel.app/api/Design/Layers?theme=light` |
 | Exome | ![Exome](https://svgl-badge.vercel.app/api/Library/Exome?theme=light) | `https://svgl-badge.vercel.app/api/Library/Exome?theme=light` |
+| Poper | ![Poper](https://svgl-badge.vercel.app/api/AI/Poper?theme=light) | `https://svgl-badge.vercel.app/api/AI/Poper?theme=light` |

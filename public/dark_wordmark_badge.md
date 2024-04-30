@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark&wordmark=true` |
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true` |
