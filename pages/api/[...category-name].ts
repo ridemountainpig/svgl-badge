@@ -2,6 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 
 import fs from "fs";
 import path from "path";
+import { imageSize } from 'image-size';
 
 type ThemeOptions = {
     light: string;
@@ -31,6 +32,11 @@ async function getSvglSVGs(url: string) {
     const filePath = path.join(process.cwd(), "static", url);
     const svgContent = fs.readFileSync(filePath, "utf8");
     return svgContent;
+}
+
+function getImageDimensions(base64: string) {
+    const buffer = Buffer.from(base64, 'base64');
+    return imageSize(buffer);
 }
 
 export default async function svglBadge(
@@ -90,9 +96,14 @@ export default async function svglBadge(
             throw new Error("Failed to fetch svgl svg");
         }
         const svgBase64 = svgToBase64(svgString);
+        const dimensions = getImageDimensions(svgBase64);
+        let svgWordmarkWidth;
+        if (wordmark && svglJson["wordmark"] && dimensions.height && dimensions.width) {
+            svgWordmarkWidth = 30 / dimensions.height * dimensions.width + 20;
+        }
 
         const svgName = svglJson["title"].toUpperCase();
-        const svgWidth = svgName.length * 10 + svgName.length * 0.4 + 52;
+        const svgWidth = wordmark && svglJson["wordmark"] ? svgWordmarkWidth : svgName.length * 10 + svgName.length * 0.4 + 52;
         const css = getSvglBadgeCss();
 
         const svgContent = `
@@ -105,7 +116,9 @@ export default async function svglBadge(
                     ${
                         wordmark && svglJson["wordmark"]
                             ? `
-                                <img src="data:image/svg+xml;base64,${svgBase64}" class="h-8 px-1" />
+                            <div class="w-[92%] flex justify-center items-center">
+                                <img src="data:image/svg+xml;base64,${svgBase64}" class="h-[30px]" />
+                            </div>
                             `
                             : `
                         <div class="pl-2">

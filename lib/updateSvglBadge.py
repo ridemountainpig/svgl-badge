@@ -100,6 +100,7 @@ def updateSvglWordmarkBadge():
 | Title | Badge | Markdown |
 | --- | --- | --- |
 """
+    wordmark_badge_json_data = {}
     with open("public/svgs.json", "r") as f:
         data = json.load(f)
         for svg in data:
@@ -107,14 +108,19 @@ def updateSvglWordmarkBadge():
                 badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
                 badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
                 title = svg["title"]
-                lightUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
-                darkUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
-                light_badge_md += f"| {title} | ![{title}]({lightUrl}) | `{lightUrl}` |\n"
-                dark_badge_md += f"| {title} | ![{title}]({darkUrl}) | `{darkUrl}` |\n"
+                lightWordmarkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
+                darkWordmarkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
+                lightWordmarkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
+                darkWordmarkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
+                light_badge_md += f"| {title} | ![{title}]({lightWordmarkBadgeUrl}) | `{lightWordmarkBadgeUrl}` |\n"
+                dark_badge_md += f"| {title} | ![{title}]({darkWordmarkBadgeUrl}) | `{darkWordmarkBadgeUrl}` |\n"
+                wordmark_badge_json_data[title] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl}
     with open("public/light_wordmark_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_wordmark_badge.md", "w") as f:
         f.write(dark_badge_md)
+    with open("public/wordmark-badge.json", "w") as f:
+        json.dump(wordmark_badge_json_data, f, ensure_ascii=False, indent=4)
     print("Wordmark Badges updated successfully.")
 
 
