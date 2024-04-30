@@ -1,8 +1,11 @@
 app/svgl-badge.css
 public/svgs.json
+public/badge.json
+public/wordmark-badge.json
 public/light_badge.md
 public/dark_badge.md
 public/light_wordmark_badge.md
 public/dark_wordmark_badge.md
 README.md
 static/library/*
+pnpm-lock.yaml

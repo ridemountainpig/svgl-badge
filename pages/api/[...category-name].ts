@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 
 import fs from "fs";
 import path from "path";
-import { imageSize } from 'image-size';
+import { imageSize } from "image-size";
 
 type ThemeOptions = {
     light: string;
@@ -35,7 +35,7 @@ async function getSvglSVGs(url: string) {
 }
 
 function getImageDimensions(base64: string) {
-    const buffer = Buffer.from(base64, 'base64');
+    const buffer = Buffer.from(base64, "base64");
     return imageSize(buffer);
 }
 
@@ -98,12 +98,20 @@ export default async function svglBadge(
         const svgBase64 = svgToBase64(svgString);
         const dimensions = getImageDimensions(svgBase64);
         let svgWordmarkWidth;
-        if (wordmark && svglJson["wordmark"] && dimensions.height && dimensions.width) {
-            svgWordmarkWidth = 30 / dimensions.height * dimensions.width + 20;
+        if (
+            wordmark &&
+            svglJson["wordmark"] &&
+            dimensions.height &&
+            dimensions.width
+        ) {
+            svgWordmarkWidth = (30 / dimensions.height) * dimensions.width + 20;
         }
 
         const svgName = svglJson["title"].toUpperCase();
-        const svgWidth = wordmark && svglJson["wordmark"] ? svgWordmarkWidth : svgName.length * 10 + svgName.length * 0.4 + 52;
+        const svgWidth =
+            wordmark && svglJson["wordmark"]
+                ? svgWordmarkWidth
+                : svgName.length * 10 + svgName.length * 0.4 + 52;
         const css = getSvglBadgeCss();
 
         const svgContent = `
