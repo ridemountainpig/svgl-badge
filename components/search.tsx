@@ -7,9 +7,10 @@ import { SearchIcon, Command, X } from "lucide-react";
 interface SearchProps {
     badgeCount: number;
     badges: Record<string, { light: string; dark: string }>;
+    domain: string;
 }
 
-export function Search({ badgeCount, badges }: SearchProps) {
+export function Search({ badgeCount, badges, domain }: SearchProps) {
     const [inputValue, setInputValue] = useState("");
     const inputRef = useRef<HTMLInputElement>(null);
 
@@ -85,7 +86,7 @@ export function Search({ badgeCount, badges }: SearchProps) {
                     </div>
                 )}
             </div>
-            <Badges badges={filteredBadges}></Badges>
+            <Badges badges={filteredBadges} domain={domain}></Badges>
         </>
     );
 }

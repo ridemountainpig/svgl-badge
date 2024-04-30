@@ -1,6 +1,8 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark` |
+| Basewell | ![Basewell](https://svgl-badge.vercel.app/api/AI/Basewell?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Basewell?theme=dark` |
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark` |
 | Discord | ![Discord](https://svgl-badge.vercel.app/api/Software/Discord?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Discord?theme=dark` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark` |
@@ -75,7 +77,7 @@
 | Bun | ![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Bun?theme=dark` |
 | Twilio | ![Twilio](https://svgl-badge.vercel.app/api/Software/Twilio?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Twilio?theme=dark` |
 | Arc | ![Arc](https://svgl-badge.vercel.app/api/Social/Arc?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Arc?theme=dark` |
-| Arc | ![Arc](https://svgl-badge.vercel.app/api/Fintech/Arc?theme=dark) | `https://svgl-badge.vercel.app/api/Fintech/Arc?theme=dark` |
+| Arc | ![Arc](https://svgl-badge.vercel.app/api/Software/Arc?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Arc?theme=dark` |
 | Qwik | ![Qwik](https://svgl-badge.vercel.app/api/Framework/Qwik?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Qwik?theme=dark` |
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark` |
 | Authy | ![Authy](https://svgl-badge.vercel.app/api/Software/Authy?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Authy?theme=dark` |
@@ -396,3 +398,4 @@
 | Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=dark` |
 | Layers | ![Layers](https://svgl-badge.vercel.app/api/Design/Layers?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Layers?theme=dark` |
 | Exome | ![Exome](https://svgl-badge.vercel.app/api/Library/Exome?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Exome?theme=dark` |
+| Poper | ![Poper](https://svgl-badge.vercel.app/api/AI/Poper?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Poper?theme=dark` |

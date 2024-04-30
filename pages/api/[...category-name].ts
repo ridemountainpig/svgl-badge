@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 
 import fs from "fs";
 import path from "path";
-import { imageSize } from 'image-size';
+import { imageSize } from "image-size";
 
 type ThemeOptions = {
     light: string;
@@ -29,22 +29,13 @@ function getSvglBadgeCss() {
 }
 
 async function getSvglSVGs(url: string) {
-    try {
-        const response = await fetch(url);
-
-        if (!response.ok) {
-            throw new Error("Failed to fetch svgl svg");
-        }
-
-        return await response.text();
-    } catch (error) {
-        console.log(error);
-        return null;
-    }
+    const filePath = path.join(process.cwd(), "static", url);
+    const svgContent = fs.readFileSync(filePath, "utf8");
+    return svgContent;
 }
 
 function getImageDimensions(base64: string) {
-    const buffer = Buffer.from(base64, 'base64');
+    const buffer = Buffer.from(base64, "base64");
     return imageSize(buffer);
 }
 
@@ -98,19 +89,29 @@ export default async function svglBadge(
             }
         }
 
-        let svgString = await getSvglSVGs(svgUrl.replace("https://svgl.app/", "https://raw.githubusercontent.com/pheralb/svgl/main/static/"));
+        let svgString = await getSvglSVGs(
+            svgUrl.replace("https://svgl.app/", ""),
+        );
         if (!svgString) {
             throw new Error("Failed to fetch svgl svg");
         }
         const svgBase64 = svgToBase64(svgString);
         const dimensions = getImageDimensions(svgBase64);
         let svgWordmarkWidth;
-        if (wordmark && svglJson["wordmark"] && dimensions.height && dimensions.width) {
-            svgWordmarkWidth = 30 / dimensions.height * dimensions.width + 20;
+        if (
+            wordmark &&
+            svglJson["wordmark"] &&
+            dimensions.height &&
+            dimensions.width
+        ) {
+            svgWordmarkWidth = (30 / dimensions.height) * dimensions.width + 20;
         }
 
         const svgName = svglJson["title"].toUpperCase();
-        const svgWidth = wordmark && svglJson["wordmark"] ? svgWordmarkWidth : svgName.length * 10 + svgName.length * 0.4 + 52;
+        const svgWidth =
+            wordmark && svglJson["wordmark"]
+                ? svgWordmarkWidth
+                : svgName.length * 10 + svgName.length * 0.4 + 52;
         const css = getSvglBadgeCss();
 
         const svgContent = `

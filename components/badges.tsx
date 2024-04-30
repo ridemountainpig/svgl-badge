@@ -5,9 +5,10 @@ import toast from "react-hot-toast";
 
 interface BadgesProps {
     badges: Record<string, { light: string; dark: string }>;
+    domain: string;
 }
 
-export function Badges({ badges }: BadgesProps) {
+export function Badges({ badges, domain }: BadgesProps) {
     return (
         <div className="flex flex-wrap justify-center gap-[1.3rem] p-6">
             {Object.keys(badges).map((key, index) => {
@@ -15,7 +16,7 @@ export function Badges({ badges }: BadgesProps) {
                 return (
                     <React.Fragment key={index}>
                         <img
-                            src={badge.light}
+                            src={domain + badge.light}
                             alt={key}
                             className="block cursor-pointer transition-transform duration-300 hover:scale-115 dark:hidden"
                             onClick={() => {
@@ -25,7 +26,7 @@ export function Badges({ badges }: BadgesProps) {
                         />
                         {badge.dark && (
                             <img
-                                src={badge.dark}
+                                src={domain + badge.dark}
                                 alt={`${key}-dark`}
                                 className="hidden cursor-pointer transition-transform duration-300 hover:scale-115 dark:block"
                                 onClick={() => {
