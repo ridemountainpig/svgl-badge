@@ -10,7 +10,6 @@
 | MongoDB | ![MongoDB](https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true` |
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true` |
 | Link | ![Link](https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true` |
-| Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=dark&wordmark=true` |
 | Axiom | ![Axiom](https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true` |
 | Zeabur | ![Zeabur](https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=dark&wordmark=true` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark&wordmark=true` |
@@ -30,3 +29,5 @@
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark&wordmark=true` |
 | Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark&wordmark=true` |
 | Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=dark&wordmark=true` |
+| Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=dark&wordmark=true` |
+| Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=dark&wordmark=true` |

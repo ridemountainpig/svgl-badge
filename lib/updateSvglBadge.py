@@ -81,7 +81,7 @@ def updateSvglBadge():
             darkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
             light_badge_md += f"| {title} | ![{title}]({lightBadgeUrl}) | `{lightBadgeUrl}` |\n"
             dark_badge_md += f"| {title} | ![{title}]({darkBadgeUrl}) | `{darkBadgeUrl}` |\n"
-            badge_json_data[title] = {"light": lightUrl, "dark": darkUrl}
+            badge_json_data[f"{title} {badgeCategory}"] = {"light": lightUrl, "dark": darkUrl}
     with open("public/light_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_badge.md", "w") as f:
@@ -114,7 +114,7 @@ def updateSvglWordmarkBadge():
                 darkWordmarkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
                 light_badge_md += f"| {title} | ![{title}]({lightWordmarkBadgeUrl}) | `{lightWordmarkBadgeUrl}` |\n"
                 dark_badge_md += f"| {title} | ![{title}]({darkWordmarkBadgeUrl}) | `{darkWordmarkBadgeUrl}` |\n"
-                wordmark_badge_json_data[title] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl}
+                wordmark_badge_json_data[f"{title} {badgeCategory}"] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl}
     with open("public/light_wordmark_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_wordmark_badge.md", "w") as f:

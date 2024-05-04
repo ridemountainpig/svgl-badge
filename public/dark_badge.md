@@ -75,6 +75,7 @@
 | Rapid API | ![Rapid API](https://svgl-badge.vercel.app/api/Software/Rapid%20API?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Rapid%20API?theme=dark` |
 | TypeScript | ![TypeScript](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark) | `https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark` |
 | Bun | ![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Bun?theme=dark` |
+| BuildShip | ![BuildShip](https://svgl-badge.vercel.app/api/AI/BuildShip?theme=dark) | `https://svgl-badge.vercel.app/api/AI/BuildShip?theme=dark` |
 | Twilio | ![Twilio](https://svgl-badge.vercel.app/api/Software/Twilio?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Twilio?theme=dark` |
 | Arc | ![Arc](https://svgl-badge.vercel.app/api/Social/Arc?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Arc?theme=dark` |
 | Arc | ![Arc](https://svgl-badge.vercel.app/api/Software/Arc?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Arc?theme=dark` |
@@ -243,7 +244,6 @@
 | Premiere | ![Premiere](https://svgl-badge.vercel.app/api/Design/Premiere?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Premiere?theme=dark` |
 | VK | ![VK](https://svgl-badge.vercel.app/api/Social/VK?theme=dark) | `https://svgl-badge.vercel.app/api/Social/VK?theme=dark` |
 | Hoppscotch | ![Hoppscotch](https://svgl-badge.vercel.app/api/Software/Hoppscotch?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Hoppscotch?theme=dark` |
-| Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=dark` |
 | Opera | ![Opera](https://svgl-badge.vercel.app/api/Browser/Opera?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/Opera?theme=dark` |
 | Salesforce | ![Salesforce](https://svgl-badge.vercel.app/api/Software/Salesforce?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Salesforce?theme=dark` |
 | Unreal Engine | ![Unreal Engine](https://svgl-badge.vercel.app/api/Software/Unreal%20Engine?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Unreal%20Engine?theme=dark` |
@@ -399,3 +399,5 @@
 | Layers | ![Layers](https://svgl-badge.vercel.app/api/Design/Layers?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Layers?theme=dark` |
 | Exome | ![Exome](https://svgl-badge.vercel.app/api/Library/Exome?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Exome?theme=dark` |
 | Poper | ![Poper](https://svgl-badge.vercel.app/api/AI/Poper?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Poper?theme=dark` |
+| Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=dark` |
+| Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=dark` |

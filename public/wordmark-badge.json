@@ -1,118 +1,122 @@
 {
-    "Mercado Pago": {
+    "Mercado Pago Payment": {
         "light": "/api/Payment/Mercado%20Pago?theme=light&wordmark=true",
         "dark": "/api/Payment/Mercado%20Pago?theme=dark&wordmark=true"
     },
-    "ahooks": {
+    "ahooks Library": {
         "light": "/api/Library/ahooks?theme=light&wordmark=true",
         "dark": "/api/Library/ahooks?theme=dark&wordmark=true"
     },
-    "Aliexpress": {
+    "Aliexpress Software": {
         "light": "/api/Software/Aliexpress?theme=light&wordmark=true",
         "dark": "/api/Software/Aliexpress?theme=dark&wordmark=true"
     },
-    "Spotify": {
+    "Spotify Music": {
         "light": "/api/Music/Spotify?theme=light&wordmark=true",
         "dark": "/api/Music/Spotify?theme=dark&wordmark=true"
     },
-    "YouTube": {
+    "YouTube Social": {
         "light": "/api/Social/YouTube?theme=light&wordmark=true",
         "dark": "/api/Social/YouTube?theme=dark&wordmark=true"
     },
-    "Google": {
+    "Google Social": {
         "light": "/api/Social/Google?theme=light&wordmark=true",
         "dark": "/api/Social/Google?theme=dark&wordmark=true"
     },
-    "MongoDB": {
+    "MongoDB Database": {
         "light": "/api/Database/MongoDB?theme=light&wordmark=true",
         "dark": "/api/Database/MongoDB?theme=dark&wordmark=true"
     },
-    "Coinbase": {
+    "Coinbase Crypto": {
         "light": "/api/Crypto/Coinbase?theme=light&wordmark=true",
         "dark": "/api/Crypto/Coinbase?theme=dark&wordmark=true"
     },
-    "Link": {
+    "Link Crypto": {
         "light": "/api/Crypto/Link?theme=light&wordmark=true",
         "dark": "/api/Crypto/Link?theme=dark&wordmark=true"
     },
-    "Dub": {
-        "light": "/api/Software/Dub?theme=light&wordmark=true",
-        "dark": "/api/Software/Dub?theme=dark&wordmark=true"
-    },
-    "Axiom": {
+    "Axiom Software": {
         "light": "/api/Software/Axiom?theme=light&wordmark=true",
         "dark": "/api/Software/Axiom?theme=dark&wordmark=true"
     },
-    "Zeabur": {
+    "Zeabur Hosting": {
         "light": "/api/Hosting/Zeabur?theme=light&wordmark=true",
         "dark": "/api/Hosting/Zeabur?theme=dark&wordmark=true"
     },
-    "Shopify": {
+    "Shopify CMS": {
         "light": "/api/CMS/Shopify?theme=light&wordmark=true",
         "dark": "/api/CMS/Shopify?theme=dark&wordmark=true"
     },
-    "Airbnb": {
+    "Airbnb Software": {
         "light": "/api/Software/Airbnb?theme=light&wordmark=true",
         "dark": "/api/Software/Airbnb?theme=dark&wordmark=true"
     },
-    "Slack": {
+    "Slack Software": {
         "light": "/api/Software/Slack?theme=light&wordmark=true",
         "dark": "/api/Software/Slack?theme=dark&wordmark=true"
     },
-    "Raycast": {
+    "Raycast Software": {
         "light": "/api/Software/Raycast?theme=light&wordmark=true",
         "dark": "/api/Software/Raycast?theme=dark&wordmark=true"
     },
-    "Pnpm": {
+    "Pnpm Software": {
         "light": "/api/Software/Pnpm?theme=light&wordmark=true",
         "dark": "/api/Software/Pnpm?theme=dark&wordmark=true"
     },
-    "Flask": {
+    "Flask Framework": {
         "light": "/api/Framework/Flask?theme=light&wordmark=true",
         "dark": "/api/Framework/Flask?theme=dark&wordmark=true"
     },
-    "Replicate": {
+    "Replicate AI": {
         "light": "/api/AI/Replicate?theme=light&wordmark=true",
         "dark": "/api/AI/Replicate?theme=dark&wordmark=true"
     },
-    "Youtube Music": {
+    "Youtube Music Music": {
         "light": "/api/Music/Youtube%20Music?theme=light&wordmark=true",
         "dark": "/api/Music/Youtube%20Music?theme=dark&wordmark=true"
     },
-    "TIDAL": {
+    "TIDAL Music": {
         "light": "/api/Music/TIDAL?theme=light&wordmark=true",
         "dark": "/api/Music/TIDAL?theme=dark&wordmark=true"
     },
-    "Stack Overflow": {
+    "Stack Overflow Software": {
         "light": "/api/Software/Stack%20Overflow?theme=light&wordmark=true",
         "dark": "/api/Software/Stack%20Overflow?theme=dark&wordmark=true"
     },
-    "Asana": {
+    "Asana Software": {
         "light": "/api/Software/Asana?theme=light&wordmark=true",
         "dark": "/api/Software/Asana?theme=dark&wordmark=true"
     },
-    "Tina": {
+    "Tina CMS": {
         "light": "/api/CMS/Tina?theme=light&wordmark=true",
         "dark": "/api/CMS/Tina?theme=dark&wordmark=true"
     },
-    "Vercel": {
+    "Vercel Hosting": {
         "light": "/api/Hosting/Vercel?theme=light&wordmark=true",
         "dark": "/api/Hosting/Vercel?theme=dark&wordmark=true"
     },
-    "Next.js": {
+    "Next.js Framework": {
         "light": "/api/Framework/Next.js?theme=light&wordmark=true",
         "dark": "/api/Framework/Next.js?theme=dark&wordmark=true"
     },
-    "Mistral AI": {
+    "Mistral AI AI": {
         "light": "/api/AI/Mistral%20AI?theme=light&wordmark=true",
         "dark": "/api/AI/Mistral%20AI?theme=dark&wordmark=true"
     },
-    "Supabase": {
+    "Supabase Database": {
         "light": "/api/Database/Supabase?theme=light&wordmark=true",
         "dark": "/api/Database/Supabase?theme=dark&wordmark=true"
     },
-    "Resend": {
+    "Resend Software": {
         "light": "/api/Software/Resend?theme=light&wordmark=true",
         "dark": "/api/Software/Resend?theme=dark&wordmark=true"
+    },
+    "Dub Software": {
+        "light": "/api/Software/Dub?theme=light&wordmark=true",
+        "dark": "/api/Software/Dub?theme=dark&wordmark=true"
+    },
+    "Turso Database": {
+        "light": "/api/Database/Turso?theme=light&wordmark=true",
+        "dark": "/api/Database/Turso?theme=dark&wordmark=true"
     }
 }
