@@ -1,14 +1,26 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Image from "next/image";
 import { MoonIcon, SunIcon } from "lucide-react";
 
 export function Navbar() {
     const [dark, setDark] = useState(false);
 
+    useEffect(() => {
+        if (localStorage.getItem("theme") === "dark") {
+            setDark(true);
+            document.body.classList.add("dark");
+        }
+    }, []);
+
     const darkModeHandler = () => {
         setDark(!dark);
+        if (localStorage.getItem("theme") === "dark") {
+            localStorage.setItem("theme", "light");
+        } else {
+            localStorage.setItem("theme", "dark");
+        }
         document.body.classList.toggle("dark");
     };
 
