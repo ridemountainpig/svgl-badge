@@ -11,7 +11,7 @@ export default function Home() {
     const domain = process.env.DEPLOY_DOMAIN ?? "";
 
     return (
-        <div className="h-screen w-full flex-col justify-center bg-white/90 font-sans text-black dark:bg-neutral-900 dark:text-white">
+        <div className="h-screen w-full flex-col justify-center bg-white font-sans text-black dark:bg-neutral-900 dark:text-white">
             <div className="h-full w-full">
                 <Navbar></Navbar>
                 <Search

@@ -48,54 +48,57 @@ const Badges = React.memo(({ badges, domain }: BadgesProps) => {
             >
                 <Loading />
             </div>
-            <div
-                className={`flex flex-wrap justify-center gap-[1.3rem] bg-white p-6 dark:bg-neutral-900 ${loading ? "hidden" : ""}`}
-            >
-                {Object.keys(badges).map((key) => {
-                    const badge = badges[key];
-
-                    return (
-                        <motion.div
-                            key={key} // Use key as the badge key to ensure proper tracking and prevent re-creation
-                            initial={{ opacity: 0, y: 0 }}
-                            animate={{ opacity: 1, y: 0 }}
-                            // viewport={{ once: true }}
-                            transition={{
-                                duration: 0.4,
-                                // delay: 0.2,
-                            }}
-                        >
-                            <img
-                                src={domain + badge.light}
-                                alt={key}
-                                title={key}
-                                className="badge-image block cursor-pointer transition-transform duration-300 hover:scale-115 dark:hidden"
-                                onClick={() => {
-                                    navigator.clipboard.writeText(
-                                        domain + badge.light,
-                                    );
-                                    toast.success(`Copied badge to clipboard!`);
+            <div className="h-[75%] w-full bg-white dark:bg-neutral-900">
+                <div
+                    className={`flex flex-wrap justify-center gap-[1.3rem] bg-white  p-6 dark:bg-neutral-900 ${loading ? "hidden" : ""}`}
+                >
+                    {Object.keys(badges).map((key) => {
+                        const badge = badges[key];
+                        return (
+                            <motion.div
+                                key={key} // Use key as the badge key to ensure proper tracking and prevent re-creation
+                                initial={{ opacity: 0, y: 0 }}
+                                animate={{ opacity: 1, y: 0 }}
+                                // viewport={{ once: true }}
+                                transition={{
+                                    duration: 0.4,
+                                    // delay: 0.2,
                                 }}
-                            />
-                            {badge.dark && (
+                            >
                                 <img
-                                    src={domain + badge.dark}
-                                    alt={`${key}-dark`}
+                                    src={domain + badge.light}
+                                    alt={key}
                                     title={key}
-                                    className="badge-image hidden cursor-pointer transition-transform duration-300 hover:scale-115 dark:block"
+                                    className="badge-image block cursor-pointer transition-transform duration-300 hover:scale-115 dark:hidden"
                                     onClick={() => {
                                         navigator.clipboard.writeText(
-                                            domain + badge.dark,
+                                            domain + badge.light,
                                         );
                                         toast.success(
                                             `Copied badge to clipboard!`,
                                         );
                                     }}
                                 />
-                            )}
-                        </motion.div>
-                    );
-                })}
+                                {badge.dark && (
+                                    <img
+                                        src={domain + badge.dark}
+                                        alt={`${key}-dark`}
+                                        title={key}
+                                        className="badge-image hidden cursor-pointer transition-transform duration-300 hover:scale-115 dark:block"
+                                        onClick={() => {
+                                            navigator.clipboard.writeText(
+                                                domain + badge.dark,
+                                            );
+                                            toast.success(
+                                                `Copied badge to clipboard!`,
+                                            );
+                                        }}
+                                    />
+                                )}
+                            </motion.div>
+                        );
+                    })}
+                </div>
             </div>
         </>
     );
