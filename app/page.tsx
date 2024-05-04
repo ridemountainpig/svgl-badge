@@ -11,13 +11,15 @@ export default function Home() {
     const domain = process.env.DEPLOY_DOMAIN ?? "";
 
     return (
-        <main className="min-h-screen w-full flex-col justify-center bg-white/90 font-sans text-black dark:bg-neutral-900 dark:text-white">
-            <Navbar></Navbar>
-            <Search
-                badgeCount={badgeCount}
-                badges={badges}
-                domain={domain}
-            ></Search>
+        <div className="h-screen w-full flex-col justify-center bg-white/90 font-sans text-black dark:bg-neutral-900 dark:text-white">
+            <div className="h-full w-full">
+                <Navbar></Navbar>
+                <Search
+                    badgeCount={badgeCount}
+                    badges={badges}
+                    domain={domain}
+                ></Search>
+            </div>
             <Toaster
                 position="bottom-right"
                 toastOptions={{
@@ -25,6 +27,6 @@ export default function Home() {
                         "text-[14px] tracking-wide font-bold text-neutral-900 font-sans w-[18rem] h-[4rem] bg-white dark:bg-neutral-900 dark:text-white border border-neutral-300 dark:border-neutral-800 rounded-md shadow-lg",
                 }}
             />
-        </main>
+        </div>
     );
 }
