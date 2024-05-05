@@ -1,28 +1,11 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import Image from "next/image";
 import { MoonIcon, SunIcon } from "lucide-react";
+import { useTheme } from "next-themes";
 
 export function Navbar() {
-    const [dark, setDark] = useState(false);
-
-    useEffect(() => {
-        if (localStorage.getItem("theme") === "dark") {
-            setDark(true);
-            document.body.classList.add("dark");
-        }
-    }, []);
-
-    const darkModeHandler = () => {
-        setDark(!dark);
-        if (localStorage.getItem("theme") === "dark") {
-            localStorage.setItem("theme", "light");
-        } else {
-            localStorage.setItem("theme", "dark");
-        }
-        document.body.classList.toggle("dark");
-    };
+    const { setTheme, theme } = useTheme();
 
     return (
         <div className="flex h-fit w-full items-center justify-between p-6">
@@ -75,9 +58,15 @@ export function Navbar() {
                 </a>
                 <button
                     className="opacity-80 hover:opacity-100"
-                    onClick={() => darkModeHandler()}
+                    onClick={() => {
+                        if (theme === "dark") {
+                            setTheme("light");
+                        } else {
+                            setTheme("dark");
+                        }
+                    }}
                 >
-                    {dark ? (
+                    {theme === "dark" ? (
                         <MoonIcon size={20} strokeWidth={1.5} />
                     ) : (
                         <SunIcon size={20} strokeWidth={1.5} />
