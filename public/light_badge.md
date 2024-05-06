@@ -401,3 +401,4 @@
 | Poper | ![Poper](https://svgl-badge.vercel.app/api/AI/Poper?theme=light) | `https://svgl-badge.vercel.app/api/AI/Poper?theme=light` |
 | Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=light) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=light` |
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=light) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=light` |
+| RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light` |

@@ -118,5 +118,9 @@
     "Turso Database": {
         "light": "/api/Database/Turso?theme=light&wordmark=true",
         "dark": "/api/Database/Turso?theme=dark&wordmark=true"
+    },
+    "RelaGit Software": {
+        "light": "/api/Software/RelaGit?theme=light&wordmark=true",
+        "dark": "/api/Software/RelaGit?theme=dark&wordmark=true"
     }
 }

@@ -31,3 +31,4 @@
 | Resend | ![Resend](https://svgl-badge.vercel.app/api/Software/Resend?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Resend?theme=light&wordmark=true` |
 | Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=light&wordmark=true` |
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=light&wordmark=true` |
+| RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light&wordmark=true` |
