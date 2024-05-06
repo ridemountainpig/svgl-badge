@@ -1,16 +1,17 @@
 "use client";
 
-import { useState } from "react";
 import Image from "next/image";
+import { useState, useEffect } from "react";
 import { MoonIcon, SunIcon } from "lucide-react";
+import { useTheme } from "next-themes";
 
 export function Navbar() {
-    const [dark, setDark] = useState(false);
+    const { setTheme, theme } = useTheme();
+    const [loading, setLoading] = useState(true);
 
-    const darkModeHandler = () => {
-        setDark(!dark);
-        document.body.classList.toggle("dark");
-    };
+    useEffect(() => {
+        setLoading(false);
+    }, []);
 
     return (
         <div className="flex h-fit w-full items-center justify-between p-6">
@@ -61,16 +62,26 @@ export function Navbar() {
                         />
                     </svg>
                 </a>
-                <button
-                    className="opacity-80 hover:opacity-100"
-                    onClick={() => darkModeHandler()}
-                >
-                    {dark ? (
-                        <MoonIcon size={20} strokeWidth={1.5} />
-                    ) : (
-                        <SunIcon size={20} strokeWidth={1.5} />
-                    )}
-                </button>
+                {loading ? (
+                    <div className="h-5 w-5"></div>
+                ) : (
+                    <button
+                        className="opacity-80 hover:opacity-100"
+                        onClick={() => {
+                            if (theme === "dark") {
+                                setTheme("light");
+                            } else {
+                                setTheme("dark");
+                            }
+                        }}
+                    >
+                        {theme === "dark" ? (
+                            <MoonIcon size={20} strokeWidth={1.5} />
+                        ) : (
+                            <SunIcon size={20} strokeWidth={1.5} />
+                        )}
+                    </button>
+                )}
             </div>
         </div>
     );

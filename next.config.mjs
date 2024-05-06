@@ -7,11 +7,11 @@ const nextConfig = {
     async headers() {
         return [
             {
-                source: '/api/(.*)',
+                source: "/api/(.*)",
                 headers: [
                     {
-                        key: 'Cache-Control',
-                        value: 'public, max-age=14400',
+                        key: "Cache-Control",
+                        value: "public, max-age=21600",
                     },
                 ],
             },

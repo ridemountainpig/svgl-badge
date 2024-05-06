@@ -3098,5 +3098,19 @@
             "dark": "https://svgl.app/library/turso-wordmark-dark.svg"
         },
         "url": "https://turso.tech"
+    },
+    {
+        "id": 400,
+        "title": "RelaGit",
+        "category": "Software",
+        "route": {
+            "light": "https://svgl.app/library/relagit-icon-light.svg",
+            "dark": "https://svgl.app/library/relagit-icon-dark.svg"
+        },
+        "wordmark": {
+            "light": "https://svgl.app/library/relagit-wordmark-light.svg",
+            "dark": "https://svgl.app/library/relagit-wordmark-dark.svg"
+        },
+        "url": "https://rela.dev"
     }
 ]
