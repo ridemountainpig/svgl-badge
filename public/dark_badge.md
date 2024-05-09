@@ -1,6 +1,9 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Animate | ![Animate](https://svgl-badge.vercel.app/api/Design/Animate?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Animate?theme=dark` |
+| Blender | ![Blender](https://svgl-badge.vercel.app/api/Design/Blender?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Blender?theme=dark` |
+| Lua | ![Lua](https://svgl-badge.vercel.app/api/Language/Lua?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Lua?theme=dark` |
 | Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark` |
 | Basewell | ![Basewell](https://svgl-badge.vercel.app/api/AI/Basewell?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Basewell?theme=dark` |
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark` |
