@@ -21,7 +21,7 @@ def fetchSvg(svgFileUrl):
 
 def getSvglJson():
     try:
-        response = requests.get("https://svgl.app/api/svgs")
+        response = requests.get("https://svgl-badge.vercel.app/api/svgs")
         response.raise_for_status()
 
         data = response.json()
