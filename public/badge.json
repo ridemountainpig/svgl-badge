@@ -1,4 +1,16 @@
 {
+    "Animate Design": {
+        "light": "/api/Design/Animate?theme=light",
+        "dark": "/api/Design/Animate?theme=dark"
+    },
+    "Blender Design": {
+        "light": "/api/Design/Blender?theme=light",
+        "dark": "/api/Design/Blender?theme=dark"
+    },
+    "Lua Language": {
+        "light": "/api/Language/Lua?theme=light",
+        "dark": "/api/Language/Lua?theme=dark"
+    },
     "Mercado Pago Payment": {
         "light": "/api/Payment/Mercado%20Pago?theme=light",
         "dark": "/api/Payment/Mercado%20Pago?theme=dark"
