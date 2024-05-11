@@ -52,7 +52,7 @@ const Badges = React.memo(({ badges, domain, setLoadMoreBtn }: BadgesProps) => {
             </div>
             <div className="h-fit w-full bg-white dark:bg-neutral-900">
                 <div
-                    className={`flex flex-wrap justify-center gap-[1.3rem] bg-white  p-6 dark:bg-neutral-900 ${loading ? "hidden" : ""}`}
+                    className={`flex flex-wrap justify-center gap-[1.3rem] bg-white p-2 dark:bg-neutral-900 md:p-6 ${loading ? "hidden" : ""}`}
                 >
                     {Object.keys(badges).map((key) => {
                         const badge = badges[key];

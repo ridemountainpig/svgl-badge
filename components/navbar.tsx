@@ -14,13 +14,17 @@ export function Navbar() {
     }, []);
 
     return (
-        <div className="flex h-fit w-full items-center justify-between p-6">
-            <div className="flex h-fit items-center gap-x-4">
-                <Image src="/svgl.svg" alt="Svgl Logo" width={30} height={30} />
+        <div className="flex h-fit w-full items-center justify-between px-4 py-4 md:px-6">
+            <a
+                href="/"
+                title="Svgl Badge"
+                className="flex h-fit items-center gap-x-4"
+            >
+                <img src="/svgl.svg" alt="Svgl Logo" width={30} height={30} />
                 <span className="text-[19px] font-medium tracking-wide">
                     Svgl Badge
                 </span>
-            </div>
+            </a>
             <div className="flex h-fit items-center gap-x-4">
                 <a
                     href="https://twitter.com/ridemountainpig"

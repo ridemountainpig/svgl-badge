@@ -62,8 +62,8 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
 
     return (
         <>
-            <div className="relative w-full px-6 py-2 text-[16px]">
-                <div className="absolute inset-y-0 left-6 flex items-center pl-3 text-neutral-500">
+            <div className="relative w-full px-4 py-2 text-[16px] md:px-6">
+                <div className="absolute inset-y-0 left-4 flex items-center pl-3 text-neutral-500 md:left-6">
                     <div className="pointer-events-none">
                         <SearchIcon size={20} strokeWidth={2.5} />
                     </div>
@@ -89,7 +89,7 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                         </button>
                     </div>
                 ) : (
-                    <div className="absolute inset-y-0 right-6 flex items-center pr-4 text-neutral-500">
+                    <div className="absolute inset-y-0 right-4 flex items-center pr-4 text-neutral-500 md:right-6">
                         <div className="pointer-events-none flex h-full items-center gap-x-1 font-mono">
                             <Command size={16} />
                             <span>K</span>
@@ -103,7 +103,7 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                 setLoadMoreBtn={setLoadMoreBtn}
             ></Badges>
             {loadMoreBtn && Object.keys(badges).length > badgeLimit && (
-                <div className="flex items-center justify-center bg-white pb-4 dark:bg-neutral-900">
+                <div className="flex items-center justify-center bg-white pb-4 pt-2 dark:bg-neutral-900 md:pt-0">
                     <button
                         className="flex h-10 items-center space-x-2 rounded-full border border-neutral-200 bg-transparent px-4 text-neutral-950 transition-colors duration-100 hover:bg-neutral-200/50 focus:outline-none focus:ring-1 focus:ring-neutral-300 disabled:cursor-not-allowed disabled:opacity-50 dark:border-neutral-800 dark:text-white dark:hover:bg-neutral-800/50 dark:focus:ring-neutral-700"
                         onClick={() => {
