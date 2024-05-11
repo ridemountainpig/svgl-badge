@@ -6,9 +6,10 @@ import { Loading } from "@/components/loading";
 interface BadgesProps {
     badges: Record<string, { light: string; dark: string }>;
     domain: string;
+    setLoadMoreBtn: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-const Badges = React.memo(({ badges, domain }: BadgesProps) => {
+const Badges = React.memo(({ badges, domain, setLoadMoreBtn }: BadgesProps) => {
     const [loading, setLoading] = useState(true); // State to track loading status
     const [loadingImageCount, setLoadingImageCount] = useState(0); // State to track loading count
 
@@ -38,6 +39,7 @@ const Badges = React.memo(({ badges, domain }: BadgesProps) => {
     useEffect(() => {
         if (loadingImageCount >= Object.keys(badges).length * 2) {
             setLoading(false);
+            setLoadMoreBtn(true);
         }
     }, [loadingImageCount, badges]);
 
@@ -48,7 +50,7 @@ const Badges = React.memo(({ badges, domain }: BadgesProps) => {
             >
                 <Loading />
             </div>
-            <div className="h-[75%] w-full bg-white dark:bg-neutral-900">
+            <div className="h-fit w-full bg-white dark:bg-neutral-900">
                 <div
                     className={`flex flex-wrap justify-center gap-[1.3rem] bg-white  p-6 dark:bg-neutral-900 ${loading ? "hidden" : ""}`}
                 >
