@@ -3139,5 +3139,15 @@
             "dark": "https://svgl.app/library/relagit-wordmark-dark.svg"
         },
         "url": "https://rela.dev"
+    },
+    {
+        "id": 404,
+        "title": "T3 Stack",
+        "category": "Framework",
+        "route": {
+            "light": "https://svgl.app/library/t3-dark.svg",
+            "dark": "https://svgl.app/library/t3-light.svg"
+        },
+        "url": "https://create.t3.gg/"
     }
 ]

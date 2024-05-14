@@ -405,3 +405,4 @@
 | Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=dark` |
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=dark` |
 | RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=dark) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=dark` |
+| T3 Stack | ![T3 Stack](https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=dark` |

@@ -1610,5 +1610,9 @@
     "RelaGit Software": {
         "light": "/api/Software/RelaGit?theme=light",
         "dark": "/api/Software/RelaGit?theme=dark"
+    },
+    "T3 Stack Framework": {
+        "light": "/api/Framework/T3%20Stack?theme=light",
+        "dark": "/api/Framework/T3%20Stack?theme=dark"
     }
 }
