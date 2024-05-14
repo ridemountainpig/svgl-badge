@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { motion } from "framer-motion";
-import toast from "react-hot-toast";
 import { Loading } from "@/components/loading";
+import { Badge } from "@/components/badge";
 
 interface BadgesProps {
     badges: Record<string, { light: string; dark: string }>;
@@ -14,34 +13,11 @@ const Badges = React.memo(({ badges, domain, setLoadMoreBtn }: BadgesProps) => {
     const [loadingImageCount, setLoadingImageCount] = useState(0); // State to track loading count
 
     useEffect(() => {
-        const images: NodeListOf<HTMLImageElement> =
-            document.querySelectorAll(".badge-image");
-
-        const handleImageLoad = () => {
-            setLoadingImageCount((prev) => prev + 1);
-        };
-
-        images.forEach((image: HTMLImageElement) => {
-            if (image.complete) {
-                setLoadingImageCount((prev) => prev + 1);
-            } else {
-                image.addEventListener("load", handleImageLoad);
-            }
-        });
-
-        return () => {
-            images.forEach((image) => {
-                image.removeEventListener("load", handleImageLoad);
-            });
-        };
-    }, []);
-
-    useEffect(() => {
         if (loadingImageCount >= Object.keys(badges).length * 2) {
             setLoading(false);
             setLoadMoreBtn(true);
         }
-    }, [loadingImageCount, badges]);
+    }, [loadingImageCount, badges, setLoadMoreBtn]);
 
     return (
         <>
@@ -54,50 +30,17 @@ const Badges = React.memo(({ badges, domain, setLoadMoreBtn }: BadgesProps) => {
                 <div
                     className={`flex flex-wrap justify-center gap-[1.3rem] bg-white p-2 dark:bg-neutral-900 md:p-6 ${loading ? "hidden" : ""}`}
                 >
-                    {Object.keys(badges).map((key) => {
+                    {Object.keys(badges).map((key, index) => {
                         const badge = badges[key];
+                        const badgeName = key;
                         return (
-                            <motion.div
-                                key={key} // Use key as the badge key to ensure proper tracking and prevent re-creation
-                                initial={{ opacity: 0, y: 0 }}
-                                animate={{ opacity: 1, y: 0 }}
-                                // viewport={{ once: true }}
-                                transition={{
-                                    duration: 0.4,
-                                    // delay: 0.2,
-                                }}
-                            >
-                                <img
-                                    src={domain + badge.light}
-                                    alt={key}
-                                    title={key}
-                                    className="badge-image block cursor-pointer transition-transform duration-300 hover:scale-115 dark:hidden"
-                                    onClick={() => {
-                                        navigator.clipboard.writeText(
-                                            domain + badge.light,
-                                        );
-                                        toast.success(
-                                            `Copied badge to clipboard!`,
-                                        );
-                                    }}
-                                />
-                                {badge.dark && (
-                                    <img
-                                        src={domain + badge.dark}
-                                        alt={`${key}-dark`}
-                                        title={key}
-                                        className="badge-image hidden cursor-pointer transition-transform duration-300 hover:scale-115 dark:block"
-                                        onClick={() => {
-                                            navigator.clipboard.writeText(
-                                                domain + badge.dark,
-                                            );
-                                            toast.success(
-                                                `Copied badge to clipboard!`,
-                                            );
-                                        }}
-                                    />
-                                )}
-                            </motion.div>
+                            <Badge
+                                key={`${badgeName}-${index}`}
+                                badge={badge}
+                                domain={domain}
+                                badgeName={badgeName}
+                                setLoadingImageCount={setLoadingImageCount}
+                            />
                         );
                     })}
                 </div>
