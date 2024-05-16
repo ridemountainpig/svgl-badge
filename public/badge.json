@@ -1614,5 +1614,9 @@
     "T3 Stack Framework": {
         "light": "/api/Framework/T3%20Stack?theme=light",
         "dark": "/api/Framework/T3%20Stack?theme=dark"
+    },
+    "YGeeker Software": {
+        "light": "/api/Software/YGeeker?theme=light",
+        "dark": "/api/Software/YGeeker?theme=dark"
     }
 }

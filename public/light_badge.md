@@ -406,3 +406,4 @@
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=light) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=light` |
 | RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light` |
 | T3 Stack | ![T3 Stack](https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light) | `https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light` |
+| YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light` |
