@@ -32,3 +32,4 @@
 | Dub | ![Dub](https://svgl-badge.vercel.app/api/Software/Dub?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Dub?theme=light&wordmark=true` |
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=light&wordmark=true` |
 | RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light&wordmark=true` |
+| Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light&wordmark=true` |

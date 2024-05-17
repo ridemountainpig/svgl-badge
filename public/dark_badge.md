@@ -86,7 +86,7 @@
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark` |
 | Authy | ![Authy](https://svgl-badge.vercel.app/api/Software/Authy?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Authy?theme=dark` |
 | NestJS | ![NestJS](https://svgl-badge.vercel.app/api/Framework/NestJS?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/NestJS?theme=dark` |
-| Github Copilot | ![Github Copilot](https://svgl-badge.vercel.app/api/Software/Github%20Copilot?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Github%20Copilot?theme=dark` |
+| GitHub Copilot | ![GitHub Copilot](https://svgl-badge.vercel.app/api/Software/GitHub%20Copilot?theme=dark) | `https://svgl-badge.vercel.app/api/Software/GitHub%20Copilot?theme=dark` |
 | Railway | ![Railway](https://svgl-badge.vercel.app/api/Software/Railway?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Railway?theme=dark` |
 | Docusaurus | ![Docusaurus](https://svgl-badge.vercel.app/api/Software/Docusaurus?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Docusaurus?theme=dark` |
 | Twitch | ![Twitch](https://svgl-badge.vercel.app/api/Entertainment/Twitch?theme=dark) | `https://svgl-badge.vercel.app/api/Entertainment/Twitch?theme=dark` |
@@ -406,4 +406,5 @@
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=dark` |
 | RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=dark) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=dark` |
 | T3 Stack | ![T3 Stack](https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=dark` |
+| Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=dark) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=dark` |
 | YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=dark) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=dark` |

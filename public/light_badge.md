@@ -86,7 +86,7 @@
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light` |
 | Authy | ![Authy](https://svgl-badge.vercel.app/api/Software/Authy?theme=light) | `https://svgl-badge.vercel.app/api/Software/Authy?theme=light` |
 | NestJS | ![NestJS](https://svgl-badge.vercel.app/api/Framework/NestJS?theme=light) | `https://svgl-badge.vercel.app/api/Framework/NestJS?theme=light` |
-| Github Copilot | ![Github Copilot](https://svgl-badge.vercel.app/api/Software/Github%20Copilot?theme=light) | `https://svgl-badge.vercel.app/api/Software/Github%20Copilot?theme=light` |
+| GitHub Copilot | ![GitHub Copilot](https://svgl-badge.vercel.app/api/Software/GitHub%20Copilot?theme=light) | `https://svgl-badge.vercel.app/api/Software/GitHub%20Copilot?theme=light` |
 | Railway | ![Railway](https://svgl-badge.vercel.app/api/Software/Railway?theme=light) | `https://svgl-badge.vercel.app/api/Software/Railway?theme=light` |
 | Docusaurus | ![Docusaurus](https://svgl-badge.vercel.app/api/Software/Docusaurus?theme=light) | `https://svgl-badge.vercel.app/api/Software/Docusaurus?theme=light` |
 | Twitch | ![Twitch](https://svgl-badge.vercel.app/api/Entertainment/Twitch?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/Twitch?theme=light` |
@@ -406,4 +406,5 @@
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=light) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=light` |
 | RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light` |
 | T3 Stack | ![T3 Stack](https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light) | `https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light` |
+| Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light` |
 | YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light` |

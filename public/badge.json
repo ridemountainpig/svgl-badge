@@ -339,9 +339,9 @@
         "light": "/api/Framework/NestJS?theme=light",
         "dark": "/api/Framework/NestJS?theme=dark"
     },
-    "Github Copilot Software": {
-        "light": "/api/Software/Github%20Copilot?theme=light",
-        "dark": "/api/Software/Github%20Copilot?theme=dark"
+    "GitHub Copilot Software": {
+        "light": "/api/Software/GitHub%20Copilot?theme=light",
+        "dark": "/api/Software/GitHub%20Copilot?theme=dark"
     },
     "Railway Software": {
         "light": "/api/Software/Railway?theme=light",
@@ -1614,6 +1614,10 @@
     "T3 Stack Framework": {
         "light": "/api/Framework/T3%20Stack?theme=light",
         "dark": "/api/Framework/T3%20Stack?theme=dark"
+    },
+    "Apple Music Music": {
+        "light": "/api/Music/Apple%20Music?theme=light",
+        "dark": "/api/Music/Apple%20Music?theme=dark"
     },
     "YGeeker Software": {
         "light": "/api/Software/YGeeker?theme=light",

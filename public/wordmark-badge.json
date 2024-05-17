@@ -122,5 +122,9 @@
     "RelaGit Software": {
         "light": "/api/Software/RelaGit?theme=light&wordmark=true",
         "dark": "/api/Software/RelaGit?theme=dark&wordmark=true"
+    },
+    "Apple Music Music": {
+        "light": "/api/Music/Apple%20Music?theme=light&wordmark=true",
+        "dark": "/api/Music/Apple%20Music?theme=dark&wordmark=true"
     }
 }
