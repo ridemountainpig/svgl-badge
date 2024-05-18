@@ -15,8 +15,8 @@ export function Badge({ badge, domain, badgeName }: BadgeProps) {
     let badgeWidth = 0;
     if (badgeName) {
         badgeWidth =
-            badgeName.split(" ")[0].length * 10 +
-            badgeName.split(" ")[0].length * 0.4 +
+            badgeName.split(" ").slice(0, -1).join(" ").length * 10 +
+            badgeName.split(" ").slice(0, -1).join(" ").length * 0.4 +
             52;
     } else {
         badgeWidth = 100;
@@ -75,7 +75,11 @@ export function Badge({ badge, domain, badgeName }: BadgeProps) {
                             </div>
                             <div className="pr-2">
                                 <span className="truncate text-center font-sans text-[15px] font-semibold tracking-wide text-black dark:text-white">
-                                    {badgeName.split(" ")[0].toUpperCase()}
+                                    {badgeName
+                                        .split(" ")
+                                        .slice(0, -1)
+                                        .join(" ")
+                                        .toUpperCase()}
                                 </span>
                             </div>
                         </>
