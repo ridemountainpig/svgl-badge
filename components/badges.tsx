@@ -2,26 +2,24 @@ import React, { useState, useEffect } from "react";
 import { Badge } from "@/components/badge";
 
 interface BadgesProps {
-    badges: Record<string, { light: string; dark: string }>;
+    badges: Record<
+        string,
+        { light: string; dark: string; lightSvg: string; darkSvg: string }
+    >;
     domain: string;
     setProgressLoading: React.Dispatch<React.SetStateAction<boolean>>;
-    setBadgesLoaded: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 const Badges = React.memo(
-    ({ badges, domain, setProgressLoading, setBadgesLoaded }: BadgesProps) => {
+    ({ badges, domain, setProgressLoading }: BadgesProps) => {
         const [loading, setLoading] = useState(true); // State to track loading status
-        const [loadingImageCount, setLoadingImageCount] = useState(0); // State to track loading count
 
         useEffect(() => {
-            if (loadingImageCount >= Object.keys(badges).length * 2) {
-                setTimeout(() => {
-                    setLoading(false);
-                    setProgressLoading(false);
-                    setBadgesLoaded(true);
-                }, 3500);
-            }
-        }, [loadingImageCount, badges, setProgressLoading, setBadgesLoaded]);
+            setTimeout(() => {
+                setLoading(false);
+                setProgressLoading(false);
+            }, 2500);
+        }, [badges, setProgressLoading]);
 
         return (
             <div className="h-fit w-full bg-white dark:bg-neutral-900">
@@ -37,7 +35,6 @@ const Badges = React.memo(
                                 badge={badge}
                                 domain={domain}
                                 badgeName={badgeName}
-                                setLoadingImageCount={setLoadingImageCount}
                             />
                         );
                     })}

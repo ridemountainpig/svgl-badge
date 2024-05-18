@@ -7,7 +7,10 @@ import { SearchIcon, Command, X, ArrowDown } from "lucide-react";
 
 interface SearchProps {
     badgeCount: number;
-    badges: Record<string, { light: string; dark: string }>;
+    badges: Record<
+        string,
+        { light: string; dark: string; lightSvg: string; darkSvg: string }
+    >;
     domain: string;
 }
 
@@ -16,7 +19,6 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
     const inputRef = useRef<HTMLInputElement>(null);
     const [progressLoading, setProgressLoading] = useState(true); // State to track page loading progress status
     const [loadMoreBtn, setLoadMoreBtn] = useState(true);
-    const [badgesLoaded, setBadgesLoaded] = useState(false);
     const [loadMoreBadges, setLoadMoreBadges] = useState(false);
     const badgeLimit = 150;
 
@@ -41,7 +43,15 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                           acc[originalKey] = badges[originalKey];
                           return acc;
                       },
-                      {} as Record<string, { light: string; dark: string }>,
+                      {} as Record<
+                          string,
+                          {
+                              light: string;
+                              dark: string;
+                              lightSvg: string;
+                              darkSvg: string;
+                          }
+                      >,
                   )
             : badges;
 
@@ -74,7 +84,6 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
 
     useEffect(() => {
         setLoadMoreBtn(true);
-        setBadgesLoaded(false);
         setLoadMoreBadges(false);
     }, [inputValue, badgeCount]);
 
@@ -126,10 +135,9 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                 badges={loadMoreBadges ? filteredBadges : filterLimitBadges}
                 domain={domain}
                 setProgressLoading={setProgressLoading}
-                setBadgesLoaded={setBadgesLoaded}
             ></Badges>
             {loadMoreBtn &&
-                badgesLoaded &&
+                !progressLoading &&
                 Object.keys(filteredBadges).length > badgeLimit && (
                     <div className="flex items-center justify-center bg-white pb-4 pt-2 dark:bg-neutral-900 md:pt-0">
                         <button

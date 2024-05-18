@@ -1,130 +1,194 @@
 {
     "Mercado Pago Payment": {
         "light": "/api/Payment/Mercado%20Pago?theme=light&wordmark=true",
-        "dark": "/api/Payment/Mercado%20Pago?theme=dark&wordmark=true"
+        "dark": "/api/Payment/Mercado%20Pago?theme=dark&wordmark=true",
+        "lightSvg": "mercado-pago-wordmark.svg",
+        "darkSvg": "mercado-pago-wordmark.svg"
     },
     "ahooks Library": {
         "light": "/api/Library/ahooks?theme=light&wordmark=true",
-        "dark": "/api/Library/ahooks?theme=dark&wordmark=true"
+        "dark": "/api/Library/ahooks?theme=dark&wordmark=true",
+        "lightSvg": "ahooks-wordmark-light.svg",
+        "darkSvg": "ahooks-wordmark-dark.svg"
     },
     "Aliexpress Software": {
         "light": "/api/Software/Aliexpress?theme=light&wordmark=true",
-        "dark": "/api/Software/Aliexpress?theme=dark&wordmark=true"
+        "dark": "/api/Software/Aliexpress?theme=dark&wordmark=true",
+        "lightSvg": "aliexpress-logo.svg",
+        "darkSvg": "aliexpress-logo.svg"
     },
     "Spotify Music": {
         "light": "/api/Music/Spotify?theme=light&wordmark=true",
-        "dark": "/api/Music/Spotify?theme=dark&wordmark=true"
+        "dark": "/api/Music/Spotify?theme=dark&wordmark=true",
+        "lightSvg": "spotify_wordmark.svg",
+        "darkSvg": "spotify_wordmark.svg"
     },
     "YouTube Social": {
         "light": "/api/Social/YouTube?theme=light&wordmark=true",
-        "dark": "/api/Social/YouTube?theme=dark&wordmark=true"
+        "dark": "/api/Social/YouTube?theme=dark&wordmark=true",
+        "lightSvg": "youtube-wordmark.svg",
+        "darkSvg": "youtube-wordmark.svg"
     },
     "Google Social": {
         "light": "/api/Social/Google?theme=light&wordmark=true",
-        "dark": "/api/Social/Google?theme=dark&wordmark=true"
+        "dark": "/api/Social/Google?theme=dark&wordmark=true",
+        "lightSvg": "google-wordmark.svg",
+        "darkSvg": "google-wordmark.svg"
     },
     "MongoDB Database": {
         "light": "/api/Database/MongoDB?theme=light&wordmark=true",
-        "dark": "/api/Database/MongoDB?theme=dark&wordmark=true"
+        "dark": "/api/Database/MongoDB?theme=dark&wordmark=true",
+        "lightSvg": "mongodb-wordmark.svg",
+        "darkSvg": "mongodb-wordmark.svg"
     },
     "Coinbase Crypto": {
         "light": "/api/Crypto/Coinbase?theme=light&wordmark=true",
-        "dark": "/api/Crypto/Coinbase?theme=dark&wordmark=true"
+        "dark": "/api/Crypto/Coinbase?theme=dark&wordmark=true",
+        "lightSvg": "coinbase-wordmark-light.svg",
+        "darkSvg": "coinbase-wordmark-dark.svg"
     },
     "Link Crypto": {
         "light": "/api/Crypto/Link?theme=light&wordmark=true",
-        "dark": "/api/Crypto/Link?theme=dark&wordmark=true"
+        "dark": "/api/Crypto/Link?theme=dark&wordmark=true",
+        "lightSvg": "link-wordmark-light.svg",
+        "darkSvg": "link-wordmark-dark.svg"
     },
     "Axiom Software": {
         "light": "/api/Software/Axiom?theme=light&wordmark=true",
-        "dark": "/api/Software/Axiom?theme=dark&wordmark=true"
+        "dark": "/api/Software/Axiom?theme=dark&wordmark=true",
+        "lightSvg": "axiom-wordmark-light.svg",
+        "darkSvg": "axiom-wordmark-dark.svg"
     },
     "Zeabur Hosting": {
         "light": "/api/Hosting/Zeabur?theme=light&wordmark=true",
-        "dark": "/api/Hosting/Zeabur?theme=dark&wordmark=true"
+        "dark": "/api/Hosting/Zeabur?theme=dark&wordmark=true",
+        "lightSvg": "zeabur_wordmark_light.svg",
+        "darkSvg": "zeabur_wordmark_dark.svg"
     },
     "Shopify CMS": {
         "light": "/api/CMS/Shopify?theme=light&wordmark=true",
-        "dark": "/api/CMS/Shopify?theme=dark&wordmark=true"
+        "dark": "/api/CMS/Shopify?theme=dark&wordmark=true",
+        "lightSvg": "shopify-wordmark-light.svg",
+        "darkSvg": "shopify-wordmark-dark.svg"
     },
     "Airbnb Software": {
         "light": "/api/Software/Airbnb?theme=light&wordmark=true",
-        "dark": "/api/Software/Airbnb?theme=dark&wordmark=true"
+        "dark": "/api/Software/Airbnb?theme=dark&wordmark=true",
+        "lightSvg": "airbnb-wordmark.svg",
+        "darkSvg": "airbnb-wordmark.svg"
     },
     "Slack Software": {
         "light": "/api/Software/Slack?theme=light&wordmark=true",
-        "dark": "/api/Software/Slack?theme=dark&wordmark=true"
+        "dark": "/api/Software/Slack?theme=dark&wordmark=true",
+        "lightSvg": "slack-wordmark.svg",
+        "darkSvg": "slack-wordmark.svg"
     },
     "Raycast Software": {
         "light": "/api/Software/Raycast?theme=light&wordmark=true",
-        "dark": "/api/Software/Raycast?theme=dark&wordmark=true"
+        "dark": "/api/Software/Raycast?theme=dark&wordmark=true",
+        "lightSvg": "raycast-wordmark-light.svg",
+        "darkSvg": "raycast-wordmark-dark.svg"
     },
     "Pnpm Software": {
         "light": "/api/Software/Pnpm?theme=light&wordmark=true",
-        "dark": "/api/Software/Pnpm?theme=dark&wordmark=true"
+        "dark": "/api/Software/Pnpm?theme=dark&wordmark=true",
+        "lightSvg": "pnpm_wordmark_light.svg",
+        "darkSvg": "pnpm_wordmark_dark.svg"
     },
     "Flask Framework": {
         "light": "/api/Framework/Flask?theme=light&wordmark=true",
-        "dark": "/api/Framework/Flask?theme=dark&wordmark=true"
+        "dark": "/api/Framework/Flask?theme=dark&wordmark=true",
+        "lightSvg": "flask-wordmark-light.svg",
+        "darkSvg": "flask-wordmark-dark.svg"
     },
     "Replicate AI": {
         "light": "/api/AI/Replicate?theme=light&wordmark=true",
-        "dark": "/api/AI/Replicate?theme=dark&wordmark=true"
+        "dark": "/api/AI/Replicate?theme=dark&wordmark=true",
+        "lightSvg": "replicate-wordmark_light.svg",
+        "darkSvg": "replicate-wordmark_dark.svg"
     },
     "Youtube Music Music": {
         "light": "/api/Music/Youtube%20Music?theme=light&wordmark=true",
-        "dark": "/api/Music/Youtube%20Music?theme=dark&wordmark=true"
+        "dark": "/api/Music/Youtube%20Music?theme=dark&wordmark=true",
+        "lightSvg": "youtube_music_wordmark_light.svg",
+        "darkSvg": "youtube_music_wordmark_dark.svg"
     },
     "TIDAL Music": {
         "light": "/api/Music/TIDAL?theme=light&wordmark=true",
-        "dark": "/api/Music/TIDAL?theme=dark&wordmark=true"
+        "dark": "/api/Music/TIDAL?theme=dark&wordmark=true",
+        "lightSvg": "tidal_wordmark_light.svg",
+        "darkSvg": "tidal_wordmark_dark.svg"
     },
     "Stack Overflow Software": {
         "light": "/api/Software/Stack%20Overflow?theme=light&wordmark=true",
-        "dark": "/api/Software/Stack%20Overflow?theme=dark&wordmark=true"
+        "dark": "/api/Software/Stack%20Overflow?theme=dark&wordmark=true",
+        "lightSvg": "stackoverflow_wordmark.svg",
+        "darkSvg": "stackoverflow_wordmark.svg"
     },
     "Asana Software": {
         "light": "/api/Software/Asana?theme=light&wordmark=true",
-        "dark": "/api/Software/Asana?theme=dark&wordmark=true"
+        "dark": "/api/Software/Asana?theme=dark&wordmark=true",
+        "lightSvg": "asana-wordmark-light.svg",
+        "darkSvg": "asana-wordmark-dark.svg"
     },
     "Tina CMS": {
         "light": "/api/CMS/Tina?theme=light&wordmark=true",
-        "dark": "/api/CMS/Tina?theme=dark&wordmark=true"
+        "dark": "/api/CMS/Tina?theme=dark&wordmark=true",
+        "lightSvg": "tina_wordmark.svg",
+        "darkSvg": "tina_wordmark.svg"
     },
     "Vercel Hosting": {
         "light": "/api/Hosting/Vercel?theme=light&wordmark=true",
-        "dark": "/api/Hosting/Vercel?theme=dark&wordmark=true"
+        "dark": "/api/Hosting/Vercel?theme=dark&wordmark=true",
+        "lightSvg": "vercel_wordmark.svg",
+        "darkSvg": "vercel_wordmark_dark.svg"
     },
     "Next.js Framework": {
         "light": "/api/Framework/Next.js?theme=light&wordmark=true",
-        "dark": "/api/Framework/Next.js?theme=dark&wordmark=true"
+        "dark": "/api/Framework/Next.js?theme=dark&wordmark=true",
+        "lightSvg": "nextjs_logo_light.svg",
+        "darkSvg": "nextjs_logo_dark.svg"
     },
     "Mistral AI AI": {
         "light": "/api/AI/Mistral%20AI?theme=light&wordmark=true",
-        "dark": "/api/AI/Mistral%20AI?theme=dark&wordmark=true"
+        "dark": "/api/AI/Mistral%20AI?theme=dark&wordmark=true",
+        "lightSvg": "mistral-ai_wordmark.svg",
+        "darkSvg": "mistral-ai_wordmark.svg"
     },
     "Supabase Database": {
         "light": "/api/Database/Supabase?theme=light&wordmark=true",
-        "dark": "/api/Database/Supabase?theme=dark&wordmark=true"
+        "dark": "/api/Database/Supabase?theme=dark&wordmark=true",
+        "lightSvg": "supabase_wordmark_light.svg",
+        "darkSvg": "supabase_wordmark_dark.svg"
     },
     "Resend Software": {
         "light": "/api/Software/Resend?theme=light&wordmark=true",
-        "dark": "/api/Software/Resend?theme=dark&wordmark=true"
+        "dark": "/api/Software/Resend?theme=dark&wordmark=true",
+        "lightSvg": "resend-wordmark-black.svg",
+        "darkSvg": "resend-wordmark-white.svg"
     },
     "Dub Software": {
         "light": "/api/Software/Dub?theme=light&wordmark=true",
-        "dark": "/api/Software/Dub?theme=dark&wordmark=true"
+        "dark": "/api/Software/Dub?theme=dark&wordmark=true",
+        "lightSvg": "dub_light_wordmark.svg",
+        "darkSvg": "dub_dark_wordmark.svg"
     },
     "Turso Database": {
         "light": "/api/Database/Turso?theme=light&wordmark=true",
-        "dark": "/api/Database/Turso?theme=dark&wordmark=true"
+        "dark": "/api/Database/Turso?theme=dark&wordmark=true",
+        "lightSvg": "turso-wordmark-light.svg",
+        "darkSvg": "turso-wordmark-dark.svg"
     },
     "RelaGit Software": {
         "light": "/api/Software/RelaGit?theme=light&wordmark=true",
-        "dark": "/api/Software/RelaGit?theme=dark&wordmark=true"
+        "dark": "/api/Software/RelaGit?theme=dark&wordmark=true",
+        "lightSvg": "relagit-wordmark-light.svg",
+        "darkSvg": "relagit-wordmark-dark.svg"
     },
     "Apple Music Music": {
         "light": "/api/Music/Apple%20Music?theme=light&wordmark=true",
-        "dark": "/api/Music/Apple%20Music?theme=dark&wordmark=true"
+        "dark": "/api/Music/Apple%20Music?theme=dark&wordmark=true",
+        "lightSvg": "apple-music-wordmark-light.svg",
+        "darkSvg": "apple-music-wordmark-dark.svg"
     }
 }

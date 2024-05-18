@@ -1,1626 +1,2438 @@
 {
     "Animate Design": {
         "light": "/api/Design/Animate?theme=light",
-        "dark": "/api/Design/Animate?theme=dark"
+        "dark": "/api/Design/Animate?theme=dark",
+        "lightSvg": "animate.svg",
+        "darkSvg": "animate.svg"
     },
     "Blender Design": {
         "light": "/api/Design/Blender?theme=light",
-        "dark": "/api/Design/Blender?theme=dark"
+        "dark": "/api/Design/Blender?theme=dark",
+        "lightSvg": "blender.svg",
+        "darkSvg": "blender.svg"
     },
     "Lua Language": {
         "light": "/api/Language/Lua?theme=light",
-        "dark": "/api/Language/Lua?theme=dark"
+        "dark": "/api/Language/Lua?theme=dark",
+        "lightSvg": "lua.svg",
+        "darkSvg": "lua.svg"
     },
     "Mercado Pago Payment": {
         "light": "/api/Payment/Mercado%20Pago?theme=light",
-        "dark": "/api/Payment/Mercado%20Pago?theme=dark"
+        "dark": "/api/Payment/Mercado%20Pago?theme=dark",
+        "lightSvg": "mercado-pago.svg",
+        "darkSvg": "mercado-pago.svg"
     },
     "Basewell AI": {
         "light": "/api/AI/Basewell?theme=light",
-        "dark": "/api/AI/Basewell?theme=dark"
+        "dark": "/api/AI/Basewell?theme=dark",
+        "lightSvg": "basewell.svg",
+        "darkSvg": "basewell.svg"
     },
     "ahooks Library": {
         "light": "/api/Library/ahooks?theme=light",
-        "dark": "/api/Library/ahooks?theme=dark"
+        "dark": "/api/Library/ahooks?theme=dark",
+        "lightSvg": "ahooks.svg",
+        "darkSvg": "ahooks.svg"
     },
     "Discord Software": {
         "light": "/api/Software/Discord?theme=light",
-        "dark": "/api/Software/Discord?theme=dark"
+        "dark": "/api/Software/Discord?theme=dark",
+        "lightSvg": "discord.svg",
+        "darkSvg": "discord.svg"
     },
     "Aliexpress Software": {
         "light": "/api/Software/Aliexpress?theme=light",
-        "dark": "/api/Software/Aliexpress?theme=dark"
+        "dark": "/api/Software/Aliexpress?theme=dark",
+        "lightSvg": "aliexpress-icon.svg",
+        "darkSvg": "aliexpress-icon.svg"
     },
     "Github Software": {
         "light": "/api/Software/Github?theme=light",
-        "dark": "/api/Software/Github?theme=dark"
+        "dark": "/api/Software/Github?theme=dark",
+        "lightSvg": "github.svg",
+        "darkSvg": "github.svg"
     },
     "Preact Library": {
         "light": "/api/Library/Preact?theme=light",
-        "dark": "/api/Library/Preact?theme=dark"
+        "dark": "/api/Library/Preact?theme=dark",
+        "lightSvg": "preact.svg",
+        "darkSvg": "preact.svg"
     },
     "React Library": {
         "light": "/api/Library/React?theme=light",
-        "dark": "/api/Library/React?theme=dark"
+        "dark": "/api/Library/React?theme=dark",
+        "lightSvg": "react.svg",
+        "darkSvg": "react.svg"
     },
     "Svelte Library": {
         "light": "/api/Library/Svelte?theme=light",
-        "dark": "/api/Library/Svelte?theme=dark"
+        "dark": "/api/Library/Svelte?theme=dark",
+        "lightSvg": "svelte.svg",
+        "darkSvg": "svelte.svg"
     },
     "Vue Framework": {
         "light": "/api/Framework/Vue?theme=light",
-        "dark": "/api/Framework/Vue?theme=dark"
+        "dark": "/api/Framework/Vue?theme=dark",
+        "lightSvg": "vue.svg",
+        "darkSvg": "vue.svg"
     },
     "Vuetify Library": {
         "light": "/api/Library/Vuetify?theme=light",
-        "dark": "/api/Library/Vuetify?theme=dark"
+        "dark": "/api/Library/Vuetify?theme=dark",
+        "lightSvg": "vuetify.svg",
+        "darkSvg": "vuetify.svg"
     },
     "Nuxt Framework": {
         "light": "/api/Framework/Nuxt?theme=light",
-        "dark": "/api/Framework/Nuxt?theme=dark"
+        "dark": "/api/Framework/Nuxt?theme=dark",
+        "lightSvg": "nuxt.svg",
+        "darkSvg": "nuxt.svg"
     },
     "Visual Studio Code Software": {
         "light": "/api/Software/Visual%20Studio%20Code?theme=light",
-        "dark": "/api/Software/Visual%20Studio%20Code?theme=dark"
+        "dark": "/api/Software/Visual%20Studio%20Code?theme=dark",
+        "lightSvg": "vscode.svg",
+        "darkSvg": "vscode.svg"
     },
     "Ton Crypto": {
         "light": "/api/Crypto/Ton?theme=light",
-        "dark": "/api/Crypto/Ton?theme=dark"
+        "dark": "/api/Crypto/Ton?theme=dark",
+        "lightSvg": "ton.svg",
+        "darkSvg": "ton.svg"
     },
     "Locofy AI": {
         "light": "/api/AI/Locofy?theme=light",
-        "dark": "/api/AI/Locofy?theme=dark"
+        "dark": "/api/AI/Locofy?theme=dark",
+        "lightSvg": "locofy.svg",
+        "darkSvg": "locofy.svg"
     },
     "Runway AI": {
         "light": "/api/AI/Runway?theme=light",
-        "dark": "/api/AI/Runway?theme=dark"
+        "dark": "/api/AI/Runway?theme=dark",
+        "lightSvg": "runway.svg",
+        "darkSvg": "runway.svg"
     },
     "Yarn Software": {
         "light": "/api/Software/Yarn?theme=light",
-        "dark": "/api/Software/Yarn?theme=dark"
+        "dark": "/api/Software/Yarn?theme=dark",
+        "lightSvg": "yarn.svg",
+        "darkSvg": "yarn.svg"
     },
     "JWT Library": {
         "light": "/api/Library/JWT?theme=light",
-        "dark": "/api/Library/JWT?theme=dark"
+        "dark": "/api/Library/JWT?theme=dark",
+        "lightSvg": "jwt.svg",
+        "darkSvg": "jwt.svg"
     },
     "Strapi CMS": {
         "light": "/api/CMS/Strapi?theme=light",
-        "dark": "/api/CMS/Strapi?theme=dark"
+        "dark": "/api/CMS/Strapi?theme=dark",
+        "lightSvg": "strapi.svg",
+        "darkSvg": "strapi.svg"
     },
     "Figma Design": {
         "light": "/api/Design/Figma?theme=light",
-        "dark": "/api/Design/Figma?theme=dark"
+        "dark": "/api/Design/Figma?theme=dark",
+        "lightSvg": "figma.svg",
+        "darkSvg": "figma.svg"
     },
     "Spotify Music": {
         "light": "/api/Music/Spotify?theme=light",
-        "dark": "/api/Music/Spotify?theme=dark"
+        "dark": "/api/Music/Spotify?theme=dark",
+        "lightSvg": "spotify.svg",
+        "darkSvg": "spotify.svg"
     },
     "WorkOS Software": {
         "light": "/api/Software/WorkOS?theme=light",
-        "dark": "/api/Software/WorkOS?theme=dark"
+        "dark": "/api/Software/WorkOS?theme=dark",
+        "lightSvg": "workos.svg",
+        "darkSvg": "workos-light.svg"
     },
     "Whop Marketplace": {
         "light": "/api/Marketplace/Whop?theme=light",
-        "dark": "/api/Marketplace/Whop?theme=dark"
+        "dark": "/api/Marketplace/Whop?theme=dark",
+        "lightSvg": "whop.svg",
+        "darkSvg": "whop-light.svg"
     },
     "Postman Software": {
         "light": "/api/Software/Postman?theme=light",
-        "dark": "/api/Software/Postman?theme=dark"
+        "dark": "/api/Software/Postman?theme=dark",
+        "lightSvg": "postman.svg",
+        "darkSvg": "postman.svg"
     },
     "Discord.js Library": {
         "light": "/api/Library/Discord.js?theme=light",
-        "dark": "/api/Library/Discord.js?theme=dark"
+        "dark": "/api/Library/Discord.js?theme=dark",
+        "lightSvg": "djs.svg",
+        "darkSvg": "djs.svg"
     },
     "OpenSea Crypto": {
         "light": "/api/Crypto/OpenSea?theme=light",
-        "dark": "/api/Crypto/OpenSea?theme=dark"
+        "dark": "/api/Crypto/OpenSea?theme=dark",
+        "lightSvg": "opensea.svg",
+        "darkSvg": "opensea.svg"
     },
     "Algolia Library": {
         "light": "/api/Library/Algolia?theme=light",
-        "dark": "/api/Library/Algolia?theme=dark"
+        "dark": "/api/Library/Algolia?theme=dark",
+        "lightSvg": "algolia.svg",
+        "darkSvg": "algolia.svg"
     },
     "Bootstrap Framework": {
         "light": "/api/Framework/Bootstrap?theme=light",
-        "dark": "/api/Framework/Bootstrap?theme=dark"
+        "dark": "/api/Framework/Bootstrap?theme=dark",
+        "lightSvg": "bootstrap.svg",
+        "darkSvg": "bootstrap.svg"
     },
     "Firebase Hosting": {
         "light": "/api/Hosting/Firebase?theme=light",
-        "dark": "/api/Hosting/Firebase?theme=dark"
+        "dark": "/api/Hosting/Firebase?theme=dark",
+        "lightSvg": "firebase.svg",
+        "darkSvg": "firebase.svg"
     },
     "Vite.js Compiler": {
         "light": "/api/Compiler/Vite.js?theme=light",
-        "dark": "/api/Compiler/Vite.js?theme=dark"
+        "dark": "/api/Compiler/Vite.js?theme=dark",
+        "lightSvg": "vitejs.svg",
+        "darkSvg": "vitejs.svg"
     },
     "Facebook Social": {
         "light": "/api/Social/Facebook?theme=light",
-        "dark": "/api/Social/Facebook?theme=dark"
+        "dark": "/api/Social/Facebook?theme=dark",
+        "lightSvg": "facebook.svg",
+        "darkSvg": "facebook.svg"
     },
     "Twitter Social": {
         "light": "/api/Social/Twitter?theme=light",
-        "dark": "/api/Social/Twitter?theme=dark"
+        "dark": "/api/Social/Twitter?theme=dark",
+        "lightSvg": "twitter.svg",
+        "darkSvg": "twitter.svg"
     },
     "Esbuild Compiler": {
         "light": "/api/Compiler/Esbuild?theme=light",
-        "dark": "/api/Compiler/Esbuild?theme=dark"
+        "dark": "/api/Compiler/Esbuild?theme=dark",
+        "lightSvg": "esbuild.svg",
+        "darkSvg": "esbuild.svg"
     },
     "Deno Library": {
         "light": "/api/Library/Deno?theme=light",
-        "dark": "/api/Library/Deno?theme=dark"
+        "dark": "/api/Library/Deno?theme=dark",
+        "lightSvg": "deno.svg",
+        "darkSvg": "deno_dark.svg"
     },
     "Gatsby Framework": {
         "light": "/api/Framework/Gatsby?theme=light",
-        "dark": "/api/Framework/Gatsby?theme=dark"
+        "dark": "/api/Framework/Gatsby?theme=dark",
+        "lightSvg": "gatsby.svg",
+        "darkSvg": "gatsby.svg"
     },
     "NPM Software": {
         "light": "/api/Software/NPM?theme=light",
-        "dark": "/api/Software/NPM?theme=dark"
+        "dark": "/api/Software/NPM?theme=dark",
+        "lightSvg": "npm.svg",
+        "darkSvg": "npm.svg"
     },
     "Homebrew Software": {
         "light": "/api/Software/Homebrew?theme=light",
-        "dark": "/api/Software/Homebrew?theme=dark"
+        "dark": "/api/Software/Homebrew?theme=dark",
+        "lightSvg": "homebrew.svg",
+        "darkSvg": "homebrew.svg"
     },
     "Sublime Text Software": {
         "light": "/api/Software/Sublime%20Text?theme=light",
-        "dark": "/api/Software/Sublime%20Text?theme=dark"
+        "dark": "/api/Software/Sublime%20Text?theme=dark",
+        "lightSvg": "sublimetext.svg",
+        "darkSvg": "sublimetext.svg"
     },
     "Turborepo Library": {
         "light": "/api/Library/Turborepo?theme=light",
-        "dark": "/api/Library/Turborepo?theme=dark"
+        "dark": "/api/Library/Turborepo?theme=dark",
+        "lightSvg": "turborepo.svg",
+        "darkSvg": "turborepo.svg"
     },
     "Tailwind CSS Framework": {
         "light": "/api/Framework/Tailwind%20CSS?theme=light",
-        "dark": "/api/Framework/Tailwind%20CSS?theme=dark"
+        "dark": "/api/Framework/Tailwind%20CSS?theme=dark",
+        "lightSvg": "tailwindcss.svg",
+        "darkSvg": "tailwindcss.svg"
     },
     "Styled Components Library": {
         "light": "/api/Library/Styled%20Components?theme=light",
-        "dark": "/api/Library/Styled%20Components?theme=dark"
+        "dark": "/api/Library/Styled%20Components?theme=dark",
+        "lightSvg": "styledcomponents.svg",
+        "darkSvg": "styledcomponents.svg"
     },
     "Angular Framework": {
         "light": "/api/Framework/Angular?theme=light",
-        "dark": "/api/Framework/Angular?theme=dark"
+        "dark": "/api/Framework/Angular?theme=dark",
+        "lightSvg": "angular.svg",
+        "darkSvg": "angular.svg"
     },
     "Blitz Framework": {
         "light": "/api/Framework/Blitz?theme=light",
-        "dark": "/api/Framework/Blitz?theme=dark"
+        "dark": "/api/Framework/Blitz?theme=dark",
+        "lightSvg": "blitzjs.svg",
+        "darkSvg": "blitzjs.svg"
     },
     "Lit Library": {
         "light": "/api/Library/Lit?theme=light",
-        "dark": "/api/Library/Lit?theme=dark"
+        "dark": "/api/Library/Lit?theme=dark",
+        "lightSvg": "lit.svg",
+        "darkSvg": "lit.svg"
     },
     "Atom Software": {
         "light": "/api/Software/Atom?theme=light",
-        "dark": "/api/Software/Atom?theme=dark"
+        "dark": "/api/Software/Atom?theme=dark",
+        "lightSvg": "atom.svg",
+        "darkSvg": "atom.svg"
     },
     "YouTube Social": {
         "light": "/api/Social/YouTube?theme=light",
-        "dark": "/api/Social/YouTube?theme=dark"
+        "dark": "/api/Social/YouTube?theme=dark",
+        "lightSvg": "youtube.svg",
+        "darkSvg": "youtube.svg"
     },
     "Astro Framework": {
         "light": "/api/Framework/Astro?theme=light",
-        "dark": "/api/Framework/Astro?theme=dark"
+        "dark": "/api/Framework/Astro?theme=dark",
+        "lightSvg": "astro.svg",
+        "darkSvg": "astro_dark.svg"
     },
     "Google Social": {
         "light": "/api/Social/Google?theme=light",
-        "dark": "/api/Social/Google?theme=dark"
+        "dark": "/api/Social/Google?theme=dark",
+        "lightSvg": "google.svg",
+        "darkSvg": "google.svg"
     },
     "Framer Software": {
         "light": "/api/Software/Framer?theme=light",
-        "dark": "/api/Software/Framer?theme=dark"
+        "dark": "/api/Software/Framer?theme=dark",
+        "lightSvg": "framer.svg",
+        "darkSvg": "framer_dark.svg"
     },
     "Netflix Entertainment": {
         "light": "/api/Entertainment/Netflix?theme=light",
-        "dark": "/api/Entertainment/Netflix?theme=dark"
+        "dark": "/api/Entertainment/Netflix?theme=dark",
+        "lightSvg": "netflix.svg",
+        "darkSvg": "netflix.svg"
     },
     "Firefox Browser": {
         "light": "/api/Browser/Firefox?theme=light",
-        "dark": "/api/Browser/Firefox?theme=dark"
+        "dark": "/api/Browser/Firefox?theme=dark",
+        "lightSvg": "firefox.svg",
+        "darkSvg": "firefox.svg"
     },
     "LinkedIn Social": {
         "light": "/api/Social/LinkedIn?theme=light",
-        "dark": "/api/Social/LinkedIn?theme=dark"
+        "dark": "/api/Social/LinkedIn?theme=dark",
+        "lightSvg": "linkedin.svg",
+        "darkSvg": "linkedin.svg"
     },
     "Telegram Social": {
         "light": "/api/Social/Telegram?theme=light",
-        "dark": "/api/Social/Telegram?theme=dark"
+        "dark": "/api/Social/Telegram?theme=dark",
+        "lightSvg": "telegram.svg",
+        "darkSvg": "telegram.svg"
     },
     "WhatsApp Social": {
         "light": "/api/Social/WhatsApp?theme=light",
-        "dark": "/api/Social/WhatsApp?theme=dark"
+        "dark": "/api/Social/WhatsApp?theme=dark",
+        "lightSvg": "whatsapp.svg",
+        "darkSvg": "whatsapp.svg"
     },
     "Headless UI Library": {
         "light": "/api/Library/Headless%20UI?theme=light",
-        "dark": "/api/Library/Headless%20UI?theme=dark"
+        "dark": "/api/Library/Headless%20UI?theme=dark",
+        "lightSvg": "headlessui.svg",
+        "darkSvg": "headlessui.svg"
     },
     "Kotlin Language": {
         "light": "/api/Language/Kotlin?theme=light",
-        "dark": "/api/Language/Kotlin?theme=dark"
+        "dark": "/api/Language/Kotlin?theme=dark",
+        "lightSvg": "kotlin.svg",
+        "darkSvg": "kotlin.svg"
     },
     "Vitest Framework": {
         "light": "/api/Framework/Vitest?theme=light",
-        "dark": "/api/Framework/Vitest?theme=dark"
+        "dark": "/api/Framework/Vitest?theme=dark",
+        "lightSvg": "vitest.svg",
+        "darkSvg": "vitest.svg"
     },
     "Storybook Software": {
         "light": "/api/Software/Storybook?theme=light",
-        "dark": "/api/Software/Storybook?theme=dark"
+        "dark": "/api/Software/Storybook?theme=dark",
+        "lightSvg": "storybook.svg",
+        "darkSvg": "storybook.svg"
     },
     "Netlify Hosting": {
         "light": "/api/Hosting/Netlify?theme=light",
-        "dark": "/api/Hosting/Netlify?theme=dark"
+        "dark": "/api/Hosting/Netlify?theme=dark",
+        "lightSvg": "netlify.svg",
+        "darkSvg": "netlify.svg"
     },
     "Solidjs Framework": {
         "light": "/api/Framework/Solidjs?theme=light",
-        "dark": "/api/Framework/Solidjs?theme=dark"
+        "dark": "/api/Framework/Solidjs?theme=dark",
+        "lightSvg": "solidjs.svg",
+        "darkSvg": "solidjs.svg"
     },
     "MongoDB Database": {
         "light": "/api/Database/MongoDB?theme=light",
-        "dark": "/api/Database/MongoDB?theme=dark"
+        "dark": "/api/Database/MongoDB?theme=dark",
+        "lightSvg": "mongodb.svg",
+        "darkSvg": "mongodb.svg"
     },
     "Moon Framework": {
         "light": "/api/Framework/Moon?theme=light",
-        "dark": "/api/Framework/Moon?theme=dark"
+        "dark": "/api/Framework/Moon?theme=dark",
+        "lightSvg": "moon.svg",
+        "darkSvg": "moon.svg"
     },
     "Payload CMS CMS": {
         "light": "/api/CMS/Payload%20CMS?theme=light",
-        "dark": "/api/CMS/Payload%20CMS?theme=dark"
+        "dark": "/api/CMS/Payload%20CMS?theme=dark",
+        "lightSvg": "payload.svg",
+        "darkSvg": "payload_dark.svg"
     },
     "Fly Hosting": {
         "light": "/api/Hosting/Fly?theme=light",
-        "dark": "/api/Hosting/Fly?theme=dark"
+        "dark": "/api/Hosting/Fly?theme=dark",
+        "lightSvg": "fly.svg",
+        "darkSvg": "fly.svg"
     },
     "LearnThis Education": {
         "light": "/api/Education/LearnThis?theme=light",
-        "dark": "/api/Education/LearnThis?theme=dark"
+        "dark": "/api/Education/LearnThis?theme=dark",
+        "lightSvg": "learnthis.svg",
+        "darkSvg": "learnthis.svg"
     },
     "Visual Studio Software": {
         "light": "/api/Software/Visual%20Studio?theme=light",
-        "dark": "/api/Software/Visual%20Studio?theme=dark"
+        "dark": "/api/Software/Visual%20Studio?theme=dark",
+        "lightSvg": "visual-studio.svg",
+        "darkSvg": "visual-studio.svg"
     },
     "Chakra UI Library": {
         "light": "/api/Library/Chakra%20UI?theme=light",
-        "dark": "/api/Library/Chakra%20UI?theme=dark"
+        "dark": "/api/Library/Chakra%20UI?theme=dark",
+        "lightSvg": "chakra-ui.svg",
+        "darkSvg": "chakra-ui.svg"
     },
     "Express.js Framework": {
         "light": "/api/Framework/Express.js?theme=light",
-        "dark": "/api/Framework/Express.js?theme=dark"
+        "dark": "/api/Framework/Express.js?theme=dark",
+        "lightSvg": "expressjs.svg",
+        "darkSvg": "expressjs_dark.svg"
     },
     "Fastify Framework": {
         "light": "/api/Framework/Fastify?theme=light",
-        "dark": "/api/Framework/Fastify?theme=dark"
+        "dark": "/api/Framework/Fastify?theme=dark",
+        "lightSvg": "fastify.svg",
+        "darkSvg": "fastify_dark.svg"
     },
     "JavaScript Language": {
         "light": "/api/Language/JavaScript?theme=light",
-        "dark": "/api/Language/JavaScript?theme=dark"
+        "dark": "/api/Language/JavaScript?theme=dark",
+        "lightSvg": "javascript.svg",
+        "darkSvg": "javascript.svg"
     },
     "jQuery Library": {
         "light": "/api/Library/jQuery?theme=light",
-        "dark": "/api/Library/jQuery?theme=dark"
+        "dark": "/api/Library/jQuery?theme=dark",
+        "lightSvg": "jquery.svg",
+        "darkSvg": "jquery_dark.svg"
     },
     "Rapid API Software": {
         "light": "/api/Software/Rapid%20API?theme=light",
-        "dark": "/api/Software/Rapid%20API?theme=dark"
+        "dark": "/api/Software/Rapid%20API?theme=dark",
+        "lightSvg": "rapidapi.svg",
+        "darkSvg": "rapidapi.svg"
     },
     "TypeScript Language": {
         "light": "/api/Language/TypeScript?theme=light",
-        "dark": "/api/Language/TypeScript?theme=dark"
+        "dark": "/api/Language/TypeScript?theme=dark",
+        "lightSvg": "typescript.svg",
+        "darkSvg": "typescript.svg"
     },
     "Bun Library": {
         "light": "/api/Library/Bun?theme=light",
-        "dark": "/api/Library/Bun?theme=dark"
+        "dark": "/api/Library/Bun?theme=dark",
+        "lightSvg": "bun.svg",
+        "darkSvg": "bun.svg"
     },
     "BuildShip AI": {
         "light": "/api/AI/BuildShip?theme=light",
-        "dark": "/api/AI/BuildShip?theme=dark"
+        "dark": "/api/AI/BuildShip?theme=dark",
+        "lightSvg": "buildship.svg",
+        "darkSvg": "buildship.svg"
     },
     "Twilio Software": {
         "light": "/api/Software/Twilio?theme=light",
-        "dark": "/api/Software/Twilio?theme=dark"
+        "dark": "/api/Software/Twilio?theme=dark",
+        "lightSvg": "twilio.svg",
+        "darkSvg": "twilio.svg"
     },
     "Arc Social": {
         "light": "/api/Social/Arc?theme=light",
-        "dark": "/api/Social/Arc?theme=dark"
+        "dark": "/api/Social/Arc?theme=dark",
+        "lightSvg": "arc.svg",
+        "darkSvg": "arc_dark.svg"
     },
     "Arc Software": {
         "light": "/api/Software/Arc?theme=light",
-        "dark": "/api/Software/Arc?theme=dark"
+        "dark": "/api/Software/Arc?theme=dark",
+        "lightSvg": "arc_fintech_light.svg",
+        "darkSvg": "arc_fintech_dark.svg"
     },
     "Qwik Framework": {
         "light": "/api/Framework/Qwik?theme=light",
-        "dark": "/api/Framework/Qwik?theme=dark"
+        "dark": "/api/Framework/Qwik?theme=dark",
+        "lightSvg": "qwik.svg",
+        "darkSvg": "qwik.svg"
     },
     "Coinbase Crypto": {
         "light": "/api/Crypto/Coinbase?theme=light",
-        "dark": "/api/Crypto/Coinbase?theme=dark"
+        "dark": "/api/Crypto/Coinbase?theme=dark",
+        "lightSvg": "coinbase.svg",
+        "darkSvg": "coinbase.svg"
     },
     "Authy Software": {
         "light": "/api/Software/Authy?theme=light",
-        "dark": "/api/Software/Authy?theme=dark"
+        "dark": "/api/Software/Authy?theme=dark",
+        "lightSvg": "authy.svg",
+        "darkSvg": "authy.svg"
     },
     "NestJS Framework": {
         "light": "/api/Framework/NestJS?theme=light",
-        "dark": "/api/Framework/NestJS?theme=dark"
+        "dark": "/api/Framework/NestJS?theme=dark",
+        "lightSvg": "nestjs.svg",
+        "darkSvg": "nestjs.svg"
     },
     "GitHub Copilot Software": {
         "light": "/api/Software/GitHub%20Copilot?theme=light",
-        "dark": "/api/Software/GitHub%20Copilot?theme=dark"
+        "dark": "/api/Software/GitHub%20Copilot?theme=dark",
+        "lightSvg": "copilot.svg",
+        "darkSvg": "copilot_dark.svg"
     },
     "Railway Software": {
         "light": "/api/Software/Railway?theme=light",
-        "dark": "/api/Software/Railway?theme=dark"
+        "dark": "/api/Software/Railway?theme=dark",
+        "lightSvg": "railway.svg",
+        "darkSvg": "railway_dark.svg"
     },
     "Docusaurus Software": {
         "light": "/api/Software/Docusaurus?theme=light",
-        "dark": "/api/Software/Docusaurus?theme=dark"
+        "dark": "/api/Software/Docusaurus?theme=dark",
+        "lightSvg": "docusaurus.svg",
+        "darkSvg": "docusaurus.svg"
     },
     "Twitch Entertainment": {
         "light": "/api/Entertainment/Twitch?theme=light",
-        "dark": "/api/Entertainment/Twitch?theme=dark"
+        "dark": "/api/Entertainment/Twitch?theme=dark",
+        "lightSvg": "twitch.svg",
+        "darkSvg": "twitch.svg"
     },
     "GoDaddy Hosting": {
         "light": "/api/Hosting/GoDaddy?theme=light",
-        "dark": "/api/Hosting/GoDaddy?theme=dark"
+        "dark": "/api/Hosting/GoDaddy?theme=dark",
+        "lightSvg": "godaddy.svg",
+        "darkSvg": "godaddy_dark.svg"
     },
     "Udemy Education": {
         "light": "/api/Education/Udemy?theme=light",
-        "dark": "/api/Education/Udemy?theme=dark"
+        "dark": "/api/Education/Udemy?theme=dark",
+        "lightSvg": "udemy.svg",
+        "darkSvg": "udemy_dark.svg"
     },
     "GraphQL Language": {
         "light": "/api/Language/GraphQL?theme=light",
-        "dark": "/api/Language/GraphQL?theme=dark"
+        "dark": "/api/Language/GraphQL?theme=dark",
+        "lightSvg": "graphql.svg",
+        "darkSvg": "graphql.svg"
     },
     "GitLab Software": {
         "light": "/api/Software/GitLab?theme=light",
-        "dark": "/api/Software/GitLab?theme=dark"
+        "dark": "/api/Software/GitLab?theme=dark",
+        "lightSvg": "gitlab.svg",
+        "darkSvg": "gitlab.svg"
     },
     "Prisma Software": {
         "light": "/api/Software/Prisma?theme=light",
-        "dark": "/api/Software/Prisma?theme=dark"
+        "dark": "/api/Software/Prisma?theme=dark",
+        "lightSvg": "prisma.svg",
+        "darkSvg": "prisma_dark.svg"
     },
     "Go Language": {
         "light": "/api/Language/Go?theme=light",
-        "dark": "/api/Language/Go?theme=dark"
+        "dark": "/api/Language/Go?theme=dark",
+        "lightSvg": "golang.svg",
+        "darkSvg": "golang_dark.svg"
     },
     "Platzi Education": {
         "light": "/api/Education/Platzi?theme=light",
-        "dark": "/api/Education/Platzi?theme=dark"
+        "dark": "/api/Education/Platzi?theme=dark",
+        "lightSvg": "platzi.svg",
+        "darkSvg": "platzi.svg"
     },
     "Coursera Education": {
         "light": "/api/Education/Coursera?theme=light",
-        "dark": "/api/Education/Coursera?theme=dark"
+        "dark": "/api/Education/Coursera?theme=dark",
+        "lightSvg": "coursera.svg",
+        "darkSvg": "coursera.svg"
     },
     "Udacity Education": {
         "light": "/api/Education/Udacity?theme=light",
-        "dark": "/api/Education/Udacity?theme=dark"
+        "dark": "/api/Education/Udacity?theme=dark",
+        "lightSvg": "udacity.svg",
+        "darkSvg": "udacity.svg"
     },
     "Kubernetes Software": {
         "light": "/api/Software/Kubernetes?theme=light",
-        "dark": "/api/Software/Kubernetes?theme=dark"
+        "dark": "/api/Software/Kubernetes?theme=dark",
+        "lightSvg": "kubernetes.svg",
+        "darkSvg": "kubernetes.svg"
     },
     "Docker Software": {
         "light": "/api/Software/Docker?theme=light",
-        "dark": "/api/Software/Docker?theme=dark"
+        "dark": "/api/Software/Docker?theme=dark",
+        "lightSvg": "docker.svg",
+        "darkSvg": "docker.svg"
     },
     "Amazon Web Services Software": {
         "light": "/api/Software/Amazon%20Web%20Services?theme=light",
-        "dark": "/api/Software/Amazon%20Web%20Services?theme=dark"
+        "dark": "/api/Software/Amazon%20Web%20Services?theme=dark",
+        "lightSvg": "aws.svg",
+        "darkSvg": "aws.svg"
     },
     "Microsoft Azure Software": {
         "light": "/api/Software/Microsoft%20Azure?theme=light",
-        "dark": "/api/Software/Microsoft%20Azure?theme=dark"
+        "dark": "/api/Software/Microsoft%20Azure?theme=dark",
+        "lightSvg": "azure.svg",
+        "darkSvg": "azure.svg"
     },
     "Heroku Software": {
         "light": "/api/Software/Heroku?theme=light",
-        "dark": "/api/Software/Heroku?theme=dark"
+        "dark": "/api/Software/Heroku?theme=dark",
+        "lightSvg": "heroku.svg",
+        "darkSvg": "heroku.svg"
     },
     "JetBrains Software": {
         "light": "/api/Software/JetBrains?theme=light",
-        "dark": "/api/Software/JetBrains?theme=dark"
+        "dark": "/api/Software/JetBrains?theme=dark",
+        "lightSvg": "jetbrainsSolid.svg",
+        "darkSvg": "jetbrainsSolid.svg"
     },
     "JetBrains Rider Software": {
         "light": "/api/Software/JetBrains%20Rider?theme=light",
-        "dark": "/api/Software/JetBrains%20Rider?theme=dark"
+        "dark": "/api/Software/JetBrains%20Rider?theme=dark",
+        "lightSvg": "rider.svg",
+        "darkSvg": "rider.svg"
     },
     "PlanetScale Database": {
         "light": "/api/Database/PlanetScale?theme=light",
-        "dark": "/api/Database/PlanetScale?theme=dark"
+        "dark": "/api/Database/PlanetScale?theme=dark",
+        "lightSvg": "planetscale.svg",
+        "darkSvg": "planetscale_dark.svg"
     },
     "Playwright Framework": {
         "light": "/api/Framework/Playwright?theme=light",
-        "dark": "/api/Framework/Playwright?theme=dark"
+        "dark": "/api/Framework/Playwright?theme=dark",
+        "lightSvg": "playwright.svg",
+        "darkSvg": "playwright.svg"
     },
     "Atlassian Software": {
         "light": "/api/Software/Atlassian?theme=light",
-        "dark": "/api/Software/Atlassian?theme=dark"
+        "dark": "/api/Software/Atlassian?theme=dark",
+        "lightSvg": "atlassian.svg",
+        "darkSvg": "atlassian.svg"
     },
     "Discourse Software": {
         "light": "/api/Software/Discourse?theme=light",
-        "dark": "/api/Software/Discourse?theme=dark"
+        "dark": "/api/Software/Discourse?theme=dark",
+        "lightSvg": "discourse.svg",
+        "darkSvg": "discourse.svg"
     },
     "Ember Framework": {
         "light": "/api/Framework/Ember?theme=light",
-        "dark": "/api/Framework/Ember?theme=dark"
+        "dark": "/api/Framework/Ember?theme=dark",
+        "lightSvg": "ember.svg",
+        "darkSvg": "ember.svg"
     },
     "Expo Software": {
         "light": "/api/Software/Expo?theme=light",
-        "dark": "/api/Software/Expo?theme=dark"
+        "dark": "/api/Software/Expo?theme=dark",
+        "lightSvg": "expo.svg",
+        "darkSvg": "expo.svg"
     },
     "Flutter Framework": {
         "light": "/api/Framework/Flutter?theme=light",
-        "dark": "/api/Framework/Flutter?theme=dark"
+        "dark": "/api/Framework/Flutter?theme=dark",
+        "lightSvg": "flutter.svg",
+        "darkSvg": "flutter.svg"
     },
     "Auth0 Library": {
         "light": "/api/Library/Auth0?theme=light",
-        "dark": "/api/Library/Auth0?theme=dark"
+        "dark": "/api/Library/Auth0?theme=dark",
+        "lightSvg": "auth0.svg",
+        "darkSvg": "auth0.svg"
     },
     "Fresh Framework": {
         "light": "/api/Framework/Fresh?theme=light",
-        "dark": "/api/Framework/Fresh?theme=dark"
+        "dark": "/api/Framework/Fresh?theme=dark",
+        "lightSvg": "fresh.svg",
+        "darkSvg": "fresh.svg"
     },
     "Git Software": {
         "light": "/api/Software/Git?theme=light",
-        "dark": "/api/Software/Git?theme=dark"
+        "dark": "/api/Software/Git?theme=dark",
+        "lightSvg": "git.svg",
+        "darkSvg": "git.svg"
     },
     "Hostgator Hosting": {
         "light": "/api/Hosting/Hostgator?theme=light",
-        "dark": "/api/Hosting/Hostgator?theme=dark"
+        "dark": "/api/Hosting/Hostgator?theme=dark",
+        "lightSvg": "hostgator.svg",
+        "darkSvg": "hostgator.svg"
     },
     "IntelliJ IDEA Software": {
         "light": "/api/Software/IntelliJ%20IDEA?theme=light",
-        "dark": "/api/Software/IntelliJ%20IDEA?theme=dark"
+        "dark": "/api/Software/IntelliJ%20IDEA?theme=dark",
+        "lightSvg": "intellijidea.svg",
+        "darkSvg": "intellijidea.svg"
     },
     "Jasmine Framework": {
         "light": "/api/Framework/Jasmine?theme=light",
-        "dark": "/api/Framework/Jasmine?theme=dark"
+        "dark": "/api/Framework/Jasmine?theme=dark",
+        "lightSvg": "jasmine.svg",
+        "darkSvg": "jasmine.svg"
     },
     "Java Language": {
         "light": "/api/Language/Java?theme=light",
-        "dark": "/api/Language/Java?theme=dark"
+        "dark": "/api/Language/Java?theme=dark",
+        "lightSvg": "java.svg",
+        "darkSvg": "java.svg"
     },
     "Jest Framework": {
         "light": "/api/Framework/Jest?theme=light",
-        "dark": "/api/Framework/Jest?theme=dark"
+        "dark": "/api/Framework/Jest?theme=dark",
+        "lightSvg": "jest.svg",
+        "darkSvg": "jest.svg"
     },
     "KrakenJS Framework": {
         "light": "/api/Framework/KrakenJS?theme=light",
-        "dark": "/api/Framework/KrakenJS?theme=dark"
+        "dark": "/api/Framework/KrakenJS?theme=dark",
+        "lightSvg": "krakenjs.svg",
+        "darkSvg": "krakenjs.svg"
     },
     "Laravel Framework": {
         "light": "/api/Framework/Laravel?theme=light",
-        "dark": "/api/Framework/Laravel?theme=dark"
+        "dark": "/api/Framework/Laravel?theme=dark",
+        "lightSvg": "laravel.svg",
+        "darkSvg": "laravel.svg"
     },
     "MariaDB Database": {
         "light": "/api/Database/MariaDB?theme=light",
-        "dark": "/api/Database/MariaDB?theme=dark"
+        "dark": "/api/Database/MariaDB?theme=dark",
+        "lightSvg": "mariadb.svg",
+        "darkSvg": "mariadb.svg"
     },
     "Material UI Framework": {
         "light": "/api/Framework/Material%20UI?theme=light",
-        "dark": "/api/Framework/Material%20UI?theme=dark"
+        "dark": "/api/Framework/Material%20UI?theme=dark",
+        "lightSvg": "materialui.svg",
+        "darkSvg": "materialui.svg"
     },
     "MySQL Database": {
         "light": "/api/Database/MySQL?theme=light",
-        "dark": "/api/Database/MySQL?theme=dark"
+        "dark": "/api/Database/MySQL?theme=dark",
+        "lightSvg": "mysql.svg",
+        "darkSvg": "mysql.svg"
     },
     "Parcel Compiler": {
         "light": "/api/Compiler/Parcel?theme=light",
-        "dark": "/api/Compiler/Parcel?theme=dark"
+        "dark": "/api/Compiler/Parcel?theme=dark",
+        "lightSvg": "parcel.svg",
+        "darkSvg": "parcel.svg"
     },
     "PM2 Framework": {
         "light": "/api/Framework/PM2?theme=light",
-        "dark": "/api/Framework/PM2?theme=dark"
+        "dark": "/api/Framework/PM2?theme=dark",
+        "lightSvg": "pm2.svg",
+        "darkSvg": "pm2.svg"
     },
     "PostgreSQL Database": {
         "light": "/api/Database/PostgreSQL?theme=light",
-        "dark": "/api/Database/PostgreSQL?theme=dark"
+        "dark": "/api/Database/PostgreSQL?theme=dark",
+        "lightSvg": "postgresql.svg",
+        "darkSvg": "postgresql.svg"
     },
     "React Query Framework": {
         "light": "/api/Framework/React%20Query?theme=light",
-        "dark": "/api/Framework/React%20Query?theme=dark"
+        "dark": "/api/Framework/React%20Query?theme=dark",
+        "lightSvg": "reactquery.svg",
+        "darkSvg": "reactquery.svg"
     },
     "Devto Community": {
         "light": "/api/Community/Devto?theme=light",
-        "dark": "/api/Community/Devto?theme=dark"
+        "dark": "/api/Community/Devto?theme=dark",
+        "lightSvg": "devto-light.svg",
+        "darkSvg": "devto-dark.svg"
     },
     "Redis Database": {
         "light": "/api/Database/Redis?theme=light",
-        "dark": "/api/Database/Redis?theme=dark"
+        "dark": "/api/Database/Redis?theme=dark",
+        "lightSvg": "redis.svg",
+        "darkSvg": "redis.svg"
     },
     "RedwoodJS Framework": {
         "light": "/api/Framework/RedwoodJS?theme=light",
-        "dark": "/api/Framework/RedwoodJS?theme=dark"
+        "dark": "/api/Framework/RedwoodJS?theme=dark",
+        "lightSvg": "redwoodjs.svg",
+        "darkSvg": "redwoodjs.svg"
     },
     "Ruby Language": {
         "light": "/api/Language/Ruby?theme=light",
-        "dark": "/api/Language/Ruby?theme=dark"
+        "dark": "/api/Language/Ruby?theme=dark",
+        "lightSvg": "ruby.svg",
+        "darkSvg": "ruby.svg"
     },
     "Scala Language": {
         "light": "/api/Language/Scala?theme=light",
-        "dark": "/api/Language/Scala?theme=dark"
+        "dark": "/api/Language/Scala?theme=dark",
+        "lightSvg": "scala.svg",
+        "darkSvg": "scala.svg"
     },
     "Sequelize Framework": {
         "light": "/api/Framework/Sequelize?theme=light",
-        "dark": "/api/Framework/Sequelize?theme=dark"
+        "dark": "/api/Framework/Sequelize?theme=dark",
+        "lightSvg": "sequelize.svg",
+        "darkSvg": "sequelize.svg"
     },
     "Spinnaker Software": {
         "light": "/api/Software/Spinnaker?theme=light",
-        "dark": "/api/Software/Spinnaker?theme=dark"
+        "dark": "/api/Software/Spinnaker?theme=dark",
+        "lightSvg": "spinnaker.svg",
+        "darkSvg": "spinnaker.svg"
     },
     "SQLite Database": {
         "light": "/api/Database/SQLite?theme=light",
-        "dark": "/api/Database/SQLite?theme=dark"
+        "dark": "/api/Database/SQLite?theme=dark",
+        "lightSvg": "sqlite.svg",
+        "darkSvg": "sqlite.svg"
     },
     "Swagger Software": {
         "light": "/api/Software/Swagger?theme=light",
-        "dark": "/api/Software/Swagger?theme=dark"
+        "dark": "/api/Software/Swagger?theme=dark",
+        "lightSvg": "swagger.svg",
+        "darkSvg": "swagger.svg"
     },
     "Swift Language": {
         "light": "/api/Language/Swift?theme=light",
-        "dark": "/api/Language/Swift?theme=dark"
+        "dark": "/api/Language/Swift?theme=dark",
+        "lightSvg": "swift.svg",
+        "darkSvg": "swift.svg"
     },
     "TypeORM Database": {
         "light": "/api/Database/TypeORM?theme=light",
-        "dark": "/api/Database/TypeORM?theme=dark"
+        "dark": "/api/Database/TypeORM?theme=dark",
+        "lightSvg": "typeorm.svg",
+        "darkSvg": "typeorm.svg"
     },
     "Unity Software": {
         "light": "/api/Software/Unity?theme=light",
-        "dark": "/api/Software/Unity?theme=dark"
+        "dark": "/api/Software/Unity?theme=dark",
+        "lightSvg": "unity.svg",
+        "darkSvg": "unity_dark.svg"
     },
     "Vim Software": {
         "light": "/api/Software/Vim?theme=light",
-        "dark": "/api/Software/Vim?theme=dark"
+        "dark": "/api/Software/Vim?theme=dark",
+        "lightSvg": "vim.svg",
+        "darkSvg": "vim.svg"
     },
     "Pocketbase Database": {
         "light": "/api/Database/Pocketbase?theme=light",
-        "dark": "/api/Database/Pocketbase?theme=dark"
+        "dark": "/api/Database/Pocketbase?theme=dark",
+        "lightSvg": "pocket-base.svg",
+        "darkSvg": "pocket-base.svg"
     },
     "OpenBootcamp Education": {
         "light": "/api/Education/OpenBootcamp?theme=light",
-        "dark": "/api/Education/OpenBootcamp?theme=dark"
+        "dark": "/api/Education/OpenBootcamp?theme=dark",
+        "lightSvg": "openbootcamp.svg",
+        "darkSvg": "openbootcamp.svg"
     },
     "Digital Ocean Software": {
         "light": "/api/Software/Digital%20Ocean?theme=light",
-        "dark": "/api/Software/Digital%20Ocean?theme=dark"
+        "dark": "/api/Software/Digital%20Ocean?theme=dark",
+        "lightSvg": "digitalocean.svg",
+        "darkSvg": "digitalocean.svg"
     },
     "Disney+ Entertainment": {
         "light": "/api/Entertainment/Disney%2B?theme=light",
-        "dark": "/api/Entertainment/Disney%2B?theme=dark"
+        "dark": "/api/Entertainment/Disney%2B?theme=dark",
+        "lightSvg": "disneyplus.svg",
+        "darkSvg": "disneyplus.svg"
     },
     "React Router Library": {
         "light": "/api/Library/React%20Router?theme=light",
-        "dark": "/api/Library/React%20Router?theme=dark"
+        "dark": "/api/Library/React%20Router?theme=dark",
+        "lightSvg": "reactrouter.svg",
+        "darkSvg": "reactrouter.svg"
     },
     "AMP Library": {
         "light": "/api/Library/AMP?theme=light",
-        "dark": "/api/Library/AMP?theme=dark"
+        "dark": "/api/Library/AMP?theme=dark",
+        "lightSvg": "amp.svg",
+        "darkSvg": "amp.svg"
     },
     "Developer Student Club Community": {
         "light": "/api/Community/Developer%20Student%20Club?theme=light",
-        "dark": "/api/Community/Developer%20Student%20Club?theme=dark"
+        "dark": "/api/Community/Developer%20Student%20Club?theme=dark",
+        "lightSvg": "gdsc.svg",
+        "darkSvg": "gdsc.svg"
     },
     "Brave Browser Browser": {
         "light": "/api/Browser/Brave%20Browser?theme=light",
-        "dark": "/api/Browser/Brave%20Browser?theme=dark"
+        "dark": "/api/Browser/Brave%20Browser?theme=dark",
+        "lightSvg": "brave.svg",
+        "darkSvg": "brave.svg"
     },
     "Eclipse IDE Software": {
         "light": "/api/Software/Eclipse%20IDE?theme=light",
-        "dark": "/api/Software/Eclipse%20IDE?theme=dark"
+        "dark": "/api/Software/Eclipse%20IDE?theme=dark",
+        "lightSvg": "eclipse.svg",
+        "darkSvg": "eclipse.svg"
     },
     "Three.js Library": {
         "light": "/api/Library/Three.js?theme=light",
-        "dark": "/api/Library/Three.js?theme=dark"
+        "dark": "/api/Library/Three.js?theme=dark",
+        "lightSvg": "threejs-light.svg",
+        "darkSvg": "threejs-dark.svg"
     },
     "HTML5 Language": {
         "light": "/api/Language/HTML5?theme=light",
-        "dark": "/api/Language/HTML5?theme=dark"
+        "dark": "/api/Language/HTML5?theme=dark",
+        "lightSvg": "html5.svg",
+        "darkSvg": "html5.svg"
     },
     "CSS Language": {
         "light": "/api/Language/CSS?theme=light",
-        "dark": "/api/Language/CSS?theme=dark"
+        "dark": "/api/Language/CSS?theme=dark",
+        "lightSvg": "css.svg",
+        "darkSvg": "css.svg"
     },
     "midudev Community": {
         "light": "/api/Community/midudev?theme=light",
-        "dark": "/api/Community/midudev?theme=dark"
+        "dark": "/api/Community/midudev?theme=dark",
+        "lightSvg": "midudev.svg",
+        "darkSvg": "midudev.svg"
     },
     "Apple Software": {
         "light": "/api/Software/Apple?theme=light",
-        "dark": "/api/Software/Apple?theme=dark"
+        "dark": "/api/Software/Apple?theme=dark",
+        "lightSvg": "apple.svg",
+        "darkSvg": "apple_dark.svg"
     },
     "Windows Software": {
         "light": "/api/Software/Windows?theme=light",
-        "dark": "/api/Software/Windows?theme=dark"
+        "dark": "/api/Software/Windows?theme=dark",
+        "lightSvg": "windows.svg",
+        "darkSvg": "windows.svg"
     },
     "Python Language": {
         "light": "/api/Language/Python?theme=light",
-        "dark": "/api/Language/Python?theme=dark"
+        "dark": "/api/Language/Python?theme=dark",
+        "lightSvg": "python.svg",
+        "darkSvg": "python.svg"
     },
     "Solidity Language": {
         "light": "/api/Language/Solidity?theme=light",
-        "dark": "/api/Language/Solidity?theme=dark"
+        "dark": "/api/Language/Solidity?theme=dark",
+        "lightSvg": "solidity.svg",
+        "darkSvg": "solidity.svg"
     },
     "Turbopack Software": {
         "light": "/api/Software/Turbopack?theme=light",
-        "dark": "/api/Software/Turbopack?theme=dark"
+        "dark": "/api/Software/Turbopack?theme=dark",
+        "lightSvg": "turbopack.svg",
+        "darkSvg": "turbopack.svg"
     },
     "Builder CMS": {
         "light": "/api/CMS/Builder?theme=light",
-        "dark": "/api/CMS/Builder?theme=dark"
+        "dark": "/api/CMS/Builder?theme=dark",
+        "lightSvg": "builder.svg",
+        "darkSvg": "builder.svg"
     },
     "Babel Compiler": {
         "light": "/api/Compiler/Babel?theme=light",
-        "dark": "/api/Compiler/Babel?theme=dark"
+        "dark": "/api/Compiler/Babel?theme=dark",
+        "lightSvg": "babel.svg",
+        "darkSvg": "babel.svg"
     },
     "Surrealdb Database": {
         "light": "/api/Database/Surrealdb?theme=light",
-        "dark": "/api/Database/Surrealdb?theme=dark"
+        "dark": "/api/Database/Surrealdb?theme=dark",
+        "lightSvg": "surrealdb.svg",
+        "darkSvg": "surrealdb.svg"
     },
     "Jetbrains Space Software": {
         "light": "/api/Software/Jetbrains%20Space?theme=light",
-        "dark": "/api/Software/Jetbrains%20Space?theme=dark"
+        "dark": "/api/Software/Jetbrains%20Space?theme=dark",
+        "lightSvg": "jetbrains-space.svg",
+        "darkSvg": "jetbrains-space.svg"
     },
     "Stimulus Framework": {
         "light": "/api/Framework/Stimulus?theme=light",
-        "dark": "/api/Framework/Stimulus?theme=dark"
+        "dark": "/api/Framework/Stimulus?theme=dark",
+        "lightSvg": "stimulus.svg",
+        "darkSvg": "stimulus.svg"
     },
     "WindiCSS Framework": {
         "light": "/api/Framework/WindiCSS?theme=light",
-        "dark": "/api/Framework/WindiCSS?theme=dark"
+        "dark": "/api/Framework/WindiCSS?theme=dark",
+        "lightSvg": "windicss.svg",
+        "darkSvg": "windicss.svg"
     },
     "Mastodon Social": {
         "light": "/api/Social/Mastodon?theme=light",
-        "dark": "/api/Social/Mastodon?theme=dark"
+        "dark": "/api/Social/Mastodon?theme=dark",
+        "lightSvg": "mastodon.svg",
+        "darkSvg": "mastodon.svg"
     },
     "Upstash Database": {
         "light": "/api/Database/Upstash?theme=light",
-        "dark": "/api/Database/Upstash?theme=dark"
+        "dark": "/api/Database/Upstash?theme=dark",
+        "lightSvg": "upstash.svg",
+        "darkSvg": "upstash.svg"
     },
     "Storyblok CMS": {
         "light": "/api/CMS/Storyblok?theme=light",
-        "dark": "/api/CMS/Storyblok?theme=dark"
+        "dark": "/api/CMS/Storyblok?theme=dark",
+        "lightSvg": "storyblok.svg",
+        "darkSvg": "storyblok.svg"
     },
     "Cloudflare Workers Software": {
         "light": "/api/Software/Cloudflare%20Workers?theme=light",
-        "dark": "/api/Software/Cloudflare%20Workers?theme=dark"
+        "dark": "/api/Software/Cloudflare%20Workers?theme=dark",
+        "lightSvg": "cloudflare-workers.svg",
+        "darkSvg": "cloudflare-workers.svg"
     },
     "Cloudflare Software": {
         "light": "/api/Software/Cloudflare?theme=light",
-        "dark": "/api/Software/Cloudflare?theme=dark"
+        "dark": "/api/Software/Cloudflare?theme=dark",
+        "lightSvg": "cloudflare.svg",
+        "darkSvg": "cloudflare.svg"
     },
     "Bing Browser": {
         "light": "/api/Browser/Bing?theme=light",
-        "dark": "/api/Browser/Bing?theme=dark"
+        "dark": "/api/Browser/Bing?theme=dark",
+        "lightSvg": "bing.svg",
+        "darkSvg": "bing.svg"
     },
     "Cloudinary Software": {
         "light": "/api/Software/Cloudinary?theme=light",
-        "dark": "/api/Software/Cloudinary?theme=dark"
+        "dark": "/api/Software/Cloudinary?theme=dark",
+        "lightSvg": "cloudinary.svg",
+        "darkSvg": "cloudinary.svg"
     },
     "Dart Language": {
         "light": "/api/Language/Dart?theme=light",
-        "dark": "/api/Language/Dart?theme=dark"
+        "dark": "/api/Language/Dart?theme=dark",
+        "lightSvg": "dart.svg",
+        "darkSvg": "dart.svg"
     },
     "hCaptcha Software": {
         "light": "/api/Software/hCaptcha?theme=light",
-        "dark": "/api/Software/hCaptcha?theme=dark"
+        "dark": "/api/Software/hCaptcha?theme=dark",
+        "lightSvg": "hcaptcha.svg",
+        "darkSvg": "hcaptcha.svg"
     },
     "Appwrite Software": {
         "light": "/api/Software/Appwrite?theme=light",
-        "dark": "/api/Software/Appwrite?theme=dark"
+        "dark": "/api/Software/Appwrite?theme=dark",
+        "lightSvg": "appwrite.svg",
+        "darkSvg": "appwrite.svg"
     },
     "Loom Software": {
         "light": "/api/Software/Loom?theme=light",
-        "dark": "/api/Software/Loom?theme=dark"
+        "dark": "/api/Software/Loom?theme=dark",
+        "lightSvg": "loom.svg",
+        "darkSvg": "loom.svg"
     },
     "Hulu Entertainment": {
         "light": "/api/Entertainment/Hulu?theme=light",
-        "dark": "/api/Entertainment/Hulu?theme=dark"
+        "dark": "/api/Entertainment/Hulu?theme=dark",
+        "lightSvg": "hulu.svg",
+        "darkSvg": "hulu-dark.svg"
     },
     "Stackblitz Software": {
         "light": "/api/Software/Stackblitz?theme=light",
-        "dark": "/api/Software/Stackblitz?theme=dark"
+        "dark": "/api/Software/Stackblitz?theme=dark",
+        "lightSvg": "stackblitz.svg",
+        "darkSvg": "stackblitz.svg"
     },
     "Binance Crypto": {
         "light": "/api/Crypto/Binance?theme=light",
-        "dark": "/api/Crypto/Binance?theme=dark"
+        "dark": "/api/Crypto/Binance?theme=dark",
+        "lightSvg": "binance.svg",
+        "darkSvg": "binance.svg"
     },
     "Messenger Social": {
         "light": "/api/Social/Messenger?theme=light",
-        "dark": "/api/Social/Messenger?theme=dark"
+        "dark": "/api/Social/Messenger?theme=dark",
+        "lightSvg": "messenger.svg",
+        "darkSvg": "messenger.svg"
     },
     "NHost Hosting": {
         "light": "/api/Hosting/NHost?theme=light",
-        "dark": "/api/Hosting/NHost?theme=dark"
+        "dark": "/api/Hosting/NHost?theme=dark",
+        "lightSvg": "nhost.svg",
+        "darkSvg": "nhost.svg"
     },
     "Medusa Software": {
         "light": "/api/Software/Medusa?theme=light",
-        "dark": "/api/Software/Medusa?theme=dark"
+        "dark": "/api/Software/Medusa?theme=dark",
+        "lightSvg": "medusa.svg",
+        "darkSvg": "medusa.svg"
     },
     "WordPress CMS": {
         "light": "/api/CMS/WordPress?theme=light",
-        "dark": "/api/CMS/WordPress?theme=dark"
+        "dark": "/api/CMS/WordPress?theme=dark",
+        "lightSvg": "wordpress.svg",
+        "darkSvg": "wordpress.svg"
     },
     "Microsoft Software": {
         "light": "/api/Software/Microsoft?theme=light",
-        "dark": "/api/Software/Microsoft?theme=dark"
+        "dark": "/api/Software/Microsoft?theme=dark",
+        "lightSvg": "microsoft.svg",
+        "darkSvg": "microsoft.svg"
     },
     "Elementor Software": {
         "light": "/api/Software/Elementor?theme=light",
-        "dark": "/api/Software/Elementor?theme=dark"
+        "dark": "/api/Software/Elementor?theme=dark",
+        "lightSvg": "elementor.svg",
+        "darkSvg": "elementor.svg"
     },
     "Kick Entertainment": {
         "light": "/api/Entertainment/Kick?theme=light",
-        "dark": "/api/Entertainment/Kick?theme=dark"
+        "dark": "/api/Entertainment/Kick?theme=dark",
+        "lightSvg": "kick-light.svg",
+        "darkSvg": "kick-dark.svg"
     },
     "Prime video Entertainment": {
         "light": "/api/Entertainment/Prime%20video?theme=light",
-        "dark": "/api/Entertainment/Prime%20video?theme=dark"
+        "dark": "/api/Entertainment/Prime%20video?theme=dark",
+        "lightSvg": "prime-video.svg",
+        "darkSvg": "prime-video.svg"
     },
     "Chrome Browser": {
         "light": "/api/Browser/Chrome?theme=light",
-        "dark": "/api/Browser/Chrome?theme=dark"
+        "dark": "/api/Browser/Chrome?theme=dark",
+        "lightSvg": "chrome.svg",
+        "darkSvg": "chrome.svg"
     },
     "RxJS Library": {
         "light": "/api/Library/RxJS?theme=light",
-        "dark": "/api/Library/RxJS?theme=dark"
+        "dark": "/api/Library/RxJS?theme=dark",
+        "lightSvg": "rxjs.svg",
+        "darkSvg": "rxjs.svg"
     },
     "Electron Library": {
         "light": "/api/Library/Electron?theme=light",
-        "dark": "/api/Library/Electron?theme=dark"
+        "dark": "/api/Library/Electron?theme=dark",
+        "lightSvg": "electron.svg",
+        "darkSvg": "electron.svg"
     },
     "Redux Library": {
         "light": "/api/Library/Redux?theme=light",
-        "dark": "/api/Library/Redux?theme=dark"
+        "dark": "/api/Library/Redux?theme=dark",
+        "lightSvg": "redux.svg",
+        "darkSvg": "redux.svg"
     },
     "Trust Wallet Crypto": {
         "light": "/api/Crypto/Trust%20Wallet?theme=light",
-        "dark": "/api/Crypto/Trust%20Wallet?theme=dark"
+        "dark": "/api/Crypto/Trust%20Wallet?theme=dark",
+        "lightSvg": "trust.svg",
+        "darkSvg": "trust.svg"
     },
     "Php Language": {
         "light": "/api/Language/Php?theme=light",
-        "dark": "/api/Language/Php?theme=dark"
+        "dark": "/api/Language/Php?theme=dark",
+        "lightSvg": "php.svg",
+        "darkSvg": "php_dark.svg"
     },
     "Hugo Framework": {
         "light": "/api/Framework/Hugo?theme=light",
-        "dark": "/api/Framework/Hugo?theme=dark"
+        "dark": "/api/Framework/Hugo?theme=dark",
+        "lightSvg": "hugo.svg",
+        "darkSvg": "hugo.svg"
     },
     "Sass Language": {
         "light": "/api/Language/Sass?theme=light",
-        "dark": "/api/Language/Sass?theme=dark"
+        "dark": "/api/Language/Sass?theme=dark",
+        "lightSvg": "sass.svg",
+        "darkSvg": "sass.svg"
     },
     "Arc Browser": {
         "light": "/api/Browser/Arc?theme=light",
-        "dark": "/api/Browser/Arc?theme=dark"
+        "dark": "/api/Browser/Arc?theme=dark",
+        "lightSvg": "arc_browser.svg",
+        "darkSvg": "arc_browser.svg"
     },
     "Pinia Library": {
         "light": "/api/Library/Pinia?theme=light",
-        "dark": "/api/Library/Pinia?theme=dark"
+        "dark": "/api/Library/Pinia?theme=dark",
+        "lightSvg": "pinia.svg",
+        "darkSvg": "pinia.svg"
     },
     "Neon Database": {
         "light": "/api/Database/Neon?theme=light",
-        "dark": "/api/Database/Neon?theme=dark"
+        "dark": "/api/Database/Neon?theme=dark",
+        "lightSvg": "neon.svg",
+        "darkSvg": "neon.svg"
     },
     "Infojobs Social": {
         "light": "/api/Social/Infojobs?theme=light",
-        "dark": "/api/Social/Infojobs?theme=dark"
+        "dark": "/api/Social/Infojobs?theme=dark",
+        "lightSvg": "infojobs-logo.svg",
+        "darkSvg": "infojobs-logo.svg"
     },
     "Linear Software": {
         "light": "/api/Software/Linear?theme=light",
-        "dark": "/api/Software/Linear?theme=dark"
+        "dark": "/api/Software/Linear?theme=dark",
+        "lightSvg": "linear.svg",
+        "darkSvg": "linear.svg"
     },
     "Tor Browser": {
         "light": "/api/Browser/Tor?theme=light",
-        "dark": "/api/Browser/Tor?theme=dark"
+        "dark": "/api/Browser/Tor?theme=dark",
+        "lightSvg": "tor.svg",
+        "darkSvg": "tor.svg"
     },
     "Codesandbox Software": {
         "light": "/api/Software/Codesandbox?theme=light",
-        "dark": "/api/Software/Codesandbox?theme=dark"
+        "dark": "/api/Software/Codesandbox?theme=dark",
+        "lightSvg": "codesandbox-square.svg",
+        "darkSvg": "codesandbox-square.svg"
     },
     "Skype Social": {
         "light": "/api/Social/Skype?theme=light",
-        "dark": "/api/Social/Skype?theme=dark"
+        "dark": "/api/Social/Skype?theme=dark",
+        "lightSvg": "skype.svg",
+        "darkSvg": "skype.svg"
     },
     "Tauri Library": {
         "light": "/api/Library/Tauri?theme=light",
-        "dark": "/api/Library/Tauri?theme=dark"
+        "dark": "/api/Library/Tauri?theme=dark",
+        "lightSvg": "tauri.svg",
+        "darkSvg": "tauri.svg"
     },
     "WebKit Software": {
         "light": "/api/Software/WebKit?theme=light",
-        "dark": "/api/Software/WebKit?theme=dark"
+        "dark": "/api/Software/WebKit?theme=dark",
+        "lightSvg": "webkit.svg",
+        "darkSvg": "webkit.svg"
     },
     "Google Bard AI": {
         "light": "/api/AI/Google%20Bard?theme=light",
-        "dark": "/api/AI/Google%20Bard?theme=dark"
+        "dark": "/api/AI/Google%20Bard?theme=dark",
+        "lightSvg": "bard.svg",
+        "darkSvg": "bard.svg"
     },
     "Obsidian Software": {
         "light": "/api/Software/Obsidian?theme=light",
-        "dark": "/api/Software/Obsidian?theme=dark"
+        "dark": "/api/Software/Obsidian?theme=dark",
+        "lightSvg": "obsidian.svg",
+        "darkSvg": "obsidian.svg"
     },
     "Zod Library": {
         "light": "/api/Library/Zod?theme=light",
-        "dark": "/api/Library/Zod?theme=dark"
+        "dark": "/api/Library/Zod?theme=dark",
+        "lightSvg": "zod.svg",
+        "darkSvg": "zod.svg"
     },
     "Dreamweaver Software": {
         "light": "/api/Software/Dreamweaver?theme=light",
-        "dark": "/api/Software/Dreamweaver?theme=dark"
+        "dark": "/api/Software/Dreamweaver?theme=dark",
+        "lightSvg": "dw.svg",
+        "darkSvg": "dw.svg"
     },
     "OpenAI AI": {
         "light": "/api/AI/OpenAI?theme=light",
-        "dark": "/api/AI/OpenAI?theme=dark"
+        "dark": "/api/AI/OpenAI?theme=dark",
+        "lightSvg": "openai.svg",
+        "darkSvg": "openai_dark.svg"
     },
     "Threads Social": {
         "light": "/api/Social/Threads?theme=light",
-        "dark": "/api/Social/Threads?theme=dark"
+        "dark": "/api/Social/Threads?theme=dark",
+        "lightSvg": "threads.svg",
+        "darkSvg": "threads_dark.svg"
     },
     "Instagram Social": {
         "light": "/api/Social/Instagram?theme=light",
-        "dark": "/api/Social/Instagram?theme=dark"
+        "dark": "/api/Social/Instagram?theme=dark",
+        "lightSvg": "instagram.svg",
+        "darkSvg": "instagram_dark.svg"
     },
     "VueUse Library": {
         "light": "/api/Library/VueUse?theme=light",
-        "dark": "/api/Library/VueUse?theme=dark"
+        "dark": "/api/Library/VueUse?theme=dark",
+        "lightSvg": "vueuse.svg",
+        "darkSvg": "vueuse.svg"
     },
     "Microsoft SQL Server  Database": {
         "light": "/api/Database/Microsoft%20SQL%20Server%20?theme=light",
-        "dark": "/api/Database/Microsoft%20SQL%20Server%20?theme=dark"
+        "dark": "/api/Database/Microsoft%20SQL%20Server%20?theme=dark",
+        "lightSvg": "sql-server.svg",
+        "darkSvg": "sql-server.svg"
     },
     "Hono Framework": {
         "light": "/api/Framework/Hono?theme=light",
-        "dark": "/api/Framework/Hono?theme=dark"
+        "dark": "/api/Framework/Hono?theme=dark",
+        "lightSvg": "hono.svg",
+        "darkSvg": "hono.svg"
     },
     "Million Library": {
         "light": "/api/Library/Million?theme=light",
-        "dark": "/api/Library/Million?theme=dark"
+        "dark": "/api/Library/Million?theme=dark",
+        "lightSvg": "million.svg",
+        "darkSvg": "million.svg"
     },
     "PandaCSS Library": {
         "light": "/api/Library/PandaCSS?theme=light",
-        "dark": "/api/Library/PandaCSS?theme=dark"
+        "dark": "/api/Library/PandaCSS?theme=dark",
+        "lightSvg": "pandacss.svg",
+        "darkSvg": "pandacss.svg"
     },
     "Pulumi Software": {
         "light": "/api/Software/Pulumi?theme=light",
-        "dark": "/api/Software/Pulumi?theme=dark"
+        "dark": "/api/Software/Pulumi?theme=dark",
+        "lightSvg": "pulumi.svg",
+        "darkSvg": "pulumi.svg"
     },
     "FastAPI Framework": {
         "light": "/api/Framework/FastAPI?theme=light",
-        "dark": "/api/Framework/FastAPI?theme=dark"
+        "dark": "/api/Framework/FastAPI?theme=dark",
+        "lightSvg": "fastapi.svg",
+        "darkSvg": "fastapi.svg"
     },
     "Codium AI": {
         "light": "/api/AI/Codium?theme=light",
-        "dark": "/api/AI/Codium?theme=dark"
+        "dark": "/api/AI/Codium?theme=dark",
+        "lightSvg": "codium.svg",
+        "darkSvg": "codium.svg"
     },
     "Crossplane Framework": {
         "light": "/api/Framework/Crossplane?theme=light",
-        "dark": "/api/Framework/Crossplane?theme=dark"
+        "dark": "/api/Framework/Crossplane?theme=dark",
+        "lightSvg": "crossplane.svg",
+        "darkSvg": "crossplane.svg"
     },
     "Volta Software": {
         "light": "/api/Software/Volta?theme=light",
-        "dark": "/api/Software/Volta?theme=dark"
+        "dark": "/api/Software/Volta?theme=dark",
+        "lightSvg": "volta-dark.svg",
+        "darkSvg": "volta-light.svg"
     },
     "Typesense Software": {
         "light": "/api/Software/Typesense?theme=light",
-        "dark": "/api/Software/Typesense?theme=dark"
+        "dark": "/api/Software/Typesense?theme=dark",
+        "lightSvg": "typesense.svg",
+        "darkSvg": "typesense.svg"
     },
     "Bitcoin Crypto": {
         "light": "/api/Crypto/Bitcoin?theme=light",
-        "dark": "/api/Crypto/Bitcoin?theme=dark"
+        "dark": "/api/Crypto/Bitcoin?theme=dark",
+        "lightSvg": "btc.svg",
+        "darkSvg": "btc.svg"
     },
     "Ethereum Crypto": {
         "light": "/api/Crypto/Ethereum?theme=light",
-        "dark": "/api/Crypto/Ethereum?theme=dark"
+        "dark": "/api/Crypto/Ethereum?theme=dark",
+        "lightSvg": "eth.svg",
+        "darkSvg": "eth.svg"
     },
     "Solana Crypto": {
         "light": "/api/Crypto/Solana?theme=light",
-        "dark": "/api/Crypto/Solana?theme=dark"
+        "dark": "/api/Crypto/Solana?theme=dark",
+        "lightSvg": "sol.svg",
+        "darkSvg": "sol.svg"
     },
     "Dogecoin Crypto": {
         "light": "/api/Crypto/Dogecoin?theme=light",
-        "dark": "/api/Crypto/Dogecoin?theme=dark"
+        "dark": "/api/Crypto/Dogecoin?theme=dark",
+        "lightSvg": "doge.svg",
+        "darkSvg": "doge.svg"
     },
     "XRP Crypto": {
         "light": "/api/Crypto/XRP?theme=light",
-        "dark": "/api/Crypto/XRP?theme=dark"
+        "dark": "/api/Crypto/XRP?theme=dark",
+        "lightSvg": "xrp.svg",
+        "darkSvg": "xrp.svg"
     },
     "BNB Crypto": {
         "light": "/api/Crypto/BNB?theme=light",
-        "dark": "/api/Crypto/BNB?theme=dark"
+        "dark": "/api/Crypto/BNB?theme=dark",
+        "lightSvg": "bnb.svg",
+        "darkSvg": "bnb.svg"
     },
     "Link Crypto": {
         "light": "/api/Crypto/Link?theme=light",
-        "dark": "/api/Crypto/Link?theme=dark"
+        "dark": "/api/Crypto/Link?theme=dark",
+        "lightSvg": "link.svg",
+        "darkSvg": "link.svg"
     },
     "Polygon Crypto": {
         "light": "/api/Crypto/Polygon?theme=light",
-        "dark": "/api/Crypto/Polygon?theme=dark"
+        "dark": "/api/Crypto/Polygon?theme=dark",
+        "lightSvg": "matic.svg",
+        "darkSvg": "matic.svg"
     },
     "Algorand Crypto": {
         "light": "/api/Crypto/Algorand?theme=light",
-        "dark": "/api/Crypto/Algorand?theme=dark"
+        "dark": "/api/Crypto/Algorand?theme=dark",
+        "lightSvg": "algorand.svg",
+        "darkSvg": "algorand.svg"
     },
     "Tether Crypto": {
         "light": "/api/Crypto/Tether?theme=light",
-        "dark": "/api/Crypto/Tether?theme=dark"
+        "dark": "/api/Crypto/Tether?theme=dark",
+        "lightSvg": "tether.svg",
+        "darkSvg": "tether.svg"
     },
     "X Social": {
         "light": "/api/Social/X?theme=light",
-        "dark": "/api/Social/X?theme=dark"
+        "dark": "/api/Social/X?theme=dark",
+        "lightSvg": "x.svg",
+        "darkSvg": "x_dark.svg"
     },
     "Adobe Design": {
         "light": "/api/Design/Adobe?theme=light",
-        "dark": "/api/Design/Adobe?theme=dark"
+        "dark": "/api/Design/Adobe?theme=dark",
+        "lightSvg": "adobe.svg",
+        "darkSvg": "adobe.svg"
     },
     "After Effects Design": {
         "light": "/api/Design/After%20Effects?theme=light",
-        "dark": "/api/Design/After%20Effects?theme=dark"
+        "dark": "/api/Design/After%20Effects?theme=dark",
+        "lightSvg": "after-effects.svg",
+        "darkSvg": "after-effects.svg"
     },
     "Canva Design": {
         "light": "/api/Design/Canva?theme=light",
-        "dark": "/api/Design/Canva?theme=dark"
+        "dark": "/api/Design/Canva?theme=dark",
+        "lightSvg": "canva.svg",
+        "darkSvg": "canva.svg"
     },
     "Illustrator Design": {
         "light": "/api/Design/Illustrator?theme=light",
-        "dark": "/api/Design/Illustrator?theme=dark"
+        "dark": "/api/Design/Illustrator?theme=dark",
+        "lightSvg": "illustrator.svg",
+        "darkSvg": "illustrator.svg"
     },
     "InDesign Design": {
         "light": "/api/Design/InDesign?theme=light",
-        "dark": "/api/Design/InDesign?theme=dark"
+        "dark": "/api/Design/InDesign?theme=dark",
+        "lightSvg": "indesign.svg",
+        "darkSvg": "indesign.svg"
     },
     "Lightroom Design": {
         "light": "/api/Design/Lightroom?theme=light",
-        "dark": "/api/Design/Lightroom?theme=dark"
+        "dark": "/api/Design/Lightroom?theme=dark",
+        "lightSvg": "lightroom.svg",
+        "darkSvg": "lightroom.svg"
     },
     "Photoshop Design": {
         "light": "/api/Design/Photoshop?theme=light",
-        "dark": "/api/Design/Photoshop?theme=dark"
+        "dark": "/api/Design/Photoshop?theme=dark",
+        "lightSvg": "photoshop.svg",
+        "darkSvg": "photoshop.svg"
     },
     "Premiere Design": {
         "light": "/api/Design/Premiere?theme=light",
-        "dark": "/api/Design/Premiere?theme=dark"
+        "dark": "/api/Design/Premiere?theme=dark",
+        "lightSvg": "premiere.svg",
+        "darkSvg": "premiere.svg"
     },
     "VK Social": {
         "light": "/api/Social/VK?theme=light",
-        "dark": "/api/Social/VK?theme=dark"
+        "dark": "/api/Social/VK?theme=dark",
+        "lightSvg": "vk.svg",
+        "darkSvg": "vk.svg"
     },
     "Hoppscotch Software": {
         "light": "/api/Software/Hoppscotch?theme=light",
-        "dark": "/api/Software/Hoppscotch?theme=dark"
+        "dark": "/api/Software/Hoppscotch?theme=dark",
+        "lightSvg": "hoppscotch.svg",
+        "darkSvg": "hoppscotch.svg"
     },
     "Opera Browser": {
         "light": "/api/Browser/Opera?theme=light",
-        "dark": "/api/Browser/Opera?theme=dark"
+        "dark": "/api/Browser/Opera?theme=dark",
+        "lightSvg": "opera.svg",
+        "darkSvg": "opera.svg"
     },
     "Salesforce Software": {
         "light": "/api/Software/Salesforce?theme=light",
-        "dark": "/api/Software/Salesforce?theme=dark"
+        "dark": "/api/Software/Salesforce?theme=dark",
+        "lightSvg": "salesforce.svg",
+        "darkSvg": "salesforce.svg"
     },
     "Unreal Engine Software": {
         "light": "/api/Software/Unreal%20Engine?theme=light",
-        "dark": "/api/Software/Unreal%20Engine?theme=dark"
+        "dark": "/api/Software/Unreal%20Engine?theme=dark",
+        "lightSvg": "unreal_engine.svg",
+        "darkSvg": "unreal_engine_dark.svg"
     },
     "Godot Engine Software": {
         "light": "/api/Software/Godot%20Engine?theme=light",
-        "dark": "/api/Software/Godot%20Engine?theme=dark"
+        "dark": "/api/Software/Godot%20Engine?theme=dark",
+        "lightSvg": "godot_engine.svg",
+        "darkSvg": "godot_engine.svg"
     },
     "Datadog Software": {
         "light": "/api/Software/Datadog?theme=light",
-        "dark": "/api/Software/Datadog?theme=dark"
+        "dark": "/api/Software/Datadog?theme=dark",
+        "lightSvg": "datadog.svg",
+        "darkSvg": "datadog.svg"
     },
     "Tron Crypto": {
         "light": "/api/Crypto/Tron?theme=light",
-        "dark": "/api/Crypto/Tron?theme=dark"
+        "dark": "/api/Crypto/Tron?theme=dark",
+        "lightSvg": "tron.svg",
+        "darkSvg": "tron.svg"
     },
     "Randevum Software": {
         "light": "/api/Software/Randevum?theme=light",
-        "dark": "/api/Software/Randevum?theme=dark"
+        "dark": "/api/Software/Randevum?theme=dark",
+        "lightSvg": "randevum.svg",
+        "darkSvg": "randevum.svg"
     },
     "Chromium Browser": {
         "light": "/api/Browser/Chromium?theme=light",
-        "dark": "/api/Browser/Chromium?theme=dark"
+        "dark": "/api/Browser/Chromium?theme=dark",
+        "lightSvg": "chromium.svg",
+        "darkSvg": "chromium.svg"
     },
     "Edge Browser": {
         "light": "/api/Browser/Edge?theme=light",
-        "dark": "/api/Browser/Edge?theme=dark"
+        "dark": "/api/Browser/Edge?theme=dark",
+        "lightSvg": "edge.svg",
+        "darkSvg": "edge.svg"
     },
     "Safari Browser": {
         "light": "/api/Browser/Safari?theme=light",
-        "dark": "/api/Browser/Safari?theme=dark"
+        "dark": "/api/Browser/Safari?theme=dark",
+        "lightSvg": "safari.svg",
+        "darkSvg": "safari.svg"
     },
     "Vivaldi Browser": {
         "light": "/api/Browser/Vivaldi?theme=light",
-        "dark": "/api/Browser/Vivaldi?theme=dark"
+        "dark": "/api/Browser/Vivaldi?theme=dark",
+        "lightSvg": "vivaldi.svg",
+        "darkSvg": "vivaldi.svg"
     },
     "Beacon Software": {
         "light": "/api/Software/Beacon?theme=light",
-        "dark": "/api/Software/Beacon?theme=dark"
+        "dark": "/api/Software/Beacon?theme=dark",
+        "lightSvg": "Beacon-Logo.svg",
+        "darkSvg": "Beacon-Logo.svg"
     },
     "Affinity Designer Design": {
         "light": "/api/Design/Affinity%20Designer?theme=light",
-        "dark": "/api/Design/Affinity%20Designer?theme=dark"
+        "dark": "/api/Design/Affinity%20Designer?theme=dark",
+        "lightSvg": "affinity_designer.svg",
+        "darkSvg": "affinity_designer.svg"
     },
     "Affinity Photo Software": {
         "light": "/api/Software/Affinity%20Photo?theme=light",
-        "dark": "/api/Software/Affinity%20Photo?theme=dark"
+        "dark": "/api/Software/Affinity%20Photo?theme=dark",
+        "lightSvg": "affinity_photo.svg",
+        "darkSvg": "affinity_photo.svg"
     },
     "Affinity Publisher Software": {
         "light": "/api/Software/Affinity%20Publisher?theme=light",
-        "dark": "/api/Software/Affinity%20Publisher?theme=dark"
+        "dark": "/api/Software/Affinity%20Publisher?theme=dark",
+        "lightSvg": "affinity_publisher.svg",
+        "darkSvg": "affinity_publisher.svg"
     },
     "Roblox Software": {
         "light": "/api/Software/Roblox?theme=light",
-        "dark": "/api/Software/Roblox?theme=dark"
+        "dark": "/api/Software/Roblox?theme=dark",
+        "lightSvg": "roblox_light.svg",
+        "darkSvg": "roblox.svg"
     },
     "Stately.ai Software": {
         "light": "/api/Software/Stately.ai?theme=light",
-        "dark": "/api/Software/Stately.ai?theme=dark"
+        "dark": "/api/Software/Stately.ai?theme=dark",
+        "lightSvg": "stately.svg",
+        "darkSvg": "stately_dark.svg"
     },
     "XState Library": {
         "light": "/api/Library/XState?theme=light",
-        "dark": "/api/Library/XState?theme=dark"
+        "dark": "/api/Library/XState?theme=dark",
+        "lightSvg": "xstate.svg",
+        "darkSvg": "xstate_dark.svg"
     },
     "Hashnode Social": {
         "light": "/api/Social/Hashnode?theme=light",
-        "dark": "/api/Social/Hashnode?theme=dark"
+        "dark": "/api/Social/Hashnode?theme=dark",
+        "lightSvg": "hashnode.svg",
+        "darkSvg": "hashnode.svg"
     },
     "Rowy CMS": {
         "light": "/api/CMS/Rowy?theme=light",
-        "dark": "/api/CMS/Rowy?theme=dark"
+        "dark": "/api/CMS/Rowy?theme=dark",
+        "lightSvg": "rowy.svg",
+        "darkSvg": "rowy.svg"
     },
     "Cal.com Software": {
         "light": "/api/Software/Cal.com?theme=light",
-        "dark": "/api/Software/Cal.com?theme=dark"
+        "dark": "/api/Software/Cal.com?theme=dark",
+        "lightSvg": "cal.svg",
+        "darkSvg": "cal_dark.svg"
     },
     "Calendly Software": {
         "light": "/api/Software/Calendly?theme=light",
-        "dark": "/api/Software/Calendly?theme=dark"
+        "dark": "/api/Software/Calendly?theme=dark",
+        "lightSvg": "calendly.svg",
+        "darkSvg": "calendly.svg"
     },
     "Mintlify Software": {
         "light": "/api/Software/Mintlify?theme=light",
-        "dark": "/api/Software/Mintlify?theme=dark"
+        "dark": "/api/Software/Mintlify?theme=dark",
+        "lightSvg": "mintlify.svg",
+        "darkSvg": "mintlify.svg"
     },
     "Patreon Social": {
         "light": "/api/Social/Patreon?theme=light",
-        "dark": "/api/Social/Patreon?theme=dark"
+        "dark": "/api/Social/Patreon?theme=dark",
+        "lightSvg": "patreon.svg",
+        "darkSvg": "patreon_dark.svg"
     },
     "Peerlist Social": {
         "light": "/api/Social/Peerlist?theme=light",
-        "dark": "/api/Social/Peerlist?theme=dark"
+        "dark": "/api/Social/Peerlist?theme=dark",
+        "lightSvg": "peerlist.svg",
+        "darkSvg": "peerlist.svg"
     },
     "Product Hunt Software": {
         "light": "/api/Software/Product%20Hunt?theme=light",
-        "dark": "/api/Software/Product%20Hunt?theme=dark"
+        "dark": "/api/Software/Product%20Hunt?theme=dark",
+        "lightSvg": "producthunt.svg",
+        "darkSvg": "producthunt.svg"
     },
     "Remotion Framework": {
         "light": "/api/Framework/Remotion?theme=light",
-        "dark": "/api/Framework/Remotion?theme=dark"
+        "dark": "/api/Framework/Remotion?theme=dark",
+        "lightSvg": "remotion.svg",
+        "darkSvg": "remotion.svg"
     },
     "Warp Software": {
         "light": "/api/Software/Warp?theme=light",
-        "dark": "/api/Software/Warp?theme=dark"
+        "dark": "/api/Software/Warp?theme=dark",
+        "lightSvg": "warp.svg",
+        "darkSvg": "warp.svg"
     },
     "SST Framework": {
         "light": "/api/Framework/SST?theme=light",
-        "dark": "/api/Framework/SST?theme=dark"
+        "dark": "/api/Framework/SST?theme=dark",
+        "lightSvg": "sst.svg",
+        "darkSvg": "sst.svg"
     },
     "Documenso Software": {
         "light": "/api/Software/Documenso?theme=light",
-        "dark": "/api/Software/Documenso?theme=dark"
+        "dark": "/api/Software/Documenso?theme=dark",
+        "lightSvg": "documenso.svg",
+        "darkSvg": "documenso_dark.svg"
     },
     "Bash Language": {
         "light": "/api/Language/Bash?theme=light",
-        "dark": "/api/Language/Bash?theme=dark"
+        "dark": "/api/Language/Bash?theme=dark",
+        "lightSvg": "bash.svg",
+        "darkSvg": "bash_dark.svg"
     },
     "C Language": {
         "light": "/api/Language/C?theme=light",
-        "dark": "/api/Language/C?theme=dark"
+        "dark": "/api/Language/C?theme=dark",
+        "lightSvg": "c.svg",
+        "darkSvg": "c.svg"
     },
     "C++ Language": {
         "light": "/api/Language/C%2B%2B?theme=light",
-        "dark": "/api/Language/C%2B%2B?theme=dark"
+        "dark": "/api/Language/C%2B%2B?theme=dark",
+        "lightSvg": "c++.svg",
+        "darkSvg": "c++.svg"
     },
     "Cobol Language": {
         "light": "/api/Language/Cobol?theme=light",
-        "dark": "/api/Language/Cobol?theme=dark"
+        "dark": "/api/Language/Cobol?theme=dark",
+        "lightSvg": "cobol.svg",
+        "darkSvg": "cobol.svg"
     },
     "Fortran Language": {
         "light": "/api/Language/Fortran?theme=light",
-        "dark": "/api/Language/Fortran?theme=dark"
+        "dark": "/api/Language/Fortran?theme=dark",
+        "lightSvg": "fortran.svg",
+        "darkSvg": "fortran.svg"
     },
     "Haskell Language": {
         "light": "/api/Language/Haskell?theme=light",
-        "dark": "/api/Language/Haskell?theme=dark"
+        "dark": "/api/Language/Haskell?theme=dark",
+        "lightSvg": "haskell.svg",
+        "darkSvg": "haskell.svg"
     },
     "matlab Language": {
         "light": "/api/Language/matlab?theme=light",
-        "dark": "/api/Language/matlab?theme=dark"
+        "dark": "/api/Language/matlab?theme=dark",
+        "lightSvg": "matlab.svg",
+        "darkSvg": "matlab.svg"
     },
     "R Language": {
         "light": "/api/Language/R?theme=light",
-        "dark": "/api/Language/R?theme=dark"
+        "dark": "/api/Language/R?theme=dark",
+        "lightSvg": "r.svg",
+        "darkSvg": "r_dark.svg"
     },
     "Rust Language": {
         "light": "/api/Language/Rust?theme=light",
-        "dark": "/api/Language/Rust?theme=dark"
+        "dark": "/api/Language/Rust?theme=dark",
+        "lightSvg": "rust.svg",
+        "darkSvg": "rust_dark.svg"
     },
     "Zig Language": {
         "light": "/api/Language/Zig?theme=light",
-        "dark": "/api/Language/Zig?theme=dark"
+        "dark": "/api/Language/Zig?theme=dark",
+        "lightSvg": "zig.svg",
+        "darkSvg": "zig.svg"
     },
     "Instatus Software": {
         "light": "/api/Software/Instatus?theme=light",
-        "dark": "/api/Software/Instatus?theme=dark"
+        "dark": "/api/Software/Instatus?theme=dark",
+        "lightSvg": "instatus.svg",
+        "darkSvg": "instatus_dark.svg"
     },
     "Front Software": {
         "light": "/api/Software/Front?theme=light",
-        "dark": "/api/Software/Front?theme=dark"
+        "dark": "/api/Software/Front?theme=dark",
+        "lightSvg": "front.svg",
+        "darkSvg": "front.svg"
     },
     "Monero Crypto": {
         "light": "/api/Crypto/Monero?theme=light",
-        "dark": "/api/Crypto/Monero?theme=dark"
+        "dark": "/api/Crypto/Monero?theme=dark",
+        "lightSvg": "monero.svg",
+        "darkSvg": "monero.svg"
     },
     "Axiom Software": {
         "light": "/api/Software/Axiom?theme=light",
-        "dark": "/api/Software/Axiom?theme=dark"
+        "dark": "/api/Software/Axiom?theme=dark",
+        "lightSvg": "axiom-light.svg",
+        "darkSvg": "axiom-dark.svg"
     },
     "Django Framework": {
         "light": "/api/Framework/Django?theme=light",
-        "dark": "/api/Framework/Django?theme=dark"
+        "dark": "/api/Framework/Django?theme=dark",
+        "lightSvg": "django.svg",
+        "darkSvg": "django.svg"
     },
     "Zeabur Hosting": {
         "light": "/api/Hosting/Zeabur?theme=light",
-        "dark": "/api/Hosting/Zeabur?theme=dark"
+        "dark": "/api/Hosting/Zeabur?theme=dark",
+        "lightSvg": "zeabur-light.svg",
+        "darkSvg": "zeabur-dark.svg"
     },
     "MetaMask Crypto": {
         "light": "/api/Crypto/MetaMask?theme=light",
-        "dark": "/api/Crypto/MetaMask?theme=dark"
+        "dark": "/api/Crypto/MetaMask?theme=dark",
+        "lightSvg": "metamask.svg",
+        "darkSvg": "metamask.svg"
     },
     "shadcn/ui Library": {
         "light": "/api/Library/shadcnui?theme=light",
-        "dark": "/api/Library/shadcnui?theme=dark"
+        "dark": "/api/Library/shadcnui?theme=dark",
+        "lightSvg": "shadcn-ui.svg",
+        "darkSvg": "shadcn-ui_dark.svg"
     },
     "putio Software": {
         "light": "/api/Software/putio?theme=light",
-        "dark": "/api/Software/putio?theme=dark"
+        "dark": "/api/Software/putio?theme=dark",
+        "lightSvg": "putio.svg",
+        "darkSvg": "putio.svg"
     },
     "Pinterest Social": {
         "light": "/api/Social/Pinterest?theme=light",
-        "dark": "/api/Social/Pinterest?theme=dark"
+        "dark": "/api/Social/Pinterest?theme=dark",
+        "lightSvg": "pinterest.svg",
+        "darkSvg": "pinterest.svg"
     },
     "Reflex Software": {
         "light": "/api/Software/Reflex?theme=light",
-        "dark": "/api/Software/Reflex?theme=dark"
+        "dark": "/api/Software/Reflex?theme=dark",
+        "lightSvg": "reflex-dark.svg",
+        "darkSvg": "reflex-light.svg"
     },
     "Stripe Software": {
         "light": "/api/Software/Stripe?theme=light",
-        "dark": "/api/Software/Stripe?theme=dark"
+        "dark": "/api/Software/Stripe?theme=dark",
+        "lightSvg": "stripe.svg",
+        "darkSvg": "stripe.svg"
     },
     "Linux Software": {
         "light": "/api/Software/Linux?theme=light",
-        "dark": "/api/Software/Linux?theme=dark"
+        "dark": "/api/Software/Linux?theme=dark",
+        "lightSvg": "linux.svg",
+        "darkSvg": "linux.svg"
     },
     "XD Design": {
         "light": "/api/Design/XD?theme=light",
-        "dark": "/api/Design/XD?theme=dark"
+        "dark": "/api/Design/XD?theme=dark",
+        "lightSvg": "adobe-xd.svg",
+        "darkSvg": "adobe-xd.svg"
     },
     "Axure Design": {
         "light": "/api/Design/Axure?theme=light",
-        "dark": "/api/Design/Axure?theme=dark"
+        "dark": "/api/Design/Axure?theme=dark",
+        "lightSvg": "axure.svg",
+        "darkSvg": "axure.svg"
     },
     "Penpot Design": {
         "light": "/api/Design/Penpot?theme=light",
-        "dark": "/api/Design/Penpot?theme=dark"
+        "dark": "/api/Design/Penpot?theme=dark",
+        "lightSvg": "penpot.svg",
+        "darkSvg": "penpot_dark.svg"
     },
     "Sketch Design": {
         "light": "/api/Design/Sketch?theme=light",
-        "dark": "/api/Design/Sketch?theme=dark"
+        "dark": "/api/Design/Sketch?theme=dark",
+        "lightSvg": "sketch_light.svg",
+        "darkSvg": "sketch.svg"
     },
     "Gimp Design": {
         "light": "/api/Design/Gimp?theme=light",
-        "dark": "/api/Design/Gimp?theme=dark"
+        "dark": "/api/Design/Gimp?theme=dark",
+        "lightSvg": "gimp.svg",
+        "darkSvg": "gimp.svg"
     },
     "Ubuntu Software": {
         "light": "/api/Software/Ubuntu?theme=light",
-        "dark": "/api/Software/Ubuntu?theme=dark"
+        "dark": "/api/Software/Ubuntu?theme=dark",
+        "lightSvg": "ubuntu.svg",
+        "darkSvg": "ubuntu.svg"
     },
     "Cypress Framework": {
         "light": "/api/Framework/Cypress?theme=light",
-        "dark": "/api/Framework/Cypress?theme=dark"
+        "dark": "/api/Framework/Cypress?theme=dark",
+        "lightSvg": "cypress.svg",
+        "darkSvg": "cypress.svg"
     },
     "Reddit Social": {
         "light": "/api/Social/Reddit?theme=light",
-        "dark": "/api/Social/Reddit?theme=dark"
+        "dark": "/api/Social/Reddit?theme=dark",
+        "lightSvg": "reddit.svg",
+        "darkSvg": "reddit.svg"
     },
     "JetBrains WebStorm Software": {
         "light": "/api/Software/JetBrains%20WebStorm?theme=light",
-        "dark": "/api/Software/JetBrains%20WebStorm?theme=dark"
+        "dark": "/api/Software/JetBrains%20WebStorm?theme=dark",
+        "lightSvg": "webstorm.svg",
+        "darkSvg": "webstorm.svg"
     },
     "JetBrains PyCharm Software": {
         "light": "/api/Software/JetBrains%20PyCharm?theme=light",
-        "dark": "/api/Software/JetBrains%20PyCharm?theme=dark"
+        "dark": "/api/Software/JetBrains%20PyCharm?theme=dark",
+        "lightSvg": "pycharm.svg",
+        "darkSvg": "pycharm.svg"
     },
     "JetBrains Fleet Software": {
         "light": "/api/Software/JetBrains%20Fleet?theme=light",
-        "dark": "/api/Software/JetBrains%20Fleet?theme=dark"
+        "dark": "/api/Software/JetBrains%20Fleet?theme=dark",
+        "lightSvg": "fleet.svg",
+        "darkSvg": "fleet.svg"
     },
     "JetBrains RubyMine Software": {
         "light": "/api/Software/JetBrains%20RubyMine?theme=light",
-        "dark": "/api/Software/JetBrains%20RubyMine?theme=dark"
+        "dark": "/api/Software/JetBrains%20RubyMine?theme=dark",
+        "lightSvg": "rubymine.svg",
+        "darkSvg": "rubymine.svg"
     },
     "JetBrains PhpStorm Software": {
         "light": "/api/Software/JetBrains%20PhpStorm?theme=light",
-        "dark": "/api/Software/JetBrains%20PhpStorm?theme=dark"
+        "dark": "/api/Software/JetBrains%20PhpStorm?theme=dark",
+        "lightSvg": "phpstorm.svg",
+        "darkSvg": "phpstorm.svg"
     },
     "MonkeyType Software": {
         "light": "/api/Software/MonkeyType?theme=light",
-        "dark": "/api/Software/MonkeyType?theme=dark"
+        "dark": "/api/Software/MonkeyType?theme=dark",
+        "lightSvg": "monkeytype.svg",
+        "darkSvg": "monkeytype.svg"
     },
     "PyCharm Software": {
         "light": "/api/Software/PyCharm?theme=light",
-        "dark": "/api/Software/PyCharm?theme=dark"
+        "dark": "/api/Software/PyCharm?theme=dark",
+        "lightSvg": "pycharm.svg",
+        "darkSvg": "pycharm.svg"
     },
     "Shopify CMS": {
         "light": "/api/CMS/Shopify?theme=light",
-        "dark": "/api/CMS/Shopify?theme=dark"
+        "dark": "/api/CMS/Shopify?theme=dark",
+        "lightSvg": "shopify.svg",
+        "darkSvg": "shopify.svg"
     },
     "WebFlow CMS": {
         "light": "/api/CMS/WebFlow?theme=light",
-        "dark": "/api/CMS/WebFlow?theme=dark"
+        "dark": "/api/CMS/WebFlow?theme=dark",
+        "lightSvg": "webflow.svg",
+        "darkSvg": "webflow.svg"
     },
     "Sanity CMS": {
         "light": "/api/CMS/Sanity?theme=light",
-        "dark": "/api/CMS/Sanity?theme=dark"
+        "dark": "/api/CMS/Sanity?theme=dark",
+        "lightSvg": "sanity.svg",
+        "darkSvg": "sanity.svg"
     },
     "sky Entertainment": {
         "light": "/api/Entertainment/sky?theme=light",
-        "dark": "/api/Entertainment/sky?theme=dark"
+        "dark": "/api/Entertainment/sky?theme=dark",
+        "lightSvg": "sky.svg",
+        "darkSvg": "sky.svg"
     },
     "Airbnb Software": {
         "light": "/api/Software/Airbnb?theme=light",
-        "dark": "/api/Software/Airbnb?theme=dark"
+        "dark": "/api/Software/Airbnb?theme=dark",
+        "lightSvg": "airbnb.svg",
+        "darkSvg": "airbnb.svg"
     },
     "Uber Software": {
         "light": "/api/Software/Uber?theme=light",
-        "dark": "/api/Software/Uber?theme=dark"
+        "dark": "/api/Software/Uber?theme=dark",
+        "lightSvg": "uber_light.svg",
+        "darkSvg": "uber_dark.svg"
     },
     "Gmail Software": {
         "light": "/api/Software/Gmail?theme=light",
-        "dark": "/api/Software/Gmail?theme=dark"
+        "dark": "/api/Software/Gmail?theme=dark",
+        "lightSvg": "gmail.svg",
+        "darkSvg": "gmail.svg"
     },
     "Outlook Software": {
         "light": "/api/Software/Outlook?theme=light",
-        "dark": "/api/Software/Outlook?theme=dark"
+        "dark": "/api/Software/Outlook?theme=dark",
+        "lightSvg": "outlook.svg",
+        "darkSvg": "outlook.svg"
     },
     "Slack Software": {
         "light": "/api/Software/Slack?theme=light",
-        "dark": "/api/Software/Slack?theme=dark"
+        "dark": "/api/Software/Slack?theme=dark",
+        "lightSvg": "slack.svg",
+        "darkSvg": "slack.svg"
     },
     "Snapchat Software": {
         "light": "/api/Software/Snapchat?theme=light",
-        "dark": "/api/Software/Snapchat?theme=dark"
+        "dark": "/api/Software/Snapchat?theme=dark",
+        "lightSvg": "snapchat.svg",
+        "darkSvg": "snapchat.svg"
     },
     "Ebay Software": {
         "light": "/api/Software/Ebay?theme=light",
-        "dark": "/api/Software/Ebay?theme=dark"
+        "dark": "/api/Software/Ebay?theme=dark",
+        "lightSvg": "ebay.svg",
+        "darkSvg": "ebay.svg"
     },
     "IBM Software": {
         "light": "/api/Software/IBM?theme=light",
-        "dark": "/api/Software/IBM?theme=dark"
+        "dark": "/api/Software/IBM?theme=dark",
+        "lightSvg": "ibm.svg",
+        "darkSvg": "ibm.svg"
     },
     "TrustPilot Software": {
         "light": "/api/Software/TrustPilot?theme=light",
-        "dark": "/api/Software/TrustPilot?theme=dark"
+        "dark": "/api/Software/TrustPilot?theme=dark",
+        "lightSvg": "trustpilot.svg",
+        "darkSvg": "trustpilot.svg"
     },
     "Raycast Software": {
         "light": "/api/Software/Raycast?theme=light",
-        "dark": "/api/Software/Raycast?theme=dark"
+        "dark": "/api/Software/Raycast?theme=dark",
+        "lightSvg": "raycast.svg",
+        "darkSvg": "raycast.svg"
     },
     "Procure Marketplace": {
         "light": "/api/Marketplace/Procure?theme=light",
-        "dark": "/api/Marketplace/Procure?theme=dark"
+        "dark": "/api/Marketplace/Procure?theme=dark",
+        "lightSvg": "procure.svg",
+        "darkSvg": "procure.svg"
     },
     "Julia Language": {
         "light": "/api/Language/Julia?theme=light",
-        "dark": "/api/Language/Julia?theme=dark"
+        "dark": "/api/Language/Julia?theme=dark",
+        "lightSvg": "julia.svg",
+        "darkSvg": "julia.svg"
     },
     "SWC Compiler": {
         "light": "/api/Compiler/SWC?theme=light",
-        "dark": "/api/Compiler/SWC?theme=dark"
+        "dark": "/api/Compiler/SWC?theme=dark",
+        "lightSvg": "swc.svg",
+        "darkSvg": "swc.svg"
     },
     "PlayStation Software": {
         "light": "/api/Software/PlayStation?theme=light",
-        "dark": "/api/Software/PlayStation?theme=dark"
+        "dark": "/api/Software/PlayStation?theme=dark",
+        "lightSvg": "playstation.svg",
+        "darkSvg": "playstation.svg"
     },
     "Xbox Software": {
         "light": "/api/Software/Xbox?theme=light",
-        "dark": "/api/Software/Xbox?theme=dark"
+        "dark": "/api/Software/Xbox?theme=dark",
+        "lightSvg": "xbox.svg",
+        "darkSvg": "xbox.svg"
     },
     "Cody AI": {
         "light": "/api/AI/Cody?theme=light",
-        "dark": "/api/AI/Cody?theme=dark"
+        "dark": "/api/AI/Cody?theme=dark",
+        "lightSvg": "cody.svg",
+        "darkSvg": "cody.svg"
     },
     "Sourcegraph AI": {
         "light": "/api/AI/Sourcegraph?theme=light",
-        "dark": "/api/AI/Sourcegraph?theme=dark"
+        "dark": "/api/AI/Sourcegraph?theme=dark",
+        "lightSvg": "sourcegraph.svg",
+        "darkSvg": "sourcegraph.svg"
     },
     "Claude AI AI": {
         "light": "/api/AI/Claude%20AI?theme=light",
-        "dark": "/api/AI/Claude%20AI?theme=dark"
+        "dark": "/api/AI/Claude%20AI?theme=dark",
+        "lightSvg": "claude-ai.svg",
+        "darkSvg": "claude-ai.svg"
     },
     "Perplexity AI AI": {
         "light": "/api/AI/Perplexity%20AI?theme=light",
-        "dark": "/api/AI/Perplexity%20AI?theme=dark"
+        "dark": "/api/AI/Perplexity%20AI?theme=dark",
+        "lightSvg": "perplexity.svg",
+        "darkSvg": "perplexity.svg"
     },
     "Spring Framework": {
         "light": "/api/Framework/Spring?theme=light",
-        "dark": "/api/Framework/Spring?theme=dark"
+        "dark": "/api/Framework/Spring?theme=dark",
+        "lightSvg": "spring.svg",
+        "darkSvg": "spring.svg"
     },
     "Directus CMS": {
         "light": "/api/CMS/Directus?theme=light",
-        "dark": "/api/CMS/Directus?theme=dark"
+        "dark": "/api/CMS/Directus?theme=dark",
+        "lightSvg": "directus.svg",
+        "darkSvg": "directus.svg"
     },
     "Pnpm Software": {
         "light": "/api/Software/Pnpm?theme=light",
-        "dark": "/api/Software/Pnpm?theme=dark"
+        "dark": "/api/Software/Pnpm?theme=dark",
+        "lightSvg": "pnpm.svg",
+        "darkSvg": "pnpm_dark.svg"
     },
     "Emacs Software": {
         "light": "/api/Software/Emacs?theme=light",
-        "dark": "/api/Software/Emacs?theme=dark"
+        "dark": "/api/Software/Emacs?theme=dark",
+        "lightSvg": "emacs.svg",
+        "darkSvg": "emacs.svg"
     },
     "Svgl Library": {
         "light": "/api/Library/Svgl?theme=light",
-        "dark": "/api/Library/Svgl?theme=dark"
+        "dark": "/api/Library/Svgl?theme=dark",
+        "lightSvg": "svgl.svg",
+        "darkSvg": "svgl.svg"
     },
     "Google Idx Software": {
         "light": "/api/Software/Google%20Idx?theme=light",
-        "dark": "/api/Software/Google%20Idx?theme=dark"
+        "dark": "/api/Software/Google%20Idx?theme=dark",
+        "lightSvg": "google-idx.svg",
+        "darkSvg": "google-idx.svg"
     },
     "Bluesky Social": {
         "light": "/api/Social/Bluesky?theme=light",
-        "dark": "/api/Social/Bluesky?theme=dark"
+        "dark": "/api/Social/Bluesky?theme=dark",
+        "lightSvg": "bluesky.svg",
+        "darkSvg": "bluesky.svg"
     },
     "Remix Framework": {
         "light": "/api/Framework/Remix?theme=light",
-        "dark": "/api/Framework/Remix?theme=dark"
+        "dark": "/api/Framework/Remix?theme=dark",
+        "lightSvg": "remix_light.svg",
+        "darkSvg": "remix_dark.svg"
     },
     "Steam Software": {
         "light": "/api/Software/Steam?theme=light",
-        "dark": "/api/Software/Steam?theme=dark"
+        "dark": "/api/Software/Steam?theme=dark",
+        "lightSvg": "steam.svg",
+        "darkSvg": "steam.svg"
     },
     "Tabby Software": {
         "light": "/api/Software/Tabby?theme=light",
-        "dark": "/api/Software/Tabby?theme=dark"
+        "dark": "/api/Software/Tabby?theme=dark",
+        "lightSvg": "tabby.svg",
+        "darkSvg": "tabby.svg"
     },
     "1Password Software": {
         "light": "/api/Software/1Password?theme=light",
-        "dark": "/api/Software/1Password?theme=dark"
+        "dark": "/api/Software/1Password?theme=dark",
+        "lightSvg": "1password-light.svg",
+        "darkSvg": "1password-dark.svg"
     },
     "Flask Framework": {
         "light": "/api/Framework/Flask?theme=light",
-        "dark": "/api/Framework/Flask?theme=dark"
+        "dark": "/api/Framework/Flask?theme=dark",
+        "lightSvg": "flask-light.svg",
+        "darkSvg": "flask-dark.svg"
     },
     "Alacritty Software": {
         "light": "/api/Software/Alacritty?theme=light",
-        "dark": "/api/Software/Alacritty?theme=dark"
+        "dark": "/api/Software/Alacritty?theme=dark",
+        "lightSvg": "alacritty.svg",
+        "darkSvg": "alacritty.svg"
     },
     "Qt Software": {
         "light": "/api/Software/Qt?theme=light",
-        "dark": "/api/Software/Qt?theme=dark"
+        "dark": "/api/Software/Qt?theme=dark",
+        "lightSvg": "qt.svg",
+        "darkSvg": "qt.svg"
     },
     "Bitwarden Software": {
         "light": "/api/Software/Bitwarden?theme=light",
-        "dark": "/api/Software/Bitwarden?theme=dark"
+        "dark": "/api/Software/Bitwarden?theme=dark",
+        "lightSvg": "bitwarden.svg",
+        "darkSvg": "bitwarden.svg"
     },
     "Voicemod Entertainment": {
         "light": "/api/Entertainment/Voicemod?theme=light",
-        "dark": "/api/Entertainment/Voicemod?theme=dark"
+        "dark": "/api/Entertainment/Voicemod?theme=dark",
+        "lightSvg": "voicemod_light.svg",
+        "darkSvg": "voicemod_dark.svg"
     },
     "Neovim Software": {
         "light": "/api/Software/Neovim?theme=light",
-        "dark": "/api/Software/Neovim?theme=dark"
+        "dark": "/api/Software/Neovim?theme=dark",
+        "lightSvg": "neovim.svg",
+        "darkSvg": "neovim.svg"
     },
     "Pitch Design": {
         "light": "/api/Design/Pitch?theme=light",
-        "dark": "/api/Design/Pitch?theme=dark"
+        "dark": "/api/Design/Pitch?theme=dark",
+        "lightSvg": "pitch.svg",
+        "darkSvg": "pitch.svg"
     },
     "Biomejs Compiler": {
         "light": "/api/Compiler/Biomejs?theme=light",
-        "dark": "/api/Compiler/Biomejs?theme=dark"
+        "dark": "/api/Compiler/Biomejs?theme=dark",
+        "lightSvg": "biomejs.svg",
+        "darkSvg": "biomejs.svg"
     },
     "Gradio Software": {
         "light": "/api/Software/Gradio?theme=light",
-        "dark": "/api/Software/Gradio?theme=dark"
+        "dark": "/api/Software/Gradio?theme=dark",
+        "lightSvg": "gradio.svg",
+        "darkSvg": "gradio.svg"
     },
     "Meta Social": {
         "light": "/api/Social/Meta?theme=light",
-        "dark": "/api/Social/Meta?theme=dark"
+        "dark": "/api/Social/Meta?theme=dark",
+        "lightSvg": "meta.svg",
+        "darkSvg": "meta.svg"
     },
     "Stability AI AI": {
         "light": "/api/AI/Stability%20AI?theme=light",
-        "dark": "/api/AI/Stability%20AI?theme=dark"
+        "dark": "/api/AI/Stability%20AI?theme=dark",
+        "lightSvg": "stability-ai.svg",
+        "darkSvg": "stability-ai.svg"
     },
     "Google PaLM AI": {
         "light": "/api/AI/Google%20PaLM?theme=light",
-        "dark": "/api/AI/Google%20PaLM?theme=dark"
+        "dark": "/api/AI/Google%20PaLM?theme=dark",
+        "lightSvg": "google-palm.svg",
+        "darkSvg": "google-palm.svg"
     },
     "Android Software": {
         "light": "/api/Software/Android?theme=light",
-        "dark": "/api/Software/Android?theme=dark"
+        "dark": "/api/Software/Android?theme=dark",
+        "lightSvg": "android-icon.svg",
+        "darkSvg": "android-icon.svg"
     },
     "Sentry Software": {
         "light": "/api/Software/Sentry?theme=light",
-        "dark": "/api/Software/Sentry?theme=dark"
+        "dark": "/api/Software/Sentry?theme=dark",
+        "lightSvg": "sentry.svg",
+        "darkSvg": "sentry.svg"
     },
     "Grafana Software": {
         "light": "/api/Software/Grafana?theme=light",
-        "dark": "/api/Software/Grafana?theme=dark"
+        "dark": "/api/Software/Grafana?theme=dark",
+        "lightSvg": "grafana.svg",
+        "darkSvg": "grafana.svg"
     },
     "Notion Software": {
         "light": "/api/Software/Notion?theme=light",
-        "dark": "/api/Software/Notion?theme=dark"
+        "dark": "/api/Software/Notion?theme=dark",
+        "lightSvg": "notion.svg",
+        "darkSvg": "notion.svg"
     },
     "Litecoin Crypto": {
         "light": "/api/Crypto/Litecoin?theme=light",
-        "dark": "/api/Crypto/Litecoin?theme=dark"
+        "dark": "/api/Crypto/Litecoin?theme=dark",
+        "lightSvg": "litecoin.svg",
+        "darkSvg": "litecoin.svg"
     },
     "ElysiaJS Framework": {
         "light": "/api/Framework/ElysiaJS?theme=light",
-        "dark": "/api/Framework/ElysiaJS?theme=dark"
+        "dark": "/api/Framework/ElysiaJS?theme=dark",
+        "lightSvg": "elysiajs.svg",
+        "darkSvg": "elysiajs.svg"
     },
     "TensorFlow Library": {
         "light": "/api/Library/TensorFlow?theme=light",
-        "dark": "/api/Library/TensorFlow?theme=dark"
+        "dark": "/api/Library/TensorFlow?theme=dark",
+        "lightSvg": "tensorflow.svg",
+        "darkSvg": "tensorflow.svg"
     },
     "Midday AI": {
         "light": "/api/AI/Midday?theme=light",
-        "dark": "/api/AI/Midday?theme=dark"
+        "dark": "/api/AI/Midday?theme=dark",
+        "lightSvg": "midday.svg",
+        "darkSvg": "midday.svg"
     },
     "C# Language": {
         "light": "/api/Language/C%23?theme=light",
-        "dark": "/api/Language/C%23?theme=dark"
+        "dark": "/api/Language/C%23?theme=dark",
+        "lightSvg": "csharp.svg",
+        "darkSvg": "csharp.svg"
     },
     "Replicate AI": {
         "light": "/api/AI/Replicate?theme=light",
-        "dark": "/api/AI/Replicate?theme=dark"
+        "dark": "/api/AI/Replicate?theme=dark",
+        "lightSvg": "replicate_light.svg",
+        "darkSvg": "replicate_dark.svg"
     },
     "Markdown Language": {
         "light": "/api/Language/Markdown?theme=light",
-        "dark": "/api/Language/Markdown?theme=dark"
+        "dark": "/api/Language/Markdown?theme=dark",
+        "lightSvg": "markdown-light.svg",
+        "darkSvg": "markdown-dark.svg"
     },
     "Movie Web Entertainment": {
         "light": "/api/Entertainment/Movie%20Web?theme=light",
-        "dark": "/api/Entertainment/Movie%20Web?theme=dark"
+        "dark": "/api/Entertainment/Movie%20Web?theme=dark",
+        "lightSvg": "movie-web.svg",
+        "darkSvg": "movie-web.svg"
     },
     "Radix UI Library": {
         "light": "/api/Library/Radix%20UI?theme=light",
-        "dark": "/api/Library/Radix%20UI?theme=dark"
+        "dark": "/api/Library/Radix%20UI?theme=dark",
+        "lightSvg": "radix-ui_light.svg",
+        "darkSvg": "radix-ui_dark.svg"
     },
     "Web.dev Education": {
         "light": "/api/Education/Web.dev?theme=light",
-        "dark": "/api/Education/Web.dev?theme=dark"
+        "dark": "/api/Education/Web.dev?theme=dark",
+        "lightSvg": "webdev.svg",
+        "darkSvg": "webdev.svg"
     },
     "SWR Library": {
         "light": "/api/Library/SWR?theme=light",
-        "dark": "/api/Library/SWR?theme=dark"
+        "dark": "/api/Library/SWR?theme=dark",
+        "lightSvg": "swr-light.svg",
+        "darkSvg": "swr-dark.svg"
     },
     "Refine Framework": {
         "light": "/api/Framework/Refine?theme=light",
-        "dark": "/api/Framework/Refine?theme=dark"
+        "dark": "/api/Framework/Refine?theme=dark",
+        "lightSvg": "refine_dark.svg",
+        "darkSvg": "refine_light.svg"
     },
     "Youtube Music Music": {
         "light": "/api/Music/Youtube%20Music?theme=light",
-        "dark": "/api/Music/Youtube%20Music?theme=dark"
+        "dark": "/api/Music/Youtube%20Music?theme=dark",
+        "lightSvg": "youtube_music.svg",
+        "darkSvg": "youtube_music.svg"
     },
     "TIDAL Music": {
         "light": "/api/Music/TIDAL?theme=light",
-        "dark": "/api/Music/TIDAL?theme=dark"
+        "dark": "/api/Music/TIDAL?theme=dark",
+        "lightSvg": "tidal_light.svg",
+        "darkSvg": "tidal_dark.svg"
     },
     "OBS Software": {
         "light": "/api/Software/OBS?theme=light",
-        "dark": "/api/Software/OBS?theme=dark"
+        "dark": "/api/Software/OBS?theme=dark",
+        "lightSvg": "obs.svg",
+        "darkSvg": "obs.svg"
     },
     "Stack Overflow Software": {
         "light": "/api/Software/Stack%20Overflow?theme=light",
-        "dark": "/api/Software/Stack%20Overflow?theme=dark"
+        "dark": "/api/Software/Stack%20Overflow?theme=dark",
+        "lightSvg": "stackoverflow.svg",
+        "darkSvg": "stackoverflow.svg"
     },
     "TikTok Social": {
         "light": "/api/Social/TikTok?theme=light",
-        "dark": "/api/Social/TikTok?theme=dark"
+        "dark": "/api/Social/TikTok?theme=dark",
+        "lightSvg": "tiktok.svg",
+        "darkSvg": "tiktok.svg"
     },
     "Ngrok Software": {
         "light": "/api/Software/Ngrok?theme=light",
-        "dark": "/api/Software/Ngrok?theme=dark"
+        "dark": "/api/Software/Ngrok?theme=dark",
+        "lightSvg": "ngrok-light.svg",
+        "darkSvg": "ngrok-dark.svg"
     },
     "Lemon Squeezy Software": {
         "light": "/api/Software/Lemon%20Squeezy?theme=light",
-        "dark": "/api/Software/Lemon%20Squeezy?theme=dark"
+        "dark": "/api/Software/Lemon%20Squeezy?theme=dark",
+        "lightSvg": "lemonsqueezy.svg",
+        "darkSvg": "lemonsqueezy.svg"
     },
     "Asana Software": {
         "light": "/api/Software/Asana?theme=light",
-        "dark": "/api/Software/Asana?theme=dark"
+        "dark": "/api/Software/Asana?theme=dark",
+        "lightSvg": "asana-logo.svg",
+        "darkSvg": "asana-logo.svg"
     },
     "Zoom Software": {
         "light": "/api/Software/Zoom?theme=light",
-        "dark": "/api/Software/Zoom?theme=dark"
+        "dark": "/api/Software/Zoom?theme=dark",
+        "lightSvg": "zoom.svg",
+        "darkSvg": "zoom.svg"
     },
     "Tina CMS": {
         "light": "/api/CMS/Tina?theme=light",
-        "dark": "/api/CMS/Tina?theme=dark"
+        "dark": "/api/CMS/Tina?theme=dark",
+        "lightSvg": "tina.svg",
+        "darkSvg": "tina.svg"
     },
     "Vercel Hosting": {
         "light": "/api/Hosting/Vercel?theme=light",
-        "dark": "/api/Hosting/Vercel?theme=dark"
+        "dark": "/api/Hosting/Vercel?theme=dark",
+        "lightSvg": "vercel.svg",
+        "darkSvg": "vercel_dark.svg"
     },
     "Next.js Framework": {
         "light": "/api/Framework/Next.js?theme=light",
-        "dark": "/api/Framework/Next.js?theme=dark"
+        "dark": "/api/Framework/Next.js?theme=dark",
+        "lightSvg": "nextjs_icon_dark.svg",
+        "darkSvg": "nextjs_icon_dark.svg"
     },
     "Mistral AI AI": {
         "light": "/api/AI/Mistral%20AI?theme=light",
-        "dark": "/api/AI/Mistral%20AI?theme=dark"
+        "dark": "/api/AI/Mistral%20AI?theme=dark",
+        "lightSvg": "mistral-ai_logo.svg",
+        "darkSvg": "mistral-ai_logo.svg"
     },
     "Hugging Face AI": {
         "light": "/api/AI/Hugging%20Face?theme=light",
-        "dark": "/api/AI/Hugging%20Face?theme=dark"
+        "dark": "/api/AI/Hugging%20Face?theme=dark",
+        "lightSvg": "hugging_face.svg",
+        "darkSvg": "hugging_face.svg"
     },
     "Node.js Library": {
         "light": "/api/Library/Node.js?theme=light",
-        "dark": "/api/Library/Node.js?theme=dark"
+        "dark": "/api/Library/Node.js?theme=dark",
+        "lightSvg": "nodejs.svg",
+        "darkSvg": "nodejs.svg"
     },
     "Raindrop.io Software": {
         "light": "/api/Software/Raindrop.io?theme=light",
-        "dark": "/api/Software/Raindrop.io?theme=dark"
+        "dark": "/api/Software/Raindrop.io?theme=dark",
+        "lightSvg": "raindrop.svg",
+        "darkSvg": "raindrop.svg"
     },
     "Microsoft Todo Software": {
         "light": "/api/Software/Microsoft%20Todo?theme=light",
-        "dark": "/api/Software/Microsoft%20Todo?theme=dark"
+        "dark": "/api/Software/Microsoft%20Todo?theme=dark",
+        "lightSvg": "microsoft-todo.svg",
+        "darkSvg": "microsoft-todo.svg"
     },
     "Supabase Database": {
         "light": "/api/Database/Supabase?theme=light",
-        "dark": "/api/Database/Supabase?theme=dark"
+        "dark": "/api/Database/Supabase?theme=dark",
+        "lightSvg": "supabase.svg",
+        "darkSvg": "supabase.svg"
     },
     "Gleam Language": {
         "light": "/api/Language/Gleam?theme=light",
-        "dark": "/api/Language/Gleam?theme=dark"
+        "dark": "/api/Language/Gleam?theme=dark",
+        "lightSvg": "gleam.svg",
+        "darkSvg": "gleam.svg"
     },
     "Flowbite Framework": {
         "light": "/api/Framework/Flowbite?theme=light",
-        "dark": "/api/Framework/Flowbite?theme=dark"
+        "dark": "/api/Framework/Flowbite?theme=dark",
+        "lightSvg": "flowbite.svg",
+        "darkSvg": "flowbite.svg"
     },
     "Hume AI AI": {
         "light": "/api/AI/Hume%20AI?theme=light",
-        "dark": "/api/AI/Hume%20AI?theme=dark"
+        "dark": "/api/AI/Hume%20AI?theme=dark",
+        "lightSvg": "hume-ai.svg",
+        "darkSvg": "hume-ai.svg"
     },
     "Resend Software": {
         "light": "/api/Software/Resend?theme=light",
-        "dark": "/api/Software/Resend?theme=dark"
+        "dark": "/api/Software/Resend?theme=dark",
+        "lightSvg": "resend-icon-black.svg",
+        "darkSvg": "resend-icon-white.svg"
     },
     "Layers Design": {
         "light": "/api/Design/Layers?theme=light",
-        "dark": "/api/Design/Layers?theme=dark"
+        "dark": "/api/Design/Layers?theme=dark",
+        "lightSvg": "layers_light.svg",
+        "darkSvg": "layers_dark.svg"
     },
     "Exome Library": {
         "light": "/api/Library/Exome?theme=light",
-        "dark": "/api/Library/Exome?theme=dark"
+        "dark": "/api/Library/Exome?theme=dark",
+        "lightSvg": "exome.svg",
+        "darkSvg": "exome.svg"
     },
     "Poper AI": {
         "light": "/api/AI/Poper?theme=light",
-        "dark": "/api/AI/Poper?theme=dark"
+        "dark": "/api/AI/Poper?theme=dark",
+        "lightSvg": "poper.svg",
+        "darkSvg": "poper.svg"
     },
     "Dub Software": {
         "light": "/api/Software/Dub?theme=light",
-        "dark": "/api/Software/Dub?theme=dark"
+        "dark": "/api/Software/Dub?theme=dark",
+        "lightSvg": "dub.svg",
+        "darkSvg": "dub_dark_logo.svg"
     },
     "Turso Database": {
         "light": "/api/Database/Turso?theme=light",
-        "dark": "/api/Database/Turso?theme=dark"
+        "dark": "/api/Database/Turso?theme=dark",
+        "lightSvg": "turso-light.svg",
+        "darkSvg": "turso-dark.svg"
     },
     "RelaGit Software": {
         "light": "/api/Software/RelaGit?theme=light",
-        "dark": "/api/Software/RelaGit?theme=dark"
+        "dark": "/api/Software/RelaGit?theme=dark",
+        "lightSvg": "relagit-icon-light.svg",
+        "darkSvg": "relagit-icon-dark.svg"
     },
     "T3 Stack Framework": {
         "light": "/api/Framework/T3%20Stack?theme=light",
-        "dark": "/api/Framework/T3%20Stack?theme=dark"
+        "dark": "/api/Framework/T3%20Stack?theme=dark",
+        "lightSvg": "t3-dark.svg",
+        "darkSvg": "t3-light.svg"
     },
     "Apple Music Music": {
         "light": "/api/Music/Apple%20Music?theme=light",
-        "dark": "/api/Music/Apple%20Music?theme=dark"
+        "dark": "/api/Music/Apple%20Music?theme=dark",
+        "lightSvg": "apple-music-icon.svg",
+        "darkSvg": "apple-music-icon.svg"
     },
     "YGeeker Software": {
         "light": "/api/Software/YGeeker?theme=light",
-        "dark": "/api/Software/YGeeker?theme=dark"
+        "dark": "/api/Software/YGeeker?theme=dark",
+        "lightSvg": "ygeeker.svg",
+        "darkSvg": "ygeeker.svg"
     }
 }

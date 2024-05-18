@@ -1,38 +1,16 @@
-import React, { useState, useEffect } from "react";
 import toast from "react-hot-toast";
-import Skeleton from "react-loading-skeleton";
 import { motion } from "framer-motion";
-import "react-loading-skeleton/dist/skeleton.css";
+import { useTheme } from "next-themes";
 
 interface BadgeProps {
-    badge: { light: string; dark: string };
+    badge: { light: string; dark: string; lightSvg: string; darkSvg: string };
     domain: string;
     badgeName: string;
-    setLoadingImageCount: React.Dispatch<React.SetStateAction<number>>;
 }
 
-export function Badge({
-    badge,
-    domain,
-    badgeName,
-    setLoadingImageCount,
-}: BadgeProps) {
-    const [lightBadgeLoaded, setlightBadgeLoaded] = useState(false);
-    const [darkBadgeLoaded, setDarkBadgeLoaded] = useState(false);
-    useEffect(() => {
-        const lightBadge = new Image();
-        const darkBadge = new Image();
-        lightBadge.src = domain + badge.light;
-        darkBadge.src = domain + badge.dark;
-        lightBadge.onload = () => {
-            setlightBadgeLoaded(true);
-            setLoadingImageCount((prev) => prev + 1);
-        };
-        darkBadge.onload = () => {
-            setDarkBadgeLoaded(true);
-            setLoadingImageCount((prev) => prev + 1);
-        };
-    }, [badge, domain, setLoadingImageCount]);
+export function Badge({ badge, domain, badgeName }: BadgeProps) {
+    const { theme } = useTheme();
+    const wordmark = badge.light.includes("wordmark=true") ? true : false;
 
     let badgeWidth = 0;
     if (badgeName) {
@@ -48,61 +26,62 @@ export function Badge({
         <motion.div
             initial={{ opacity: 0, y: 0 }}
             animate={{ opacity: 1, y: 0 }}
-            // viewport={{ once: true }}
             transition={{
                 duration: 0.4,
-                // delay: 0.2,
             }}
         >
-            {lightBadgeLoaded && darkBadgeLoaded ? (
-                <>
-                    <img
-                        src={domain + badge.light}
-                        alt={badgeName}
-                        title={badgeName}
-                        loading="lazy"
-                        className="badge-image block cursor-pointer transition-transform duration-300 hover:scale-115 dark:hidden"
-                        onClick={() => {
-                            navigator.clipboard.writeText(domain + badge.light);
-                            toast.success(`Copied badge to clipboard!`);
-                        }}
-                    />
-                    {badge.dark && (
-                        <img
-                            src={domain + badge.dark}
-                            alt={badgeName}
-                            title={badgeName}
-                            loading="lazy"
-                            className="badge-image hidden cursor-pointer transition-transform duration-300 hover:scale-115 dark:block"
-                            onClick={() => {
-                                navigator.clipboard.writeText(
-                                    domain + badge.dark,
-                                );
-                                toast.success(`Copied badge to clipboard!`);
-                            }}
-                        />
+            <div
+                style={{
+                    height: "40px",
+                    width: `${wordmark ? "fit" : badgeWidth + "px"}`,
+                }}
+                className="cursor-pointer select-none transition-transform duration-300 hover:scale-115"
+                onClick={() => {
+                    if (theme == "dark") {
+                        navigator.clipboard.writeText(domain + badge.dark);
+                    } else {
+                        navigator.clipboard.writeText(domain + badge.light);
+                    }
+                    toast.success(`Copied badge to clipboard!`);
+                }}
+            >
+                <div className="flex h-full w-full items-center justify-center gap-x-2 rounded-md border border-neutral-200 bg-white dark:border-neutral-800 dark:bg-neutral-900">
+                    {wordmark ? (
+                        <div className="flex w-[92%] items-center justify-center px-[0.55rem]">
+                            <img
+                                src={`/static/library/${badge.lightSvg}`}
+                                className="h-[30px] dark:hidden"
+                                loading="lazy"
+                            />
+                            <img
+                                src={`/static/library/${badge.darkSvg}`}
+                                className="hidden h-[30px] dark:block"
+                                loading="lazy"
+                            />
+                        </div>
+                    ) : (
+                        <>
+                            <div className="pl-2">
+                                <img
+                                    src={`/static/library/${badge.lightSvg}`}
+                                    className="h-7 w-7 dark:hidden"
+                                    loading="lazy"
+                                />
+                                <img
+                                    src={`/static/library/${badge.darkSvg}`}
+                                    className="hidden h-7 w-7 dark:block"
+                                    loading="lazy"
+                                />
+                            </div>
+                            <div className="pr-2">
+                                <span className="truncate text-center font-sans text-[15px] font-semibold tracking-wide text-black dark:text-white">
+                                    {badgeName.split(" ")[0].toUpperCase()}
+                                </span>
+                            </div>
+                        </>
                     )}
-                </>
-            ) : (
-                <>
-                    <div className="-mt-1 dark:hidden">
-                        <Skeleton
-                            width={badgeWidth}
-                            height={40}
-                            baseColor="rgb(229 229 229)"
-                            highlightColor="rgb(245 245 245)"
-                        />
-                    </div>
-                    <div className="hidden dark:block">
-                        <Skeleton
-                            width={badgeWidth}
-                            height={40}
-                            baseColor="rgb(38 38 38)"
-                            highlightColor="rgb(64 64 64)"
-                        />
-                    </div>
-                </>
-            )}
+                </div>
+            </div>
         </motion.div>
     );
 }

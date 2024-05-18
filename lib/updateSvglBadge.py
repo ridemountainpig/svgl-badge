@@ -74,6 +74,17 @@ def updateSvglBadge():
         for svg in data:
             badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
             badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
+
+            badgeSvgRoute = svg["route"]
+            lightSvg = ""
+            darkSvg = ""
+            if type(badgeSvgRoute) == dict:
+                lightSvg = badgeSvgRoute["light"].replace("https://svgl.app/library/", "")
+                darkSvg = badgeSvgRoute["dark"].replace("https://svgl.app/library/", "")
+            else:
+                lightSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
+                darkSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
+
             title = svg["title"]
             lightUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=light"
             darkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=dark"
@@ -81,7 +92,7 @@ def updateSvglBadge():
             darkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
             light_badge_md += f"| {title} | ![{title}]({lightBadgeUrl}) | `{lightBadgeUrl}` |\n"
             dark_badge_md += f"| {title} | ![{title}]({darkBadgeUrl}) | `{darkBadgeUrl}` |\n"
-            badge_json_data[f"{title} {badgeCategory}"] = {"light": lightUrl, "dark": darkUrl}
+            badge_json_data[f"{title} {badgeCategory}"] = {"light": lightUrl, "dark": darkUrl, "lightSvg": lightSvg, "darkSvg": darkSvg}
     with open("public/light_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_badge.md", "w") as f:
@@ -107,6 +118,17 @@ def updateSvglWordmarkBadge():
             if svg.get("wordmark"):
                 badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
                 badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
+
+                badgeSvgRoute = svg["wordmark"]
+                lightSvg = ""
+                darkSvg = ""
+                if type(badgeSvgRoute) == dict:
+                    lightSvg = badgeSvgRoute["light"].replace("https://svgl.app/library/", "")
+                    darkSvg = badgeSvgRoute["dark"].replace("https://svgl.app/library/", "")
+                else:
+                    lightSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
+                    darkSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
+
                 title = svg["title"]
                 lightWordmarkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
                 darkWordmarkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
@@ -114,7 +136,7 @@ def updateSvglWordmarkBadge():
                 darkWordmarkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
                 light_badge_md += f"| {title} | ![{title}]({lightWordmarkBadgeUrl}) | `{lightWordmarkBadgeUrl}` |\n"
                 dark_badge_md += f"| {title} | ![{title}]({darkWordmarkBadgeUrl}) | `{darkWordmarkBadgeUrl}` |\n"
-                wordmark_badge_json_data[f"{title} {badgeCategory}"] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl}
+                wordmark_badge_json_data[f"{title} {badgeCategory}"] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl, "lightSvg": lightSvg, "darkSvg": darkSvg}
     with open("public/light_wordmark_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_wordmark_badge.md", "w") as f:
