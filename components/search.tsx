@@ -13,25 +13,42 @@ interface SearchProps {
 export function Search({ badgeCount, badges, domain }: SearchProps) {
     const [inputValue, setInputValue] = useState("");
     const inputRef = useRef<HTMLInputElement>(null);
-    const [badgeLimit, setBadgeLimit] = useState(150);
-    const [loadMoreBtn, setLoadMoreBtn] = useState(false);
+    const [loadMoreBtn, setLoadMoreBtn] = useState(true);
+    const [badgesLoaded, setBadgesLoaded] = useState(false);
+    const [loadMoreBadges, setLoadMoreBadges] = useState(false);
+    const badgeLimit = 150;
 
     const filteredBadges =
         inputValue !== ""
             ? Object.keys(badges)
-                  .filter((key) =>
-                      key.toLowerCase().includes(inputValue.toLowerCase()),
+                  .map((key) => {
+                      const parts = key.split(" ");
+                      const keyWithoutLastWord = parts.slice(0, -1).join(" ");
+                      return {
+                          originalKey: key,
+                          modifiedKey: keyWithoutLastWord,
+                      };
+                  })
+                  .filter(({ modifiedKey }) =>
+                      modifiedKey
+                          .toLowerCase()
+                          .includes(inputValue.toLowerCase()),
                   )
                   .reduce(
-                      (acc, key) => {
-                          acc[key] = badges[key];
+                      (acc, { originalKey }) => {
+                          acc[originalKey] = badges[originalKey];
                           return acc;
                       },
                       {} as Record<string, { light: string; dark: string }>,
                   )
-            : Object.keys(badges).length < badgeLimit
-              ? badges
-              : Object.fromEntries(Object.entries(badges).slice(0, badgeLimit));
+            : badges;
+
+    const filterLimitBadges =
+        Object.keys(filteredBadges).length < badgeLimit
+            ? filteredBadges
+            : Object.fromEntries(
+                  Object.entries(filteredBadges).slice(0, badgeLimit),
+              );
 
     useEffect(() => {
         function handleKeyDown(event: KeyboardEvent) {
@@ -54,10 +71,9 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
     }, []);
 
     useEffect(() => {
-        if (inputValue != "") {
-            setBadgeLimit(badgeCount);
-            setLoadMoreBtn(false);
-        }
+        setLoadMoreBtn(true);
+        setBadgesLoaded(false);
+        setLoadMoreBadges(false);
     }, [inputValue, badgeCount]);
 
     return (
@@ -98,29 +114,34 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                 )}
             </div>
             <Badges
-                badges={filteredBadges}
+                badges={loadMoreBadges ? filteredBadges : filterLimitBadges}
                 domain={domain}
-                setLoadMoreBtn={setLoadMoreBtn}
+                setBadgesLoaded={setBadgesLoaded}
             ></Badges>
-            {loadMoreBtn && Object.keys(badges).length > badgeLimit && (
-                <div className="flex items-center justify-center bg-white pb-4 pt-2 dark:bg-neutral-900 md:pt-0">
-                    <button
-                        className="flex h-10 items-center space-x-2 rounded-full border border-neutral-200 bg-transparent px-4 text-neutral-950 transition-colors duration-100 hover:bg-neutral-200/50 focus:outline-none focus:ring-1 focus:ring-neutral-300 disabled:cursor-not-allowed disabled:opacity-50 dark:border-neutral-800 dark:text-white dark:hover:bg-neutral-800/50 dark:focus:ring-neutral-700"
-                        onClick={() => {
-                            setLoadMoreBtn(false);
-                            setBadgeLimit(badgeCount);
-                        }}
-                    >
-                        <div className="flex items-center space-x-2">
-                            <ArrowDown size={16} />{" "}
-                            <span>Load All SVG Badges</span>{" "}
-                            <span className="opacity-70">
-                                ({badgeCount} more)
-                            </span>
-                        </div>
-                    </button>
-                </div>
-            )}
+            {loadMoreBtn &&
+                badgesLoaded &&
+                Object.keys(filteredBadges).length > badgeLimit && (
+                    <div className="flex items-center justify-center bg-white pb-4 pt-2 dark:bg-neutral-900 md:pt-0">
+                        <button
+                            className="flex h-10 items-center space-x-2 rounded-full border border-neutral-200 bg-transparent px-4 text-neutral-950 transition-colors duration-100 hover:bg-neutral-200/50 focus:outline-none focus:ring-1 focus:ring-neutral-300 disabled:cursor-not-allowed disabled:opacity-50 dark:border-neutral-800 dark:text-white dark:hover:bg-neutral-800/50 dark:focus:ring-neutral-700"
+                            onClick={() => {
+                                setLoadMoreBtn(false);
+                                setLoadMoreBadges(true);
+                            }}
+                        >
+                            <div className="flex items-center space-x-2">
+                                <ArrowDown size={16} />{" "}
+                                <span>Load All SVG Badges</span>{" "}
+                                <span className="opacity-70">
+                                    (
+                                    {Object.keys(filteredBadges).length -
+                                        badgeLimit}{" "}
+                                    more)
+                                </span>
+                            </div>
+                        </button>
+                    </div>
+                )}
         </>
     );
 }
