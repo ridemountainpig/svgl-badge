@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import { Loading } from "@/components/loading";
 import { Badges } from "@/components/badges";
 import { SearchIcon, Command, X, ArrowDown } from "lucide-react";
 
@@ -13,6 +14,7 @@ interface SearchProps {
 export function Search({ badgeCount, badges, domain }: SearchProps) {
     const [inputValue, setInputValue] = useState("");
     const inputRef = useRef<HTMLInputElement>(null);
+    const [progressLoading, setProgressLoading] = useState(true); // State to track page loading progress status
     const [loadMoreBtn, setLoadMoreBtn] = useState(true);
     const [badgesLoaded, setBadgesLoaded] = useState(false);
     const [loadMoreBadges, setLoadMoreBadges] = useState(false);
@@ -78,7 +80,14 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
 
     return (
         <>
-            <div className="relative w-full px-4 py-2 text-[16px] md:px-6">
+            <div
+                className={`flex h-[75%] w-full items-center justify-center ${progressLoading ? "" : "hidden"}`}
+            >
+                <Loading />
+            </div>
+            <div
+                className={`relative w-full px-4 py-2 text-[16px] md:px-6 ${progressLoading ? "hidden" : ""}`}
+            >
                 <div className="absolute inset-y-0 left-4 flex items-center pl-3 text-neutral-500 md:left-6">
                     <div className="pointer-events-none">
                         <SearchIcon size={20} strokeWidth={2.5} />
@@ -116,6 +125,7 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
             <Badges
                 badges={loadMoreBadges ? filteredBadges : filterLimitBadges}
                 domain={domain}
+                setProgressLoading={setProgressLoading}
                 setBadgesLoaded={setBadgesLoaded}
             ></Badges>
             {loadMoreBtn &&
