@@ -408,3 +408,4 @@
 | T3 Stack | ![T3 Stack](https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light) | `https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light` |
 | Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light` |
 | YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light` |
+| Web components | ![Web components](https://svgl-badge.vercel.app/api/Library/Web%20components?theme=light) | `https://svgl-badge.vercel.app/api/Library/Web%20components?theme=light` |

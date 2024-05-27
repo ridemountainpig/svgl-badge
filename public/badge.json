@@ -2434,5 +2434,11 @@
         "dark": "/api/Software/YGeeker?theme=dark",
         "lightSvg": "ygeeker.svg",
         "darkSvg": "ygeeker.svg"
+    },
+    "Web components Library": {
+        "light": "/api/Library/Web%20components?theme=light",
+        "dark": "/api/Library/Web%20components?theme=dark",
+        "lightSvg": "webcomponents.svg",
+        "darkSvg": "webcomponents.svg"
     }
 }

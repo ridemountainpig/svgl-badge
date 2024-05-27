@@ -3167,5 +3167,12 @@
         "category": "Software",
         "route": "https://svgl.app/library/ygeeker.svg",
         "url": "https://www.ygeeker.com"
+    },
+    {
+        "id": 407,
+        "title": "Web components",
+        "category": "Library",
+        "route": "https://svgl.app/library/webcomponents.svg",
+        "url": "https://www.webcomponents.org/"
     }
 ]
