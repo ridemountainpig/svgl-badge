@@ -1,4 +1,10 @@
 {
+    "Cisco Software": {
+        "light": "/api/Software/Cisco?theme=light",
+        "dark": "/api/Software/Cisco?theme=dark",
+        "lightSvg": "cisco_light.svg",
+        "darkSvg": "cisco_dark.svg"
+    },
     "Animate Design": {
         "light": "/api/Design/Animate?theme=light",
         "dark": "/api/Design/Animate?theme=dark",

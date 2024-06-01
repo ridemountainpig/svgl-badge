@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Cisco | ![Cisco](https://svgl-badge.vercel.app/api/Software/Cisco?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Cisco?theme=dark` |
 | Animate | ![Animate](https://svgl-badge.vercel.app/api/Design/Animate?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Animate?theme=dark` |
 | Blender | ![Blender](https://svgl-badge.vercel.app/api/Design/Blender?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Blender?theme=dark` |
 | Lua | ![Lua](https://svgl-badge.vercel.app/api/Language/Lua?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Lua?theme=dark` |
