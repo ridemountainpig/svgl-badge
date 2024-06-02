@@ -1598,6 +1598,10 @@
             "light": "https://svgl.app/library/openai.svg",
             "dark": "https://svgl.app/library/openai_dark.svg"
         },
+        "wordmark": {
+            "light": "https://svgl.app/library/openai_wordmark_light.svg",
+            "dark": "https://svgl.app/library/openai_wordmark_dark.svg"
+        },
         "url": "https://openai.com/"
     },
     {
@@ -2561,6 +2565,10 @@
         "title": "Perplexity AI",
         "category": "AI",
         "route": "https://svgl.app/library/perplexity.svg",
+        "wordmark": {
+            "light": "https://svgl.app/library/perplexity_wordmark_light.svg",
+            "dark": "https://svgl.app/library/perplexity_wordmark_dark.svg"
+        },
         "url": "https://perplexity.ai/"
     },
     {

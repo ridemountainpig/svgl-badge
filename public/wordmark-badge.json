@@ -47,6 +47,12 @@
         "lightSvg": "coinbase-wordmark-light.svg",
         "darkSvg": "coinbase-wordmark-dark.svg"
     },
+    "OpenAI AI": {
+        "light": "/api/AI/OpenAI?theme=light&wordmark=true",
+        "dark": "/api/AI/OpenAI?theme=dark&wordmark=true",
+        "lightSvg": "openai_wordmark_light.svg",
+        "darkSvg": "openai_wordmark_dark.svg"
+    },
     "Link Crypto": {
         "light": "/api/Crypto/Link?theme=light&wordmark=true",
         "dark": "/api/Crypto/Link?theme=dark&wordmark=true",
@@ -88,6 +94,12 @@
         "dark": "/api/Software/Raycast?theme=dark&wordmark=true",
         "lightSvg": "raycast-wordmark-light.svg",
         "darkSvg": "raycast-wordmark-dark.svg"
+    },
+    "Perplexity AI AI": {
+        "light": "/api/AI/Perplexity%20AI?theme=light&wordmark=true",
+        "dark": "/api/AI/Perplexity%20AI?theme=dark&wordmark=true",
+        "lightSvg": "perplexity_wordmark_light.svg",
+        "darkSvg": "perplexity_wordmark_dark.svg"
     },
     "Pnpm Software": {
         "light": "/api/Software/Pnpm?theme=light&wordmark=true",

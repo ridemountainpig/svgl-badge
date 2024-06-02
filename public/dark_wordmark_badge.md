@@ -9,6 +9,7 @@
 | Google | ![Google](https://svgl-badge.vercel.app/api/Social/Google?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Social/Google?theme=dark&wordmark=true` |
 | MongoDB | ![MongoDB](https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true` |
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true` |
+| OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark&wordmark=true` |
 | Link | ![Link](https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true` |
 | Axiom | ![Axiom](https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true` |
 | Zeabur | ![Zeabur](https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=dark&wordmark=true` |
@@ -16,6 +17,7 @@
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark&wordmark=true` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=dark&wordmark=true` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark&wordmark=true` |
+| Perplexity AI | ![Perplexity AI](https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=dark&wordmark=true` |
 | Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true` |
 | Flask | ![Flask](https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true` |
 | Replicate | ![Replicate](https://svgl-badge.vercel.app/api/AI/Replicate?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Replicate?theme=dark&wordmark=true` |
