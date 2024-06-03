@@ -1,4 +1,22 @@
 {
+    "Suno AI": {
+        "light": "/api/AI/Suno?theme=light&wordmark=true",
+        "dark": "/api/AI/Suno?theme=dark&wordmark=true",
+        "lightSvg": "suno_wordmark_light.svg",
+        "darkSvg": "suno_wordmark_dark.svg"
+    },
+    "Groq AI": {
+        "light": "/api/AI/Groq?theme=light&wordmark=true",
+        "dark": "/api/AI/Groq?theme=dark&wordmark=true",
+        "lightSvg": "groq_wordmark_light.svg",
+        "darkSvg": "groq_wordmark_dark.svg"
+    },
+    "Cohere AI": {
+        "light": "/api/AI/Cohere?theme=light&wordmark=true",
+        "dark": "/api/AI/Cohere?theme=dark&wordmark=true",
+        "lightSvg": "cohere_wordmark.svg",
+        "darkSvg": "cohere_wordmark.svg"
+    },
     "Mercado Pago Payment": {
         "light": "/api/Payment/Mercado%20Pago?theme=light&wordmark=true",
         "dark": "/api/Payment/Mercado%20Pago?theme=dark&wordmark=true",

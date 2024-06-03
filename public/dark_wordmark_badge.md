@@ -1,6 +1,9 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=dark&wordmark=true` |
+| Groq | ![Groq](https://svgl-badge.vercel.app/api/AI/Groq?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Groq?theme=dark&wordmark=true` |
+| Cohere | ![Cohere](https://svgl-badge.vercel.app/api/AI/Cohere?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Cohere?theme=dark&wordmark=true` |
 | Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark&wordmark=true` |
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=dark&wordmark=true` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true` |

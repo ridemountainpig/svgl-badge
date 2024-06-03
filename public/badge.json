@@ -1,4 +1,34 @@
 {
+    "Inflection AI AI": {
+        "light": "/api/AI/Inflection%20AI?theme=light",
+        "dark": "/api/AI/Inflection%20AI?theme=dark",
+        "lightSvg": "inflectionai_light.svg",
+        "darkSvg": "inflectionai_dark.svg"
+    },
+    "Together AI AI": {
+        "light": "/api/AI/Together%20AI?theme=light",
+        "dark": "/api/AI/Together%20AI?theme=dark",
+        "lightSvg": "togetherai_light.svg",
+        "darkSvg": "togetherai_dark.svg"
+    },
+    "Suno AI": {
+        "light": "/api/AI/Suno?theme=light",
+        "dark": "/api/AI/Suno?theme=dark",
+        "lightSvg": "suno.svg",
+        "darkSvg": "suno.svg"
+    },
+    "Groq AI": {
+        "light": "/api/AI/Groq?theme=light",
+        "dark": "/api/AI/Groq?theme=dark",
+        "lightSvg": "groq.svg",
+        "darkSvg": "groq.svg"
+    },
+    "Cohere AI": {
+        "light": "/api/AI/Cohere?theme=light",
+        "dark": "/api/AI/Cohere?theme=dark",
+        "lightSvg": "cohere.svg",
+        "darkSvg": "cohere.svg"
+    },
     "Cisco Software": {
         "light": "/api/Software/Cisco?theme=light",
         "dark": "/api/Software/Cisco?theme=dark",

@@ -1,6 +1,11 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light` |
+| Together AI | ![Together AI](https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=light` |
+| Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=light) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=light` |
+| Groq | ![Groq](https://svgl-badge.vercel.app/api/AI/Groq?theme=light) | `https://svgl-badge.vercel.app/api/AI/Groq?theme=light` |
+| Cohere | ![Cohere](https://svgl-badge.vercel.app/api/AI/Cohere?theme=light) | `https://svgl-badge.vercel.app/api/AI/Cohere?theme=light` |
 | Cisco | ![Cisco](https://svgl-badge.vercel.app/api/Software/Cisco?theme=light) | `https://svgl-badge.vercel.app/api/Software/Cisco?theme=light` |
 | Animate | ![Animate](https://svgl-badge.vercel.app/api/Design/Animate?theme=light) | `https://svgl-badge.vercel.app/api/Design/Animate?theme=light` |
 | Blender | ![Blender](https://svgl-badge.vercel.app/api/Design/Blender?theme=light) | `https://svgl-badge.vercel.app/api/Design/Blender?theme=light` |
