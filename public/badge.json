@@ -29,6 +29,12 @@
         "lightSvg": "cohere.svg",
         "darkSvg": "cohere.svg"
     },
+    "Ollama AI": {
+        "light": "/api/AI/Ollama?theme=light",
+        "dark": "/api/AI/Ollama?theme=dark",
+        "lightSvg": "ollama_light.svg",
+        "darkSvg": "ollama_dark.svg"
+    },
     "Cisco Software": {
         "light": "/api/Software/Cisco?theme=light",
         "dark": "/api/Software/Cisco?theme=dark",

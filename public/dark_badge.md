@@ -6,6 +6,7 @@
 | Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=dark` |
 | Groq | ![Groq](https://svgl-badge.vercel.app/api/AI/Groq?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Groq?theme=dark` |
 | Cohere | ![Cohere](https://svgl-badge.vercel.app/api/AI/Cohere?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Cohere?theme=dark` |
+| Ollama | ![Ollama](https://svgl-badge.vercel.app/api/AI/Ollama?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Ollama?theme=dark` |
 | Cisco | ![Cisco](https://svgl-badge.vercel.app/api/Software/Cisco?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Cisco?theme=dark` |
 | Animate | ![Animate](https://svgl-badge.vercel.app/api/Design/Animate?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Animate?theme=dark` |
 | Blender | ![Blender](https://svgl-badge.vercel.app/api/Design/Blender?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Blender?theme=dark` |
