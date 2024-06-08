@@ -416,3 +416,4 @@
 | Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=dark) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=dark` |
 | YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=dark) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=dark` |
 | Web components | ![Web components](https://svgl-badge.vercel.app/api/Library/Web%20components?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Web%20components?theme=dark` |
+| SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=dark) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=dark` |

@@ -3252,5 +3252,16 @@
         "category": "Library",
         "route": "https://svgl.app/library/webcomponents.svg",
         "url": "https://www.webcomponents.org/"
+    },
+    {
+        "id": 415,
+        "title": "SVG",
+        "category": [
+            "Design",
+            "Language"
+        ],
+        "route": "https://svgl.app/library/svg.svg",
+        "wordmark": "https://svgl.app/library/svg_wordmark.svg",
+        "url": "https://www.w3.org/TR/SVG/"
     }
 ]

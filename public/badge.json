@@ -2482,5 +2482,11 @@
         "dark": "/api/Library/Web%20components?theme=dark",
         "lightSvg": "webcomponents.svg",
         "darkSvg": "webcomponents.svg"
+    },
+    "SVG Design": {
+        "light": "/api/Design/SVG?theme=light",
+        "dark": "/api/Design/SVG?theme=dark",
+        "lightSvg": "svg.svg",
+        "darkSvg": "svg.svg"
     }
 }

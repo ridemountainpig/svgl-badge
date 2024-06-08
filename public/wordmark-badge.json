@@ -220,5 +220,11 @@
         "dark": "/api/Music/Apple%20Music?theme=dark&wordmark=true",
         "lightSvg": "apple-music-wordmark-light.svg",
         "darkSvg": "apple-music-wordmark-dark.svg"
+    },
+    "SVG Design": {
+        "light": "/api/Design/SVG?theme=light&wordmark=true",
+        "dark": "/api/Design/SVG?theme=dark&wordmark=true",
+        "lightSvg": "svg_wordmark.svg",
+        "darkSvg": "svg_wordmark.svg"
     }
 }
