@@ -38,4 +38,6 @@
 | Turso | ![Turso](https://svgl-badge.vercel.app/api/Database/Turso?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Turso?theme=light&wordmark=true` |
 | RelaGit | ![RelaGit](https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/RelaGit?theme=light&wordmark=true` |
 | Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light&wordmark=true` |
+| PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true` |
+| Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true` |

@@ -2483,10 +2483,22 @@
         "lightSvg": "webcomponents.svg",
         "darkSvg": "webcomponents.svg"
     },
+    "PostCSS Compiler": {
+        "light": "/api/Compiler/PostCSS?theme=light",
+        "dark": "/api/Compiler/PostCSS?theme=dark",
+        "lightSvg": "postcss.svg",
+        "darkSvg": "postcss.svg"
+    },
     "SVG Design": {
         "light": "/api/Design/SVG?theme=light",
         "dark": "/api/Design/SVG?theme=dark",
         "lightSvg": "svg.svg",
         "darkSvg": "svg.svg"
+    },
+    "Todoist Software": {
+        "light": "/api/Software/Todoist?theme=light",
+        "dark": "/api/Software/Todoist?theme=dark",
+        "lightSvg": "todoist.svg",
+        "darkSvg": "todoist.svg"
     }
 }

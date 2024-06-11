@@ -416,4 +416,6 @@
 | Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light` |
 | YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light` |
 | Web components | ![Web components](https://svgl-badge.vercel.app/api/Library/Web%20components?theme=light) | `https://svgl-badge.vercel.app/api/Library/Web%20components?theme=light` |
+| PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=light) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=light` |
+| Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light` |

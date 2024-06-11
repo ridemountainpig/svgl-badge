@@ -221,10 +221,22 @@
         "lightSvg": "apple-music-wordmark-light.svg",
         "darkSvg": "apple-music-wordmark-dark.svg"
     },
+    "PostCSS Compiler": {
+        "light": "/api/Compiler/PostCSS?theme=light&wordmark=true",
+        "dark": "/api/Compiler/PostCSS?theme=dark&wordmark=true",
+        "lightSvg": "postcss_wordmark.svg",
+        "darkSvg": "postcss_wordmark.svg"
+    },
     "SVG Design": {
         "light": "/api/Design/SVG?theme=light&wordmark=true",
         "dark": "/api/Design/SVG?theme=dark&wordmark=true",
         "lightSvg": "svg_wordmark.svg",
         "darkSvg": "svg_wordmark.svg"
+    },
+    "Todoist Software": {
+        "light": "/api/Software/Todoist?theme=light&wordmark=true",
+        "dark": "/api/Software/Todoist?theme=dark&wordmark=true",
+        "lightSvg": "todoist-wordmark.svg",
+        "darkSvg": "todoist-wordmark.svg"
     }
 }

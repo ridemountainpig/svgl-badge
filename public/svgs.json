@@ -3255,6 +3255,14 @@
     },
     {
         "id": 415,
+        "title": "PostCSS",
+        "category": "Compiler",
+        "route": "https://svgl.app/library/postcss.svg",
+        "wordmark": "https://svgl.app/library/postcss_wordmark.svg",
+        "url": "https://postcss.org/"
+    },
+    {
+        "id": 416,
         "title": "SVG",
         "category": [
             "Design",
@@ -3263,5 +3271,13 @@
         "route": "https://svgl.app/library/svg.svg",
         "wordmark": "https://svgl.app/library/svg_wordmark.svg",
         "url": "https://www.w3.org/TR/SVG/"
+    },
+    {
+        "id": 417,
+        "title": "Todoist",
+        "category": "Software",
+        "route": "https://svgl.app/library/todoist.svg",
+        "wordmark": "https://svgl.app/library/todoist-wordmark.svg",
+        "url": "https://todoist.com/"
     }
 ]
