@@ -2500,5 +2500,11 @@
         "dark": "/api/Software/Todoist?theme=dark",
         "lightSvg": "todoist.svg",
         "darkSvg": "todoist.svg"
+    },
+    "UpLeveled Education": {
+        "light": "/api/Education/UpLeveled?theme=light",
+        "dark": "/api/Education/UpLeveled?theme=dark",
+        "lightSvg": "upleveled.svg",
+        "darkSvg": "upleveled.svg"
     }
 }

@@ -3279,5 +3279,13 @@
         "route": "https://svgl.app/library/todoist.svg",
         "wordmark": "https://svgl.app/library/todoist-wordmark.svg",
         "url": "https://todoist.com/"
+    },
+    {
+        "id": 418,
+        "title": "UpLeveled",
+        "category": "Education",
+        "route": "https://svgl.app/library/upleveled.svg",
+        "wordmark": "https://svgl.app/library/upleveled-wordmark.svg",
+        "url": "https://upleveled.io/"
     }
 ]

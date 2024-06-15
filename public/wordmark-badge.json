@@ -238,5 +238,11 @@
         "dark": "/api/Software/Todoist?theme=dark&wordmark=true",
         "lightSvg": "todoist-wordmark.svg",
         "darkSvg": "todoist-wordmark.svg"
+    },
+    "UpLeveled Education": {
+        "light": "/api/Education/UpLeveled?theme=light&wordmark=true",
+        "dark": "/api/Education/UpLeveled?theme=dark&wordmark=true",
+        "lightSvg": "upleveled-wordmark.svg",
+        "darkSvg": "upleveled-wordmark.svg"
     }
 }

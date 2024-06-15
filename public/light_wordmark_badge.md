@@ -41,3 +41,4 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true` |
+| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true` |

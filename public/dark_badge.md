@@ -419,3 +419,4 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=dark) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=dark` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark` |
+| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark` |
