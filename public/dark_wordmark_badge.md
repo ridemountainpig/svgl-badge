@@ -28,6 +28,7 @@
 | TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/Music/TIDAL?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/TIDAL?theme=dark&wordmark=true` |
 | Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=dark&wordmark=true` |
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/Software/Asana?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Asana?theme=dark&wordmark=true` |
+| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark&wordmark=true` |
 | Tina | ![Tina](https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark&wordmark=true` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark&wordmark=true` |
 | Next.js | ![Next.js](https://svgl-badge.vercel.app/api/Framework/Next.js?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Next.js?theme=dark&wordmark=true` |
@@ -41,4 +42,3 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark&wordmark=true` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=dark&wordmark=true` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark&wordmark=true` |
-| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark&wordmark=true` |

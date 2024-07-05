@@ -2339,6 +2339,12 @@
         "lightSvg": "asana-logo.svg",
         "darkSvg": "asana-logo.svg"
     },
+    "UpLeveled Education": {
+        "light": "/api/Education/UpLeveled?theme=light",
+        "dark": "/api/Education/UpLeveled?theme=dark",
+        "lightSvg": "upleveled.svg",
+        "darkSvg": "upleveled.svg"
+    },
     "Zoom Software": {
         "light": "/api/Software/Zoom?theme=light",
         "dark": "/api/Software/Zoom?theme=dark",
@@ -2501,10 +2507,28 @@
         "lightSvg": "todoist.svg",
         "darkSvg": "todoist.svg"
     },
-    "UpLeveled Education": {
-        "light": "/api/Education/UpLeveled?theme=light",
-        "dark": "/api/Education/UpLeveled?theme=dark",
-        "lightSvg": "upleveled.svg",
-        "darkSvg": "upleveled.svg"
+    "Apidog Software": {
+        "light": "/api/Software/Apidog?theme=light",
+        "dark": "/api/Software/Apidog?theme=dark",
+        "lightSvg": "apidog.svg",
+        "darkSvg": "apidog.svg"
+    },
+    "Chart.js Library": {
+        "light": "/api/Library/Chart.js?theme=light",
+        "dark": "/api/Library/Chart.js?theme=dark",
+        "lightSvg": "chartjs.svg",
+        "darkSvg": "chartjs.svg"
+    },
+    "JSON Schema Library": {
+        "light": "/api/Library/JSON%20Schema?theme=light",
+        "dark": "/api/Library/JSON%20Schema?theme=dark",
+        "lightSvg": "json-schema.svg",
+        "darkSvg": "json-schema.svg"
+    },
+    "v0 Vercel": {
+        "light": "/api/Vercel/v0?theme=light",
+        "dark": "/api/Vercel/v0?theme=dark",
+        "lightSvg": "v0_light.svg",
+        "darkSvg": "v0_dark.svg"
     }
 }

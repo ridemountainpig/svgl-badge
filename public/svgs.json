@@ -3023,13 +3023,21 @@
     },
     {
         "id": 391,
+        "title": "UpLeveled",
+        "category": "Education",
+        "route": "https://svgl.app/library/upleveled.svg",
+        "wordmark": "https://svgl.app/library/upleveled-wordmark.svg",
+        "url": "https://upleveled.io/"
+    },
+    {
+        "id": 392,
         "title": "Zoom",
         "category": "Software",
         "route": "https://svgl.app/library/zoom.svg",
         "url": "https://zoom.us/"
     },
     {
-        "id": 392,
+        "id": 393,
         "title": "Tina",
         "category": "CMS",
         "route": "https://svgl.app/library/tina.svg",
@@ -3037,7 +3045,7 @@
         "url": "https://tina.io/"
     },
     {
-        "id": 393,
+        "id": 394,
         "title": "Vercel",
         "category": [
             "Hosting",
@@ -3054,7 +3062,7 @@
         "url": "https://vercel.com/"
     },
     {
-        "id": 394,
+        "id": 395,
         "title": "Next.js",
         "category": [
             "Framework",
@@ -3068,7 +3076,7 @@
         "url": "https://nextjs.org/"
     },
     {
-        "id": 395,
+        "id": 396,
         "title": "Mistral AI",
         "category": "AI",
         "route": "https://svgl.app/library/mistral-ai_logo.svg",
@@ -3076,35 +3084,35 @@
         "url": "https://mistral.ai/"
     },
     {
-        "id": 396,
+        "id": 397,
         "title": "Hugging Face",
         "category": "AI",
         "route": "https://svgl.app/library/hugging_face.svg",
         "url": "https://huggingface.co/"
     },
     {
-        "id": 397,
+        "id": 398,
         "title": "Node.js",
         "category": "Library",
         "route": "https://svgl.app/library/nodejs.svg",
         "url": "https://nodejs.org/"
     },
     {
-        "id": 398,
+        "id": 399,
         "title": "Raindrop.io",
         "category": "Software",
         "route": "https://svgl.app/library/raindrop.svg",
         "url": "https://raindrop.io/"
     },
     {
-        "id": 399,
+        "id": 400,
         "title": "Microsoft Todo",
         "category": "Software",
         "route": "https://svgl.app/library/microsoft-todo.svg",
         "url": "https://to-do.office.com/"
     },
     {
-        "id": 400,
+        "id": 401,
         "title": "Supabase",
         "category": "Database",
         "route": "https://svgl.app/library/supabase.svg",
@@ -3115,28 +3123,28 @@
         }
     },
     {
-        "id": 401,
+        "id": 402,
         "title": "Gleam",
         "category": "Language",
         "route": "https://svgl.app/library/gleam.svg",
         "url": "https://gleam.run/"
     },
     {
-        "id": 402,
+        "id": 403,
         "title": "Flowbite",
         "category": "Framework",
         "route": "https://svgl.app/library/flowbite.svg",
         "url": "https://flowbite.com/"
     },
     {
-        "id": 403,
+        "id": 404,
         "title": "Hume AI",
         "category": "AI",
         "route": "https://svgl.app/library/hume-ai.svg",
         "url": "https://hume.ai/"
     },
     {
-        "id": 404,
+        "id": 405,
         "title": "Resend",
         "category": "Software",
         "url": "https://resend.com/",
@@ -3150,7 +3158,7 @@
         }
     },
     {
-        "id": 405,
+        "id": 406,
         "title": "Layers",
         "category": "Design",
         "route": {
@@ -3160,21 +3168,21 @@
         "url": "https://layers.to/"
     },
     {
-        "id": 406,
+        "id": 407,
         "title": "Exome",
         "category": "Library",
         "route": "https://svgl.app/library/exome.svg",
         "url": "https://exome.dev/"
     },
     {
-        "id": 407,
+        "id": 408,
         "title": "Poper",
         "category": "AI",
         "route": "https://svgl.app/library/poper.svg",
         "url": "https://www.poper.ai"
     },
     {
-        "id": 408,
+        "id": 409,
         "title": "Dub",
         "category": "Software",
         "route": {
@@ -3188,7 +3196,7 @@
         "url": "https://dub.co"
     },
     {
-        "id": 409,
+        "id": 410,
         "title": "Turso",
         "category": [
             "Database",
@@ -3205,7 +3213,7 @@
         "url": "https://turso.tech"
     },
     {
-        "id": 410,
+        "id": 411,
         "title": "RelaGit",
         "category": "Software",
         "route": {
@@ -3219,7 +3227,7 @@
         "url": "https://rela.dev"
     },
     {
-        "id": 411,
+        "id": 412,
         "title": "T3 Stack",
         "category": "Framework",
         "route": {
@@ -3229,7 +3237,7 @@
         "url": "https://create.t3.gg/"
     },
     {
-        "id": 412,
+        "id": 413,
         "title": "Apple Music",
         "category": "Music",
         "route": "https://svgl.app/library/apple-music-icon.svg",
@@ -3240,21 +3248,21 @@
         "url": "https://music.apple.com/"
     },
     {
-        "id": 413,
+        "id": 414,
         "title": "YGeeker",
         "category": "Software",
         "route": "https://svgl.app/library/ygeeker.svg",
         "url": "https://www.ygeeker.com"
     },
     {
-        "id": 414,
+        "id": 415,
         "title": "Web components",
         "category": "Library",
         "route": "https://svgl.app/library/webcomponents.svg",
         "url": "https://www.webcomponents.org/"
     },
     {
-        "id": 415,
+        "id": 416,
         "title": "PostCSS",
         "category": "Compiler",
         "route": "https://svgl.app/library/postcss.svg",
@@ -3262,7 +3270,7 @@
         "url": "https://postcss.org/"
     },
     {
-        "id": 416,
+        "id": 417,
         "title": "SVG",
         "category": [
             "Design",
@@ -3273,7 +3281,7 @@
         "url": "https://www.w3.org/TR/SVG/"
     },
     {
-        "id": 417,
+        "id": 418,
         "title": "Todoist",
         "category": "Software",
         "route": "https://svgl.app/library/todoist.svg",
@@ -3281,11 +3289,34 @@
         "url": "https://todoist.com/"
     },
     {
-        "id": 418,
-        "title": "UpLeveled",
-        "category": "Education",
-        "route": "https://svgl.app/library/upleveled.svg",
-        "wordmark": "https://svgl.app/library/upleveled-wordmark.svg",
-        "url": "https://upleveled.io/"
+        "id": 419,
+        "title": "Apidog",
+        "category": "Software",
+        "route": "https://svgl.app/library/apidog.svg",
+        "url": "https://apidog.com/"
+    },
+    {
+        "id": 420,
+        "title": "Chart.js",
+        "category": "Library",
+        "route": "https://svgl.app/library/chartjs.svg",
+        "url": "https://www.chartjs.org/"
+    },
+    {
+        "id": 421,
+        "title": "JSON Schema",
+        "category": "Library",
+        "route": "https://svgl.app/library/json-schema.svg",
+        "url": "https://json-schema.org/"
+    },
+    {
+        "id": 422,
+        "title": "v0",
+        "category": "Vercel",
+        "route": {
+            "light": "https://svgl.app/library/v0_light.svg",
+            "dark": "https://svgl.app/library/v0_dark.svg"
+        },
+        "url": "https://v0.dev/"
     }
 ]

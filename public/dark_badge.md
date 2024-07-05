@@ -392,6 +392,7 @@
 | Ngrok | ![Ngrok](https://svgl-badge.vercel.app/api/Software/Ngrok?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Ngrok?theme=dark` |
 | Lemon Squeezy | ![Lemon Squeezy](https://svgl-badge.vercel.app/api/Software/Lemon%20Squeezy?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Lemon%20Squeezy?theme=dark` |
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/Software/Asana?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Asana?theme=dark` |
+| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark` |
 | Zoom | ![Zoom](https://svgl-badge.vercel.app/api/Software/Zoom?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Zoom?theme=dark` |
 | Tina | ![Tina](https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark` |
@@ -419,4 +420,7 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=dark) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=dark` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark` |
-| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark` |
+| Apidog | ![Apidog](https://svgl-badge.vercel.app/api/Software/Apidog?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Apidog?theme=dark` |
+| Chart.js | ![Chart.js](https://svgl-badge.vercel.app/api/Library/Chart.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Chart.js?theme=dark` |
+| JSON Schema | ![JSON Schema](https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark) | `https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark` |
+| v0 | ![v0](https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark) | `https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark` |

@@ -28,6 +28,7 @@
 | TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/Music/TIDAL?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/TIDAL?theme=light&wordmark=true` |
 | Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=light&wordmark=true` |
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/Software/Asana?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Asana?theme=light&wordmark=true` |
+| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true` |
 | Tina | ![Tina](https://svgl-badge.vercel.app/api/CMS/Tina?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Tina?theme=light&wordmark=true` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true` |
 | Next.js | ![Next.js](https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true` |
@@ -41,4 +42,3 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true` |
-| UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true` |
