@@ -144,7 +144,10 @@
         "id": 15,
         "title": "Github",
         "category": "Software",
-        "route": "https://svgl.app/library/github.svg",
+        "route": {
+            "light": "https://svgl.app/library/github-light.svg",
+            "dark": "https://svgl.app/library/github-dark.svg"
+        },
         "url": "https://github.com/"
     },
     {

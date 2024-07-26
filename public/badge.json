@@ -92,8 +92,8 @@
     "Github Software": {
         "light": "/api/Software/Github?theme=light",
         "dark": "/api/Software/Github?theme=dark",
-        "lightSvg": "github.svg",
-        "darkSvg": "github.svg"
+        "lightSvg": "github-light.svg",
+        "darkSvg": "github-dark.svg"
     },
     "Preact Library": {
         "light": "/api/Library/Preact?theme=light",
