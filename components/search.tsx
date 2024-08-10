@@ -1,9 +1,10 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { Loading } from "@/components/loading";
 import { Badges } from "@/components/badges";
-import { SearchIcon, Command, X, ArrowDown } from "lucide-react";
+import { SearchIcon, Command, X, ArrowDown, PackageOpen } from "lucide-react";
 
 interface SearchProps {
     badgeCount: number;
@@ -15,8 +16,12 @@ interface SearchProps {
 }
 
 export function Search({ badgeCount, badges, domain }: SearchProps) {
+    const router = useRouter();
+    const searchParams = useSearchParams();
+
     const [inputValue, setInputValue] = useState("");
     const inputRef = useRef<HTMLInputElement>(null);
+
     const [progressLoading, setProgressLoading] = useState(true); // State to track page loading progress status
     const [loadMoreBtn, setLoadMoreBtn] = useState(true);
     const [loadMoreBadges, setLoadMoreBadges] = useState(false);
@@ -62,6 +67,7 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                   Object.entries(filteredBadges).slice(0, badgeLimit),
               );
 
+    // Set listener to handle keydown events
     useEffect(() => {
         function handleKeyDown(event: KeyboardEvent) {
             // Check if Command + K or Ctrl + K was pressed
@@ -82,6 +88,23 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
         };
     }, []);
 
+    // Set input value from search params on page load
+    useEffect(() => {
+        if (searchParams?.get("search")) {
+            setInputValue(searchParams.get("search") as string);
+        }
+    }, []);
+
+    // Update search param in URL when inputValue changes
+    useEffect(() => {
+        if (inputValue) {
+            router.push(`?search=${inputValue}`);
+        } else {
+            router.replace(window.location.pathname);
+        }
+    }, [inputValue, router]);
+
+    // Set load more badges state to true when input value changes
     useEffect(() => {
         setLoadMoreBtn(true);
         setLoadMoreBadges(false);
@@ -131,6 +154,17 @@ export function Search({ badgeCount, badges, domain }: SearchProps) {
                     </div>
                 )}
             </div>
+            {Object.keys(filteredBadges).length === 0 && (
+                <div className="mt-10 flex w-full flex-col items-center justify-center gap-y-2 text-gray-600 dark:text-gray-400">
+                    <PackageOpen size={60} strokeWidth={1.5} className="mb-4" />
+                    <p className="mb-1 text-2xl font-medium">
+                        Couldn&apos;t find the Badge
+                    </p>{" "}
+                    <p className="mb-4 font-mono text-lg">
+                        &quot;{inputValue}&quot;
+                    </p>{" "}
+                </div>
+            )}
             <Badges
                 badges={loadMoreBadges ? filteredBadges : filterLimitBadges}
                 domain={domain}
