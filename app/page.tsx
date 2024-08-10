@@ -1,5 +1,6 @@
 import fs from "fs";
 import { Toaster } from "react-hot-toast";
+import { Suspense } from 'react';
 
 import { Navbar } from "@/components/navbar";
 import { Search } from "@/components/search";
@@ -14,11 +15,13 @@ export default function Home() {
         <div className="h-screen w-full flex-col justify-center bg-white font-sans text-black dark:bg-neutral-900 dark:text-white">
             <div className="h-full w-full">
                 <Navbar></Navbar>
-                <Search
-                    badgeCount={badgeCount}
-                    badges={badges}
-                    domain={domain}
-                ></Search>
+                <Suspense fallback={ <></> }>
+                    <Search
+                        badgeCount={badgeCount}
+                        badges={badges}
+                        domain={domain}
+                    ></Search>
+                </Suspense>
             </div>
             <Toaster
                 position="bottom-right"
