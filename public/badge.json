@@ -2530,5 +2530,11 @@
         "dark": "/api/Vercel/v0?theme=dark",
         "lightSvg": "v0_light.svg",
         "darkSvg": "v0_dark.svg"
+    },
+    "Bento Software": {
+        "light": "/api/Software/Bento?theme=light",
+        "dark": "/api/Software/Bento?theme=dark",
+        "lightSvg": "bento.svg",
+        "darkSvg": "bento.svg"
     }
 }

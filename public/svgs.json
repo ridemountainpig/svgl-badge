@@ -3321,5 +3321,12 @@
             "dark": "https://svgl.app/library/v0_dark.svg"
         },
         "url": "https://v0.dev/"
+    },
+    {
+        "id": 423,
+        "title": "Bento",
+        "category": "Software",
+        "route": "https://svgl.app/library/bento.svg",
+        "url": "https://bento.me/home"
     }
 ]

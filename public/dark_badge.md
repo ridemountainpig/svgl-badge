@@ -424,3 +424,4 @@
 | Chart.js | ![Chart.js](https://svgl-badge.vercel.app/api/Library/Chart.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Chart.js?theme=dark` |
 | JSON Schema | ![JSON Schema](https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark) | `https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark` |
 | v0 | ![v0](https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark) | `https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark` |
+| Bento | ![Bento](https://svgl-badge.vercel.app/api/Software/Bento?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Bento?theme=dark` |
