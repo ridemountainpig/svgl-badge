@@ -227,12 +227,6 @@
         "lightSvg": "bootstrap.svg",
         "darkSvg": "bootstrap.svg"
     },
-    "Firebase Hosting": {
-        "light": "/api/Hosting/Firebase?theme=light",
-        "dark": "/api/Hosting/Firebase?theme=dark",
-        "lightSvg": "firebase.svg",
-        "darkSvg": "firebase.svg"
-    },
     "Vite.js Compiler": {
         "light": "/api/Compiler/Vite.js?theme=light",
         "dark": "/api/Compiler/Vite.js?theme=dark",
@@ -1445,9 +1439,9 @@
         "lightSvg": "tether.svg",
         "darkSvg": "tether.svg"
     },
-    "X Social": {
-        "light": "/api/Social/X?theme=light",
-        "dark": "/api/Social/X?theme=dark",
+    "X (formerly Twitter) Social": {
+        "light": "/api/Social/X%20%28formerly%20Twitter%29?theme=light",
+        "dark": "/api/Social/X%20%28formerly%20Twitter%29?theme=dark",
         "lightSvg": "x.svg",
         "darkSvg": "x_dark.svg"
     },
@@ -2536,5 +2530,17 @@
         "dark": "/api/Software/Bento?theme=dark",
         "lightSvg": "bento.svg",
         "darkSvg": "bento.svg"
+    },
+    "Firebase Hosting": {
+        "light": "/api/Hosting/Firebase?theme=light",
+        "dark": "/api/Hosting/Firebase?theme=dark",
+        "lightSvg": "firebase.svg",
+        "darkSvg": "firebase.svg"
+    },
+    "Prettier Library": {
+        "light": "/api/Library/Prettier?theme=light",
+        "dark": "/api/Library/Prettier?theme=dark",
+        "lightSvg": "prettier-icon-light.svg",
+        "darkSvg": "prettier-icon-dark.svg"
     }
 }

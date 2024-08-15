@@ -42,3 +42,4 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=dark&wordmark=true` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=dark&wordmark=true` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=dark&wordmark=true` |
+| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark&wordmark=true` |

@@ -39,7 +39,6 @@
 | OpenSea | ![OpenSea](https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=dark` |
 | Algolia | ![Algolia](https://svgl-badge.vercel.app/api/Library/Algolia?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Algolia?theme=dark` |
 | Bootstrap | ![Bootstrap](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark` |
-| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark` |
 | Vite.js | ![Vite.js](https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=dark` |
 | Facebook | ![Facebook](https://svgl-badge.vercel.app/api/Social/Facebook?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Facebook?theme=dark` |
 | Twitter | ![Twitter](https://svgl-badge.vercel.app/api/Social/Twitter?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Twitter?theme=dark` |
@@ -243,7 +242,7 @@
 | Polygon | ![Polygon](https://svgl-badge.vercel.app/api/Crypto/Polygon?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Polygon?theme=dark` |
 | Algorand | ![Algorand](https://svgl-badge.vercel.app/api/Crypto/Algorand?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Algorand?theme=dark` |
 | Tether | ![Tether](https://svgl-badge.vercel.app/api/Crypto/Tether?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Tether?theme=dark` |
-| X | ![X](https://svgl-badge.vercel.app/api/Social/X?theme=dark) | `https://svgl-badge.vercel.app/api/Social/X?theme=dark` |
+| X (formerly Twitter) | ![X (formerly Twitter)](https://svgl-badge.vercel.app/api/Social/X%20%28formerly%20Twitter%29?theme=dark) | `https://svgl-badge.vercel.app/api/Social/X%20%28formerly%20Twitter%29?theme=dark` |
 | Adobe | ![Adobe](https://svgl-badge.vercel.app/api/Design/Adobe?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Adobe?theme=dark` |
 | After Effects | ![After Effects](https://svgl-badge.vercel.app/api/Design/After%20Effects?theme=dark) | `https://svgl-badge.vercel.app/api/Design/After%20Effects?theme=dark` |
 | Canva | ![Canva](https://svgl-badge.vercel.app/api/Design/Canva?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Canva?theme=dark` |
@@ -425,3 +424,5 @@
 | JSON Schema | ![JSON Schema](https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark) | `https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark` |
 | v0 | ![v0](https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark) | `https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark` |
 | Bento | ![Bento](https://svgl-badge.vercel.app/api/Software/Bento?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Bento?theme=dark` |
+| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark` |
+| Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=dark` |

@@ -244,5 +244,11 @@
         "dark": "/api/Software/Todoist?theme=dark&wordmark=true",
         "lightSvg": "todoist-wordmark.svg",
         "darkSvg": "todoist-wordmark.svg"
+    },
+    "Firebase Hosting": {
+        "light": "/api/Hosting/Firebase?theme=light&wordmark=true",
+        "dark": "/api/Hosting/Firebase?theme=dark&wordmark=true",
+        "lightSvg": "firebase-wordmark.svg",
+        "darkSvg": "firebase-wordmark.svg"
     }
 }

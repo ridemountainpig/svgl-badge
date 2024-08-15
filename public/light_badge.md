@@ -39,7 +39,6 @@
 | OpenSea | ![OpenSea](https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=light` |
 | Algolia | ![Algolia](https://svgl-badge.vercel.app/api/Library/Algolia?theme=light) | `https://svgl-badge.vercel.app/api/Library/Algolia?theme=light` |
 | Bootstrap | ![Bootstrap](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light` |
-| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light` |
 | Vite.js | ![Vite.js](https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light` |
 | Facebook | ![Facebook](https://svgl-badge.vercel.app/api/Social/Facebook?theme=light) | `https://svgl-badge.vercel.app/api/Social/Facebook?theme=light` |
 | Twitter | ![Twitter](https://svgl-badge.vercel.app/api/Social/Twitter?theme=light) | `https://svgl-badge.vercel.app/api/Social/Twitter?theme=light` |
@@ -243,7 +242,7 @@
 | Polygon | ![Polygon](https://svgl-badge.vercel.app/api/Crypto/Polygon?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Polygon?theme=light` |
 | Algorand | ![Algorand](https://svgl-badge.vercel.app/api/Crypto/Algorand?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Algorand?theme=light` |
 | Tether | ![Tether](https://svgl-badge.vercel.app/api/Crypto/Tether?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Tether?theme=light` |
-| X | ![X](https://svgl-badge.vercel.app/api/Social/X?theme=light) | `https://svgl-badge.vercel.app/api/Social/X?theme=light` |
+| X (formerly Twitter) | ![X (formerly Twitter)](https://svgl-badge.vercel.app/api/Social/X%20%28formerly%20Twitter%29?theme=light) | `https://svgl-badge.vercel.app/api/Social/X%20%28formerly%20Twitter%29?theme=light` |
 | Adobe | ![Adobe](https://svgl-badge.vercel.app/api/Design/Adobe?theme=light) | `https://svgl-badge.vercel.app/api/Design/Adobe?theme=light` |
 | After Effects | ![After Effects](https://svgl-badge.vercel.app/api/Design/After%20Effects?theme=light) | `https://svgl-badge.vercel.app/api/Design/After%20Effects?theme=light` |
 | Canva | ![Canva](https://svgl-badge.vercel.app/api/Design/Canva?theme=light) | `https://svgl-badge.vercel.app/api/Design/Canva?theme=light` |
@@ -425,3 +424,5 @@
 | JSON Schema | ![JSON Schema](https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=light) | `https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=light` |
 | v0 | ![v0](https://svgl-badge.vercel.app/api/Vercel/v0?theme=light) | `https://svgl-badge.vercel.app/api/Vercel/v0?theme=light` |
 | Bento | ![Bento](https://svgl-badge.vercel.app/api/Software/Bento?theme=light) | `https://svgl-badge.vercel.app/api/Software/Bento?theme=light` |
+| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light` |
+| Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=light) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=light` |
