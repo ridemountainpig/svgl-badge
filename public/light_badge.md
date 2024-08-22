@@ -426,3 +426,4 @@
 | Bento | ![Bento](https://svgl-badge.vercel.app/api/Software/Bento?theme=light) | `https://svgl-badge.vercel.app/api/Software/Bento?theme=light` |
 | Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light` |
 | Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=light) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=light` |
+| Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light` |

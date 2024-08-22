@@ -250,5 +250,11 @@
         "dark": "/api/Hosting/Firebase?theme=dark&wordmark=true",
         "lightSvg": "firebase-wordmark.svg",
         "darkSvg": "firebase-wordmark.svg"
+    },
+    "Leap Wallet Crypto": {
+        "light": "/api/Crypto/Leap%20Wallet?theme=light&wordmark=true",
+        "dark": "/api/Crypto/Leap%20Wallet?theme=dark&wordmark=true",
+        "lightSvg": "leap-wallet-wordmark-light.svg",
+        "darkSvg": "leap-wallet-wordmark-dark.svg"
     }
 }

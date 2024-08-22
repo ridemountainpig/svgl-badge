@@ -3339,5 +3339,20 @@
             "dark": "https://svgl.app/library/prettier-icon-dark.svg"
         },
         "url": "https://prettier.io/"
+    },
+    {
+        "id": 425,
+        "title": "Leap Wallet",
+        "category": [
+            "Crypto",
+            "Payment",
+            "Software"
+        ],
+        "route": "https://svgl.app/library/leap-wallet.svg",
+        "wordmark": {
+            "light": "https://svgl.app/library/leap-wallet-wordmark-light.svg",
+            "dark": "https://svgl.app/library/leap-wallet-wordmark-dark.svg"
+        },
+        "url": "https://leapwallet.io/"
     }
 ]
