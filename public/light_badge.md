@@ -427,3 +427,4 @@
 | Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light` |
 | Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=light) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=light` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light` |
+| Nx | ![Nx](https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light` |

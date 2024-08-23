@@ -2548,5 +2548,11 @@
         "dark": "/api/Crypto/Leap%20Wallet?theme=dark",
         "lightSvg": "leap-wallet.svg",
         "darkSvg": "leap-wallet.svg"
+    },
+    "Nx Devtool": {
+        "light": "/api/Devtool/Nx?theme=light",
+        "dark": "/api/Devtool/Nx?theme=dark",
+        "lightSvg": "nx_light.svg",
+        "darkSvg": "nx_dark.svg"
     }
 }

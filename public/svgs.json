@@ -382,6 +382,7 @@
         "title": "Turborepo",
         "category": [
             "Library",
+            "Monorepo",
             "Vercel"
         ],
         "route": "https://svgl.app/library/turborepo.svg",
@@ -3354,5 +3355,18 @@
             "dark": "https://svgl.app/library/leap-wallet-wordmark-dark.svg"
         },
         "url": "https://leapwallet.io/"
+    },
+    {
+        "id": 426,
+        "title": "Nx",
+        "category": [
+            "Devtool",
+            "Monorepo"
+        ],
+        "route": {
+            "light": "https://svgl.app/library/nx_light.svg",
+            "dark": "https://svgl.app/library/nx_dark.svg"
+        },
+        "url": "https://nx.dev"
     }
 ]
