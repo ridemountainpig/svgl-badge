@@ -433,7 +433,10 @@
     {
         "id": 54,
         "title": "YouTube",
-        "category": "Social",
+        "category": [
+            "Google",
+            "Social"
+        ],
         "route": "https://svgl.app/library/youtube.svg",
         "wordmark": "https://svgl.app/library/youtube-wordmark.svg",
         "url": "https://www.youtube.com/"
@@ -451,7 +454,7 @@
     {
         "id": 56,
         "title": "Google",
-        "category": "Social",
+        "category": "Google",
         "route": "https://svgl.app/library/google.svg",
         "wordmark": "https://svgl.app/library/google-wordmark.svg",
         "url": "https://www.google.com/"
@@ -1621,10 +1624,13 @@
     },
     {
         "id": 213,
-        "title": "Google Bard",
-        "category": "AI",
+        "title": "Gemini",
+        "category": [
+            "AI",
+            "Google"
+        ],
         "route": "https://svgl.app/library/bard.svg",
-        "url": "https://bard.google.com/"
+        "url": "https://gemini.google.com/"
     },
     {
         "id": 214,
@@ -2328,7 +2334,10 @@
     {
         "id": 303,
         "title": "Stripe",
-        "category": "Software",
+        "category": [
+            "Payment",
+            "Software"
+        ],
         "route": "https://svgl.app/library/stripe.svg",
         "url": "https://stripe.com/"
     },
@@ -2503,7 +2512,10 @@
     {
         "id": 326,
         "title": "Gmail",
-        "category": "Software",
+        "category": [
+            "Google",
+            "Software"
+        ],
         "route": "https://svgl.app/library/gmail.svg",
         "url": "https://www.gmail.com"
     },
@@ -2901,13 +2913,6 @@
     },
     {
         "id": 377,
-        "title": "Movie Web",
-        "category": "Entertainment",
-        "route": "https://svgl.app/library/movie-web.svg",
-        "url": "https://movie-web.app/"
-    },
-    {
-        "id": 378,
         "title": "Radix UI",
         "category": "Library",
         "route": {
@@ -2917,14 +2922,14 @@
         "url": "https://www.radix-ui.com/"
     },
     {
-        "id": 379,
+        "id": 378,
         "title": "Web.dev",
         "category": "Education",
         "route": "https://svgl.app/library/webdev.svg",
         "url": "https://web.dev/"
     },
     {
-        "id": 380,
+        "id": 379,
         "title": "SWR",
         "category": "Library",
         "route": {
@@ -2934,7 +2939,7 @@
         "url": "https://swr.vercel.app/"
     },
     {
-        "id": 381,
+        "id": 380,
         "title": "Refine",
         "category": "Framework",
         "route": {
@@ -2944,9 +2949,12 @@
         "url": "https://refine.dev/"
     },
     {
-        "id": 382,
+        "id": 381,
         "title": "Youtube Music",
-        "category": "Music",
+        "category": [
+            "Google",
+            "Music"
+        ],
         "route": "https://svgl.app/library/youtube_music.svg",
         "wordmark": {
             "light": "https://svgl.app/library/youtube_music_wordmark_light.svg",
@@ -2955,7 +2963,7 @@
         "url": "https://music.youtube.com/"
     },
     {
-        "id": 383,
+        "id": 382,
         "title": "TIDAL",
         "category": "Music",
         "route": {
@@ -2969,14 +2977,14 @@
         "url": "https://tidal.com/"
     },
     {
-        "id": 384,
+        "id": 383,
         "title": "OBS",
         "category": "Software",
         "route": "https://svgl.app/library/obs.svg",
         "url": "Website"
     },
     {
-        "id": 385,
+        "id": 384,
         "title": "Stack Overflow",
         "category": "Software",
         "route": "https://svgl.app/library/stackoverflow.svg",
@@ -2984,14 +2992,14 @@
         "url": "https://stackoverflow.com/"
     },
     {
-        "id": 386,
+        "id": 385,
         "title": "TikTok",
         "category": "Social",
         "route": "https://svgl.app/library/tiktok.svg",
         "url": "https://www.tiktok.com/"
     },
     {
-        "id": 387,
+        "id": 386,
         "title": "Ngrok",
         "category": "Software",
         "route": {
@@ -3001,14 +3009,14 @@
         "url": "https://ngrok.com"
     },
     {
-        "id": 388,
+        "id": 387,
         "title": "Lemon Squeezy",
         "category": "Software",
         "route": "https://svgl.app/library/lemonsqueezy.svg",
         "url": "https://www.lemonsqueezy.com"
     },
     {
-        "id": 389,
+        "id": 388,
         "title": "Asana",
         "category": "Software",
         "route": "https://svgl.app/library/asana-logo.svg",
@@ -3019,7 +3027,7 @@
         "url": "https://asana.com"
     },
     {
-        "id": 390,
+        "id": 389,
         "title": "UpLeveled",
         "category": "Education",
         "route": "https://svgl.app/library/upleveled.svg",
@@ -3027,14 +3035,14 @@
         "url": "https://upleveled.io/"
     },
     {
-        "id": 391,
+        "id": 390,
         "title": "Zoom",
         "category": "Software",
         "route": "https://svgl.app/library/zoom.svg",
         "url": "https://zoom.us/"
     },
     {
-        "id": 392,
+        "id": 391,
         "title": "Tina",
         "category": "CMS",
         "route": "https://svgl.app/library/tina.svg",
@@ -3042,7 +3050,7 @@
         "url": "https://tina.io/"
     },
     {
-        "id": 393,
+        "id": 392,
         "title": "Vercel",
         "category": [
             "Hosting",
@@ -3059,7 +3067,7 @@
         "url": "https://vercel.com/"
     },
     {
-        "id": 394,
+        "id": 393,
         "title": "Next.js",
         "category": [
             "Framework",
@@ -3073,7 +3081,7 @@
         "url": "https://nextjs.org/"
     },
     {
-        "id": 395,
+        "id": 394,
         "title": "Mistral AI",
         "category": "AI",
         "route": "https://svgl.app/library/mistral-ai_logo.svg",
@@ -3081,35 +3089,35 @@
         "url": "https://mistral.ai/"
     },
     {
-        "id": 396,
+        "id": 395,
         "title": "Hugging Face",
         "category": "AI",
         "route": "https://svgl.app/library/hugging_face.svg",
         "url": "https://huggingface.co/"
     },
     {
-        "id": 397,
+        "id": 396,
         "title": "Node.js",
         "category": "Library",
         "route": "https://svgl.app/library/nodejs.svg",
         "url": "https://nodejs.org/"
     },
     {
-        "id": 398,
+        "id": 397,
         "title": "Raindrop.io",
         "category": "Software",
         "route": "https://svgl.app/library/raindrop.svg",
         "url": "https://raindrop.io/"
     },
     {
-        "id": 399,
+        "id": 398,
         "title": "Microsoft Todo",
         "category": "Software",
         "route": "https://svgl.app/library/microsoft-todo.svg",
         "url": "https://to-do.office.com/"
     },
     {
-        "id": 400,
+        "id": 399,
         "title": "Supabase",
         "category": "Database",
         "route": "https://svgl.app/library/supabase.svg",
@@ -3120,28 +3128,28 @@
         }
     },
     {
-        "id": 401,
+        "id": 400,
         "title": "Gleam",
         "category": "Language",
         "route": "https://svgl.app/library/gleam.svg",
         "url": "https://gleam.run/"
     },
     {
-        "id": 402,
+        "id": 401,
         "title": "Flowbite",
         "category": "Framework",
         "route": "https://svgl.app/library/flowbite.svg",
         "url": "https://flowbite.com/"
     },
     {
-        "id": 403,
+        "id": 402,
         "title": "Hume AI",
         "category": "AI",
         "route": "https://svgl.app/library/hume-ai.svg",
         "url": "https://hume.ai/"
     },
     {
-        "id": 404,
+        "id": 403,
         "title": "Resend",
         "category": "Software",
         "url": "https://resend.com/",
@@ -3155,7 +3163,7 @@
         }
     },
     {
-        "id": 405,
+        "id": 404,
         "title": "Layers",
         "category": "Design",
         "route": {
@@ -3165,21 +3173,21 @@
         "url": "https://layers.to/"
     },
     {
-        "id": 406,
+        "id": 405,
         "title": "Exome",
         "category": "Library",
         "route": "https://svgl.app/library/exome.svg",
         "url": "https://exome.dev/"
     },
     {
-        "id": 407,
+        "id": 406,
         "title": "Poper",
         "category": "AI",
         "route": "https://svgl.app/library/poper.svg",
         "url": "https://www.poper.ai"
     },
     {
-        "id": 408,
+        "id": 407,
         "title": "Dub",
         "category": "Software",
         "route": {
@@ -3193,7 +3201,7 @@
         "url": "https://dub.co"
     },
     {
-        "id": 409,
+        "id": 408,
         "title": "Turso",
         "category": [
             "Database",
@@ -3210,7 +3218,7 @@
         "url": "https://turso.tech"
     },
     {
-        "id": 410,
+        "id": 409,
         "title": "RelaGit",
         "category": "Software",
         "route": {
@@ -3224,7 +3232,7 @@
         "url": "https://rela.dev"
     },
     {
-        "id": 411,
+        "id": 410,
         "title": "T3 Stack",
         "category": "Framework",
         "route": {
@@ -3234,7 +3242,7 @@
         "url": "https://create.t3.gg/"
     },
     {
-        "id": 412,
+        "id": 411,
         "title": "Apple Music",
         "category": "Music",
         "route": "https://svgl.app/library/apple-music-icon.svg",
@@ -3245,21 +3253,21 @@
         "url": "https://music.apple.com/"
     },
     {
-        "id": 413,
+        "id": 412,
         "title": "YGeeker",
         "category": "Software",
         "route": "https://svgl.app/library/ygeeker.svg",
         "url": "https://www.ygeeker.com"
     },
     {
-        "id": 414,
+        "id": 413,
         "title": "Web components",
         "category": "Library",
         "route": "https://svgl.app/library/webcomponents.svg",
         "url": "https://www.webcomponents.org/"
     },
     {
-        "id": 415,
+        "id": 414,
         "title": "PostCSS",
         "category": "Compiler",
         "route": "https://svgl.app/library/postcss.svg",
@@ -3267,7 +3275,7 @@
         "url": "https://postcss.org/"
     },
     {
-        "id": 416,
+        "id": 415,
         "title": "SVG",
         "category": [
             "Design",
@@ -3278,7 +3286,7 @@
         "url": "https://www.w3.org/TR/SVG/"
     },
     {
-        "id": 417,
+        "id": 416,
         "title": "Todoist",
         "category": "Software",
         "route": "https://svgl.app/library/todoist.svg",
@@ -3286,28 +3294,28 @@
         "url": "https://todoist.com/"
     },
     {
-        "id": 418,
+        "id": 417,
         "title": "Apidog",
         "category": "Software",
         "route": "https://svgl.app/library/apidog.svg",
         "url": "https://apidog.com/"
     },
     {
-        "id": 419,
+        "id": 418,
         "title": "Chart.js",
         "category": "Library",
         "route": "https://svgl.app/library/chartjs.svg",
         "url": "https://www.chartjs.org/"
     },
     {
-        "id": 420,
+        "id": 419,
         "title": "JSON Schema",
         "category": "Library",
         "route": "https://svgl.app/library/json-schema.svg",
         "url": "https://json-schema.org/"
     },
     {
-        "id": 421,
+        "id": 420,
         "title": "v0",
         "category": "Vercel",
         "route": {
@@ -3317,14 +3325,14 @@
         "url": "https://v0.dev/"
     },
     {
-        "id": 422,
+        "id": 421,
         "title": "Bento",
         "category": "Software",
         "route": "https://svgl.app/library/bento.svg",
         "url": "https://bento.me/home"
     },
     {
-        "id": 423,
+        "id": 422,
         "title": "Firebase",
         "category": "Hosting",
         "route": "https://svgl.app/library/firebase.svg",
@@ -3332,7 +3340,7 @@
         "url": "https://firebase.google.com/"
     },
     {
-        "id": 424,
+        "id": 423,
         "title": "Prettier",
         "category": "Library",
         "route": {
@@ -3342,7 +3350,7 @@
         "url": "https://prettier.io/"
     },
     {
-        "id": 425,
+        "id": 424,
         "title": "Leap Wallet",
         "category": [
             "Crypto",
@@ -3357,7 +3365,7 @@
         "url": "https://leapwallet.io/"
     },
     {
-        "id": 426,
+        "id": 425,
         "title": "Nx",
         "category": [
             "Devtool",
@@ -3368,5 +3376,25 @@
             "dark": "https://svgl.app/library/nx_dark.svg"
         },
         "url": "https://nx.dev"
+    },
+    {
+        "id": 426,
+        "title": "Google Colaboratory",
+        "category": [
+            "Google",
+            "Software"
+        ],
+        "route": "https://svgl.app/library/Google_Colaboratory.svg",
+        "url": "https://colab.research.google.com/"
+    },
+    {
+        "id": 427,
+        "title": "Raspberry PI",
+        "category": [
+            "Hardware",
+            "Software"
+        ],
+        "route": "https://svgl.app/library/raspberry_pi.svg",
+        "url": "https://www.raspberrypi.com/"
     }
 ]

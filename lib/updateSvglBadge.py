@@ -1,36 +1,45 @@
-import requests
+import aiohttp
+import asyncio
+import os
 import json
 from urllib.parse import quote
 
-def fetchSvg(svgFileUrl):
+
+async def fetchSvg(session, svgFileUrl):
     try:
         svgFileName = svgFileUrl.split("/")[-1]
-        svgFileUrl = svgFileUrl.replace("https://svgl.app/", "https://raw.githubusercontent.com/pheralb/svgl/main/static/")
-        response = requests.get(svgFileUrl)
-        response.raise_for_status()
+        svgFileUrl = svgFileUrl.replace(
+            "https://svgl.app/",
+            "https://raw.githubusercontent.com/pheralb/svgl/main/static/",
+        )
 
-        data = response.text
+        async with session.get(svgFileUrl) as response:
+            response.raise_for_status()
+            data = await response.text()
+
         file_path = f"static/library/{svgFileName}"
-
-        with open(file_path, 'w', encoding='utf-8') as f:
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        with open(file_path, "w", encoding="utf-8") as f:
             f.write(data)
 
-        print(f"SVG {svgFileName} download successfully.")
+        print(f"SVG {svgFileName} downloaded successfully.")
     except Exception as error:
         print(error)
 
-def getSvglJson():
-    try:
-        response = requests.get("https://svgl-badge.vercel.app/api/svgs")
-        response.raise_for_status()
 
-        data = response.json()
+async def getSvglJson():
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get("https://api.svgl.app") as response:
+                response.raise_for_status()
+                data = await response.json()
+
         for svg in data:
             if type(svg["category"]) == list:
                 svg["category"].sort()
-        file_path = "public/svgs.json"
 
-        with open(file_path, 'w', encoding='utf-8') as f:
+        file_path = "public/svgs.json"
+        with open(file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
         print("SVGs updated successfully.")
@@ -38,23 +47,28 @@ def getSvglJson():
         print(error)
 
 
-def getSvglLibrarySvg():
+async def getSvglLibrarySvg():
     try:
         with open("public/svgs.json", "r") as f:
             data = json.load(f)
+
+        async with aiohttp.ClientSession() as session:
+            tasks = []
             for svg in data:
                 if type(svg["route"]) == str:
-                    fetchSvg(svg["route"])
+                    tasks.append(fetchSvg(session, svg["route"]))
                 else:
-                    fetchSvg(svg["route"]["light"])
-                    fetchSvg(svg["route"]["dark"])
-                
+                    tasks.append(fetchSvg(session, svg["route"]["light"]))
+                    tasks.append(fetchSvg(session, svg["route"]["dark"]))
+
                 if svg.get("wordmark"):
                     if type(svg["wordmark"]) == str:
-                        fetchSvg(svg["wordmark"])
+                        tasks.append(fetchSvg(session, svg["wordmark"]))
                     else:
-                        fetchSvg(svg["wordmark"]["light"])
-                        fetchSvg(svg["wordmark"]["dark"])
+                        tasks.append(fetchSvg(session, svg["wordmark"]["light"]))
+                        tasks.append(fetchSvg(session, svg["wordmark"]["dark"]))
+
+            await asyncio.gather(*tasks)
     except Exception as error:
         print(error)
 
@@ -72,14 +86,22 @@ def updateSvglBadge():
     with open("public/svgs.json", "r") as f:
         data = json.load(f)
         for svg in data:
-            badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
-            badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
+            badgeTitle = quote(
+                svg["title"]
+                if "/" not in svg["title"]
+                else svg["title"].replace("/", "")
+            )
+            badgeCategory = quote(
+                svg["category"] if type(svg["category"]) == str else svg["category"][0]
+            )
 
             badgeSvgRoute = svg["route"]
             lightSvg = ""
             darkSvg = ""
             if type(badgeSvgRoute) == dict:
-                lightSvg = badgeSvgRoute["light"].replace("https://svgl.app/library/", "")
+                lightSvg = badgeSvgRoute["light"].replace(
+                    "https://svgl.app/library/", ""
+                )
                 darkSvg = badgeSvgRoute["dark"].replace("https://svgl.app/library/", "")
             else:
                 lightSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
@@ -90,9 +112,18 @@ def updateSvglBadge():
             darkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=dark"
             lightBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light"
             darkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark"
-            light_badge_md += f"| {title} | ![{title}]({lightBadgeUrl}) | `{lightBadgeUrl}` |\n"
-            dark_badge_md += f"| {title} | ![{title}]({darkBadgeUrl}) | `{darkBadgeUrl}` |\n"
-            badge_json_data[f"{title} {badgeCategory}"] = {"light": lightUrl, "dark": darkUrl, "lightSvg": lightSvg, "darkSvg": darkSvg}
+            light_badge_md += (
+                f"| {title} | ![{title}]({lightBadgeUrl}) | `{lightBadgeUrl}` |\n"
+            )
+            dark_badge_md += (
+                f"| {title} | ![{title}]({darkBadgeUrl}) | `{darkBadgeUrl}` |\n"
+            )
+            badge_json_data[f"{title} {badgeCategory}"] = {
+                "light": lightUrl,
+                "dark": darkUrl,
+                "lightSvg": lightSvg,
+                "darkSvg": darkSvg,
+            }
     with open("public/light_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_badge.md", "w") as f:
@@ -116,27 +147,48 @@ def updateSvglWordmarkBadge():
         data = json.load(f)
         for svg in data:
             if svg.get("wordmark"):
-                badgeTitle = quote(svg["title"] if "/" not in svg["title"] else svg["title"].replace("/", ""))
-                badgeCategory = quote(svg["category"] if type(svg["category"]) == str else svg["category"][0])
+                badgeTitle = quote(
+                    svg["title"]
+                    if "/" not in svg["title"]
+                    else svg["title"].replace("/", "")
+                )
+                badgeCategory = quote(
+                    svg["category"]
+                    if type(svg["category"]) == str
+                    else svg["category"][0]
+                )
 
                 badgeSvgRoute = svg["wordmark"]
                 lightSvg = ""
                 darkSvg = ""
                 if type(badgeSvgRoute) == dict:
-                    lightSvg = badgeSvgRoute["light"].replace("https://svgl.app/library/", "")
-                    darkSvg = badgeSvgRoute["dark"].replace("https://svgl.app/library/", "")
+                    lightSvg = badgeSvgRoute["light"].replace(
+                        "https://svgl.app/library/", ""
+                    )
+                    darkSvg = badgeSvgRoute["dark"].replace(
+                        "https://svgl.app/library/", ""
+                    )
                 else:
                     lightSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
                     darkSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
 
                 title = svg["title"]
-                lightWordmarkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
-                darkWordmarkUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
+                lightWordmarkUrl = (
+                    f"/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
+                )
+                darkWordmarkUrl = (
+                    f"/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
+                )
                 lightWordmarkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=light&wordmark=true"
                 darkWordmarkBadgeUrl = f"https://svgl-badge.vercel.app/api/{badgeCategory}/{badgeTitle}?theme=dark&wordmark=true"
                 light_badge_md += f"| {title} | ![{title}]({lightWordmarkBadgeUrl}) | `{lightWordmarkBadgeUrl}` |\n"
                 dark_badge_md += f"| {title} | ![{title}]({darkWordmarkBadgeUrl}) | `{darkWordmarkBadgeUrl}` |\n"
-                wordmark_badge_json_data[f"{title} {badgeCategory}"] = {"light": lightWordmarkUrl, "dark": darkWordmarkUrl, "lightSvg": lightSvg, "darkSvg": darkSvg}
+                wordmark_badge_json_data[f"{title} {badgeCategory}"] = {
+                    "light": lightWordmarkUrl,
+                    "dark": darkWordmarkUrl,
+                    "lightSvg": lightSvg,
+                    "darkSvg": darkSvg,
+                }
     with open("public/light_wordmark_badge.md", "w") as f:
         f.write(light_badge_md)
     with open("public/dark_wordmark_badge.md", "w") as f:
@@ -180,8 +232,11 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
     print("Readme updated successfully.")
 
 
-getSvglJson()
-getSvglLibrarySvg()
+async def main():
+    await getSvglJson()
+    await getSvglLibrarySvg()
+
+asyncio.run(main())
 updateSvglBadge()
 updateSvglWordmarkBadge()
 # updateSvglBadgeReadme()

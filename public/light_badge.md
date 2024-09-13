@@ -55,9 +55,9 @@
 | Blitz | ![Blitz](https://svgl-badge.vercel.app/api/Framework/Blitz?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Blitz?theme=light` |
 | Lit | ![Lit](https://svgl-badge.vercel.app/api/Library/Lit?theme=light) | `https://svgl-badge.vercel.app/api/Library/Lit?theme=light` |
 | Atom | ![Atom](https://svgl-badge.vercel.app/api/Software/Atom?theme=light) | `https://svgl-badge.vercel.app/api/Software/Atom?theme=light` |
-| YouTube | ![YouTube](https://svgl-badge.vercel.app/api/Social/YouTube?theme=light) | `https://svgl-badge.vercel.app/api/Social/YouTube?theme=light` |
+| YouTube | ![YouTube](https://svgl-badge.vercel.app/api/Google/YouTube?theme=light) | `https://svgl-badge.vercel.app/api/Google/YouTube?theme=light` |
 | Astro | ![Astro](https://svgl-badge.vercel.app/api/Framework/Astro?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Astro?theme=light` |
-| Google | ![Google](https://svgl-badge.vercel.app/api/Social/Google?theme=light) | `https://svgl-badge.vercel.app/api/Social/Google?theme=light` |
+| Google | ![Google](https://svgl-badge.vercel.app/api/Google/Google?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google?theme=light` |
 | Framer | ![Framer](https://svgl-badge.vercel.app/api/Software/Framer?theme=light) | `https://svgl-badge.vercel.app/api/Software/Framer?theme=light` |
 | Netflix | ![Netflix](https://svgl-badge.vercel.app/api/Entertainment/Netflix?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/Netflix?theme=light` |
 | Firefox | ![Firefox](https://svgl-badge.vercel.app/api/Browser/Firefox?theme=light) | `https://svgl-badge.vercel.app/api/Browser/Firefox?theme=light` |
@@ -214,7 +214,7 @@
 | Skype | ![Skype](https://svgl-badge.vercel.app/api/Social/Skype?theme=light) | `https://svgl-badge.vercel.app/api/Social/Skype?theme=light` |
 | Tauri | ![Tauri](https://svgl-badge.vercel.app/api/Library/Tauri?theme=light) | `https://svgl-badge.vercel.app/api/Library/Tauri?theme=light` |
 | WebKit | ![WebKit](https://svgl-badge.vercel.app/api/Software/WebKit?theme=light) | `https://svgl-badge.vercel.app/api/Software/WebKit?theme=light` |
-| Google Bard | ![Google Bard](https://svgl-badge.vercel.app/api/AI/Google%20Bard?theme=light) | `https://svgl-badge.vercel.app/api/AI/Google%20Bard?theme=light` |
+| Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=light) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=light` |
 | Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/Software/Obsidian?theme=light) | `https://svgl-badge.vercel.app/api/Software/Obsidian?theme=light` |
 | Zod | ![Zod](https://svgl-badge.vercel.app/api/Library/Zod?theme=light) | `https://svgl-badge.vercel.app/api/Library/Zod?theme=light` |
 | Dreamweaver | ![Dreamweaver](https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=light) | `https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=light` |
@@ -304,7 +304,7 @@
 | putio | ![putio](https://svgl-badge.vercel.app/api/Software/putio?theme=light) | `https://svgl-badge.vercel.app/api/Software/putio?theme=light` |
 | Pinterest | ![Pinterest](https://svgl-badge.vercel.app/api/Social/Pinterest?theme=light) | `https://svgl-badge.vercel.app/api/Social/Pinterest?theme=light` |
 | Reflex | ![Reflex](https://svgl-badge.vercel.app/api/Software/Reflex?theme=light) | `https://svgl-badge.vercel.app/api/Software/Reflex?theme=light` |
-| Stripe | ![Stripe](https://svgl-badge.vercel.app/api/Software/Stripe?theme=light) | `https://svgl-badge.vercel.app/api/Software/Stripe?theme=light` |
+| Stripe | ![Stripe](https://svgl-badge.vercel.app/api/Payment/Stripe?theme=light) | `https://svgl-badge.vercel.app/api/Payment/Stripe?theme=light` |
 | Linux | ![Linux](https://svgl-badge.vercel.app/api/Software/Linux?theme=light) | `https://svgl-badge.vercel.app/api/Software/Linux?theme=light` |
 | XD | ![XD](https://svgl-badge.vercel.app/api/Design/XD?theme=light) | `https://svgl-badge.vercel.app/api/Design/XD?theme=light` |
 | Axure | ![Axure](https://svgl-badge.vercel.app/api/Design/Axure?theme=light) | `https://svgl-badge.vercel.app/api/Design/Axure?theme=light` |
@@ -327,7 +327,7 @@
 | sky | ![sky](https://svgl-badge.vercel.app/api/Entertainment/sky?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/sky?theme=light` |
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light` |
 | Uber | ![Uber](https://svgl-badge.vercel.app/api/Software/Uber?theme=light) | `https://svgl-badge.vercel.app/api/Software/Uber?theme=light` |
-| Gmail | ![Gmail](https://svgl-badge.vercel.app/api/Software/Gmail?theme=light) | `https://svgl-badge.vercel.app/api/Software/Gmail?theme=light` |
+| Gmail | ![Gmail](https://svgl-badge.vercel.app/api/Google/Gmail?theme=light) | `https://svgl-badge.vercel.app/api/Google/Gmail?theme=light` |
 | Outlook | ![Outlook](https://svgl-badge.vercel.app/api/Software/Outlook?theme=light) | `https://svgl-badge.vercel.app/api/Software/Outlook?theme=light` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=light) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=light` |
 | Snapchat | ![Snapchat](https://svgl-badge.vercel.app/api/Software/Snapchat?theme=light) | `https://svgl-badge.vercel.app/api/Software/Snapchat?theme=light` |
@@ -378,12 +378,11 @@
 | C# | ![C#](https://svgl-badge.vercel.app/api/Language/C%23?theme=light) | `https://svgl-badge.vercel.app/api/Language/C%23?theme=light` |
 | Replicate | ![Replicate](https://svgl-badge.vercel.app/api/AI/Replicate?theme=light) | `https://svgl-badge.vercel.app/api/AI/Replicate?theme=light` |
 | Markdown | ![Markdown](https://svgl-badge.vercel.app/api/Language/Markdown?theme=light) | `https://svgl-badge.vercel.app/api/Language/Markdown?theme=light` |
-| Movie Web | ![Movie Web](https://svgl-badge.vercel.app/api/Entertainment/Movie%20Web?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/Movie%20Web?theme=light` |
 | Radix UI | ![Radix UI](https://svgl-badge.vercel.app/api/Library/Radix%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Radix%20UI?theme=light` |
 | Web.dev | ![Web.dev](https://svgl-badge.vercel.app/api/Education/Web.dev?theme=light) | `https://svgl-badge.vercel.app/api/Education/Web.dev?theme=light` |
 | SWR | ![SWR](https://svgl-badge.vercel.app/api/Library/SWR?theme=light) | `https://svgl-badge.vercel.app/api/Library/SWR?theme=light` |
 | Refine | ![Refine](https://svgl-badge.vercel.app/api/Framework/Refine?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Refine?theme=light` |
-| Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/Music/Youtube%20Music?theme=light) | `https://svgl-badge.vercel.app/api/Music/Youtube%20Music?theme=light` |
+| Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/Google/Youtube%20Music?theme=light) | `https://svgl-badge.vercel.app/api/Google/Youtube%20Music?theme=light` |
 | TIDAL | ![TIDAL](https://svgl-badge.vercel.app/api/Music/TIDAL?theme=light) | `https://svgl-badge.vercel.app/api/Music/TIDAL?theme=light` |
 | OBS | ![OBS](https://svgl-badge.vercel.app/api/Software/OBS?theme=light) | `https://svgl-badge.vercel.app/api/Software/OBS?theme=light` |
 | Stack Overflow | ![Stack Overflow](https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=light) | `https://svgl-badge.vercel.app/api/Software/Stack%20Overflow?theme=light` |
@@ -428,3 +427,5 @@
 | Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=light) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=light` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light` |
 | Nx | ![Nx](https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light` |
+| Google Colaboratory | ![Google Colaboratory](https://svgl-badge.vercel.app/api/Google/Google%20Colaboratory?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Colaboratory?theme=light` |
+| Raspberry PI | ![Raspberry PI](https://svgl-badge.vercel.app/api/Hardware/Raspberry%20PI?theme=light) | `https://svgl-badge.vercel.app/api/Hardware/Raspberry%20PI?theme=light` |

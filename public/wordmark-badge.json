@@ -41,15 +41,15 @@
         "lightSvg": "spotify_wordmark.svg",
         "darkSvg": "spotify_wordmark.svg"
     },
-    "YouTube Social": {
-        "light": "/api/Social/YouTube?theme=light&wordmark=true",
-        "dark": "/api/Social/YouTube?theme=dark&wordmark=true",
+    "YouTube Google": {
+        "light": "/api/Google/YouTube?theme=light&wordmark=true",
+        "dark": "/api/Google/YouTube?theme=dark&wordmark=true",
         "lightSvg": "youtube-wordmark.svg",
         "darkSvg": "youtube-wordmark.svg"
     },
-    "Google Social": {
-        "light": "/api/Social/Google?theme=light&wordmark=true",
-        "dark": "/api/Social/Google?theme=dark&wordmark=true",
+    "Google Google": {
+        "light": "/api/Google/Google?theme=light&wordmark=true",
+        "dark": "/api/Google/Google?theme=dark&wordmark=true",
         "lightSvg": "google-wordmark.svg",
         "darkSvg": "google-wordmark.svg"
     },
@@ -137,9 +137,9 @@
         "lightSvg": "replicate-wordmark_light.svg",
         "darkSvg": "replicate-wordmark_dark.svg"
     },
-    "Youtube Music Music": {
-        "light": "/api/Music/Youtube%20Music?theme=light&wordmark=true",
-        "dark": "/api/Music/Youtube%20Music?theme=dark&wordmark=true",
+    "Youtube Music Google": {
+        "light": "/api/Google/Youtube%20Music?theme=light&wordmark=true",
+        "dark": "/api/Google/Youtube%20Music?theme=dark&wordmark=true",
         "lightSvg": "youtube_music_wordmark_light.svg",
         "darkSvg": "youtube_music_wordmark_dark.svg"
     },

@@ -323,9 +323,9 @@
         "lightSvg": "atom.svg",
         "darkSvg": "atom.svg"
     },
-    "YouTube Social": {
-        "light": "/api/Social/YouTube?theme=light",
-        "dark": "/api/Social/YouTube?theme=dark",
+    "YouTube Google": {
+        "light": "/api/Google/YouTube?theme=light",
+        "dark": "/api/Google/YouTube?theme=dark",
         "lightSvg": "youtube.svg",
         "darkSvg": "youtube.svg"
     },
@@ -335,9 +335,9 @@
         "lightSvg": "astro.svg",
         "darkSvg": "astro_dark.svg"
     },
-    "Google Social": {
-        "light": "/api/Social/Google?theme=light",
-        "dark": "/api/Social/Google?theme=dark",
+    "Google Google": {
+        "light": "/api/Google/Google?theme=light",
+        "dark": "/api/Google/Google?theme=dark",
         "lightSvg": "google.svg",
         "darkSvg": "google.svg"
     },
@@ -1271,9 +1271,9 @@
         "lightSvg": "webkit.svg",
         "darkSvg": "webkit.svg"
     },
-    "Google Bard AI": {
-        "light": "/api/AI/Google%20Bard?theme=light",
-        "dark": "/api/AI/Google%20Bard?theme=dark",
+    "Gemini AI": {
+        "light": "/api/AI/Gemini?theme=light",
+        "dark": "/api/AI/Gemini?theme=dark",
         "lightSvg": "bard.svg",
         "darkSvg": "bard.svg"
     },
@@ -1811,9 +1811,9 @@
         "lightSvg": "reflex-dark.svg",
         "darkSvg": "reflex-light.svg"
     },
-    "Stripe Software": {
-        "light": "/api/Software/Stripe?theme=light",
-        "dark": "/api/Software/Stripe?theme=dark",
+    "Stripe Payment": {
+        "light": "/api/Payment/Stripe?theme=light",
+        "dark": "/api/Payment/Stripe?theme=dark",
         "lightSvg": "stripe.svg",
         "darkSvg": "stripe.svg"
     },
@@ -1949,9 +1949,9 @@
         "lightSvg": "uber_light.svg",
         "darkSvg": "uber_dark.svg"
     },
-    "Gmail Software": {
-        "light": "/api/Software/Gmail?theme=light",
-        "dark": "/api/Software/Gmail?theme=dark",
+    "Gmail Google": {
+        "light": "/api/Google/Gmail?theme=light",
+        "dark": "/api/Google/Gmail?theme=dark",
         "lightSvg": "gmail.svg",
         "darkSvg": "gmail.svg"
     },
@@ -2255,12 +2255,6 @@
         "lightSvg": "markdown-light.svg",
         "darkSvg": "markdown-dark.svg"
     },
-    "Movie Web Entertainment": {
-        "light": "/api/Entertainment/Movie%20Web?theme=light",
-        "dark": "/api/Entertainment/Movie%20Web?theme=dark",
-        "lightSvg": "movie-web.svg",
-        "darkSvg": "movie-web.svg"
-    },
     "Radix UI Library": {
         "light": "/api/Library/Radix%20UI?theme=light",
         "dark": "/api/Library/Radix%20UI?theme=dark",
@@ -2285,9 +2279,9 @@
         "lightSvg": "refine_dark.svg",
         "darkSvg": "refine_light.svg"
     },
-    "Youtube Music Music": {
-        "light": "/api/Music/Youtube%20Music?theme=light",
-        "dark": "/api/Music/Youtube%20Music?theme=dark",
+    "Youtube Music Google": {
+        "light": "/api/Google/Youtube%20Music?theme=light",
+        "dark": "/api/Google/Youtube%20Music?theme=dark",
         "lightSvg": "youtube_music.svg",
         "darkSvg": "youtube_music.svg"
     },
@@ -2554,5 +2548,17 @@
         "dark": "/api/Devtool/Nx?theme=dark",
         "lightSvg": "nx_light.svg",
         "darkSvg": "nx_dark.svg"
+    },
+    "Google Colaboratory Google": {
+        "light": "/api/Google/Google%20Colaboratory?theme=light",
+        "dark": "/api/Google/Google%20Colaboratory?theme=dark",
+        "lightSvg": "Google_Colaboratory.svg",
+        "darkSvg": "Google_Colaboratory.svg"
+    },
+    "Raspberry PI Hardware": {
+        "light": "/api/Hardware/Raspberry%20PI?theme=light",
+        "dark": "/api/Hardware/Raspberry%20PI?theme=dark",
+        "lightSvg": "raspberry_pi.svg",
+        "darkSvg": "raspberry_pi.svg"
     }
 }
