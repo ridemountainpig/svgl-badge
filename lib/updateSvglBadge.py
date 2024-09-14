@@ -30,7 +30,7 @@ async def fetchSvg(session, svgFileUrl):
 async def getSvglJson():
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get("https://api.svgl.app") as response:
+            async with session.get("https://svgl-badge.vercel.app/api/svgs") as response:
                 response.raise_for_status()
                 data = await response.json()
 
