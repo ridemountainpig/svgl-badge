@@ -8,10 +8,7 @@ from urllib.parse import quote
 async def fetchSvg(session, svgFileUrl):
     try:
         svgFileName = svgFileUrl.split("/")[-1]
-        svgFileUrl = svgFileUrl.replace(
-            "https://svgl.app/",
-            "https://raw.githubusercontent.com/pheralb/svgl/main/static/",
-        )
+        svgFileUrl = "https://raw.githubusercontent.com/pheralb/svgl/main/static" + svgFileUrl
 
         async with session.get(svgFileUrl) as response:
             response.raise_for_status()
@@ -30,9 +27,18 @@ async def fetchSvg(session, svgFileUrl):
 async def getSvglJson():
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get("https://api.svgl.app") as response:
+            async with session.get("https://raw.githubusercontent.com/pheralb/svgl/main/src/data/svgs.ts") as response:
                 response.raise_for_status()
-                data = await response.json()
+                data = await response.text()
+                data = data.split("export const svgs: iSVG[] = [")[1].split("];")[0]
+
+        svg_data_keys = ["title:", "category:", "route:", "wordmark:", "url:", "light:", "dark:"]
+        data = data.replace("'", '"')
+
+        for key in svg_data_keys:
+            data = data.replace(key, f"\"{key[:-1]}\":")
+
+        data = json.loads("[" + data + "]")
 
         for svg in data:
             if type(svg["category"]) == list:
@@ -100,12 +106,12 @@ def updateSvglBadge():
             darkSvg = ""
             if type(badgeSvgRoute) == dict:
                 lightSvg = badgeSvgRoute["light"].replace(
-                    "https://svgl.app/library/", ""
+                    "/library/", ""
                 )
-                darkSvg = badgeSvgRoute["dark"].replace("https://svgl.app/library/", "")
+                darkSvg = badgeSvgRoute["dark"].replace("/library/", "")
             else:
-                lightSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
-                darkSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
+                lightSvg = badgeSvgRoute.replace("/library/", "")
+                darkSvg = badgeSvgRoute.replace("/library/", "")
 
             title = svg["title"]
             lightUrl = f"/api/{badgeCategory}/{badgeTitle}?theme=light"
@@ -163,14 +169,14 @@ def updateSvglWordmarkBadge():
                 darkSvg = ""
                 if type(badgeSvgRoute) == dict:
                     lightSvg = badgeSvgRoute["light"].replace(
-                        "https://svgl.app/library/", ""
+                        "/library/", ""
                     )
                     darkSvg = badgeSvgRoute["dark"].replace(
-                        "https://svgl.app/library/", ""
+                        "/library/", ""
                     )
                 else:
-                    lightSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
-                    darkSvg = badgeSvgRoute.replace("https://svgl.app/library/", "")
+                    lightSvg = badgeSvgRoute.replace("/library/", "")
+                    darkSvg = badgeSvgRoute.replace("/library/", "")
 
                 title = svg["title"]
                 lightWordmarkUrl = (
