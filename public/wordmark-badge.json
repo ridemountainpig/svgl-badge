@@ -1,4 +1,10 @@
 {
+    "Milanote Software": {
+        "light": "/api/Software/Milanote?theme=light&wordmark=true",
+        "dark": "/api/Software/Milanote?theme=dark&wordmark=true",
+        "lightSvg": "milanote-wordmark-light.svg",
+        "darkSvg": "milanote-wordmark-dark.svg"
+    },
     "Suno AI": {
         "light": "/api/AI/Suno?theme=light&wordmark=true",
         "dark": "/api/AI/Suno?theme=dark&wordmark=true",

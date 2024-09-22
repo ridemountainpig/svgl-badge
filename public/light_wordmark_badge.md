@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=light&wordmark=true` |
 | Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=light&wordmark=true` |
 | Groq | ![Groq](https://svgl-badge.vercel.app/api/AI/Groq?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Groq?theme=light&wordmark=true` |
 | Cohere | ![Cohere](https://svgl-badge.vercel.app/api/AI/Cohere?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Cohere?theme=light&wordmark=true` |

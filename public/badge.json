@@ -1,4 +1,10 @@
 {
+    "Milanote Software": {
+        "light": "/api/Software/Milanote?theme=light",
+        "dark": "/api/Software/Milanote?theme=dark",
+        "lightSvg": "milanote-light.svg",
+        "darkSvg": "milanote-dark.svg"
+    },
     "Inflection AI AI": {
         "light": "/api/AI/Inflection%20AI?theme=light",
         "dark": "/api/AI/Inflection%20AI?theme=dark",
