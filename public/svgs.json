@@ -1,5 +1,11 @@
 [
     {
+        "title": "Google Drive",
+        "category": "Google",
+        "route": "/library/drive.svg",
+        "url": "https://www.google.com/drive/"
+    },
+    {
         "title": "Milanote",
         "category": "Software",
         "route": {

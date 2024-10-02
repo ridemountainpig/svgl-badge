@@ -1,4 +1,10 @@
 {
+    "Google Drive Google": {
+        "light": "/api/Google/Google%20Drive?theme=light",
+        "dark": "/api/Google/Google%20Drive?theme=dark",
+        "lightSvg": "drive.svg",
+        "darkSvg": "drive.svg"
+    },
     "Milanote Software": {
         "light": "/api/Software/Milanote?theme=light",
         "dark": "/api/Software/Milanote?theme=dark",

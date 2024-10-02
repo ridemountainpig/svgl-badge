@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark` |
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark` |
 | Together AI | ![Together AI](https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=dark` |
