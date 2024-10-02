@@ -41,7 +41,6 @@
 | OpenSea | ![OpenSea](https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=light` |
 | Algolia | ![Algolia](https://svgl-badge.vercel.app/api/Library/Algolia?theme=light) | `https://svgl-badge.vercel.app/api/Library/Algolia?theme=light` |
 | Bootstrap | ![Bootstrap](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light` |
-| Vite.js | ![Vite.js](https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=light` |
 | Facebook | ![Facebook](https://svgl-badge.vercel.app/api/Social/Facebook?theme=light) | `https://svgl-badge.vercel.app/api/Social/Facebook?theme=light` |
 | Twitter | ![Twitter](https://svgl-badge.vercel.app/api/Social/Twitter?theme=light) | `https://svgl-badge.vercel.app/api/Social/Twitter?theme=light` |
 | Esbuild | ![Esbuild](https://svgl-badge.vercel.app/api/Compiler/Esbuild?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Esbuild?theme=light` |
@@ -431,3 +430,7 @@
 | Nx | ![Nx](https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light` |
 | Google Colaboratory | ![Google Colaboratory](https://svgl-badge.vercel.app/api/Google/Google%20Colaboratory?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Colaboratory?theme=light` |
 | Raspberry PI | ![Raspberry PI](https://svgl-badge.vercel.app/api/Hardware/Raspberry%20PI?theme=light) | `https://svgl-badge.vercel.app/api/Hardware/Raspberry%20PI?theme=light` |
+| Vite | ![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Vite?theme=light` |
+| Vitest | ![Vitest](https://svgl-badge.vercel.app/api/Framework/Vitest?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Vitest?theme=light` |
+| Oxc | ![Oxc](https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=light` |
+| Rolldown | ![Rolldown](https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=light` |

@@ -41,7 +41,6 @@
 | OpenSea | ![OpenSea](https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/OpenSea?theme=dark` |
 | Algolia | ![Algolia](https://svgl-badge.vercel.app/api/Library/Algolia?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Algolia?theme=dark` |
 | Bootstrap | ![Bootstrap](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark` |
-| Vite.js | ![Vite.js](https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Vite.js?theme=dark` |
 | Facebook | ![Facebook](https://svgl-badge.vercel.app/api/Social/Facebook?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Facebook?theme=dark` |
 | Twitter | ![Twitter](https://svgl-badge.vercel.app/api/Social/Twitter?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Twitter?theme=dark` |
 | Esbuild | ![Esbuild](https://svgl-badge.vercel.app/api/Compiler/Esbuild?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Esbuild?theme=dark` |
@@ -431,3 +430,7 @@
 | Nx | ![Nx](https://svgl-badge.vercel.app/api/Devtool/Nx?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Nx?theme=dark` |
 | Google Colaboratory | ![Google Colaboratory](https://svgl-badge.vercel.app/api/Google/Google%20Colaboratory?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Colaboratory?theme=dark` |
 | Raspberry PI | ![Raspberry PI](https://svgl-badge.vercel.app/api/Hardware/Raspberry%20PI?theme=dark) | `https://svgl-badge.vercel.app/api/Hardware/Raspberry%20PI?theme=dark` |
+| Vite | ![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark` |
+| Vitest | ![Vitest](https://svgl-badge.vercel.app/api/Framework/Vitest?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Vitest?theme=dark` |
+| Oxc | ![Oxc](https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=dark` |
+| Rolldown | ![Rolldown](https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=dark` |

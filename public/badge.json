@@ -239,12 +239,6 @@
         "lightSvg": "bootstrap.svg",
         "darkSvg": "bootstrap.svg"
     },
-    "Vite.js Compiler": {
-        "light": "/api/Compiler/Vite.js?theme=light",
-        "dark": "/api/Compiler/Vite.js?theme=dark",
-        "lightSvg": "vitejs.svg",
-        "darkSvg": "vitejs.svg"
-    },
     "Facebook Social": {
         "light": "/api/Social/Facebook?theme=light",
         "dark": "/api/Social/Facebook?theme=dark",
@@ -2572,5 +2566,23 @@
         "dark": "/api/Hardware/Raspberry%20PI?theme=dark",
         "lightSvg": "raspberry_pi.svg",
         "darkSvg": "raspberry_pi.svg"
+    },
+    "Vite Devtool": {
+        "light": "/api/Devtool/Vite?theme=light",
+        "dark": "/api/Devtool/Vite?theme=dark",
+        "lightSvg": "vitejs.svg",
+        "darkSvg": "vitejs.svg"
+    },
+    "Oxc Devtool": {
+        "light": "/api/Devtool/Oxc?theme=light",
+        "dark": "/api/Devtool/Oxc?theme=dark",
+        "lightSvg": "oxc.svg",
+        "darkSvg": "oxc.svg"
+    },
+    "Rolldown Compiler": {
+        "light": "/api/Compiler/Rolldown?theme=light",
+        "dark": "/api/Compiler/Rolldown?theme=dark",
+        "lightSvg": "rolldown.svg",
+        "darkSvg": "rolldown.svg"
     }
 }
