@@ -2584,5 +2584,11 @@
         "dark": "/api/Compiler/Rolldown?theme=dark",
         "lightSvg": "rolldown.svg",
         "darkSvg": "rolldown.svg"
+    },
+    "ManzDev Community": {
+        "light": "/api/Community/ManzDev?theme=light",
+        "dark": "/api/Community/ManzDev?theme=dark",
+        "lightSvg": "manzdev.svg",
+        "darkSvg": "manzdev.svg"
     }
 }

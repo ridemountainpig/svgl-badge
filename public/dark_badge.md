@@ -434,3 +434,4 @@
 | Vitest | ![Vitest](https://svgl-badge.vercel.app/api/Framework/Vitest?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Vitest?theme=dark` |
 | Oxc | ![Oxc](https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=dark` |
 | Rolldown | ![Rolldown](https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=dark` |
+| ManzDev | ![ManzDev](https://svgl-badge.vercel.app/api/Community/ManzDev?theme=dark) | `https://svgl-badge.vercel.app/api/Community/ManzDev?theme=dark` |
