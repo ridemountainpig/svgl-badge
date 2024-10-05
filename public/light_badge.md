@@ -67,7 +67,6 @@
 | WhatsApp | ![WhatsApp](https://svgl-badge.vercel.app/api/Social/WhatsApp?theme=light) | `https://svgl-badge.vercel.app/api/Social/WhatsApp?theme=light` |
 | Headless UI | ![Headless UI](https://svgl-badge.vercel.app/api/Library/Headless%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Headless%20UI?theme=light` |
 | Kotlin | ![Kotlin](https://svgl-badge.vercel.app/api/Language/Kotlin?theme=light) | `https://svgl-badge.vercel.app/api/Language/Kotlin?theme=light` |
-| Vitest | ![Vitest](https://svgl-badge.vercel.app/api/Framework/Vitest?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Vitest?theme=light` |
 | Storybook | ![Storybook](https://svgl-badge.vercel.app/api/Software/Storybook?theme=light) | `https://svgl-badge.vercel.app/api/Software/Storybook?theme=light` |
 | Netlify | ![Netlify](https://svgl-badge.vercel.app/api/Hosting/Netlify?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Netlify?theme=light` |
 | Solidjs | ![Solidjs](https://svgl-badge.vercel.app/api/Framework/Solidjs?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Solidjs?theme=light` |
@@ -435,3 +434,4 @@
 | Oxc | ![Oxc](https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=light` |
 | Rolldown | ![Rolldown](https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=light` |
 | ManzDev | ![ManzDev](https://svgl-badge.vercel.app/api/Community/ManzDev?theme=light) | `https://svgl-badge.vercel.app/api/Community/ManzDev?theme=light` |
+| MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light` |

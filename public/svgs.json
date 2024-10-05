@@ -467,12 +467,6 @@
         "url": "https://kotlinlang.org/"
     },
     {
-        "title": "Vitest",
-        "category": "Framework",
-        "route": "/library/vitest.svg",
-        "url": "https://vitest.dev/"
-    },
-    {
         "title": "Storybook",
         "category": "Software",
         "route": "/library/storybook.svg",
@@ -3025,5 +3019,18 @@
         ],
         "route": "/library/manzdev.svg",
         "url": "https://manz.dev/"
+    },
+    {
+        "title": "MediaWiki",
+        "category": [
+            "CMS",
+            "Software"
+        ],
+        "route": "/library/mediawiki.svg",
+        "wordmark": {
+            "light": "/library/mediawiki-wordmark-light.svg",
+            "dark": "/library/mediawiki-wordmark-dark.svg"
+        },
+        "url": "https://www.mediawiki.org/"
     }
 ]

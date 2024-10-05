@@ -262,5 +262,11 @@
         "dark": "/api/Crypto/Leap%20Wallet?theme=dark&wordmark=true",
         "lightSvg": "leap-wallet-wordmark-light.svg",
         "darkSvg": "leap-wallet-wordmark-dark.svg"
+    },
+    "MediaWiki CMS": {
+        "light": "/api/CMS/MediaWiki?theme=light&wordmark=true",
+        "dark": "/api/CMS/MediaWiki?theme=dark&wordmark=true",
+        "lightSvg": "mediawiki-wordmark-light.svg",
+        "darkSvg": "mediawiki-wordmark-dark.svg"
     }
 }

@@ -395,12 +395,6 @@
         "lightSvg": "kotlin.svg",
         "darkSvg": "kotlin.svg"
     },
-    "Vitest Framework": {
-        "light": "/api/Framework/Vitest?theme=light",
-        "dark": "/api/Framework/Vitest?theme=dark",
-        "lightSvg": "vitest.svg",
-        "darkSvg": "vitest.svg"
-    },
     "Storybook Software": {
         "light": "/api/Software/Storybook?theme=light",
         "dark": "/api/Software/Storybook?theme=dark",
@@ -2573,6 +2567,12 @@
         "lightSvg": "vitejs.svg",
         "darkSvg": "vitejs.svg"
     },
+    "Vitest Framework": {
+        "light": "/api/Framework/Vitest?theme=light",
+        "dark": "/api/Framework/Vitest?theme=dark",
+        "lightSvg": "vitest.svg",
+        "darkSvg": "vitest.svg"
+    },
     "Oxc Devtool": {
         "light": "/api/Devtool/Oxc?theme=light",
         "dark": "/api/Devtool/Oxc?theme=dark",
@@ -2590,5 +2590,11 @@
         "dark": "/api/Community/ManzDev?theme=dark",
         "lightSvg": "manzdev.svg",
         "darkSvg": "manzdev.svg"
+    },
+    "MediaWiki CMS": {
+        "light": "/api/CMS/MediaWiki?theme=light",
+        "dark": "/api/CMS/MediaWiki?theme=dark",
+        "lightSvg": "mediawiki.svg",
+        "darkSvg": "mediawiki.svg"
     }
 }

@@ -45,3 +45,4 @@
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true` |
 | Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light&wordmark=true` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light&wordmark=true` |
+| MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light&wordmark=true` |
