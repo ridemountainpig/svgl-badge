@@ -21,6 +21,7 @@
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark&wordmark=true` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=dark&wordmark=true` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark&wordmark=true` |
+| Hack The Box | ![Hack The Box](https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark&wordmark=true` |
 | Perplexity AI | ![Perplexity AI](https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=dark&wordmark=true` |
 | Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true` |
 | Flask | ![Flask](https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true` |

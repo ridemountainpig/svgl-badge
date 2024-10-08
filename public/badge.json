@@ -1997,6 +1997,12 @@
         "lightSvg": "raycast.svg",
         "darkSvg": "raycast.svg"
     },
+    "Hack The Box Cybersecurity": {
+        "light": "/api/Cybersecurity/Hack%20The%20Box?theme=light",
+        "dark": "/api/Cybersecurity/Hack%20The%20Box?theme=dark",
+        "lightSvg": "hack-the-box.svg",
+        "darkSvg": "hack-the-box.svg"
+    },
     "Procure Marketplace": {
         "light": "/api/Marketplace/Procure?theme=light",
         "dark": "/api/Marketplace/Procure?theme=dark",

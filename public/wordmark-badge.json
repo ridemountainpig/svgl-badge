@@ -119,6 +119,12 @@
         "lightSvg": "raycast-wordmark-light.svg",
         "darkSvg": "raycast-wordmark-dark.svg"
     },
+    "Hack The Box Cybersecurity": {
+        "light": "/api/Cybersecurity/Hack%20The%20Box?theme=light&wordmark=true",
+        "dark": "/api/Cybersecurity/Hack%20The%20Box?theme=dark&wordmark=true",
+        "lightSvg": "hack-the-box-wordmark-light.svg",
+        "darkSvg": "hack-the-box-wordmark-dark.svg"
+    },
     "Perplexity AI AI": {
         "light": "/api/AI/Perplexity%20AI?theme=light&wordmark=true",
         "dark": "/api/AI/Perplexity%20AI?theme=dark&wordmark=true",

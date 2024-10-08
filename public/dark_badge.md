@@ -335,6 +335,7 @@
 | IBM | ![IBM](https://svgl-badge.vercel.app/api/Software/IBM?theme=dark) | `https://svgl-badge.vercel.app/api/Software/IBM?theme=dark` |
 | TrustPilot | ![TrustPilot](https://svgl-badge.vercel.app/api/Software/TrustPilot?theme=dark) | `https://svgl-badge.vercel.app/api/Software/TrustPilot?theme=dark` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark` |
+| Hack The Box | ![Hack The Box](https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark) | `https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark` |
 | Procure | ![Procure](https://svgl-badge.vercel.app/api/Marketplace/Procure?theme=dark) | `https://svgl-badge.vercel.app/api/Marketplace/Procure?theme=dark` |
 | Julia | ![Julia](https://svgl-badge.vercel.app/api/Language/Julia?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Julia?theme=dark` |
 | SWC | ![SWC](https://svgl-badge.vercel.app/api/Compiler/SWC?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/SWC?theme=dark` |
