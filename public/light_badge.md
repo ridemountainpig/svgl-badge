@@ -343,7 +343,6 @@
 | Xbox | ![Xbox](https://svgl-badge.vercel.app/api/Software/Xbox?theme=light) | `https://svgl-badge.vercel.app/api/Software/Xbox?theme=light` |
 | Cody | ![Cody](https://svgl-badge.vercel.app/api/AI/Cody?theme=light) | `https://svgl-badge.vercel.app/api/AI/Cody?theme=light` |
 | Sourcegraph | ![Sourcegraph](https://svgl-badge.vercel.app/api/AI/Sourcegraph?theme=light) | `https://svgl-badge.vercel.app/api/AI/Sourcegraph?theme=light` |
-| Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light` |
 | Perplexity AI | ![Perplexity AI](https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=light` |
 | Spring | ![Spring](https://svgl-badge.vercel.app/api/Framework/Spring?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Spring?theme=light` |
 | Directus | ![Directus](https://svgl-badge.vercel.app/api/CMS/Directus?theme=light) | `https://svgl-badge.vercel.app/api/CMS/Directus?theme=light` |
@@ -436,3 +435,6 @@
 | Rolldown | ![Rolldown](https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=light` |
 | ManzDev | ![ManzDev](https://svgl-badge.vercel.app/api/Community/ManzDev?theme=light) | `https://svgl-badge.vercel.app/api/Community/ManzDev?theme=light` |
 | MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light` |
+| Carrd | ![Carrd](https://svgl-badge.vercel.app/api/Social/Carrd?theme=light) | `https://svgl-badge.vercel.app/api/Social/Carrd?theme=light` |
+| Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light` |
+| UnoCSS | ![UnoCSS](https://svgl-badge.vercel.app/api/Devtool/UnoCSS?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/UnoCSS?theme=light` |

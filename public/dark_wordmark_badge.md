@@ -47,3 +47,4 @@
 | Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark&wordmark=true` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=dark&wordmark=true` |
 | MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=dark&wordmark=true` |
+| Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark&wordmark=true` |

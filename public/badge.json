@@ -2045,12 +2045,6 @@
         "lightSvg": "sourcegraph.svg",
         "darkSvg": "sourcegraph.svg"
     },
-    "Claude AI AI": {
-        "light": "/api/AI/Claude%20AI?theme=light",
-        "dark": "/api/AI/Claude%20AI?theme=dark",
-        "lightSvg": "claude-ai.svg",
-        "darkSvg": "claude-ai.svg"
-    },
     "Perplexity AI AI": {
         "light": "/api/AI/Perplexity%20AI?theme=light",
         "dark": "/api/AI/Perplexity%20AI?theme=dark",
@@ -2602,5 +2596,23 @@
         "dark": "/api/CMS/MediaWiki?theme=dark",
         "lightSvg": "mediawiki.svg",
         "darkSvg": "mediawiki.svg"
+    },
+    "Carrd Social": {
+        "light": "/api/Social/Carrd?theme=light",
+        "dark": "/api/Social/Carrd?theme=dark",
+        "lightSvg": "carrd.svg",
+        "darkSvg": "carrd.svg"
+    },
+    "Claude AI AI": {
+        "light": "/api/AI/Claude%20AI?theme=light",
+        "dark": "/api/AI/Claude%20AI?theme=dark",
+        "lightSvg": "claude-ai-icon.svg",
+        "darkSvg": "claude-ai-icon.svg"
+    },
+    "UnoCSS Devtool": {
+        "light": "/api/Devtool/UnoCSS?theme=light",
+        "dark": "/api/Devtool/UnoCSS?theme=dark",
+        "lightSvg": "unocss.svg",
+        "darkSvg": "unocss.svg"
     }
 }

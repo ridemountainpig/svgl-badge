@@ -274,5 +274,11 @@
         "dark": "/api/CMS/MediaWiki?theme=dark&wordmark=true",
         "lightSvg": "mediawiki-wordmark-light.svg",
         "darkSvg": "mediawiki-wordmark-dark.svg"
+    },
+    "Claude AI AI": {
+        "light": "/api/AI/Claude%20AI?theme=light&wordmark=true",
+        "dark": "/api/AI/Claude%20AI?theme=dark&wordmark=true",
+        "lightSvg": "claude-ai-wordmark-icon_light.svg",
+        "darkSvg": "claude-ai-wordmark-icon_dark.svg"
     }
 }
