@@ -2591,6 +2591,12 @@
         "lightSvg": "manzdev.svg",
         "darkSvg": "manzdev.svg"
     },
+    "Afordin Community": {
+        "light": "/api/Community/Afordin?theme=light",
+        "dark": "/api/Community/Afordin?theme=dark",
+        "lightSvg": "afordin-light.svg",
+        "darkSvg": "afordin-dark.svg"
+    },
     "MediaWiki CMS": {
         "light": "/api/CMS/MediaWiki?theme=light",
         "dark": "/api/CMS/MediaWiki?theme=dark",

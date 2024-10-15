@@ -3025,6 +3025,17 @@
         "url": "https://manz.dev/"
     },
     {
+        "title": "Afordin",
+        "category": [
+            "Community"
+        ],
+        "route": {
+            "light": "/library/afordin-light.svg",
+            "dark": "/library/afordin-dark.svg"
+        },
+        "url": "https://github.com/Afordin"
+    },
+    {
         "title": "MediaWiki",
         "category": [
             "CMS",

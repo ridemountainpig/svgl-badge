@@ -434,6 +434,7 @@
 | Oxc | ![Oxc](https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Oxc?theme=dark` |
 | Rolldown | ![Rolldown](https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rolldown?theme=dark` |
 | ManzDev | ![ManzDev](https://svgl-badge.vercel.app/api/Community/ManzDev?theme=dark) | `https://svgl-badge.vercel.app/api/Community/ManzDev?theme=dark` |
+| Afordin | ![Afordin](https://svgl-badge.vercel.app/api/Community/Afordin?theme=dark) | `https://svgl-badge.vercel.app/api/Community/Afordin?theme=dark` |
 | MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=dark` |
 | Carrd | ![Carrd](https://svgl-badge.vercel.app/api/Social/Carrd?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Carrd?theme=dark` |
 | Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark` |
