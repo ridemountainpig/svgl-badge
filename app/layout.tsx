@@ -11,7 +11,7 @@ export const metadata: Metadata = {
         google: "MsZruHXSkmggHUEIMwVqn24AappLAZUSBmLcp4XwFGo",
     },
     keywords:
-        "svgl, svgl badges, svgl badge, svgl logo, svgl logos, svgl svg, svgl svg logos, svgl svg logo, svgl svg badges, svgl svg badge",
+        "svgl, svgl badge, svgl badges, svgl logo, svgl logos, svg badges, svg logos, markdown badges, svgl svg badge, svgl svg logo, customizable svg badges, open source svg logos, svgl badge generator, svgl badge design, vercel svgl badges",
     authors: [
         {
             name: "ridemountainpig",

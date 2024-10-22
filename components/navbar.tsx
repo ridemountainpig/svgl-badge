@@ -16,6 +16,8 @@ export function Navbar() {
 
     return (
         <div className="flex h-fit w-full items-center justify-between px-4 py-4 md:px-6">
+            <h1 className="hidden">Svgl Badge</h1>
+            <h2 className="hidden">Svgl</h2>
             <a
                 href="/"
                 title="Svgl Badge"
@@ -26,10 +28,13 @@ export function Navbar() {
                     Svgl Badge
                 </span>
             </a>
+            <h3 className="hidden">Svgl Badge</h3>
+            <h3 className="hidden">Svgl Wordmark Badge</h3>
             <div className="flex">
                 <div className="flex h-fit items-center gap-x-4 divide-x divide-neutral-300 dark:divide-neutral-700">
                     <a
                         href="https://svgl.app/"
+                        title="Svgl A beautiful library with SVG logos"
                         target="_blank"
                         aria-label="Svgl A beautiful library with SVG logos"
                         className="group flex items-center pl-2 text-[15px] opacity-80 transition-opacity hover:opacity-100 md:pl-3"
@@ -44,6 +49,11 @@ export function Navbar() {
                     <a
                         href={
                             currentUrl.includes("wordmark") ? "/" : "/wordmark"
+                        }
+                        title={
+                            currentUrl.includes("wordmark")
+                                ? "Svgl Badge"
+                                : "Svgl Wordmark Badge"
                         }
                         aria-label={
                             currentUrl.includes("wordmark")
@@ -65,11 +75,12 @@ export function Navbar() {
                     </a>
                 </div>
                 <div className="flex h-fit items-center gap-x-4 pl-2">
+                    <h3 className="hidden">Ridemountainpig Twitter</h3>
                     <a
                         href="https://twitter.com/ridemountainpig"
                         target="_blank"
                         className="flex items-center space-x-1 pl-2 opacity-80 transition-opacity hover:opacity-100"
-                        title="Twitter"
+                        title="Ridemountainpig Twitter"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -85,6 +96,7 @@ export function Navbar() {
                             />
                         </svg>
                     </a>
+                    <h3 className="hidden">Svgl Badge Github</h3>
                     <a
                         href="https://github.com/ridemountainpig/svgl-badge"
                         target="_blank"
@@ -119,9 +131,13 @@ export function Navbar() {
                             }}
                         >
                             {theme === "dark" ? (
-                                <MoonIcon size={20} strokeWidth={1.5} />
+                                <div title="Dark Theme">
+                                    <MoonIcon size={20} strokeWidth={1.5} />
+                                </div>
                             ) : (
-                                <SunIcon size={20} strokeWidth={1.5} />
+                                <div title="Light Theme">
+                                    <SunIcon size={20} strokeWidth={1.5} />
+                                </div>
                             )}
                         </button>
                     )}

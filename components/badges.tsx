@@ -18,7 +18,7 @@ const Badges = React.memo(
             setTimeout(() => {
                 setLoading(false);
                 setProgressLoading(false);
-            }, 2500);
+            }, 1800);
         }, [badges, setProgressLoading]);
 
         return (

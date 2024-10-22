@@ -26,7 +26,7 @@ export function Loading() {
                         className="-mt-2 h-2 rounded-full bg-neutral-800 dark:bg-neutral-200"
                         initial={{ width: 0 }}
                         animate={{ width: "100%" }}
-                        transition={{ duration: 2.5, ease: "easeInOut" }}
+                        transition={{ duration: 1.8, ease: "easeInOut" }}
                     ></motion.div>
                 </div>
             </div>

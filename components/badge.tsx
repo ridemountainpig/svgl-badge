@@ -12,6 +12,11 @@ export function Badge({ badge, domain, badgeName }: BadgeProps) {
     const { theme } = useTheme();
     const wordmark = badge.light.includes("wordmark=true") ? true : false;
 
+    const badgeNameSplit = badgeName
+        .split(" ")
+        .slice(0, -1)
+        .join(" ")
+        .toUpperCase();
     let badgeWidth = 0;
     if (badgeName) {
         badgeWidth =
@@ -50,11 +55,13 @@ export function Badge({ badge, domain, badgeName }: BadgeProps) {
                         <div className="flex w-[92%] items-center justify-center px-[0.55rem]">
                             <img
                                 src={`/static/library/${badge.lightSvg}`}
+                                alt={badgeNameSplit + " Wordmark Badge"}
                                 className="h-[30px] dark:hidden"
                                 loading="lazy"
                             />
                             <img
                                 src={`/static/library/${badge.darkSvg}`}
+                                alt={badgeNameSplit + " Wordmark Badge"}
                                 className="hidden h-[30px] dark:block"
                                 loading="lazy"
                             />
@@ -64,22 +71,20 @@ export function Badge({ badge, domain, badgeName }: BadgeProps) {
                             <div className="pl-2">
                                 <img
                                     src={`/static/library/${badge.lightSvg}`}
+                                    alt={badgeNameSplit + " Badge"}
                                     className="h-7 w-7 dark:hidden"
                                     loading="lazy"
                                 />
                                 <img
                                     src={`/static/library/${badge.darkSvg}`}
+                                    alt={badgeNameSplit + " Badge"}
                                     className="hidden h-7 w-7 dark:block"
                                     loading="lazy"
                                 />
                             </div>
                             <div className="pr-2">
                                 <span className="truncate text-center font-sans text-[15px] font-semibold tracking-wide text-black dark:text-white">
-                                    {badgeName
-                                        .split(" ")
-                                        .slice(0, -1)
-                                        .join(" ")
-                                        .toUpperCase()}
+                                    {badgeNameSplit}
                                 </span>
                             </div>
                         </>
