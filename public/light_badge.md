@@ -350,7 +350,6 @@
 | Emacs | ![Emacs](https://svgl-badge.vercel.app/api/Software/Emacs?theme=light) | `https://svgl-badge.vercel.app/api/Software/Emacs?theme=light` |
 | Svgl | ![Svgl](https://svgl-badge.vercel.app/api/Library/Svgl?theme=light) | `https://svgl-badge.vercel.app/api/Library/Svgl?theme=light` |
 | Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=light) | `https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=light` |
-| Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/Social/Bluesky?theme=light) | `https://svgl-badge.vercel.app/api/Social/Bluesky?theme=light` |
 | Remix | ![Remix](https://svgl-badge.vercel.app/api/Framework/Remix?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Remix?theme=light` |
 | Steam | ![Steam](https://svgl-badge.vercel.app/api/Software/Steam?theme=light) | `https://svgl-badge.vercel.app/api/Software/Steam?theme=light` |
 | Tabby | ![Tabby](https://svgl-badge.vercel.app/api/Software/Tabby?theme=light) | `https://svgl-badge.vercel.app/api/Software/Tabby?theme=light` |
@@ -439,3 +438,7 @@
 | Carrd | ![Carrd](https://svgl-badge.vercel.app/api/Social/Carrd?theme=light) | `https://svgl-badge.vercel.app/api/Social/Carrd?theme=light` |
 | Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light` |
 | UnoCSS | ![UnoCSS](https://svgl-badge.vercel.app/api/Devtool/UnoCSS?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/UnoCSS?theme=light` |
+| tRPC | ![tRPC](https://svgl-badge.vercel.app/api/Framework/tRPC?theme=light) | `https://svgl-badge.vercel.app/api/Framework/tRPC?theme=light` |
+| Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/Social/Bluesky?theme=light) | `https://svgl-badge.vercel.app/api/Social/Bluesky?theme=light` |
+| Drizzle ORM | ![Drizzle ORM](https://svgl-badge.vercel.app/api/Database/Drizzle%20ORM?theme=light) | `https://svgl-badge.vercel.app/api/Database/Drizzle%20ORM?theme=light` |
+| daily.dev | ![daily.dev](https://svgl-badge.vercel.app/api/Community/daily.dev?theme=light) | `https://svgl-badge.vercel.app/api/Community/daily.dev?theme=light` |

@@ -1700,8 +1700,8 @@
     "C++ Language": {
         "light": "/api/Language/C%2B%2B?theme=light",
         "dark": "/api/Language/C%2B%2B?theme=dark",
-        "lightSvg": "c++.svg",
-        "darkSvg": "c++.svg"
+        "lightSvg": "c-plusplus.svg",
+        "darkSvg": "c-plusplus.svg"
     },
     "Cobol Language": {
         "light": "/api/Language/Cobol?theme=light",
@@ -2086,12 +2086,6 @@
         "dark": "/api/Software/Google%20Idx?theme=dark",
         "lightSvg": "google-idx.svg",
         "darkSvg": "google-idx.svg"
-    },
-    "Bluesky Social": {
-        "light": "/api/Social/Bluesky?theme=light",
-        "dark": "/api/Social/Bluesky?theme=dark",
-        "lightSvg": "bluesky.svg",
-        "darkSvg": "bluesky.svg"
     },
     "Remix Framework": {
         "light": "/api/Framework/Remix?theme=light",
@@ -2620,5 +2614,29 @@
         "dark": "/api/Devtool/UnoCSS?theme=dark",
         "lightSvg": "unocss.svg",
         "darkSvg": "unocss.svg"
+    },
+    "tRPC Framework": {
+        "light": "/api/Framework/tRPC?theme=light",
+        "dark": "/api/Framework/tRPC?theme=dark",
+        "lightSvg": "trpc.svg",
+        "darkSvg": "trpc.svg"
+    },
+    "Bluesky Social": {
+        "light": "/api/Social/Bluesky?theme=light",
+        "dark": "/api/Social/Bluesky?theme=dark",
+        "lightSvg": "bluesky.svg",
+        "darkSvg": "bluesky.svg"
+    },
+    "Drizzle ORM Database": {
+        "light": "/api/Database/Drizzle%20ORM?theme=light",
+        "dark": "/api/Database/Drizzle%20ORM?theme=dark",
+        "lightSvg": "drizzle-orm.svg",
+        "darkSvg": "drizzle-orm.svg"
+    },
+    "daily.dev Community": {
+        "light": "/api/Community/daily.dev?theme=light",
+        "dark": "/api/Community/daily.dev?theme=dark",
+        "lightSvg": "daily-dev-ligth.svg",
+        "darkSvg": "daily-dev-dark.svg"
     }
 }

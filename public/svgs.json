@@ -1895,7 +1895,7 @@
     {
         "title": "C++",
         "category": "Language",
-        "route": "/library/c++.svg",
+        "route": "/library/c-plusplus.svg",
         "url": "https://en.wikipedia.org/wiki/C%2B%2B"
     },
     {
@@ -2350,12 +2350,6 @@
         "category": "Software",
         "route": "/library/google-idx.svg",
         "url": "https://idx.dev/"
-    },
-    {
-        "title": "Bluesky",
-        "category": "Social",
-        "route": "/library/bluesky.svg",
-        "url": "https://blueskyweb.xyz/"
     },
     {
         "title": "Remix",
@@ -3071,5 +3065,42 @@
         "category": "Devtool",
         "route": "/library/unocss.svg",
         "url": "https://unocss.dev/"
+    },
+    {
+        "title": "tRPC",
+        "category": "Framework",
+        "route": "/library/trpc.svg",
+        "wordmark": {
+            "light": "/library/trpc_wordmark_light.svg",
+            "dark": "library/trpc_wordmark_dark.svg"
+        },
+        "url": "https://trpc.io/"
+    },
+    {
+        "title": "Bluesky",
+        "category": "Social",
+        "route": "/library/bluesky.svg",
+        "url": "https://blueskyweb.xyz/"
+    },
+    {
+        "title": "Drizzle ORM",
+        "category": [
+            "Database",
+            "Library"
+        ],
+        "route": "/library/drizzle-orm.svg",
+        "url": "https://orm.drizzle.team/"
+    },
+    {
+        "title": "daily.dev",
+        "category": [
+            "Community",
+            "Social"
+        ],
+        "route": {
+            "light": "/library/daily-dev-ligth.svg",
+            "dark": "/library/daily-dev-dark.svg"
+        },
+        "url": "https://daily.dev/"
     }
 ]

@@ -350,7 +350,6 @@
 | Emacs | ![Emacs](https://svgl-badge.vercel.app/api/Software/Emacs?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Emacs?theme=dark` |
 | Svgl | ![Svgl](https://svgl-badge.vercel.app/api/Library/Svgl?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Svgl?theme=dark` |
 | Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=dark` |
-| Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/Social/Bluesky?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Bluesky?theme=dark` |
 | Remix | ![Remix](https://svgl-badge.vercel.app/api/Framework/Remix?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Remix?theme=dark` |
 | Steam | ![Steam](https://svgl-badge.vercel.app/api/Software/Steam?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Steam?theme=dark` |
 | Tabby | ![Tabby](https://svgl-badge.vercel.app/api/Software/Tabby?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Tabby?theme=dark` |
@@ -439,3 +438,7 @@
 | Carrd | ![Carrd](https://svgl-badge.vercel.app/api/Social/Carrd?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Carrd?theme=dark` |
 | Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark` |
 | UnoCSS | ![UnoCSS](https://svgl-badge.vercel.app/api/Devtool/UnoCSS?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/UnoCSS?theme=dark` |
+| tRPC | ![tRPC](https://svgl-badge.vercel.app/api/Framework/tRPC?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/tRPC?theme=dark` |
+| Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/Social/Bluesky?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Bluesky?theme=dark` |
+| Drizzle ORM | ![Drizzle ORM](https://svgl-badge.vercel.app/api/Database/Drizzle%20ORM?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Drizzle%20ORM?theme=dark` |
+| daily.dev | ![daily.dev](https://svgl-badge.vercel.app/api/Community/daily.dev?theme=dark) | `https://svgl-badge.vercel.app/api/Community/daily.dev?theme=dark` |
