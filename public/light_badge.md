@@ -442,3 +442,6 @@
 | Bluesky | ![Bluesky](https://svgl-badge.vercel.app/api/Social/Bluesky?theme=light) | `https://svgl-badge.vercel.app/api/Social/Bluesky?theme=light` |
 | Drizzle ORM | ![Drizzle ORM](https://svgl-badge.vercel.app/api/Database/Drizzle%20ORM?theme=light) | `https://svgl-badge.vercel.app/api/Database/Drizzle%20ORM?theme=light` |
 | daily.dev | ![daily.dev](https://svgl-badge.vercel.app/api/Community/daily.dev?theme=light) | `https://svgl-badge.vercel.app/api/Community/daily.dev?theme=light` |
+| Polars | ![Polars](https://svgl-badge.vercel.app/api/Library/Polars?theme=light) | `https://svgl-badge.vercel.app/api/Library/Polars?theme=light` |
+| Zed | ![Zed](https://svgl-badge.vercel.app/api/Software/Zed?theme=light) | `https://svgl-badge.vercel.app/api/Software/Zed?theme=light` |
+| Polar | ![Polar](https://svgl-badge.vercel.app/api/Software/Polar?theme=light) | `https://svgl-badge.vercel.app/api/Software/Polar?theme=light` |

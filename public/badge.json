@@ -2630,13 +2630,31 @@
     "Drizzle ORM Database": {
         "light": "/api/Database/Drizzle%20ORM?theme=light",
         "dark": "/api/Database/Drizzle%20ORM?theme=dark",
-        "lightSvg": "drizzle-orm.svg",
-        "darkSvg": "drizzle-orm.svg"
+        "lightSvg": "drizzle-orm_light.svg",
+        "darkSvg": "drizzle-orm_dark.svg"
     },
     "daily.dev Community": {
         "light": "/api/Community/daily.dev?theme=light",
         "dark": "/api/Community/daily.dev?theme=dark",
         "lightSvg": "daily-dev-ligth.svg",
         "darkSvg": "daily-dev-dark.svg"
+    },
+    "Polars Library": {
+        "light": "/api/Library/Polars?theme=light",
+        "dark": "/api/Library/Polars?theme=dark",
+        "lightSvg": "polars-logo.svg",
+        "darkSvg": "polars-logo.svg"
+    },
+    "Zed Software": {
+        "light": "/api/Software/Zed?theme=light",
+        "dark": "/api/Software/Zed?theme=dark",
+        "lightSvg": "zed-logo.svg",
+        "darkSvg": "zed-logo_dark.svg"
+    },
+    "Polar Software": {
+        "light": "/api/Software/Polar?theme=light",
+        "dark": "/api/Software/Polar?theme=dark",
+        "lightSvg": "polar-sh_light.svg",
+        "darkSvg": "polar-sh_dark.svg"
     }
 }
