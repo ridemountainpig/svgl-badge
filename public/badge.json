@@ -2656,5 +2656,11 @@
         "dark": "/api/Software/Polar?theme=dark",
         "lightSvg": "polar-sh_light.svg",
         "darkSvg": "polar-sh_dark.svg"
+    },
+    "SoundCloud Entertainment": {
+        "light": "/api/Entertainment/SoundCloud?theme=light",
+        "dark": "/api/Entertainment/SoundCloud?theme=dark",
+        "lightSvg": "soundcloud-logo.svg",
+        "darkSvg": "soundcloud-logo_dark.svg"
     }
 }

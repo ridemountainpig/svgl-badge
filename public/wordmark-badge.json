@@ -286,5 +286,11 @@
         "dark": "/api/Framework/tRPC?theme=dark&wordmark=true",
         "lightSvg": "trpc_wordmark_light.svg",
         "darkSvg": "library/trpc_wordmark_dark.svg"
+    },
+    "SoundCloud Entertainment": {
+        "light": "/api/Entertainment/SoundCloud?theme=light&wordmark=true",
+        "dark": "/api/Entertainment/SoundCloud?theme=dark&wordmark=true",
+        "lightSvg": "soundcloud-wordmark.svg",
+        "darkSvg": "library/soundcloud-wordmark_dark.svg"
     }
 }

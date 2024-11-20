@@ -445,3 +445,4 @@
 | Polars | ![Polars](https://svgl-badge.vercel.app/api/Library/Polars?theme=light) | `https://svgl-badge.vercel.app/api/Library/Polars?theme=light` |
 | Zed | ![Zed](https://svgl-badge.vercel.app/api/Software/Zed?theme=light) | `https://svgl-badge.vercel.app/api/Software/Zed?theme=light` |
 | Polar | ![Polar](https://svgl-badge.vercel.app/api/Software/Polar?theme=light) | `https://svgl-badge.vercel.app/api/Software/Polar?theme=light` |
+| SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light` |
