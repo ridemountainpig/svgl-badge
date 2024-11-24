@@ -287,6 +287,12 @@
         "lightSvg": "trpc_wordmark_light.svg",
         "darkSvg": "library/trpc_wordmark_dark.svg"
     },
+    "nuqs Library": {
+        "light": "/api/Library/nuqs?theme=light&wordmark=true",
+        "dark": "/api/Library/nuqs?theme=dark&wordmark=true",
+        "lightSvg": "nuqs-wordmark.svg",
+        "darkSvg": "nuqs-wordmark_dark.svg"
+    },
     "SoundCloud Entertainment": {
         "light": "/api/Entertainment/SoundCloud?theme=light&wordmark=true",
         "dark": "/api/Entertainment/SoundCloud?theme=dark&wordmark=true",

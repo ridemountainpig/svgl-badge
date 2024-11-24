@@ -49,4 +49,5 @@
 | MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=dark&wordmark=true` |
 | Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark&wordmark=true` |
 | tRPC | ![tRPC](https://svgl-badge.vercel.app/api/Framework/tRPC?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/tRPC?theme=dark&wordmark=true` |
+| nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark&wordmark=true` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark&wordmark=true` |

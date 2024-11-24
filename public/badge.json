@@ -2657,6 +2657,12 @@
         "lightSvg": "polar-sh_light.svg",
         "darkSvg": "polar-sh_dark.svg"
     },
+    "nuqs Library": {
+        "light": "/api/Library/nuqs?theme=light",
+        "dark": "/api/Library/nuqs?theme=dark",
+        "lightSvg": "nuqs.svg",
+        "darkSvg": "nuqs_dark.svg"
+    },
     "SoundCloud Entertainment": {
         "light": "/api/Entertainment/SoundCloud?theme=light",
         "dark": "/api/Entertainment/SoundCloud?theme=dark",
