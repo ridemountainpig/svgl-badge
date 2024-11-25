@@ -30,11 +30,11 @@
 | Locofy | ![Locofy](https://svgl-badge.vercel.app/api/AI/Locofy?theme=light) | `https://svgl-badge.vercel.app/api/AI/Locofy?theme=light` |
 | Runway | ![Runway](https://svgl-badge.vercel.app/api/AI/Runway?theme=light) | `https://svgl-badge.vercel.app/api/AI/Runway?theme=light` |
 | Yarn | ![Yarn](https://svgl-badge.vercel.app/api/Software/Yarn?theme=light) | `https://svgl-badge.vercel.app/api/Software/Yarn?theme=light` |
-| JWT | ![JWT](https://svgl-badge.vercel.app/api/Library/JWT?theme=light) | `https://svgl-badge.vercel.app/api/Library/JWT?theme=light` |
+| JWT | ![JWT](https://svgl-badge.vercel.app/api/Authentication/JWT?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/JWT?theme=light` |
 | Strapi | ![Strapi](https://svgl-badge.vercel.app/api/CMS/Strapi?theme=light) | `https://svgl-badge.vercel.app/api/CMS/Strapi?theme=light` |
 | Figma | ![Figma](https://svgl-badge.vercel.app/api/Design/Figma?theme=light) | `https://svgl-badge.vercel.app/api/Design/Figma?theme=light` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=light) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=light` |
-| WorkOS | ![WorkOS](https://svgl-badge.vercel.app/api/Software/WorkOS?theme=light) | `https://svgl-badge.vercel.app/api/Software/WorkOS?theme=light` |
+| WorkOS | ![WorkOS](https://svgl-badge.vercel.app/api/Authentication/WorkOS?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/WorkOS?theme=light` |
 | Whop | ![Whop](https://svgl-badge.vercel.app/api/Marketplace/Whop?theme=light) | `https://svgl-badge.vercel.app/api/Marketplace/Whop?theme=light` |
 | Postman | ![Postman](https://svgl-badge.vercel.app/api/Software/Postman?theme=light) | `https://svgl-badge.vercel.app/api/Software/Postman?theme=light` |
 | Discord.js | ![Discord.js](https://svgl-badge.vercel.app/api/Library/Discord.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/Discord.js?theme=light` |
@@ -85,12 +85,12 @@
 | TypeScript | ![TypeScript](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light) | `https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light` |
 | Bun | ![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=light) | `https://svgl-badge.vercel.app/api/Library/Bun?theme=light` |
 | BuildShip | ![BuildShip](https://svgl-badge.vercel.app/api/AI/BuildShip?theme=light) | `https://svgl-badge.vercel.app/api/AI/BuildShip?theme=light` |
-| Twilio | ![Twilio](https://svgl-badge.vercel.app/api/Software/Twilio?theme=light) | `https://svgl-badge.vercel.app/api/Software/Twilio?theme=light` |
+| Twilio | ![Twilio](https://svgl-badge.vercel.app/api/Authentication/Twilio?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Twilio?theme=light` |
 | Arc | ![Arc](https://svgl-badge.vercel.app/api/Social/Arc?theme=light) | `https://svgl-badge.vercel.app/api/Social/Arc?theme=light` |
 | Arc | ![Arc](https://svgl-badge.vercel.app/api/Software/Arc?theme=light) | `https://svgl-badge.vercel.app/api/Software/Arc?theme=light` |
 | Qwik | ![Qwik](https://svgl-badge.vercel.app/api/Framework/Qwik?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Qwik?theme=light` |
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=light` |
-| Authy | ![Authy](https://svgl-badge.vercel.app/api/Software/Authy?theme=light) | `https://svgl-badge.vercel.app/api/Software/Authy?theme=light` |
+| Authy | ![Authy](https://svgl-badge.vercel.app/api/Authentication/Authy?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Authy?theme=light` |
 | NestJS | ![NestJS](https://svgl-badge.vercel.app/api/Framework/NestJS?theme=light) | `https://svgl-badge.vercel.app/api/Framework/NestJS?theme=light` |
 | GitHub Copilot | ![GitHub Copilot](https://svgl-badge.vercel.app/api/Software/GitHub%20Copilot?theme=light) | `https://svgl-badge.vercel.app/api/Software/GitHub%20Copilot?theme=light` |
 | Railway | ![Railway](https://svgl-badge.vercel.app/api/Software/Railway?theme=light) | `https://svgl-badge.vercel.app/api/Software/Railway?theme=light` |
@@ -119,7 +119,7 @@
 | Ember | ![Ember](https://svgl-badge.vercel.app/api/Framework/Ember?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Ember?theme=light` |
 | Expo | ![Expo](https://svgl-badge.vercel.app/api/Software/Expo?theme=light) | `https://svgl-badge.vercel.app/api/Software/Expo?theme=light` |
 | Flutter | ![Flutter](https://svgl-badge.vercel.app/api/Framework/Flutter?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Flutter?theme=light` |
-| Auth0 | ![Auth0](https://svgl-badge.vercel.app/api/Library/Auth0?theme=light) | `https://svgl-badge.vercel.app/api/Library/Auth0?theme=light` |
+| Auth0 | ![Auth0](https://svgl-badge.vercel.app/api/Authentication/Auth0?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Auth0?theme=light` |
 | Fresh | ![Fresh](https://svgl-badge.vercel.app/api/Framework/Fresh?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Fresh?theme=light` |
 | Git | ![Git](https://svgl-badge.vercel.app/api/Software/Git?theme=light) | `https://svgl-badge.vercel.app/api/Software/Git?theme=light` |
 | Hostgator | ![Hostgator](https://svgl-badge.vercel.app/api/Hosting/Hostgator?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Hostgator?theme=light` |
@@ -447,3 +447,4 @@
 | Polar | ![Polar](https://svgl-badge.vercel.app/api/Software/Polar?theme=light) | `https://svgl-badge.vercel.app/api/Software/Polar?theme=light` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=light) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=light` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light` |
+| Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light` |

@@ -173,9 +173,9 @@
         "lightSvg": "yarn.svg",
         "darkSvg": "yarn.svg"
     },
-    "JWT Library": {
-        "light": "/api/Library/JWT?theme=light",
-        "dark": "/api/Library/JWT?theme=dark",
+    "JWT Authentication": {
+        "light": "/api/Authentication/JWT?theme=light",
+        "dark": "/api/Authentication/JWT?theme=dark",
         "lightSvg": "jwt.svg",
         "darkSvg": "jwt.svg"
     },
@@ -197,9 +197,9 @@
         "lightSvg": "spotify.svg",
         "darkSvg": "spotify.svg"
     },
-    "WorkOS Software": {
-        "light": "/api/Software/WorkOS?theme=light",
-        "dark": "/api/Software/WorkOS?theme=dark",
+    "WorkOS Authentication": {
+        "light": "/api/Authentication/WorkOS?theme=light",
+        "dark": "/api/Authentication/WorkOS?theme=dark",
         "lightSvg": "workos.svg",
         "darkSvg": "workos-light.svg"
     },
@@ -503,9 +503,9 @@
         "lightSvg": "buildship.svg",
         "darkSvg": "buildship.svg"
     },
-    "Twilio Software": {
-        "light": "/api/Software/Twilio?theme=light",
-        "dark": "/api/Software/Twilio?theme=dark",
+    "Twilio Authentication": {
+        "light": "/api/Authentication/Twilio?theme=light",
+        "dark": "/api/Authentication/Twilio?theme=dark",
         "lightSvg": "twilio.svg",
         "darkSvg": "twilio.svg"
     },
@@ -533,9 +533,9 @@
         "lightSvg": "coinbase.svg",
         "darkSvg": "coinbase.svg"
     },
-    "Authy Software": {
-        "light": "/api/Software/Authy?theme=light",
-        "dark": "/api/Software/Authy?theme=dark",
+    "Authy Authentication": {
+        "light": "/api/Authentication/Authy?theme=light",
+        "dark": "/api/Authentication/Authy?theme=dark",
         "lightSvg": "authy.svg",
         "darkSvg": "authy.svg"
     },
@@ -707,9 +707,9 @@
         "lightSvg": "flutter.svg",
         "darkSvg": "flutter.svg"
     },
-    "Auth0 Library": {
-        "light": "/api/Library/Auth0?theme=light",
-        "dark": "/api/Library/Auth0?theme=dark",
+    "Auth0 Authentication": {
+        "light": "/api/Authentication/Auth0?theme=light",
+        "dark": "/api/Authentication/Auth0?theme=dark",
         "lightSvg": "auth0.svg",
         "darkSvg": "auth0.svg"
     },
@@ -2668,5 +2668,11 @@
         "dark": "/api/Entertainment/SoundCloud?theme=dark",
         "lightSvg": "soundcloud-logo.svg",
         "darkSvg": "soundcloud-logo_dark.svg"
+    },
+    "Clerk Authentication": {
+        "light": "/api/Authentication/Clerk?theme=light",
+        "dark": "/api/Authentication/Clerk?theme=dark",
+        "lightSvg": "clerk-light.svg",
+        "darkSvg": "clerk-dark.svg"
     }
 }

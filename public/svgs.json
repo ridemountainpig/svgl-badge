@@ -221,7 +221,10 @@
     },
     {
         "title": "JWT",
-        "category": "Library",
+        "category": [
+            "Authentication",
+            "Library"
+        ],
         "route": "/library/jwt.svg",
         "url": "https://jwt.io/"
     },
@@ -246,7 +249,10 @@
     },
     {
         "title": "WorkOS",
-        "category": "Software",
+        "category": [
+            "Authentication",
+            "Software"
+        ],
         "route": {
             "light": "/library/workos.svg",
             "dark": "/library/workos-light.svg"
@@ -589,7 +595,10 @@
     },
     {
         "title": "Twilio",
-        "category": "Software",
+        "category": [
+            "Authentication",
+            "Software"
+        ],
         "route": "/library/twilio.svg",
         "url": "https://twilio.com"
     },
@@ -629,7 +638,10 @@
     },
     {
         "title": "Authy",
-        "category": "Software",
+        "category": [
+            "Authentication",
+            "Software"
+        ],
         "route": "/library/authy.svg",
         "url": "https://authy.com/"
     },
@@ -824,7 +836,10 @@
     },
     {
         "title": "Auth0",
-        "category": "Library",
+        "category": [
+            "Authentication",
+            "Library"
+        ],
         "route": "/library/auth0.svg",
         "url": "https://auth0.com/"
     },
@@ -3155,5 +3170,17 @@
             "dark": "library/soundcloud-wordmark_dark.svg"
         },
         "url": "https://soundcloud.com/"
+    },
+    {
+        "title": "Clerk",
+        "category": [
+            "Authentication",
+            "Software"
+        ],
+        "route": {
+            "light": "/library/clerk-light.svg",
+            "dark": "/library/clerk-dark.svg"
+        },
+        "url": "https://clerk.com/"
     }
 ]
