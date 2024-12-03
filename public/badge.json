@@ -2674,5 +2674,11 @@
         "dark": "/api/Authentication/Clerk?theme=dark",
         "lightSvg": "clerk-light.svg",
         "darkSvg": "clerk-dark.svg"
+    },
+    "Mermaid Library": {
+        "light": "/api/Library/Mermaid?theme=light",
+        "dark": "/api/Library/Mermaid?theme=dark",
+        "lightSvg": "mermaid-logo-light.svg",
+        "darkSvg": "mermaid-logo-dark.svg"
     }
 }
