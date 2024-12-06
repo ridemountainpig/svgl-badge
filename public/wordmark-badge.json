@@ -298,5 +298,11 @@
         "dark": "/api/Entertainment/SoundCloud?theme=dark&wordmark=true",
         "lightSvg": "soundcloud-wordmark.svg",
         "darkSvg": "library/soundcloud-wordmark_dark.svg"
+    },
+    "Home Assistant Home%20Automation": {
+        "light": "/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true",
+        "dark": "/api/Home%20Automation/Home%20Assistant?theme=dark&wordmark=true",
+        "lightSvg": "home-assistant-wordmark.svg",
+        "darkSvg": "home-assistant-wordmark-dark.svg"
     }
 }

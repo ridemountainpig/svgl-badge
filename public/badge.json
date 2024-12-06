@@ -2680,5 +2680,11 @@
         "dark": "/api/Library/Mermaid?theme=dark",
         "lightSvg": "mermaid-logo-light.svg",
         "darkSvg": "mermaid-logo-dark.svg"
+    },
+    "Home Assistant Home%20Automation": {
+        "light": "/api/Home%20Automation/Home%20Assistant?theme=light",
+        "dark": "/api/Home%20Automation/Home%20Assistant?theme=dark",
+        "lightSvg": "home-assistant.svg",
+        "darkSvg": "home-assistant.svg"
     }
 }

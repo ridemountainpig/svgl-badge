@@ -449,3 +449,4 @@
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark` |
 | Mermaid | ![Mermaid](https://svgl-badge.vercel.app/api/Library/Mermaid?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Mermaid?theme=dark` |
+| Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=dark) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=dark` |
