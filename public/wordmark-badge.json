@@ -304,5 +304,11 @@
         "dark": "/api/Home%20Automation/Home%20Assistant?theme=dark&wordmark=true",
         "lightSvg": "home-assistant-wordmark.svg",
         "darkSvg": "home-assistant-wordmark-dark.svg"
+    },
+    "PostHog Devtool": {
+        "light": "/api/Devtool/PostHog?theme=light&wordmark=true",
+        "dark": "/api/Devtool/PostHog?theme=dark&wordmark=true",
+        "lightSvg": "posthog-wordmark.svg",
+        "darkSvg": "posthog-wordmark_dark.svg"
     }
 }

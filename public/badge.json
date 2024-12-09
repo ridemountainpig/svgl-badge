@@ -638,8 +638,8 @@
     "Amazon Web Services Software": {
         "light": "/api/Software/Amazon%20Web%20Services?theme=light",
         "dark": "/api/Software/Amazon%20Web%20Services?theme=dark",
-        "lightSvg": "aws.svg",
-        "darkSvg": "aws.svg"
+        "lightSvg": "aws_light.svg",
+        "darkSvg": "aws_dark.svg"
     },
     "Microsoft Azure Software": {
         "light": "/api/Software/Microsoft%20Azure?theme=light",
@@ -2657,6 +2657,12 @@
         "lightSvg": "polar-sh_light.svg",
         "darkSvg": "polar-sh_dark.svg"
     },
+    "JSON Language": {
+        "light": "/api/Language/JSON?theme=light",
+        "dark": "/api/Language/JSON?theme=dark",
+        "lightSvg": "json.svg",
+        "darkSvg": "json.svg"
+    },
     "nuqs Library": {
         "light": "/api/Library/nuqs?theme=light",
         "dark": "/api/Library/nuqs?theme=dark",
@@ -2686,5 +2692,23 @@
         "dark": "/api/Home%20Automation/Home%20Assistant?theme=dark",
         "lightSvg": "home-assistant.svg",
         "darkSvg": "home-assistant.svg"
+    },
+    "UXAnaRangel Community": {
+        "light": "/api/Community/UXAnaRangel?theme=light",
+        "dark": "/api/Community/UXAnaRangel?theme=dark",
+        "lightSvg": "uxanarangel-light.svg",
+        "darkSvg": "uxanarangel-dark.svg"
+    },
+    "UXCorpRangel Community": {
+        "light": "/api/Community/UXCorpRangel?theme=light",
+        "dark": "/api/Community/UXCorpRangel?theme=dark",
+        "lightSvg": "uxcorprangel-light.svg",
+        "darkSvg": "uxcorprangel-dark.svg"
+    },
+    "PostHog Devtool": {
+        "light": "/api/Devtool/PostHog?theme=light",
+        "dark": "/api/Devtool/PostHog?theme=dark",
+        "lightSvg": "posthog.svg",
+        "darkSvg": "posthog.svg"
     }
 }

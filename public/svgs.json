@@ -762,7 +762,10 @@
     {
         "title": "Amazon Web Services",
         "category": "Software",
-        "route": "/library/aws.svg",
+        "route": {
+            "light": "/library/aws_light.svg",
+            "dark": "/library/aws_dark.svg"
+        },
         "url": "https://aws.amazon.com/"
     },
     {
@@ -3146,6 +3149,12 @@
         "url": "https://polar.sh/"
     },
     {
+        "title": "JSON",
+        "category": "Language",
+        "route": "/library/json.svg",
+        "url": "https://json.org/"
+    },
+    {
         "title": "nuqs",
         "category": "Library",
         "route": {
@@ -3207,5 +3216,37 @@
             "dark": "/library/home-assistant-wordmark-dark.svg"
         },
         "url": "https://github.com/home-assistant/assets/tree/master/logo"
+    },
+    {
+        "title": "UXAnaRangel",
+        "category": [
+            "Community"
+        ],
+        "route": {
+            "light": "/library/uxanarangel-light.svg",
+            "dark": "/library/uxanarangel-dark.svg"
+        },
+        "url": "https://uxanarangel.com/"
+    },
+    {
+        "title": "UXCorpRangel",
+        "category": [
+            "Community"
+        ],
+        "route": {
+            "light": "/library/uxcorprangel-light.svg",
+            "dark": "/library/uxcorprangel-dark.svg"
+        },
+        "url": "https://github.com/UXCorpRangel/"
+    },
+    {
+        "title": "PostHog",
+        "category": "Devtool",
+        "route": "/library/posthog.svg",
+        "wordmark": {
+            "light": "/library/posthog-wordmark.svg",
+            "dark": "/library/posthog-wordmark_dark.svg"
+        },
+        "url": "https://posthog.com/"
     }
 ]

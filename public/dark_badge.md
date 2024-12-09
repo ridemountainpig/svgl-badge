@@ -445,8 +445,12 @@
 | Polars | ![Polars](https://svgl-badge.vercel.app/api/Library/Polars?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Polars?theme=dark` |
 | Zed | ![Zed](https://svgl-badge.vercel.app/api/Software/Zed?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Zed?theme=dark` |
 | Polar | ![Polar](https://svgl-badge.vercel.app/api/Software/Polar?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Polar?theme=dark` |
+| JSON | ![JSON](https://svgl-badge.vercel.app/api/Language/JSON?theme=dark) | `https://svgl-badge.vercel.app/api/Language/JSON?theme=dark` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark` |
 | Mermaid | ![Mermaid](https://svgl-badge.vercel.app/api/Library/Mermaid?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Mermaid?theme=dark` |
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=dark) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=dark` |
+| UXAnaRangel | ![UXAnaRangel](https://svgl-badge.vercel.app/api/Community/UXAnaRangel?theme=dark) | `https://svgl-badge.vercel.app/api/Community/UXAnaRangel?theme=dark` |
+| UXCorpRangel | ![UXCorpRangel](https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=dark) | `https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=dark` |
+| PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=dark` |

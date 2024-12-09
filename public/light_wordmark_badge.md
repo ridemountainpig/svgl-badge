@@ -52,3 +52,4 @@
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=light&wordmark=true` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light&wordmark=true` |
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true` |
+| PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true` |
