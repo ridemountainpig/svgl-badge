@@ -953,11 +953,17 @@
         "lightSvg": "html5.svg",
         "darkSvg": "html5.svg"
     },
+    "CSS (New) Language": {
+        "light": "/api/Language/CSS%20%28New%29?theme=light",
+        "dark": "/api/Language/CSS%20%28New%29?theme=dark",
+        "lightSvg": "css.svg",
+        "darkSvg": "css.svg"
+    },
     "CSS Language": {
         "light": "/api/Language/CSS?theme=light",
         "dark": "/api/Language/CSS?theme=dark",
-        "lightSvg": "css.svg",
-        "darkSvg": "css.svg"
+        "lightSvg": "css_old.svg",
+        "darkSvg": "css_old.svg"
     },
     "midudev Community": {
         "light": "/api/Community/midudev?theme=light",

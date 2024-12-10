@@ -161,6 +161,7 @@
 | Eclipse IDE | ![Eclipse IDE](https://svgl-badge.vercel.app/api/Software/Eclipse%20IDE?theme=light) | `https://svgl-badge.vercel.app/api/Software/Eclipse%20IDE?theme=light` |
 | Three.js | ![Three.js](https://svgl-badge.vercel.app/api/Library/Three.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/Three.js?theme=light` |
 | HTML5 | ![HTML5](https://svgl-badge.vercel.app/api/Language/HTML5?theme=light) | `https://svgl-badge.vercel.app/api/Language/HTML5?theme=light` |
+| CSS (New) | ![CSS (New)](https://svgl-badge.vercel.app/api/Language/CSS%20%28New%29?theme=light) | `https://svgl-badge.vercel.app/api/Language/CSS%20%28New%29?theme=light` |
 | CSS | ![CSS](https://svgl-badge.vercel.app/api/Language/CSS?theme=light) | `https://svgl-badge.vercel.app/api/Language/CSS?theme=light` |
 | midudev | ![midudev](https://svgl-badge.vercel.app/api/Community/midudev?theme=light) | `https://svgl-badge.vercel.app/api/Community/midudev?theme=light` |
 | Apple | ![Apple](https://svgl-badge.vercel.app/api/Software/Apple?theme=light) | `https://svgl-badge.vercel.app/api/Software/Apple?theme=light` |
