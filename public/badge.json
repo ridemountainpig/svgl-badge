@@ -2663,6 +2663,12 @@
         "lightSvg": "polar-sh_light.svg",
         "darkSvg": "polar-sh_dark.svg"
     },
+    "bolt Devtool": {
+        "light": "/api/Devtool/bolt?theme=light",
+        "dark": "/api/Devtool/bolt?theme=dark",
+        "lightSvg": "bolt-new.svg",
+        "darkSvg": "bolt-new_dark.svg"
+    },
     "JSON Language": {
         "light": "/api/Language/JSON?theme=light",
         "dark": "/api/Language/JSON?theme=dark",

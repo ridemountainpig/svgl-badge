@@ -446,6 +446,7 @@
 | Polars | ![Polars](https://svgl-badge.vercel.app/api/Library/Polars?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Polars?theme=dark` |
 | Zed | ![Zed](https://svgl-badge.vercel.app/api/Software/Zed?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Zed?theme=dark` |
 | Polar | ![Polar](https://svgl-badge.vercel.app/api/Software/Polar?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Polar?theme=dark` |
+| bolt | ![bolt](https://svgl-badge.vercel.app/api/Devtool/bolt?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/bolt?theme=dark` |
 | JSON | ![JSON](https://svgl-badge.vercel.app/api/Language/JSON?theme=dark) | `https://svgl-badge.vercel.app/api/Language/JSON?theme=dark` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=dark` |
