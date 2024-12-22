@@ -1277,6 +1277,12 @@
         "lightSvg": "webkit.svg",
         "darkSvg": "webkit.svg"
     },
+    "DuckDucgGo Browser": {
+        "light": "/api/Browser/DuckDucgGo?theme=light",
+        "dark": "/api/Browser/DuckDucgGo?theme=dark",
+        "lightSvg": "duckduckgo.svg",
+        "darkSvg": "duckduckgo.svg"
+    },
     "Gemini AI": {
         "light": "/api/AI/Gemini?theme=light",
         "dark": "/api/AI/Gemini?theme=dark",

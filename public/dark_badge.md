@@ -215,6 +215,7 @@
 | Skype | ![Skype](https://svgl-badge.vercel.app/api/Social/Skype?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Skype?theme=dark` |
 | Tauri | ![Tauri](https://svgl-badge.vercel.app/api/Library/Tauri?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Tauri?theme=dark` |
 | WebKit | ![WebKit](https://svgl-badge.vercel.app/api/Software/WebKit?theme=dark) | `https://svgl-badge.vercel.app/api/Software/WebKit?theme=dark` |
+| DuckDucgGo | ![DuckDucgGo](https://svgl-badge.vercel.app/api/Browser/DuckDucgGo?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/DuckDucgGo?theme=dark` |
 | Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark` |
 | Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/Software/Obsidian?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Obsidian?theme=dark` |
 | Zod | ![Zod](https://svgl-badge.vercel.app/api/Library/Zod?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Zod?theme=dark` |

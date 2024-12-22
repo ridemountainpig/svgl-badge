@@ -1441,6 +1441,16 @@
         "url": "https://webkit.org/"
     },
     {
+        "title": "DuckDucgGo",
+        "category": [
+            "Browser",
+            "Software"
+        ],
+        "route": "/library/duckduckgo.svg",
+        "wordmark": "/library/duckduckgo-wordmark.svg",
+        "url": "https://duckduckgo.com/"
+    },
+    {
         "title": "Gemini",
         "category": [
             "AI",

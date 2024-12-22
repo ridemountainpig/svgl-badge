@@ -71,6 +71,12 @@
         "lightSvg": "coinbase-wordmark-light.svg",
         "darkSvg": "coinbase-wordmark-dark.svg"
     },
+    "DuckDucgGo Browser": {
+        "light": "/api/Browser/DuckDucgGo?theme=light&wordmark=true",
+        "dark": "/api/Browser/DuckDucgGo?theme=dark&wordmark=true",
+        "lightSvg": "duckduckgo-wordmark.svg",
+        "darkSvg": "duckduckgo-wordmark.svg"
+    },
     "OpenAI AI": {
         "light": "/api/AI/OpenAI?theme=light&wordmark=true",
         "dark": "/api/AI/OpenAI?theme=dark&wordmark=true",
