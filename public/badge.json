@@ -2728,5 +2728,11 @@
         "dark": "/api/Devtool/PostHog?theme=dark",
         "lightSvg": "posthog.svg",
         "darkSvg": "posthog.svg"
+    },
+    "Lottielab Design": {
+        "light": "/api/Design/Lottielab?theme=light",
+        "dark": "/api/Design/Lottielab?theme=dark",
+        "lightSvg": "lottielab.svg",
+        "darkSvg": "lottielab.svg"
     }
 }
