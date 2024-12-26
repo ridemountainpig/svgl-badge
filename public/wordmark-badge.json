@@ -299,9 +299,9 @@
         "lightSvg": "nuqs-wordmark.svg",
         "darkSvg": "nuqs-wordmark_dark.svg"
     },
-    "SoundCloud Entertainment": {
-        "light": "/api/Entertainment/SoundCloud?theme=light&wordmark=true",
-        "dark": "/api/Entertainment/SoundCloud?theme=dark&wordmark=true",
+    "SoundCloud Music": {
+        "light": "/api/Music/SoundCloud?theme=light&wordmark=true",
+        "dark": "/api/Music/SoundCloud?theme=dark&wordmark=true",
         "lightSvg": "soundcloud-wordmark.svg",
         "darkSvg": "library/soundcloud-wordmark_dark.svg"
     },

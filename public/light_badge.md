@@ -450,7 +450,7 @@
 | bolt | ![bolt](https://svgl-badge.vercel.app/api/Devtool/bolt?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/bolt?theme=light` |
 | JSON | ![JSON](https://svgl-badge.vercel.app/api/Language/JSON?theme=light) | `https://svgl-badge.vercel.app/api/Language/JSON?theme=light` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=light) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=light` |
-| SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/SoundCloud?theme=light` |
+| SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light) | `https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light` |
 | Mermaid | ![Mermaid](https://svgl-badge.vercel.app/api/Library/Mermaid?theme=light) | `https://svgl-badge.vercel.app/api/Library/Mermaid?theme=light` |
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light` |

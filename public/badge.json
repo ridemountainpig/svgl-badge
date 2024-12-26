@@ -2687,9 +2687,9 @@
         "lightSvg": "nuqs.svg",
         "darkSvg": "nuqs_dark.svg"
     },
-    "SoundCloud Entertainment": {
-        "light": "/api/Entertainment/SoundCloud?theme=light",
-        "dark": "/api/Entertainment/SoundCloud?theme=dark",
+    "SoundCloud Music": {
+        "light": "/api/Music/SoundCloud?theme=light",
+        "dark": "/api/Music/SoundCloud?theme=dark",
         "lightSvg": "soundcloud-logo.svg",
         "darkSvg": "soundcloud-logo_dark.svg"
     },
