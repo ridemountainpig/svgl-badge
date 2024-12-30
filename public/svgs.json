@@ -3279,5 +3279,14 @@
         "category": "Design",
         "route": "/library/lottielab.svg",
         "url": "https://www.lottielab.com/"
+    },
+    {
+        "title": "TanStack",
+        "category": [
+            "Library",
+            "Software"
+        ],
+        "route": "/library/tanstack.svg",
+        "url": "https://tanstack.com/"
     }
 ]

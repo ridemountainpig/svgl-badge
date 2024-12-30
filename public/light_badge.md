@@ -458,3 +458,4 @@
 | UXCorpRangel | ![UXCorpRangel](https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=light) | `https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=light` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light` |
 | Lottielab | ![Lottielab](https://svgl-badge.vercel.app/api/Design/Lottielab?theme=light) | `https://svgl-badge.vercel.app/api/Design/Lottielab?theme=light` |
+| TanStack | ![TanStack](https://svgl-badge.vercel.app/api/Library/TanStack?theme=light) | `https://svgl-badge.vercel.app/api/Library/TanStack?theme=light` |

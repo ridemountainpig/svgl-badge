@@ -2734,5 +2734,11 @@
         "dark": "/api/Design/Lottielab?theme=dark",
         "lightSvg": "lottielab.svg",
         "darkSvg": "lottielab.svg"
+    },
+    "TanStack Library": {
+        "light": "/api/Library/TanStack?theme=light",
+        "dark": "/api/Library/TanStack?theme=dark",
+        "lightSvg": "tanstack.svg",
+        "darkSvg": "tanstack.svg"
     }
 }
