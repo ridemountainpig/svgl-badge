@@ -461,3 +461,4 @@
 | Lottielab | ![Lottielab](https://svgl-badge.vercel.app/api/Design/Lottielab?theme=light) | `https://svgl-badge.vercel.app/api/Design/Lottielab?theme=light` |
 | TanStack | ![TanStack](https://svgl-badge.vercel.app/api/Library/TanStack?theme=light) | `https://svgl-badge.vercel.app/api/Library/TanStack?theme=light` |
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light` |
+| dotenv | ![dotenv](https://svgl-badge.vercel.app/api/Config/dotenv?theme=light) | `https://svgl-badge.vercel.app/api/Config/dotenv?theme=light` |

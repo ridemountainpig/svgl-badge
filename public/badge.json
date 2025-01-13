@@ -2752,5 +2752,11 @@
         "dark": "/api/Library/TypeGPU?theme=dark",
         "lightSvg": "typegpu-light.svg",
         "darkSvg": "typegpu-dark.svg"
+    },
+    "dotenv Config": {
+        "light": "/api/Config/dotenv?theme=light",
+        "dark": "/api/Config/dotenv?theme=dark",
+        "lightSvg": "dotenv.svg",
+        "darkSvg": "dotenv.svg"
     }
 }
