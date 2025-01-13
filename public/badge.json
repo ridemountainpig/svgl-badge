@@ -1,4 +1,10 @@
 {
+    "PayPal Payment": {
+        "light": "/api/Payment/PayPal?theme=light",
+        "dark": "/api/Payment/PayPal?theme=dark",
+        "lightSvg": "paypal.svg",
+        "darkSvg": "paypal.svg"
+    },
     "Google Drive Google": {
         "light": "/api/Google/Google%20Drive?theme=light",
         "dark": "/api/Google/Google%20Drive?theme=dark",
@@ -2740,5 +2746,11 @@
         "dark": "/api/Library/TanStack?theme=dark",
         "lightSvg": "tanstack.svg",
         "darkSvg": "tanstack.svg"
+    },
+    "TypeGPU Library": {
+        "light": "/api/Library/TypeGPU?theme=light",
+        "dark": "/api/Library/TypeGPU?theme=dark",
+        "lightSvg": "typegpu-light.svg",
+        "darkSvg": "typegpu-dark.svg"
     }
 }

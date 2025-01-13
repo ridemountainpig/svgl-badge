@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark` |
 | Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark` |
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark` |
@@ -459,3 +460,4 @@
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=dark` |
 | Lottielab | ![Lottielab](https://svgl-badge.vercel.app/api/Design/Lottielab?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Lottielab?theme=dark` |
 | TanStack | ![TanStack](https://svgl-badge.vercel.app/api/Library/TanStack?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TanStack?theme=dark` |
+| TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark` |

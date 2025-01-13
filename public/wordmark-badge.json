@@ -1,4 +1,10 @@
 {
+    "PayPal Payment": {
+        "light": "/api/Payment/PayPal?theme=light&wordmark=true",
+        "dark": "/api/Payment/PayPal?theme=dark&wordmark=true",
+        "lightSvg": "paypal-wordmark.svg",
+        "darkSvg": "paypal-wordmark.svg"
+    },
     "Milanote Software": {
         "light": "/api/Software/Milanote?theme=light&wordmark=true",
         "dark": "/api/Software/Milanote?theme=dark&wordmark=true",
@@ -316,5 +322,11 @@
         "dark": "/api/Devtool/PostHog?theme=dark&wordmark=true",
         "lightSvg": "posthog-wordmark.svg",
         "darkSvg": "posthog-wordmark_dark.svg"
+    },
+    "TypeGPU Library": {
+        "light": "/api/Library/TypeGPU?theme=light&wordmark=true",
+        "dark": "/api/Library/TypeGPU?theme=dark&wordmark=true",
+        "lightSvg": "typegpu-wordmark-light.svg",
+        "darkSvg": "typegpu-wordmark-dark.svg"
     }
 }

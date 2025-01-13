@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=light&wordmark=true` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=light&wordmark=true` |
 | Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=light&wordmark=true` |
 | Groq | ![Groq](https://svgl-badge.vercel.app/api/AI/Groq?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Groq?theme=light&wordmark=true` |
@@ -54,3 +55,4 @@
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light&wordmark=true` |
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true` |
+| TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true` |
