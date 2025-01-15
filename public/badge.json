@@ -2758,5 +2758,11 @@
         "dark": "/api/Config/dotenv?theme=dark",
         "lightSvg": "dotenv.svg",
         "darkSvg": "dotenv.svg"
+    },
+    "dotenvx Config": {
+        "light": "/api/Config/dotenvx?theme=light",
+        "dark": "/api/Config/dotenvx?theme=dark",
+        "lightSvg": "dotenvx.svg",
+        "darkSvg": "dotenvx.svg"
     }
 }

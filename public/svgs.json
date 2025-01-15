@@ -3321,5 +3321,15 @@
         ],
         "route": "/library/dotenv.svg",
         "url": "https://github.com/motdotla/dotenv"
+    },
+    {
+        "title": "dotenvx",
+        "category": [
+            "Config",
+            "Devtool",
+            "Secrets"
+        ],
+        "route": "/library/dotenvx.svg",
+        "url": "https://dotenvx.com"
     }
 ]

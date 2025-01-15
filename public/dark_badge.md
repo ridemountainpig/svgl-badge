@@ -462,3 +462,4 @@
 | TanStack | ![TanStack](https://svgl-badge.vercel.app/api/Library/TanStack?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TanStack?theme=dark` |
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark` |
 | dotenv | ![dotenv](https://svgl-badge.vercel.app/api/Config/dotenv?theme=dark) | `https://svgl-badge.vercel.app/api/Config/dotenv?theme=dark` |
+| dotenvx | ![dotenvx](https://svgl-badge.vercel.app/api/Config/dotenvx?theme=dark) | `https://svgl-badge.vercel.app/api/Config/dotenvx?theme=dark` |
