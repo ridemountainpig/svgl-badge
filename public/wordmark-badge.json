@@ -47,6 +47,12 @@
         "lightSvg": "aliexpress-logo.svg",
         "darkSvg": "aliexpress-logo.svg"
     },
+    "React Library": {
+        "light": "/api/Library/React?theme=light&wordmark=true",
+        "dark": "/api/Library/React?theme=dark&wordmark=true",
+        "lightSvg": "react_wordmark_light.svg",
+        "darkSvg": "react_wordmark_dark.svg"
+    },
     "Spotify Music": {
         "light": "/api/Music/Spotify?theme=light&wordmark=true",
         "dark": "/api/Music/Spotify?theme=dark&wordmark=true",
@@ -106,6 +112,12 @@
         "dark": "/api/Hosting/Zeabur?theme=dark&wordmark=true",
         "lightSvg": "zeabur_wordmark_light.svg",
         "darkSvg": "zeabur_wordmark_dark.svg"
+    },
+    "Monkeytype Software": {
+        "light": "/api/Software/Monkeytype?theme=light&wordmark=true",
+        "dark": "/api/Software/Monkeytype?theme=dark&wordmark=true",
+        "lightSvg": "monkeytype-wordmark-light.svg",
+        "darkSvg": "monkeytype-wordmark-dark.svg"
     },
     "Shopify CMS": {
         "light": "/api/CMS/Shopify?theme=light&wordmark=true",
@@ -269,9 +281,9 @@
         "lightSvg": "todoist-wordmark.svg",
         "darkSvg": "todoist-wordmark.svg"
     },
-    "Firebase Hosting": {
-        "light": "/api/Hosting/Firebase?theme=light&wordmark=true",
-        "dark": "/api/Hosting/Firebase?theme=dark&wordmark=true",
+    "Firebase Google": {
+        "light": "/api/Google/Firebase?theme=light&wordmark=true",
+        "dark": "/api/Google/Firebase?theme=dark&wordmark=true",
         "lightSvg": "firebase-wordmark.svg",
         "darkSvg": "firebase-wordmark.svg"
     },
@@ -328,5 +340,23 @@
         "dark": "/api/Library/TypeGPU?theme=dark&wordmark=true",
         "lightSvg": "typegpu-wordmark-light.svg",
         "darkSvg": "typegpu-wordmark-dark.svg"
+    },
+    "Apache Kafka Software": {
+        "light": "/api/Software/Apache%20Kafka?theme=light&wordmark=true",
+        "dark": "/api/Software/Apache%20Kafka?theme=dark&wordmark=true",
+        "lightSvg": "apache-kafka-wordmark.svg",
+        "darkSvg": "apache-kafka-wordmark.svg"
+    },
+    "DeepSeek AI": {
+        "light": "/api/AI/DeepSeek?theme=light&wordmark=true",
+        "dark": "/api/AI/DeepSeek?theme=dark&wordmark=true",
+        "lightSvg": "deepseek_wordmark.svg",
+        "darkSvg": "deepseek_wordmark.svg"
+    },
+    "Dropbox Hosting": {
+        "light": "/api/Hosting/Dropbox?theme=light&wordmark=true",
+        "dark": "/api/Hosting/Dropbox?theme=dark&wordmark=true",
+        "lightSvg": "dropbox_wordmark.svg",
+        "darkSvg": "dropbox_wordmark_dark.svg"
     }
 }

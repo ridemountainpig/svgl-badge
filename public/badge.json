@@ -122,8 +122,8 @@
     "React Library": {
         "light": "/api/Library/React?theme=light",
         "dark": "/api/Library/React?theme=dark",
-        "lightSvg": "react.svg",
-        "darkSvg": "react.svg"
+        "lightSvg": "react_light.svg",
+        "darkSvg": "react_dark.svg"
     },
     "Svelte Library": {
         "light": "/api/Library/Svelte?theme=light",
@@ -1919,9 +1919,9 @@
         "lightSvg": "phpstorm.svg",
         "darkSvg": "phpstorm.svg"
     },
-    "MonkeyType Software": {
-        "light": "/api/Software/MonkeyType?theme=light",
-        "dark": "/api/Software/MonkeyType?theme=dark",
+    "Monkeytype Software": {
+        "light": "/api/Software/Monkeytype?theme=light",
+        "dark": "/api/Software/Monkeytype?theme=dark",
         "lightSvg": "monkeytype.svg",
         "darkSvg": "monkeytype.svg"
     },
@@ -2099,9 +2099,9 @@
         "lightSvg": "svgl.svg",
         "darkSvg": "svgl.svg"
     },
-    "Google Idx Software": {
-        "light": "/api/Software/Google%20Idx?theme=light",
-        "dark": "/api/Software/Google%20Idx?theme=dark",
+    "Google Idx Google": {
+        "light": "/api/Google/Google%20Idx?theme=light",
+        "dark": "/api/Google/Google%20Idx?theme=dark",
         "lightSvg": "google-idx.svg",
         "darkSvg": "google-idx.svg"
     },
@@ -2147,9 +2147,9 @@
         "lightSvg": "qt.svg",
         "darkSvg": "qt.svg"
     },
-    "Bitwarden Software": {
-        "light": "/api/Software/Bitwarden?theme=light",
-        "dark": "/api/Software/Bitwarden?theme=dark",
+    "Bitwarden Authentication": {
+        "light": "/api/Authentication/Bitwarden?theme=light",
+        "dark": "/api/Authentication/Bitwarden?theme=dark",
         "lightSvg": "bitwarden.svg",
         "darkSvg": "bitwarden.svg"
     },
@@ -2537,9 +2537,9 @@
         "lightSvg": "bento.svg",
         "darkSvg": "bento.svg"
     },
-    "Firebase Hosting": {
-        "light": "/api/Hosting/Firebase?theme=light",
-        "dark": "/api/Hosting/Firebase?theme=dark",
+    "Firebase Google": {
+        "light": "/api/Google/Firebase?theme=light",
+        "dark": "/api/Google/Firebase?theme=dark",
         "lightSvg": "firebase.svg",
         "darkSvg": "firebase.svg"
     },
@@ -2764,5 +2764,41 @@
         "dark": "/api/Config/dotenvx?theme=dark",
         "lightSvg": "dotenvx.svg",
         "darkSvg": "dotenvx.svg"
+    },
+    "Apache Kafka Software": {
+        "light": "/api/Software/Apache%20Kafka?theme=light",
+        "dark": "/api/Software/Apache%20Kafka?theme=dark",
+        "lightSvg": "apache-kafka.svg",
+        "darkSvg": "apache-kafka.svg"
+    },
+    "Motion Library": {
+        "light": "/api/Library/Motion?theme=light",
+        "dark": "/api/Library/Motion?theme=dark",
+        "lightSvg": "motion.svg",
+        "darkSvg": "motion_dark.svg"
+    },
+    "DeepSeek AI": {
+        "light": "/api/AI/DeepSeek?theme=light",
+        "dark": "/api/AI/DeepSeek?theme=dark",
+        "lightSvg": "deepseek.svg",
+        "darkSvg": "deepseek.svg"
+    },
+    "Shiki Library": {
+        "light": "/api/Library/Shiki?theme=light",
+        "dark": "/api/Library/Shiki?theme=dark",
+        "lightSvg": "shiki.svg",
+        "darkSvg": "shiki.svg"
+    },
+    "Dropbox Hosting": {
+        "light": "/api/Hosting/Dropbox?theme=light",
+        "dark": "/api/Hosting/Dropbox?theme=dark",
+        "lightSvg": "dropbox.svg",
+        "darkSvg": "dropbox.svg"
+    },
+    "Open WebUI AI": {
+        "light": "/api/AI/Open%20WebUI?theme=light",
+        "dark": "/api/AI/Open%20WebUI?theme=dark",
+        "lightSvg": "openwebui.svg",
+        "darkSvg": "openwebui.svg"
     }
 }

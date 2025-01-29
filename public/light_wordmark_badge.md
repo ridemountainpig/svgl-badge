@@ -9,6 +9,7 @@
 | Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=light&wordmark=true` |
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=light&wordmark=true` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light&wordmark=true` |
+| React | ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/React?theme=light&wordmark=true` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true` |
 | YouTube | ![YouTube](https://svgl-badge.vercel.app/api/Google/YouTube?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/YouTube?theme=light&wordmark=true` |
 | Google | ![Google](https://svgl-badge.vercel.app/api/Google/Google?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/Google?theme=light&wordmark=true` |
@@ -19,6 +20,7 @@
 | Link | ![Link](https://svgl-badge.vercel.app/api/Crypto/Link?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Link?theme=light&wordmark=true` |
 | Axiom | ![Axiom](https://svgl-badge.vercel.app/api/Software/Axiom?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Axiom?theme=light&wordmark=true` |
 | Zeabur | ![Zeabur](https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=light&wordmark=true` |
+| Monkeytype | ![Monkeytype](https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light&wordmark=true` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true` |
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true` |
@@ -46,7 +48,7 @@
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light&wordmark=true` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=light&wordmark=true` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light&wordmark=true` |
-| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light&wordmark=true` |
+| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Google/Firebase?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/Firebase?theme=light&wordmark=true` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light&wordmark=true` |
 | MediaWiki | ![MediaWiki](https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/MediaWiki?theme=light&wordmark=true` |
 | Claude AI | ![Claude AI](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=light&wordmark=true` |
@@ -56,3 +58,6 @@
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true` |
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true` |
+| Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light&wordmark=true` |
+| DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true` |
+| Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true` |

@@ -8,7 +8,9 @@ from urllib.parse import quote
 async def fetchSvg(session, svgFileUrl):
     try:
         svgFileName = svgFileUrl.split("/")[-1]
-        svgFileUrl = "https://raw.githubusercontent.com/pheralb/svgl/main/static" + svgFileUrl
+        if not svgFileUrl.startswith("/"):
+            svgFileUrl = "/" + svgFileUrl
+        svgFileUrl = "https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static" + svgFileUrl
 
         async with session.get(svgFileUrl) as response:
             response.raise_for_status()
@@ -27,12 +29,12 @@ async def fetchSvg(session, svgFileUrl):
 async def getSvglJson():
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get("https://raw.githubusercontent.com/pheralb/svgl/main/src/data/svgs.ts") as response:
+            async with session.get("https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/src/data/svgs.ts") as response:
                 response.raise_for_status()
                 data = await response.text()
                 data = data.split("export const svgs: iSVG[] = [")[1].split("];")[0]
 
-        svg_data_keys = ["title:", "category:", "route:", "wordmark:", "url:", "light:", "dark:"]
+        svg_data_keys = ["title:", "category:", "route:", "wordmark:", "url:", "light:", "dark:", "brandUrl:"]
         data = data.replace("'", '"')
 
         for key in svg_data_keys:

@@ -322,7 +322,7 @@
 | JetBrains Fleet | ![JetBrains Fleet](https://svgl-badge.vercel.app/api/Software/JetBrains%20Fleet?theme=dark) | `https://svgl-badge.vercel.app/api/Software/JetBrains%20Fleet?theme=dark` |
 | JetBrains RubyMine | ![JetBrains RubyMine](https://svgl-badge.vercel.app/api/Software/JetBrains%20RubyMine?theme=dark) | `https://svgl-badge.vercel.app/api/Software/JetBrains%20RubyMine?theme=dark` |
 | JetBrains PhpStorm | ![JetBrains PhpStorm](https://svgl-badge.vercel.app/api/Software/JetBrains%20PhpStorm?theme=dark) | `https://svgl-badge.vercel.app/api/Software/JetBrains%20PhpStorm?theme=dark` |
-| MonkeyType | ![MonkeyType](https://svgl-badge.vercel.app/api/Software/MonkeyType?theme=dark) | `https://svgl-badge.vercel.app/api/Software/MonkeyType?theme=dark` |
+| Monkeytype | ![Monkeytype](https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=dark` |
 | PyCharm | ![PyCharm](https://svgl-badge.vercel.app/api/Software/PyCharm?theme=dark) | `https://svgl-badge.vercel.app/api/Software/PyCharm?theme=dark` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark` |
 | WebFlow | ![WebFlow](https://svgl-badge.vercel.app/api/CMS/WebFlow?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/WebFlow?theme=dark` |
@@ -352,7 +352,7 @@
 | Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark` |
 | Emacs | ![Emacs](https://svgl-badge.vercel.app/api/Software/Emacs?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Emacs?theme=dark` |
 | Svgl | ![Svgl](https://svgl-badge.vercel.app/api/Library/Svgl?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Svgl?theme=dark` |
-| Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=dark` |
+| Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/Google/Google%20Idx?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Idx?theme=dark` |
 | Remix | ![Remix](https://svgl-badge.vercel.app/api/Framework/Remix?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Remix?theme=dark` |
 | Steam | ![Steam](https://svgl-badge.vercel.app/api/Software/Steam?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Steam?theme=dark` |
 | Tabby | ![Tabby](https://svgl-badge.vercel.app/api/Software/Tabby?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Tabby?theme=dark` |
@@ -360,7 +360,7 @@
 | Flask | ![Flask](https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark` |
 | Alacritty | ![Alacritty](https://svgl-badge.vercel.app/api/Software/Alacritty?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Alacritty?theme=dark` |
 | Qt | ![Qt](https://svgl-badge.vercel.app/api/Software/Qt?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Qt?theme=dark` |
-| Bitwarden | ![Bitwarden](https://svgl-badge.vercel.app/api/Software/Bitwarden?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Bitwarden?theme=dark` |
+| Bitwarden | ![Bitwarden](https://svgl-badge.vercel.app/api/Authentication/Bitwarden?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Bitwarden?theme=dark` |
 | Voicemod | ![Voicemod](https://svgl-badge.vercel.app/api/Entertainment/Voicemod?theme=dark) | `https://svgl-badge.vercel.app/api/Entertainment/Voicemod?theme=dark` |
 | Neovim | ![Neovim](https://svgl-badge.vercel.app/api/Software/Neovim?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Neovim?theme=dark` |
 | Pitch | ![Pitch](https://svgl-badge.vercel.app/api/Design/Pitch?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Pitch?theme=dark` |
@@ -425,7 +425,7 @@
 | JSON Schema | ![JSON Schema](https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark) | `https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=dark` |
 | v0 | ![v0](https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark) | `https://svgl-badge.vercel.app/api/Vercel/v0?theme=dark` |
 | Bento | ![Bento](https://svgl-badge.vercel.app/api/Software/Bento?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Bento?theme=dark` |
-| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=dark` |
+| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Google/Firebase?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Firebase?theme=dark` |
 | Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=dark` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=dark` |
 | Nx | ![Nx](https://svgl-badge.vercel.app/api/Devtool/Nx?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Nx?theme=dark` |
@@ -463,3 +463,9 @@
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark` |
 | dotenv | ![dotenv](https://svgl-badge.vercel.app/api/Config/dotenv?theme=dark) | `https://svgl-badge.vercel.app/api/Config/dotenv?theme=dark` |
 | dotenvx | ![dotenvx](https://svgl-badge.vercel.app/api/Config/dotenvx?theme=dark) | `https://svgl-badge.vercel.app/api/Config/dotenvx?theme=dark` |
+| Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=dark` |
+| Motion | ![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Motion?theme=dark` |
+| DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=dark) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=dark` |
+| Shiki | ![Shiki](https://svgl-badge.vercel.app/api/Library/Shiki?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Shiki?theme=dark` |
+| Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=dark` |
+| Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark` |

@@ -322,7 +322,7 @@
 | JetBrains Fleet | ![JetBrains Fleet](https://svgl-badge.vercel.app/api/Software/JetBrains%20Fleet?theme=light) | `https://svgl-badge.vercel.app/api/Software/JetBrains%20Fleet?theme=light` |
 | JetBrains RubyMine | ![JetBrains RubyMine](https://svgl-badge.vercel.app/api/Software/JetBrains%20RubyMine?theme=light) | `https://svgl-badge.vercel.app/api/Software/JetBrains%20RubyMine?theme=light` |
 | JetBrains PhpStorm | ![JetBrains PhpStorm](https://svgl-badge.vercel.app/api/Software/JetBrains%20PhpStorm?theme=light) | `https://svgl-badge.vercel.app/api/Software/JetBrains%20PhpStorm?theme=light` |
-| MonkeyType | ![MonkeyType](https://svgl-badge.vercel.app/api/Software/MonkeyType?theme=light) | `https://svgl-badge.vercel.app/api/Software/MonkeyType?theme=light` |
+| Monkeytype | ![Monkeytype](https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light) | `https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light` |
 | PyCharm | ![PyCharm](https://svgl-badge.vercel.app/api/Software/PyCharm?theme=light) | `https://svgl-badge.vercel.app/api/Software/PyCharm?theme=light` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light` |
 | WebFlow | ![WebFlow](https://svgl-badge.vercel.app/api/CMS/WebFlow?theme=light) | `https://svgl-badge.vercel.app/api/CMS/WebFlow?theme=light` |
@@ -352,7 +352,7 @@
 | Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/Software/Pnpm?theme=light) | `https://svgl-badge.vercel.app/api/Software/Pnpm?theme=light` |
 | Emacs | ![Emacs](https://svgl-badge.vercel.app/api/Software/Emacs?theme=light) | `https://svgl-badge.vercel.app/api/Software/Emacs?theme=light` |
 | Svgl | ![Svgl](https://svgl-badge.vercel.app/api/Library/Svgl?theme=light) | `https://svgl-badge.vercel.app/api/Library/Svgl?theme=light` |
-| Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=light) | `https://svgl-badge.vercel.app/api/Software/Google%20Idx?theme=light` |
+| Google Idx | ![Google Idx](https://svgl-badge.vercel.app/api/Google/Google%20Idx?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Idx?theme=light` |
 | Remix | ![Remix](https://svgl-badge.vercel.app/api/Framework/Remix?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Remix?theme=light` |
 | Steam | ![Steam](https://svgl-badge.vercel.app/api/Software/Steam?theme=light) | `https://svgl-badge.vercel.app/api/Software/Steam?theme=light` |
 | Tabby | ![Tabby](https://svgl-badge.vercel.app/api/Software/Tabby?theme=light) | `https://svgl-badge.vercel.app/api/Software/Tabby?theme=light` |
@@ -360,7 +360,7 @@
 | Flask | ![Flask](https://svgl-badge.vercel.app/api/Framework/Flask?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Flask?theme=light` |
 | Alacritty | ![Alacritty](https://svgl-badge.vercel.app/api/Software/Alacritty?theme=light) | `https://svgl-badge.vercel.app/api/Software/Alacritty?theme=light` |
 | Qt | ![Qt](https://svgl-badge.vercel.app/api/Software/Qt?theme=light) | `https://svgl-badge.vercel.app/api/Software/Qt?theme=light` |
-| Bitwarden | ![Bitwarden](https://svgl-badge.vercel.app/api/Software/Bitwarden?theme=light) | `https://svgl-badge.vercel.app/api/Software/Bitwarden?theme=light` |
+| Bitwarden | ![Bitwarden](https://svgl-badge.vercel.app/api/Authentication/Bitwarden?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Bitwarden?theme=light` |
 | Voicemod | ![Voicemod](https://svgl-badge.vercel.app/api/Entertainment/Voicemod?theme=light) | `https://svgl-badge.vercel.app/api/Entertainment/Voicemod?theme=light` |
 | Neovim | ![Neovim](https://svgl-badge.vercel.app/api/Software/Neovim?theme=light) | `https://svgl-badge.vercel.app/api/Software/Neovim?theme=light` |
 | Pitch | ![Pitch](https://svgl-badge.vercel.app/api/Design/Pitch?theme=light) | `https://svgl-badge.vercel.app/api/Design/Pitch?theme=light` |
@@ -425,7 +425,7 @@
 | JSON Schema | ![JSON Schema](https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=light) | `https://svgl-badge.vercel.app/api/Library/JSON%20Schema?theme=light` |
 | v0 | ![v0](https://svgl-badge.vercel.app/api/Vercel/v0?theme=light) | `https://svgl-badge.vercel.app/api/Vercel/v0?theme=light` |
 | Bento | ![Bento](https://svgl-badge.vercel.app/api/Software/Bento?theme=light) | `https://svgl-badge.vercel.app/api/Software/Bento?theme=light` |
-| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Firebase?theme=light` |
+| Firebase | ![Firebase](https://svgl-badge.vercel.app/api/Google/Firebase?theme=light) | `https://svgl-badge.vercel.app/api/Google/Firebase?theme=light` |
 | Prettier | ![Prettier](https://svgl-badge.vercel.app/api/Library/Prettier?theme=light) | `https://svgl-badge.vercel.app/api/Library/Prettier?theme=light` |
 | Leap Wallet | ![Leap Wallet](https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Leap%20Wallet?theme=light` |
 | Nx | ![Nx](https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Nx?theme=light` |
@@ -463,3 +463,9 @@
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light` |
 | dotenv | ![dotenv](https://svgl-badge.vercel.app/api/Config/dotenv?theme=light) | `https://svgl-badge.vercel.app/api/Config/dotenv?theme=light` |
 | dotenvx | ![dotenvx](https://svgl-badge.vercel.app/api/Config/dotenvx?theme=light) | `https://svgl-badge.vercel.app/api/Config/dotenvx?theme=light` |
+| Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light` |
+| Motion | ![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=light) | `https://svgl-badge.vercel.app/api/Library/Motion?theme=light` |
+| DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light` |
+| Shiki | ![Shiki](https://svgl-badge.vercel.app/api/Library/Shiki?theme=light) | `https://svgl-badge.vercel.app/api/Library/Shiki?theme=light` |
+| Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light` |
+| Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=light` |
