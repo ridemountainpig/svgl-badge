@@ -2800,5 +2800,11 @@
         "dark": "/api/AI/Open%20WebUI?theme=dark",
         "lightSvg": "openwebui.svg",
         "darkSvg": "openwebui.svg"
+    },
+    "Base UI Library": {
+        "light": "/api/Library/Base%20UI?theme=light",
+        "dark": "/api/Library/Base%20UI?theme=dark",
+        "lightSvg": "base-ui.svg",
+        "darkSvg": "base-ui-dark.svg"
     }
 }

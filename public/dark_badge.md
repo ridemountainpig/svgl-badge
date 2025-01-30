@@ -469,3 +469,4 @@
 | Shiki | ![Shiki](https://svgl-badge.vercel.app/api/Library/Shiki?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Shiki?theme=dark` |
 | Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=dark` |
 | Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark` |
+| Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark` |
