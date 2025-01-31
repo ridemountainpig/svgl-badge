@@ -3043,7 +3043,7 @@
         "title": "Vite",
         "category": [
             "Devtool",
-            "void(0)"
+            "VoidZero"
         ],
         "route": "/library/vitejs.svg",
         "url": "https://vitejs.dev"
@@ -3052,7 +3052,7 @@
         "title": "Vitest",
         "category": [
             "Framework",
-            "void(0)"
+            "VoidZero"
         ],
         "route": "/library/vitest.svg",
         "url": "https://vitest.dev/"
@@ -3061,7 +3061,7 @@
         "title": "Oxc",
         "category": [
             "Devtool",
-            "void(0)"
+            "VoidZero"
         ],
         "route": "/library/oxc.svg",
         "url": "https://oxc.rs/"
@@ -3070,7 +3070,7 @@
         "title": "Rolldown",
         "category": [
             "Compiler",
-            "void(0)"
+            "VoidZero"
         ],
         "route": "/library/rolldown.svg",
         "url": "https://rolldown.rs/"
