@@ -11,6 +11,7 @@
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=dark&wordmark=true` |
 | React | ![React](https://svgl-badge.vercel.app/api/Library/React?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/React?theme=dark&wordmark=true` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark&wordmark=true` |
+| Tailwind CSS | ![Tailwind CSS](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark&wordmark=true` |
 | YouTube | ![YouTube](https://svgl-badge.vercel.app/api/Google/YouTube?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/YouTube?theme=dark&wordmark=true` |
 | Google | ![Google](https://svgl-badge.vercel.app/api/Google/Google?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/Google?theme=dark&wordmark=true` |
 | MongoDB | ![MongoDB](https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true` |

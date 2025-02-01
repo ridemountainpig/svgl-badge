@@ -59,6 +59,12 @@
         "lightSvg": "spotify_wordmark.svg",
         "darkSvg": "spotify_wordmark.svg"
     },
+    "Tailwind CSS Framework": {
+        "light": "/api/Framework/Tailwind%20CSS?theme=light&wordmark=true",
+        "dark": "/api/Framework/Tailwind%20CSS?theme=dark&wordmark=true",
+        "lightSvg": "tailwindcss-wordmark.svg",
+        "darkSvg": "tailwindcss-wordmark-dark.svg"
+    },
     "YouTube Google": {
         "light": "/api/Google/YouTube?theme=light&wordmark=true",
         "dark": "/api/Google/YouTube?theme=dark&wordmark=true",
