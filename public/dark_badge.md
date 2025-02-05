@@ -12,6 +12,7 @@
 | Ollama | ![Ollama](https://svgl-badge.vercel.app/api/AI/Ollama?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Ollama?theme=dark` |
 | Cisco | ![Cisco](https://svgl-badge.vercel.app/api/Software/Cisco?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Cisco?theme=dark` |
 | Animate | ![Animate](https://svgl-badge.vercel.app/api/Design/Animate?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Animate?theme=dark` |
+| Apollo.io | ![Apollo.io](https://svgl-badge.vercel.app/api/Software/Apollo.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Apollo.io?theme=dark` |
 | Blender | ![Blender](https://svgl-badge.vercel.app/api/Design/Blender?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Blender?theme=dark` |
 | Lua | ![Lua](https://svgl-badge.vercel.app/api/Language/Lua?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Lua?theme=dark` |
 | Mercado Pago | ![Mercado Pago](https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/Mercado%20Pago?theme=dark` |

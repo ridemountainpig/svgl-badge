@@ -65,6 +65,12 @@
         "lightSvg": "animate.svg",
         "darkSvg": "animate.svg"
     },
+    "Apollo.io Software": {
+        "light": "/api/Software/Apollo.io?theme=light",
+        "dark": "/api/Software/Apollo.io?theme=dark",
+        "lightSvg": "apollo.io.svg",
+        "darkSvg": "apollo.io.svg"
+    },
     "Blender Design": {
         "light": "/api/Design/Blender?theme=light",
         "dark": "/api/Design/Blender?theme=dark",
