@@ -11,6 +11,7 @@
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light&wordmark=true` |
 | React | ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/React?theme=light&wordmark=true` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true` |
+| Deno | ![Deno](https://svgl-badge.vercel.app/api/Library/Deno?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/Deno?theme=light&wordmark=true` |
 | Tailwind CSS | ![Tailwind CSS](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light&wordmark=true` |
 | YouTube | ![YouTube](https://svgl-badge.vercel.app/api/Google/YouTube?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/YouTube?theme=light&wordmark=true` |
 | Google | ![Google](https://svgl-badge.vercel.app/api/Google/Google?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/Google?theme=light&wordmark=true` |
@@ -37,7 +38,6 @@
 | Asana | ![Asana](https://svgl-badge.vercel.app/api/Software/Asana?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Asana?theme=light&wordmark=true` |
 | UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=light&wordmark=true` |
 | Tina | ![Tina](https://svgl-badge.vercel.app/api/CMS/Tina?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Tina?theme=light&wordmark=true` |
-| Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true` |
 | Next.js | ![Next.js](https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light&wordmark=true` |
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=light&wordmark=true` |
 | Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=light&wordmark=true` |
@@ -62,3 +62,4 @@
 | Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light&wordmark=true` |
 | DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true` |
 | Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true` |
+| Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true` |

@@ -343,7 +343,12 @@
             "light": "/library/deno.svg",
             "dark": "/library/deno_dark.svg"
         },
-        "url": "https://deno.land/"
+        "wordmark": {
+            "light": "/library/deno_wordmark.svg",
+            "dark": "/library/deno_wordmark_dark.svg"
+        },
+        "brandUrl": "https://deno.com/brand",
+        "url": "https://deno.com/"
     },
     {
         "title": "Gatsby",
@@ -2735,23 +2740,6 @@
         "url": "https://tina.io/"
     },
     {
-        "title": "Vercel",
-        "category": [
-            "Hosting",
-            "Vercel"
-        ],
-        "route": {
-            "light": "/library/vercel.svg",
-            "dark": "/library/vercel_dark.svg"
-        },
-        "wordmark": {
-            "light": "/library/vercel_wordmark.svg",
-            "dark": "/library/vercel_wordmark_dark.svg"
-        },
-        "brandUrl": "https://vercel.com/geist/brands",
-        "url": "https://vercel.com/"
-    },
-    {
         "title": "Next.js",
         "category": [
             "Framework",
@@ -3426,5 +3414,22 @@
             "dark": "/library/base-ui-dark.svg"
         },
         "url": "https://base-ui.com/"
+    },
+    {
+        "title": "Vercel",
+        "category": [
+            "Hosting",
+            "Vercel"
+        ],
+        "route": {
+            "light": "/library/vercel.svg",
+            "dark": "/library/vercel_dark.svg"
+        },
+        "wordmark": {
+            "light": "/library/vercel_wordmark.svg",
+            "dark": "/library/vercel_wordmark_dark.svg"
+        },
+        "brandUrl": "https://vercel.com/geist/brands",
+        "url": "https://vercel.com/"
     }
 ]

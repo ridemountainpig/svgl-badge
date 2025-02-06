@@ -2363,12 +2363,6 @@
         "lightSvg": "tina.svg",
         "darkSvg": "tina.svg"
     },
-    "Vercel Hosting": {
-        "light": "/api/Hosting/Vercel?theme=light",
-        "dark": "/api/Hosting/Vercel?theme=dark",
-        "lightSvg": "vercel.svg",
-        "darkSvg": "vercel_dark.svg"
-    },
     "Next.js Framework": {
         "light": "/api/Framework/Next.js?theme=light",
         "dark": "/api/Framework/Next.js?theme=dark",
@@ -2812,5 +2806,11 @@
         "dark": "/api/Library/Base%20UI?theme=dark",
         "lightSvg": "base-ui.svg",
         "darkSvg": "base-ui-dark.svg"
+    },
+    "Vercel Hosting": {
+        "light": "/api/Hosting/Vercel?theme=light",
+        "dark": "/api/Hosting/Vercel?theme=dark",
+        "lightSvg": "vercel.svg",
+        "darkSvg": "vercel_dark.svg"
     }
 }

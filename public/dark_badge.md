@@ -396,7 +396,6 @@
 | UpLeveled | ![UpLeveled](https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark) | `https://svgl-badge.vercel.app/api/Education/UpLeveled?theme=dark` |
 | Zoom | ![Zoom](https://svgl-badge.vercel.app/api/Software/Zoom?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Zoom?theme=dark` |
 | Tina | ![Tina](https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/Tina?theme=dark` |
-| Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark` |
 | Next.js | ![Next.js](https://svgl-badge.vercel.app/api/Framework/Next.js?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Next.js?theme=dark` |
 | Mistral AI | ![Mistral AI](https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Mistral%20AI?theme=dark` |
 | Hugging Face | ![Hugging Face](https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Hugging%20Face?theme=dark` |
@@ -471,3 +470,4 @@
 | Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=dark` |
 | Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark` |
 | Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark` |
+| Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark` |

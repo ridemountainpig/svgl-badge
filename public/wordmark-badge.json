@@ -59,6 +59,12 @@
         "lightSvg": "spotify_wordmark.svg",
         "darkSvg": "spotify_wordmark.svg"
     },
+    "Deno Library": {
+        "light": "/api/Library/Deno?theme=light&wordmark=true",
+        "dark": "/api/Library/Deno?theme=dark&wordmark=true",
+        "lightSvg": "deno_wordmark.svg",
+        "darkSvg": "deno_wordmark_dark.svg"
+    },
     "Tailwind CSS Framework": {
         "light": "/api/Framework/Tailwind%20CSS?theme=light&wordmark=true",
         "dark": "/api/Framework/Tailwind%20CSS?theme=dark&wordmark=true",
@@ -215,12 +221,6 @@
         "lightSvg": "tina_wordmark.svg",
         "darkSvg": "tina_wordmark.svg"
     },
-    "Vercel Hosting": {
-        "light": "/api/Hosting/Vercel?theme=light&wordmark=true",
-        "dark": "/api/Hosting/Vercel?theme=dark&wordmark=true",
-        "lightSvg": "vercel_wordmark.svg",
-        "darkSvg": "vercel_wordmark_dark.svg"
-    },
     "Next.js Framework": {
         "light": "/api/Framework/Next.js?theme=light&wordmark=true",
         "dark": "/api/Framework/Next.js?theme=dark&wordmark=true",
@@ -364,5 +364,11 @@
         "dark": "/api/Hosting/Dropbox?theme=dark&wordmark=true",
         "lightSvg": "dropbox_wordmark.svg",
         "darkSvg": "dropbox_wordmark_dark.svg"
+    },
+    "Vercel Hosting": {
+        "light": "/api/Hosting/Vercel?theme=light&wordmark=true",
+        "dark": "/api/Hosting/Vercel?theme=dark&wordmark=true",
+        "lightSvg": "vercel_wordmark.svg",
+        "darkSvg": "vercel_wordmark_dark.svg"
     }
 }
