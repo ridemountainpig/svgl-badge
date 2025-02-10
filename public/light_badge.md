@@ -465,6 +465,7 @@
 | dotenvx | ![dotenvx](https://svgl-badge.vercel.app/api/Config/dotenvx?theme=light) | `https://svgl-badge.vercel.app/api/Config/dotenvx?theme=light` |
 | Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light` |
 | Motion | ![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=light) | `https://svgl-badge.vercel.app/api/Library/Motion?theme=light` |
+| Keycloak | ![Keycloak](https://svgl-badge.vercel.app/api/Authentication/Keycloak?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Keycloak?theme=light` |
 | DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light` |
 | Shiki | ![Shiki](https://svgl-badge.vercel.app/api/Library/Shiki?theme=light) | `https://svgl-badge.vercel.app/api/Library/Shiki?theme=light` |
 | Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light` |

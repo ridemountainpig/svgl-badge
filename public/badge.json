@@ -2777,6 +2777,12 @@
         "lightSvg": "motion.svg",
         "darkSvg": "motion_dark.svg"
     },
+    "Keycloak Authentication": {
+        "light": "/api/Authentication/Keycloak?theme=light",
+        "dark": "/api/Authentication/Keycloak?theme=dark",
+        "lightSvg": "keycloak.svg",
+        "darkSvg": "keycloak.svg"
+    },
     "DeepSeek AI": {
         "light": "/api/AI/DeepSeek?theme=light",
         "dark": "/api/AI/DeepSeek?theme=dark",
