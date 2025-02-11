@@ -472,3 +472,4 @@
 | Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=light` |
 | Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=light` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light` |
+| Socket.io | ![Socket.io](https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light` |

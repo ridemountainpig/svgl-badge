@@ -2818,5 +2818,11 @@
         "dark": "/api/Hosting/Vercel?theme=dark",
         "lightSvg": "vercel.svg",
         "darkSvg": "vercel_dark.svg"
+    },
+    "Socket.io Software": {
+        "light": "/api/Software/Socket.io?theme=light",
+        "dark": "/api/Software/Socket.io?theme=dark",
+        "lightSvg": "socketio-light.svg",
+        "darkSvg": "socketio-dark.svg"
     }
 }
