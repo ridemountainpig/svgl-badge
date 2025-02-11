@@ -473,3 +473,4 @@
 | Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=light` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light` |
 | Socket.io | ![Socket.io](https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light` |
+| VSCodium | ![VSCodium](https://svgl-badge.vercel.app/api/Software/VSCodium?theme=light) | `https://svgl-badge.vercel.app/api/Software/VSCodium?theme=light` |

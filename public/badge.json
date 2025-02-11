@@ -2824,5 +2824,11 @@
         "dark": "/api/Software/Socket.io?theme=dark",
         "lightSvg": "socketio-light.svg",
         "darkSvg": "socketio-dark.svg"
+    },
+    "VSCodium Software": {
+        "light": "/api/Software/VSCodium?theme=light",
+        "dark": "/api/Software/VSCodium?theme=dark",
+        "lightSvg": "vscodium.svg",
+        "darkSvg": "vscodium.svg"
     }
 }
