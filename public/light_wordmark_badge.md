@@ -63,3 +63,4 @@
 | DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true` |
 | Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true` |
+| Zen Browser | ![Zen Browser](https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light&wordmark=true` |

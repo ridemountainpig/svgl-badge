@@ -370,5 +370,11 @@
         "dark": "/api/Hosting/Vercel?theme=dark&wordmark=true",
         "lightSvg": "vercel_wordmark.svg",
         "darkSvg": "vercel_wordmark_dark.svg"
+    },
+    "Zen Browser Browser": {
+        "light": "/api/Browser/Zen%20Browser?theme=light&wordmark=true",
+        "dark": "/api/Browser/Zen%20Browser?theme=dark&wordmark=true",
+        "lightSvg": "zen-browser-wordmark-light.svg",
+        "darkSvg": "zen-browser-wordmark-dark.svg"
     }
 }

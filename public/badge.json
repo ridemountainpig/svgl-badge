@@ -2830,5 +2830,11 @@
         "dark": "/api/Software/VSCodium?theme=dark",
         "lightSvg": "vscodium.svg",
         "darkSvg": "vscodium.svg"
+    },
+    "Zen Browser Browser": {
+        "light": "/api/Browser/Zen%20Browser?theme=light",
+        "dark": "/api/Browser/Zen%20Browser?theme=dark",
+        "lightSvg": "zen-browser-light.svg",
+        "darkSvg": "zen-browser-dark.svg"
     }
 }

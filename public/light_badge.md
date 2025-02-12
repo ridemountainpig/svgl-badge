@@ -474,3 +474,4 @@
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light` |
 | Socket.io | ![Socket.io](https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light` |
 | VSCodium | ![VSCodium](https://svgl-badge.vercel.app/api/Software/VSCodium?theme=light) | `https://svgl-badge.vercel.app/api/Software/VSCodium?theme=light` |
+| Zen Browser | ![Zen Browser](https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light) | `https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light` |
