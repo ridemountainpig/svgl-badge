@@ -473,5 +473,6 @@
 | Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark` |
 | Socket.io | ![Socket.io](https://svgl-badge.vercel.app/api/Software/Socket.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Socket.io?theme=dark` |
+| Ant Design | ![Ant Design](https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=dark` |
 | VSCodium | ![VSCodium](https://svgl-badge.vercel.app/api/Software/VSCodium?theme=dark) | `https://svgl-badge.vercel.app/api/Software/VSCodium?theme=dark` |
 | Zen Browser | ![Zen Browser](https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=dark` |

@@ -2825,6 +2825,12 @@
         "lightSvg": "socketio-light.svg",
         "darkSvg": "socketio-dark.svg"
     },
+    "Ant Design Library": {
+        "light": "/api/Library/Ant%20Design?theme=light",
+        "dark": "/api/Library/Ant%20Design?theme=dark",
+        "lightSvg": "ant-design-dark-theme.svg",
+        "darkSvg": "ant-design-dark-theme.svg"
+    },
     "VSCodium Software": {
         "light": "/api/Software/VSCodium?theme=light",
         "dark": "/api/Software/VSCodium?theme=dark",
