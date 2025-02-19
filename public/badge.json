@@ -17,12 +17,6 @@
         "lightSvg": "milanote-light.svg",
         "darkSvg": "milanote-dark.svg"
     },
-    "Inflection AI AI": {
-        "light": "/api/AI/Inflection%20AI?theme=light",
-        "dark": "/api/AI/Inflection%20AI?theme=dark",
-        "lightSvg": "inflectionai_light.svg",
-        "darkSvg": "inflectionai_dark.svg"
-    },
     "Together AI AI": {
         "light": "/api/AI/Together%20AI?theme=light",
         "dark": "/api/AI/Together%20AI?theme=dark",
@@ -1294,12 +1288,6 @@
         "dark": "/api/Browser/DuckDuckGo?theme=dark",
         "lightSvg": "duckduckgo.svg",
         "darkSvg": "duckduckgo.svg"
-    },
-    "Gemini AI": {
-        "light": "/api/AI/Gemini?theme=light",
-        "dark": "/api/AI/Gemini?theme=dark",
-        "lightSvg": "bard.svg",
-        "darkSvg": "bard.svg"
     },
     "Obsidian Software": {
         "light": "/api/Software/Obsidian?theme=light",
@@ -2765,12 +2753,6 @@
         "lightSvg": "dotenvx.svg",
         "darkSvg": "dotenvx.svg"
     },
-    "Apache Kafka Software": {
-        "light": "/api/Software/Apache%20Kafka?theme=light",
-        "dark": "/api/Software/Apache%20Kafka?theme=dark",
-        "lightSvg": "apache-kafka.svg",
-        "darkSvg": "apache-kafka.svg"
-    },
     "Motion Library": {
         "light": "/api/Library/Motion?theme=light",
         "dark": "/api/Library/Motion?theme=dark",
@@ -2842,5 +2824,29 @@
         "dark": "/api/Browser/Zen%20Browser?theme=dark",
         "lightSvg": "zen-browser-light.svg",
         "darkSvg": "zen-browser-dark.svg"
+    },
+    "Gemini AI": {
+        "light": "/api/AI/Gemini?theme=light",
+        "dark": "/api/AI/Gemini?theme=dark",
+        "lightSvg": "gemini.svg",
+        "darkSvg": "gemini.svg"
+    },
+    "xAI (Grok) AI": {
+        "light": "/api/AI/xAI%20%28Grok%29?theme=light",
+        "dark": "/api/AI/xAI%20%28Grok%29?theme=dark",
+        "lightSvg": "xai_light.svg",
+        "darkSvg": "xai_dark.svg"
+    },
+    "Qwen AI": {
+        "light": "/api/AI/Qwen?theme=light",
+        "dark": "/api/AI/Qwen?theme=dark",
+        "lightSvg": "qwen_light.svg",
+        "darkSvg": "qwen_dark.svg"
+    },
+    "Inflection AI AI": {
+        "light": "/api/AI/Inflection%20AI?theme=light",
+        "dark": "/api/AI/Inflection%20AI?theme=dark",
+        "lightSvg": "inflectionai_light.svg",
+        "darkSvg": "inflectionai_dark.svg"
     }
 }

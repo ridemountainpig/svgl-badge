@@ -4,7 +4,6 @@
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark` |
 | Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark` |
-| Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark` |
 | Together AI | ![Together AI](https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=dark` |
 | Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=dark` |
 | Groq | ![Groq](https://svgl-badge.vercel.app/api/AI/Groq?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Groq?theme=dark` |
@@ -218,7 +217,6 @@
 | Tauri | ![Tauri](https://svgl-badge.vercel.app/api/Library/Tauri?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Tauri?theme=dark` |
 | WebKit | ![WebKit](https://svgl-badge.vercel.app/api/Software/WebKit?theme=dark) | `https://svgl-badge.vercel.app/api/Software/WebKit?theme=dark` |
 | DuckDuckGo | ![DuckDuckGo](https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark` |
-| Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark` |
 | Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/Software/Obsidian?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Obsidian?theme=dark` |
 | Zod | ![Zod](https://svgl-badge.vercel.app/api/Library/Zod?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Zod?theme=dark` |
 | Dreamweaver | ![Dreamweaver](https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=dark` |
@@ -463,7 +461,6 @@
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark` |
 | dotenv | ![dotenv](https://svgl-badge.vercel.app/api/Config/dotenv?theme=dark) | `https://svgl-badge.vercel.app/api/Config/dotenv?theme=dark` |
 | dotenvx | ![dotenvx](https://svgl-badge.vercel.app/api/Config/dotenvx?theme=dark) | `https://svgl-badge.vercel.app/api/Config/dotenvx?theme=dark` |
-| Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=dark` |
 | Motion | ![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Motion?theme=dark` |
 | Keycloak | ![Keycloak](https://svgl-badge.vercel.app/api/Authentication/Keycloak?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Keycloak?theme=dark` |
 | DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=dark) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=dark` |
@@ -476,3 +473,7 @@
 | Ant Design | ![Ant Design](https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=dark` |
 | VSCodium | ![VSCodium](https://svgl-badge.vercel.app/api/Software/VSCodium?theme=dark) | `https://svgl-badge.vercel.app/api/Software/VSCodium?theme=dark` |
 | Zen Browser | ![Zen Browser](https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=dark` |
+| Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark` |
+| xAI (Grok) | ![xAI (Grok)](https://svgl-badge.vercel.app/api/AI/xAI%20%28Grok%29?theme=dark) | `https://svgl-badge.vercel.app/api/AI/xAI%20%28Grok%29?theme=dark` |
+| Qwen | ![Qwen](https://svgl-badge.vercel.app/api/AI/Qwen?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Qwen?theme=dark` |
+| Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark` |

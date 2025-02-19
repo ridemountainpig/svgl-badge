@@ -59,8 +59,9 @@
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true` |
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true` |
-| Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Apache%20Kafka?theme=light&wordmark=true` |
 | DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true` |
 | Dropbox | ![Dropbox](https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Dropbox?theme=light&wordmark=true` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light&wordmark=true` |
 | Zen Browser | ![Zen Browser](https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light&wordmark=true` |
+| Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=light&wordmark=true` |
+| Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light&wordmark=true` |
