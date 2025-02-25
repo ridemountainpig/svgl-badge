@@ -137,6 +137,12 @@
         "lightSvg": "shopify-wordmark-light.svg",
         "darkSvg": "shopify-wordmark-dark.svg"
     },
+    "Webflow CMS": {
+        "light": "/api/CMS/Webflow?theme=light&wordmark=true",
+        "dark": "/api/CMS/Webflow?theme=dark&wordmark=true",
+        "lightSvg": "webflow-wordmark-light.svg",
+        "darkSvg": "webflow-wordmark-dark.svg"
+    },
     "Airbnb Software": {
         "light": "/api/Software/Airbnb?theme=light&wordmark=true",
         "dark": "/api/Software/Airbnb?theme=dark&wordmark=true",
@@ -382,5 +388,11 @@
         "dark": "/api/AI/Inflection%20AI?theme=dark&wordmark=true",
         "lightSvg": "inflectionai_wordmark_light.svg",
         "darkSvg": "inflectionai_wordmark_dark.svg"
+    },
+    "Anthropic AI": {
+        "light": "/api/AI/Anthropic?theme=light&wordmark=true",
+        "dark": "/api/AI/Anthropic?theme=dark&wordmark=true",
+        "lightSvg": "anthropic_black_wordmark.svg",
+        "darkSvg": "anthropic_white_wordmark.svg"
     }
 }

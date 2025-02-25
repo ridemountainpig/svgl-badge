@@ -1931,9 +1931,9 @@
         "lightSvg": "shopify.svg",
         "darkSvg": "shopify.svg"
     },
-    "WebFlow CMS": {
-        "light": "/api/CMS/WebFlow?theme=light",
-        "dark": "/api/CMS/WebFlow?theme=dark",
+    "Webflow CMS": {
+        "light": "/api/CMS/Webflow?theme=light",
+        "dark": "/api/CMS/Webflow?theme=dark",
         "lightSvg": "webflow.svg",
         "darkSvg": "webflow.svg"
     },
@@ -2848,5 +2848,17 @@
         "dark": "/api/AI/Inflection%20AI?theme=dark",
         "lightSvg": "inflectionai_light.svg",
         "darkSvg": "inflectionai_dark.svg"
+    },
+    "D3.js Library": {
+        "light": "/api/Library/D3.js?theme=light",
+        "dark": "/api/Library/D3.js?theme=dark",
+        "lightSvg": "D3.svg",
+        "darkSvg": "D3.svg"
+    },
+    "Anthropic AI": {
+        "light": "/api/AI/Anthropic?theme=light",
+        "dark": "/api/AI/Anthropic?theme=dark",
+        "lightSvg": "anthropic_black.svg",
+        "darkSvg": "anthropic_white.svg"
     }
 }

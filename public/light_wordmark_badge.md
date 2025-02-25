@@ -24,6 +24,7 @@
 | Zeabur | ![Zeabur](https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Hosting/Zeabur?theme=light&wordmark=true` |
 | Monkeytype | ![Monkeytype](https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light&wordmark=true` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true` |
+| Webflow | ![Webflow](https://svgl-badge.vercel.app/api/CMS/Webflow?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Webflow?theme=light&wordmark=true` |
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true` |
@@ -65,3 +66,4 @@
 | Zen Browser | ![Zen Browser](https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Browser/Zen%20Browser?theme=light&wordmark=true` |
 | Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=light&wordmark=true` |
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light&wordmark=true` |
+| Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light&wordmark=true` |

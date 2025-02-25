@@ -324,7 +324,7 @@
 | Monkeytype | ![Monkeytype](https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=dark` |
 | PyCharm | ![PyCharm](https://svgl-badge.vercel.app/api/Software/PyCharm?theme=dark) | `https://svgl-badge.vercel.app/api/Software/PyCharm?theme=dark` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=dark` |
-| WebFlow | ![WebFlow](https://svgl-badge.vercel.app/api/CMS/WebFlow?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/WebFlow?theme=dark` |
+| Webflow | ![Webflow](https://svgl-badge.vercel.app/api/CMS/Webflow?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/Webflow?theme=dark` |
 | Sanity | ![Sanity](https://svgl-badge.vercel.app/api/CMS/Sanity?theme=dark) | `https://svgl-badge.vercel.app/api/CMS/Sanity?theme=dark` |
 | sky | ![sky](https://svgl-badge.vercel.app/api/Entertainment/sky?theme=dark) | `https://svgl-badge.vercel.app/api/Entertainment/sky?theme=dark` |
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=dark` |
@@ -477,3 +477,5 @@
 | xAI (Grok) | ![xAI (Grok)](https://svgl-badge.vercel.app/api/AI/xAI%20%28Grok%29?theme=dark) | `https://svgl-badge.vercel.app/api/AI/xAI%20%28Grok%29?theme=dark` |
 | Qwen | ![Qwen](https://svgl-badge.vercel.app/api/AI/Qwen?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Qwen?theme=dark` |
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark` |
+| D3.js | ![D3.js](https://svgl-badge.vercel.app/api/Library/D3.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/D3.js?theme=dark` |
+| Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark` |
