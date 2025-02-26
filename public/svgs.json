@@ -3515,5 +3515,22 @@
             "dark": "/library/anthropic_white_wordmark.svg"
         },
         "url": "https://www.anthropic.com/"
+    },
+    {
+        "title": "Replit",
+        "category": "Software",
+        "route": "/library/replit.svg",
+        "wordmark": {
+            "light": "/library/replit-wordmark-light.svg",
+            "dark": "/library/replit-wordmark-dark.svg"
+        },
+        "url": "https://replit.com/",
+        "brandUrl": "https://replit.com/brandkit"
+    },
+    {
+        "title": "Magic UI",
+        "category": "Library",
+        "route": "/library/magicui.svg",
+        "url": "https://magicui.design/"
     }
 ]

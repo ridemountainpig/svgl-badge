@@ -394,5 +394,11 @@
         "dark": "/api/AI/Anthropic?theme=dark&wordmark=true",
         "lightSvg": "anthropic_black_wordmark.svg",
         "darkSvg": "anthropic_white_wordmark.svg"
+    },
+    "Replit Software": {
+        "light": "/api/Software/Replit?theme=light&wordmark=true",
+        "dark": "/api/Software/Replit?theme=dark&wordmark=true",
+        "lightSvg": "replit-wordmark-light.svg",
+        "darkSvg": "replit-wordmark-dark.svg"
     }
 }

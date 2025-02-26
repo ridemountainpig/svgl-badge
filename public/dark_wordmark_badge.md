@@ -67,3 +67,4 @@
 | Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark&wordmark=true` |
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark&wordmark=true` |
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark&wordmark=true` |
+| Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=dark&wordmark=true` |

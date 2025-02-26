@@ -2860,5 +2860,17 @@
         "dark": "/api/AI/Anthropic?theme=dark",
         "lightSvg": "anthropic_black.svg",
         "darkSvg": "anthropic_white.svg"
+    },
+    "Replit Software": {
+        "light": "/api/Software/Replit?theme=light",
+        "dark": "/api/Software/Replit?theme=dark",
+        "lightSvg": "replit.svg",
+        "darkSvg": "replit.svg"
+    },
+    "Magic UI Library": {
+        "light": "/api/Library/Magic%20UI?theme=light",
+        "dark": "/api/Library/Magic%20UI?theme=dark",
+        "lightSvg": "magicui.svg",
+        "darkSvg": "magicui.svg"
     }
 }

@@ -479,3 +479,5 @@
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark` |
 | D3.js | ![D3.js](https://svgl-badge.vercel.app/api/Library/D3.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/D3.js?theme=dark` |
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark` |
+| Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=dark` |
+| Magic UI | ![Magic UI](https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=dark` |
