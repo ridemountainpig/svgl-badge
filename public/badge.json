@@ -2471,12 +2471,6 @@
         "lightSvg": "ygeeker.svg",
         "darkSvg": "ygeeker.svg"
     },
-    "Web components Library": {
-        "light": "/api/Library/Web%20components?theme=light",
-        "dark": "/api/Library/Web%20components?theme=dark",
-        "lightSvg": "webcomponents.svg",
-        "darkSvg": "webcomponents.svg"
-    },
     "PostCSS Compiler": {
         "light": "/api/Compiler/PostCSS?theme=light",
         "dark": "/api/Compiler/PostCSS?theme=dark",
@@ -2872,5 +2866,11 @@
         "dark": "/api/Library/Magic%20UI?theme=dark",
         "lightSvg": "magicui.svg",
         "darkSvg": "magicui.svg"
+    },
+    "Web Components Library": {
+        "light": "/api/Library/Web%20Components?theme=light",
+        "dark": "/api/Library/Web%20Components?theme=dark",
+        "lightSvg": "webcomponents.svg",
+        "darkSvg": "webcomponents.svg"
     }
 }

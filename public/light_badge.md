@@ -414,7 +414,6 @@
 | T3 Stack | ![T3 Stack](https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light) | `https://svgl-badge.vercel.app/api/Framework/T3%20Stack?theme=light` |
 | Apple Music | ![Apple Music](https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light) | `https://svgl-badge.vercel.app/api/Music/Apple%20Music?theme=light` |
 | YGeeker | ![YGeeker](https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light) | `https://svgl-badge.vercel.app/api/Software/YGeeker?theme=light` |
-| Web components | ![Web components](https://svgl-badge.vercel.app/api/Library/Web%20components?theme=light) | `https://svgl-badge.vercel.app/api/Library/Web%20components?theme=light` |
 | PostCSS | ![PostCSS](https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/PostCSS?theme=light` |
 | SVG | ![SVG](https://svgl-badge.vercel.app/api/Design/SVG?theme=light) | `https://svgl-badge.vercel.app/api/Design/SVG?theme=light` |
 | Todoist | ![Todoist](https://svgl-badge.vercel.app/api/Software/Todoist?theme=light) | `https://svgl-badge.vercel.app/api/Software/Todoist?theme=light` |
@@ -481,3 +480,4 @@
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light` |
 | Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=light) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=light` |
 | Magic UI | ![Magic UI](https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=light` |
+| Web Components | ![Web Components](https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=light) | `https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=light` |
