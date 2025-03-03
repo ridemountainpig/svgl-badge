@@ -1,4 +1,10 @@
 {
+    "daisyUI Library": {
+        "light": "/api/Library/daisyUI?theme=light",
+        "dark": "/api/Library/daisyUI?theme=dark",
+        "lightSvg": "daisyui.svg",
+        "darkSvg": "daisyui.svg"
+    },
     "PayPal Payment": {
         "light": "/api/Payment/PayPal?theme=light",
         "dark": "/api/Payment/PayPal?theme=dark",
