@@ -2884,5 +2884,11 @@
         "dark": "/api/Library/Web%20Components?theme=dark",
         "lightSvg": "webcomponents.svg",
         "darkSvg": "webcomponents.svg"
+    },
+    "Designali Design": {
+        "light": "/api/Design/Designali?theme=light",
+        "dark": "/api/Design/Designali?theme=dark",
+        "lightSvg": "designali.svg",
+        "darkSvg": "designali-dark.svg"
     }
 }

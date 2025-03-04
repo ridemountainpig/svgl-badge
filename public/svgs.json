@@ -3544,5 +3544,17 @@
         "category": "Library",
         "route": "/library/webcomponents.svg",
         "url": "https://www.webcomponents.org/"
+    },
+    {
+        "title": "Designali",
+        "category": [
+            "Design",
+            "Software"
+        ],
+        "route": {
+            "light": "/library/designali.svg",
+            "dark": "/library/designali-dark.svg"
+        },
+        "url": "https://designali.in"
     }
 ]

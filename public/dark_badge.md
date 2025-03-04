@@ -483,3 +483,4 @@
 | Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=dark` |
 | Magic UI | ![Magic UI](https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=dark` |
 | Web Components | ![Web Components](https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=dark` |
+| Designali | ![Designali](https://svgl-badge.vercel.app/api/Design/Designali?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Designali?theme=dark` |
