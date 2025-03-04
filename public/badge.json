@@ -2723,6 +2723,12 @@
         "lightSvg": "posthog.svg",
         "darkSvg": "posthog.svg"
     },
+    "PowerToys Software": {
+        "light": "/api/Software/PowerToys?theme=light",
+        "dark": "/api/Software/PowerToys?theme=dark",
+        "lightSvg": "powertoys.svg",
+        "darkSvg": "powertoys.svg"
+    },
     "Lottielab Design": {
         "light": "/api/Design/Lottielab?theme=light",
         "dark": "/api/Design/Lottielab?theme=dark",
