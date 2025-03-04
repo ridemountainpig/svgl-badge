@@ -452,7 +452,7 @@
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light) | `https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light` |
 | Mermaid | ![Mermaid](https://svgl-badge.vercel.app/api/Library/Mermaid?theme=light) | `https://svgl-badge.vercel.app/api/Library/Mermaid?theme=light` |
-| Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light` |
+| Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/IoT/Home%20Assistant?theme=light) | `https://svgl-badge.vercel.app/api/IoT/Home%20Assistant?theme=light` |
 | UXAnaRangel | ![UXAnaRangel](https://svgl-badge.vercel.app/api/Community/UXAnaRangel?theme=light) | `https://svgl-badge.vercel.app/api/Community/UXAnaRangel?theme=light` |
 | UXCorpRangel | ![UXCorpRangel](https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=light) | `https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=light` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light` |

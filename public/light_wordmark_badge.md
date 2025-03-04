@@ -57,7 +57,7 @@
 | tRPC | ![tRPC](https://svgl-badge.vercel.app/api/Framework/tRPC?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/tRPC?theme=light&wordmark=true` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=light&wordmark=true` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light&wordmark=true` |
-| Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Home%20Automation/Home%20Assistant?theme=light&wordmark=true` |
+| Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/IoT/Home%20Assistant?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/IoT/Home%20Assistant?theme=light&wordmark=true` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=light&wordmark=true` |
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=light&wordmark=true` |
 | DeepSeek | ![DeepSeek](https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/DeepSeek?theme=light&wordmark=true` |
