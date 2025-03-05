@@ -2889,6 +2889,6 @@
         "light": "/api/Design/Designali?theme=light",
         "dark": "/api/Design/Designali?theme=dark",
         "lightSvg": "designali.svg",
-        "darkSvg": "designali-dark.svg"
+        "darkSvg": "designali.svg"
     }
 }
