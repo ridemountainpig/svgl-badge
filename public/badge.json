@@ -2890,5 +2890,11 @@
         "dark": "/api/Design/Designali?theme=dark",
         "lightSvg": "designali.svg",
         "darkSvg": "designali.svg"
+    },
+    "CurseForge Community": {
+        "light": "/api/Community/CurseForge?theme=light",
+        "dark": "/api/Community/CurseForge?theme=dark",
+        "lightSvg": "curseforge.svg",
+        "darkSvg": "curseforge-dark.svg"
     }
 }

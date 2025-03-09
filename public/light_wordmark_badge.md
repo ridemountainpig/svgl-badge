@@ -68,3 +68,4 @@
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light&wordmark=true` |
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light&wordmark=true` |
 | Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=light&wordmark=true` |
+| CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light&wordmark=true` |

@@ -400,5 +400,11 @@
         "dark": "/api/Software/Replit?theme=dark&wordmark=true",
         "lightSvg": "replit-wordmark-light.svg",
         "darkSvg": "replit-wordmark-dark.svg"
+    },
+    "CurseForge Community": {
+        "light": "/api/Community/CurseForge?theme=light&wordmark=true",
+        "dark": "/api/Community/CurseForge?theme=dark&wordmark=true",
+        "lightSvg": "curseforge-wordmark.svg",
+        "darkSvg": "curseforge-wordmark-dark.svg"
     }
 }
