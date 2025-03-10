@@ -406,5 +406,11 @@
         "dark": "/api/Community/CurseForge?theme=dark&wordmark=true",
         "lightSvg": "curseforge-wordmark.svg",
         "darkSvg": "curseforge-wordmark-dark.svg"
+    },
+    "Cursor Software": {
+        "light": "/api/Software/Cursor?theme=light&wordmark=true",
+        "dark": "/api/Software/Cursor?theme=dark&wordmark=true",
+        "lightSvg": "cursor_wordmark_light.svg",
+        "darkSvg": "cursor_wordmark_dark.svg"
     }
 }

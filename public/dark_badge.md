@@ -485,3 +485,4 @@
 | Web Components | ![Web Components](https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=dark` |
 | Designali | ![Designali](https://svgl-badge.vercel.app/api/Design/Designali?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Designali?theme=dark` |
 | CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=dark) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=dark` |
+| Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=dark` |

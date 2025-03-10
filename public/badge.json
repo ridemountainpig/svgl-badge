@@ -2896,5 +2896,11 @@
         "dark": "/api/Community/CurseForge?theme=dark",
         "lightSvg": "curseforge.svg",
         "darkSvg": "curseforge-dark.svg"
+    },
+    "Cursor Software": {
+        "light": "/api/Software/Cursor?theme=light",
+        "dark": "/api/Software/Cursor?theme=dark",
+        "lightSvg": "cursor_light.svg",
+        "darkSvg": "cursor_dark.svg"
     }
 }

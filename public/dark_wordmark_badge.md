@@ -69,3 +69,4 @@
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark&wordmark=true` |
 | Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=dark&wordmark=true` |
 | CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=dark&wordmark=true` |
+| Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=dark&wordmark=true` |
