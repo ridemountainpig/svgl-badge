@@ -101,6 +101,7 @@
 | GoDaddy | ![GoDaddy](https://svgl-badge.vercel.app/api/Hosting/GoDaddy?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/GoDaddy?theme=light` |
 | Udemy | ![Udemy](https://svgl-badge.vercel.app/api/Education/Udemy?theme=light) | `https://svgl-badge.vercel.app/api/Education/Udemy?theme=light` |
 | GraphQL | ![GraphQL](https://svgl-badge.vercel.app/api/Language/GraphQL?theme=light) | `https://svgl-badge.vercel.app/api/Language/GraphQL?theme=light` |
+| Grok | ![Grok](https://svgl-badge.vercel.app/api/AI/Grok?theme=light) | `https://svgl-badge.vercel.app/api/AI/Grok?theme=light` |
 | GitLab | ![GitLab](https://svgl-badge.vercel.app/api/Software/GitLab?theme=light) | `https://svgl-badge.vercel.app/api/Software/GitLab?theme=light` |
 | Prisma | ![Prisma](https://svgl-badge.vercel.app/api/Software/Prisma?theme=light) | `https://svgl-badge.vercel.app/api/Software/Prisma?theme=light` |
 | Go | ![Go](https://svgl-badge.vercel.app/api/Language/Go?theme=light) | `https://svgl-badge.vercel.app/api/Language/Go?theme=light` |

@@ -599,6 +599,12 @@
         "lightSvg": "graphql.svg",
         "darkSvg": "graphql.svg"
     },
+    "Grok AI": {
+        "light": "/api/AI/Grok?theme=light",
+        "dark": "/api/AI/Grok?theme=dark",
+        "lightSvg": "grok-light.svg",
+        "darkSvg": "grok-dark.svg"
+    },
     "GitLab Software": {
         "light": "/api/Software/GitLab?theme=light",
         "dark": "/api/Software/GitLab?theme=dark",

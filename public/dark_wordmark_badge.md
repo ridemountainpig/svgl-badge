@@ -17,6 +17,7 @@
 | Google | ![Google](https://svgl-badge.vercel.app/api/Google/Google?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/Google?theme=dark&wordmark=true` |
 | MongoDB | ![MongoDB](https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/MongoDB?theme=dark&wordmark=true` |
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true` |
+| Grok | ![Grok](https://svgl-badge.vercel.app/api/AI/Grok?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Grok?theme=dark&wordmark=true` |
 | DuckDuckGo | ![DuckDuckGo](https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark&wordmark=true` |
 | OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark&wordmark=true` |
 | Link | ![Link](https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true` |
