@@ -2908,5 +2908,11 @@
         "dark": "/api/Software/Cursor?theme=dark",
         "lightSvg": "cursor_light.svg",
         "darkSvg": "cursor_dark.svg"
+    },
+    "Ghostty Software": {
+        "light": "/api/Software/Ghostty?theme=light",
+        "dark": "/api/Software/Ghostty?theme=dark",
+        "lightSvg": "ghostty.svg",
+        "darkSvg": "ghostty.svg"
     }
 }

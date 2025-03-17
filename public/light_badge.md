@@ -487,3 +487,4 @@
 | Designali | ![Designali](https://svgl-badge.vercel.app/api/Design/Designali?theme=light) | `https://svgl-badge.vercel.app/api/Design/Designali?theme=light` |
 | CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light` |
 | Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=light) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=light` |
+| Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light` |

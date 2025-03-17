@@ -418,5 +418,11 @@
         "dark": "/api/Software/Cursor?theme=dark&wordmark=true",
         "lightSvg": "cursor_wordmark_light.svg",
         "darkSvg": "cursor_wordmark_dark.svg"
+    },
+    "Ghostty Software": {
+        "light": "/api/Software/Ghostty?theme=light&wordmark=true",
+        "dark": "/api/Software/Ghostty?theme=dark&wordmark=true",
+        "lightSvg": "ghostty_wordmark_light.svg",
+        "darkSvg": "ghostty_wordmark_dark.svg"
     }
 }
