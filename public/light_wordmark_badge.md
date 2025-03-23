@@ -72,3 +72,4 @@
 | CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light&wordmark=true` |
 | Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=light&wordmark=true` |
 | Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light&wordmark=true` |
+| Better Auth | ![Better Auth](https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light&wordmark=true` |

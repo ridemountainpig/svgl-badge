@@ -488,3 +488,4 @@
 | CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=light` |
 | Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=light) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=light` |
 | Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light` |
+| Better Auth | ![Better Auth](https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light` |
