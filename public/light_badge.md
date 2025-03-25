@@ -489,3 +489,4 @@
 | Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=light) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=light` |
 | Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light` |
 | Better Auth | ![Better Auth](https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light` |
+| Buy Me a Coffee | ![Buy Me a Coffee](https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=light) | `https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=light` |

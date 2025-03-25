@@ -2920,5 +2920,11 @@
         "dark": "/api/Authentication/Better%20Auth?theme=dark",
         "lightSvg": "better-auth_light.svg",
         "darkSvg": "better-auth_dark.svg"
+    },
+    "Buy Me a Coffee Software": {
+        "light": "/api/Software/Buy%20Me%20a%20Coffee?theme=light",
+        "dark": "/api/Software/Buy%20Me%20a%20Coffee?theme=dark",
+        "lightSvg": "bmc.svg",
+        "darkSvg": "bmc.svg"
     }
 }
