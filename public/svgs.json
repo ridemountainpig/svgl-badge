@@ -107,7 +107,8 @@
             "Software"
         ],
         "route": "/library/blender.svg",
-        "url": "https://blender.org/"
+        "url": "https://blender.org/",
+        "brandUrl": "https://www.blender.org/about/logo/"
     },
     {
         "title": "Lua",
@@ -145,7 +146,8 @@
         "title": "Discord",
         "category": "Software",
         "route": "/library/discord.svg",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/",
+        "brandUrl": "https://discord.com/branding"
     },
     {
         "title": "Aliexpress",
@@ -161,7 +163,8 @@
             "light": "/library/github-light.svg",
             "dark": "/library/github-dark.svg"
         },
-        "url": "https://github.com/"
+        "url": "https://github.com/",
+        "brandUrl": "https://brand.github.com/"
     },
     {
         "title": "Preact",
@@ -198,19 +201,22 @@
         "title": "Vuetify",
         "category": "Library",
         "route": "/library/vuetify.svg",
-        "url": "https://vuetifyjs.com/"
+        "url": "https://vuetifyjs.com/",
+        "brandUrl": "https://vuetifyjs.com/en/resources/brand-kit/"
     },
     {
         "title": "Nuxt",
         "category": "Framework",
         "route": "/library/nuxt.svg",
-        "url": "https://nuxtjs.org/"
+        "url": "https://nuxtjs.org/",
+        "brandUrl": "https://nuxt.com/design-kit"
     },
     {
         "title": "Visual Studio Code",
         "category": "Software",
         "route": "/library/vscode.svg",
-        "url": "https://code.visualstudio.com/"
+        "url": "https://code.visualstudio.com/",
+        "brandUrl": "https://code.visualstudio.com/brand"
     },
     {
         "title": "Ton",
@@ -249,13 +255,15 @@
         "title": "Strapi",
         "category": "CMS",
         "route": "/library/strapi.svg",
-        "url": "https://strapi.io/"
+        "url": "https://strapi.io/",
+        "brandUrl": "https://handbook.strapi.io/strapi-brand-book-2022"
     },
     {
         "title": "Figma",
         "category": "Design",
         "route": "/library/figma.svg",
-        "url": "https://www.figma.com/"
+        "url": "https://www.figma.com/",
+        "brandUrl": "https://www.figma.com/using-the-figma-brand/"
     },
     {
         "title": "Spotify",
@@ -313,13 +321,15 @@
         "title": "Bootstrap",
         "category": "Framework",
         "route": "/library/bootstrap.svg",
-        "url": "https://getbootstrap.com/"
+        "url": "https://getbootstrap.com/",
+        "brandUrl": "https://getbootstrap.com/docs/4.0/about/brand/"
     },
     {
         "title": "Facebook",
         "category": "Social",
         "route": "/library/facebook.svg",
-        "url": "https://www.facebook.com/"
+        "url": "https://www.facebook.com/",
+        "brandUrl": "https://about.meta.com/brand/resources/facebook/logo/"
     },
     {
         "title": "Twitter",
@@ -402,7 +412,8 @@
         "title": "Angular",
         "category": "Framework",
         "route": "/library/angular.svg",
-        "url": "https://angular.dev/"
+        "url": "https://angular.dev/",
+        "brandUrl": "https://angular.dev/press-kit"
     },
     {
         "title": "Blitz",
@@ -439,7 +450,8 @@
             "light": "/library/astro.svg",
             "dark": "/library/astro_dark.svg"
         },
-        "url": "https://astro.build/"
+        "url": "https://astro.build/",
+        "brandUrl": "https://astro.build/press/"
     },
     {
         "title": "Google",
@@ -461,19 +473,22 @@
         "title": "Netflix",
         "category": "Entertainment",
         "route": "/library/netflix.svg",
-        "url": "https://www.netflix.com/"
+        "url": "https://www.netflix.com/",
+        "brandUrl": "https://brand.netflix.com/en/assets/logos"
     },
     {
         "title": "Firefox",
         "category": "Browser",
         "route": "/library/firefox.svg",
-        "url": "https://www.mozilla.org/en-US/firefox/"
+        "url": "https://www.mozilla.org/en-US/firefox/",
+        "brandUrl": "https://mozilla.design/firefox/"
     },
     {
         "title": "LinkedIn",
         "category": "Social",
         "route": "/library/linkedin.svg",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/",
+        "brandUrl": "https://brand.linkedin.com/"
     },
     {
         "title": "Telegram",
@@ -522,7 +537,8 @@
         "category": "Database",
         "route": "/library/mongodb.svg",
         "wordmark": "/library/mongodb-wordmark.svg",
-        "url": "https://www.mongodb.com/"
+        "url": "https://www.mongodb.com/",
+        "brandUrl": "https://www.mongodb.com/company/newsroom/brand-resources"
     },
     {
         "title": "Moon",
@@ -543,7 +559,8 @@
         "title": "Fly",
         "category": "Hosting",
         "route": "/library/fly.svg",
-        "url": "https://fly.io"
+        "url": "https://fly.io",
+        "brandUrl": "https://fly.io/docs/about/brand/"
     },
     {
         "title": "LearnThis",
@@ -612,7 +629,8 @@
         "title": "Bun",
         "category": "Library",
         "route": "/library/bun.svg",
-        "url": "https://bun.sh"
+        "url": "https://bun.sh",
+        "brandUrl": "https://bun.sh/press-kit"
     },
     {
         "title": "BuildShip",
@@ -797,7 +815,8 @@
         "title": "Docker",
         "category": "Software",
         "route": "/library/docker.svg",
-        "url": "https://www.docker.com/"
+        "url": "https://www.docker.com/",
+        "brandUrl": "https://www.docker.com/company/newsroom/media-resources/"
     },
     {
         "title": "Amazon Web Services",
@@ -824,7 +843,8 @@
         "title": "JetBrains",
         "category": "Software",
         "route": "/library/jetbrains.svg",
-        "url": "https://www.jetbrains.com/"
+        "url": "https://www.jetbrains.com/",
+        "brandUrl": "https://www.jetbrains.com/company/brand/"
     },
     {
         "title": "JetBrains Rider",
@@ -875,7 +895,8 @@
         "title": "Flutter",
         "category": "Framework",
         "route": "/library/flutter.svg",
-        "url": "https://flutter.dev/"
+        "url": "https://flutter.dev/",
+        "brandUrl": "https://flutter.dev/brand"
     },
     {
         "title": "Auth0",
@@ -1118,7 +1139,8 @@
         "title": "Brave Browser",
         "category": "Browser",
         "route": "/library/brave.svg",
-        "url": "https://brave.com/"
+        "url": "https://brave.com/",
+        "brandUrl": "https://brave.com/brave-branding-assets/"
     },
     {
         "title": "Eclipse IDE",
@@ -1238,7 +1260,8 @@
         "title": "Upstash",
         "category": "Database",
         "route": "/library/upstash.svg",
-        "url": "https://upstash.com/"
+        "url": "https://upstash.com/",
+        "brandUrl": "https://upstash.com/brand"
     },
     {
         "title": "Storyblok",
@@ -1340,7 +1363,8 @@
             "Software"
         ],
         "route": "/library/wordpress.svg",
-        "url": "https://wordpress.org/"
+        "url": "https://wordpress.org/",
+        "brandUrl": "https://wordpress.org/about/logos/"
     },
     {
         "title": "Microsoft",
@@ -1494,7 +1518,8 @@
         "title": "Obsidian",
         "category": "Software",
         "route": "/library/obsidian.svg",
-        "url": "https://obsidian.md/"
+        "url": "https://obsidian.md/",
+        "brandUrl": "https://obsidian.md/brand"
     },
     {
         "title": "Zod",
@@ -1519,7 +1544,8 @@
             "light": "/library/openai_wordmark_light.svg",
             "dark": "/library/openai_wordmark_dark.svg"
         },
-        "url": "https://openai.com/"
+        "url": "https://openai.com/",
+        "brandUrl": "https://openai.com/brand/"
     },
     {
         "title": "Threads",
@@ -1537,7 +1563,8 @@
             "light": "/library/instagram.svg",
             "dark": "/library/instagram_dark.svg"
         },
-        "url": "https://www.instagram.com/"
+        "url": "https://www.instagram.com/",
+        "brandUrl": "https://about.instagram.com/brand"
     },
     {
         "title": "VueUse",
@@ -1679,7 +1706,8 @@
             "light": "/library/x.svg",
             "dark": "/library/x_dark.svg"
         },
-        "url": "https://x.com"
+        "url": "https://x.com",
+        "brandUrl": "https://about.x.com/en/who-we-are/brand-toolkit"
     },
     {
         "title": "Adobe",
@@ -1739,19 +1767,22 @@
         "title": "Hoppscotch",
         "category": "Software",
         "route": "/library/hoppscotch.svg",
-        "url": "https://hoppscotch.com"
+        "url": "https://hoppscotch.com",
+        "brandUrl": "https://hoppscotch.com/brand"
     },
     {
         "title": "Opera",
         "category": "Browser",
         "route": "/library/opera.svg",
-        "url": "https://www.opera.com"
+        "url": "https://www.opera.com",
+        "brandUrl": "https://brand.opera.com/"
     },
     {
         "title": "Salesforce",
         "category": "Software",
         "route": "/library/salesforce.svg",
-        "url": "https://www.salesforce.com"
+        "url": "https://www.salesforce.com",
+        "brandUrl": "https://brand.salesforce.com/"
     },
     {
         "title": "Unreal Engine",
@@ -1880,7 +1911,8 @@
             "light": "/library/cal.svg",
             "dark": "/library/cal_dark.svg"
         },
-        "url": "https://cal.com"
+        "url": "https://cal.com",
+        "brandUrl": "https://design.cal.com/"
     },
     {
         "title": "Calendly",
@@ -2049,7 +2081,8 @@
         "title": "Django",
         "category": "Framework",
         "route": "/library/django.svg",
-        "url": "https://www.djangoproject.com/"
+        "url": "https://www.djangoproject.com/",
+        "brandUrl": "https://www.djangoproject.com/community/logos/"
     },
     {
         "title": "Zeabur",
@@ -2155,7 +2188,8 @@
         "title": "Ubuntu",
         "category": "Software",
         "route": "/library/ubuntu.svg",
-        "url": "https://ubuntu.com/"
+        "url": "https://ubuntu.com/",
+        "brandUrl": "https://design.ubuntu.com/brand"
     },
     {
         "title": "Cypress",
@@ -2167,7 +2201,8 @@
         "title": "Reddit",
         "category": "Social",
         "route": "/library/reddit.svg",
-        "url": "https://www.reddit.com/"
+        "url": "https://www.reddit.com/",
+        "brandUrl": "https://redditinc.com/brand"
     },
     {
         "title": "JetBrains WebStorm",
@@ -2223,7 +2258,8 @@
             "dark": "/library/shopify-wordmark-dark.svg",
             "light": "/library/shopify-wordmark-light.svg"
         },
-        "url": "https://www.shopify.com"
+        "url": "https://www.shopify.com",
+        "brandUrl": "https://www.shopify.com/brand-assets"
     },
     {
         "title": "Webflow",
@@ -2262,7 +2298,8 @@
             "light": "/library/uber_light.svg",
             "dark": "/library/uber_dark.svg"
         },
-        "url": "https://www.uber.com"
+        "url": "https://www.uber.com",
+        "brandUrl": "https://brand.uber.com/"
     },
     {
         "title": "Gmail",
@@ -2490,7 +2527,8 @@
             "Software"
         ],
         "route": "/library/bitwarden.svg",
-        "url": "https://bitwarden.com/"
+        "url": "https://bitwarden.com/",
+        "brandUrl": "https://bitwarden.com/brand/"
     },
     {
         "title": "Voicemod",
@@ -2529,7 +2567,8 @@
         "title": "Meta",
         "category": "Social",
         "route": "/library/meta.svg",
-        "url": "https://about.meta.com/es/"
+        "url": "https://about.meta.com/es/",
+        "brandUrl": "https://about.meta.com/brand/resources/"
     },
     {
         "title": "Stability AI",
@@ -2556,7 +2595,8 @@
         "title": "Sentry",
         "category": "Software",
         "route": "/library/sentry.svg",
-        "url": "https://sentry.io/"
+        "url": "https://sentry.io/",
+        "brandUrl": "https://sentry.io/branding/"
     },
     {
         "title": "Grafana",
@@ -2692,7 +2732,8 @@
         "category": "Software",
         "route": "/library/stackoverflow.svg",
         "wordmark": "/library/stackoverflow_wordmark.svg",
-        "url": "https://stackoverflow.com/"
+        "url": "https://stackoverflow.com/",
+        "brandUrl": "https://stackoverflow.design/brand/"
     },
     {
         "title": "TikTok",
@@ -2769,13 +2810,15 @@
         "title": "Hugging Face",
         "category": "AI",
         "route": "/library/hugging_face.svg",
-        "url": "https://huggingface.co/"
+        "url": "https://huggingface.co/",
+        "brandUrl": "https://huggingface.co/brand"
     },
     {
         "title": "Node.js",
         "category": "Library",
         "route": "/library/nodejs.svg",
-        "url": "https://nodejs.org/"
+        "url": "https://nodejs.org/",
+        "brandUrl": "https://nodejs.org/en/about/branding"
     },
     {
         "title": "Raindrop.io",
@@ -2797,7 +2840,8 @@
         "wordmark": {
             "light": "/library/supabase_wordmark_light.svg",
             "dark": "/library/supabase_wordmark_dark.svg"
-        }
+        },
+        "brandUrl": "https://supabase.com/brand-assets"
     },
     {
         "title": "Gleam",
@@ -2828,7 +2872,8 @@
         "wordmark": {
             "light": "/library/resend-wordmark-black.svg",
             "dark": "/library/resend-wordmark-white.svg"
-        }
+        },
+        "brandUrl": "https://resend.com/brand"
     },
     {
         "title": "Layers",
@@ -2862,7 +2907,8 @@
             "light": "/library/dub_light_wordmark.svg",
             "dark": "/library/dub_dark_wordmark.svg"
         },
-        "url": "https://dub.co"
+        "url": "https://dub.co",
+        "brandUrl": "https://dub.co/brand"
     },
     {
         "title": "Turso",
@@ -3301,7 +3347,8 @@
             "light": "/library/posthog-wordmark.svg",
             "dark": "/library/posthog-wordmark_dark.svg"
         },
-        "url": "https://posthog.com/"
+        "url": "https://posthog.com/",
+        "brandUrl": "https://posthog.com/handbook/company/brand-assets"
     },
     {
         "title": "PowerToys",
@@ -3399,7 +3446,8 @@
             "light": "/library/dropbox_wordmark.svg",
             "dark": "/library/dropbox_wordmark_dark.svg"
         },
-        "url": "https://www.dropbox.com/"
+        "url": "https://www.dropbox.com/",
+        "brandUrl": "https://brand.dropbox.com/"
     },
     {
         "title": "Open WebUI",
