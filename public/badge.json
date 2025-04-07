@@ -1,4 +1,10 @@
 {
+    "Windsurf Software": {
+        "light": "/api/Software/Windsurf?theme=light",
+        "dark": "/api/Software/Windsurf?theme=dark",
+        "lightSvg": "windsurf-logo.svg",
+        "darkSvg": "windsurf-logo.svg"
+    },
     "daisyUI Library": {
         "light": "/api/Library/daisyUI?theme=light",
         "dark": "/api/Library/daisyUI?theme=dark",
