@@ -119,12 +119,6 @@
         "lightSvg": "aliexpress-icon.svg",
         "darkSvg": "aliexpress-icon.svg"
     },
-    "Github Software": {
-        "light": "/api/Software/Github?theme=light",
-        "dark": "/api/Software/Github?theme=dark",
-        "lightSvg": "github-light.svg",
-        "darkSvg": "github-dark.svg"
-    },
     "Preact Library": {
         "light": "/api/Library/Preact?theme=light",
         "dark": "/api/Library/Preact?theme=dark",
@@ -2932,5 +2926,11 @@
         "dark": "/api/Software/Buy%20Me%20a%20Coffee?theme=dark",
         "lightSvg": "bmc.svg",
         "darkSvg": "bmc.svg"
+    },
+    "GitHub Software": {
+        "light": "/api/Software/GitHub?theme=light",
+        "dark": "/api/Software/GitHub?theme=dark",
+        "lightSvg": "github_light.svg",
+        "darkSvg": "github_dark.svg"
     }
 }

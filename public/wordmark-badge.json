@@ -430,5 +430,11 @@
         "dark": "/api/Authentication/Better%20Auth?theme=dark&wordmark=true",
         "lightSvg": "better-auth_wordmark_light.svg",
         "darkSvg": "better-auth_wordmark_dark.svg"
+    },
+    "GitHub Software": {
+        "light": "/api/Software/GitHub?theme=light&wordmark=true",
+        "dark": "/api/Software/GitHub?theme=dark&wordmark=true",
+        "lightSvg": "github_wordmark_light.svg",
+        "darkSvg": "github_wordmark_dark.svg"
     }
 }

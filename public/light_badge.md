@@ -21,7 +21,6 @@
 | ahooks | ![ahooks](https://svgl-badge.vercel.app/api/Library/ahooks?theme=light) | `https://svgl-badge.vercel.app/api/Library/ahooks?theme=light` |
 | Discord | ![Discord](https://svgl-badge.vercel.app/api/Software/Discord?theme=light) | `https://svgl-badge.vercel.app/api/Software/Discord?theme=light` |
 | Aliexpress | ![Aliexpress](https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light) | `https://svgl-badge.vercel.app/api/Software/Aliexpress?theme=light` |
-| Github | ![Github](https://svgl-badge.vercel.app/api/Software/Github?theme=light) | `https://svgl-badge.vercel.app/api/Software/Github?theme=light` |
 | Preact | ![Preact](https://svgl-badge.vercel.app/api/Library/Preact?theme=light) | `https://svgl-badge.vercel.app/api/Library/Preact?theme=light` |
 | React | ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light) | `https://svgl-badge.vercel.app/api/Library/React?theme=light` |
 | Svelte | ![Svelte](https://svgl-badge.vercel.app/api/Library/Svelte?theme=light) | `https://svgl-badge.vercel.app/api/Library/Svelte?theme=light` |
@@ -491,3 +490,4 @@
 | Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=light` |
 | Better Auth | ![Better Auth](https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=light` |
 | Buy Me a Coffee | ![Buy Me a Coffee](https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=light) | `https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=light` |
+| GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=light) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=light` |
