@@ -287,6 +287,12 @@
         "lightSvg": "npm.svg",
         "darkSvg": "npm.svg"
     },
+    "Nuget Software": {
+        "light": "/api/Software/Nuget?theme=light",
+        "dark": "/api/Software/Nuget?theme=dark",
+        "lightSvg": "nuget.svg",
+        "darkSvg": "nuget.svg"
+    },
     "Homebrew Software": {
         "light": "/api/Software/Homebrew?theme=light",
         "dark": "/api/Software/Homebrew?theme=dark",
@@ -1312,6 +1318,12 @@
         "dark": "/api/Library/Zod?theme=dark",
         "lightSvg": "zod.svg",
         "darkSvg": "zod.svg"
+    },
+    "Valibot Library": {
+        "light": "/api/Library/Valibot?theme=light",
+        "dark": "/api/Library/Valibot?theme=dark",
+        "lightSvg": "valibot.svg",
+        "darkSvg": "valibot.svg"
     },
     "Dreamweaver Software": {
         "light": "/api/Software/Dreamweaver?theme=light",

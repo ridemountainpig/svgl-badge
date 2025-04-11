@@ -49,6 +49,7 @@
 | Deno | ![Deno](https://svgl-badge.vercel.app/api/Library/Deno?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Deno?theme=dark` |
 | Gatsby | ![Gatsby](https://svgl-badge.vercel.app/api/Framework/Gatsby?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Gatsby?theme=dark` |
 | NPM | ![NPM](https://svgl-badge.vercel.app/api/Software/NPM?theme=dark) | `https://svgl-badge.vercel.app/api/Software/NPM?theme=dark` |
+| Nuget | ![Nuget](https://svgl-badge.vercel.app/api/Software/Nuget?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Nuget?theme=dark` |
 | Homebrew | ![Homebrew](https://svgl-badge.vercel.app/api/Software/Homebrew?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Homebrew?theme=dark` |
 | Sublime Text | ![Sublime Text](https://svgl-badge.vercel.app/api/Software/Sublime%20Text?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Sublime%20Text?theme=dark` |
 | Turborepo | ![Turborepo](https://svgl-badge.vercel.app/api/Library/Turborepo?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Turborepo?theme=dark` |
@@ -221,6 +222,7 @@
 | DuckDuckGo | ![DuckDuckGo](https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark` |
 | Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/Software/Obsidian?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Obsidian?theme=dark` |
 | Zod | ![Zod](https://svgl-badge.vercel.app/api/Library/Zod?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Zod?theme=dark` |
+| Valibot | ![Valibot](https://svgl-badge.vercel.app/api/Library/Valibot?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Valibot?theme=dark` |
 | Dreamweaver | ![Dreamweaver](https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=dark` |
 | OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark` |
 | Threads | ![Threads](https://svgl-badge.vercel.app/api/Social/Threads?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Threads?theme=dark` |

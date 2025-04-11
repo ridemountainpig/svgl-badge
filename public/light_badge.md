@@ -49,6 +49,7 @@
 | Deno | ![Deno](https://svgl-badge.vercel.app/api/Library/Deno?theme=light) | `https://svgl-badge.vercel.app/api/Library/Deno?theme=light` |
 | Gatsby | ![Gatsby](https://svgl-badge.vercel.app/api/Framework/Gatsby?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Gatsby?theme=light` |
 | NPM | ![NPM](https://svgl-badge.vercel.app/api/Software/NPM?theme=light) | `https://svgl-badge.vercel.app/api/Software/NPM?theme=light` |
+| Nuget | ![Nuget](https://svgl-badge.vercel.app/api/Software/Nuget?theme=light) | `https://svgl-badge.vercel.app/api/Software/Nuget?theme=light` |
 | Homebrew | ![Homebrew](https://svgl-badge.vercel.app/api/Software/Homebrew?theme=light) | `https://svgl-badge.vercel.app/api/Software/Homebrew?theme=light` |
 | Sublime Text | ![Sublime Text](https://svgl-badge.vercel.app/api/Software/Sublime%20Text?theme=light) | `https://svgl-badge.vercel.app/api/Software/Sublime%20Text?theme=light` |
 | Turborepo | ![Turborepo](https://svgl-badge.vercel.app/api/Library/Turborepo?theme=light) | `https://svgl-badge.vercel.app/api/Library/Turborepo?theme=light` |
@@ -221,6 +222,7 @@
 | DuckDuckGo | ![DuckDuckGo](https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=light) | `https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=light` |
 | Obsidian | ![Obsidian](https://svgl-badge.vercel.app/api/Software/Obsidian?theme=light) | `https://svgl-badge.vercel.app/api/Software/Obsidian?theme=light` |
 | Zod | ![Zod](https://svgl-badge.vercel.app/api/Library/Zod?theme=light) | `https://svgl-badge.vercel.app/api/Library/Zod?theme=light` |
+| Valibot | ![Valibot](https://svgl-badge.vercel.app/api/Library/Valibot?theme=light) | `https://svgl-badge.vercel.app/api/Library/Valibot?theme=light` |
 | Dreamweaver | ![Dreamweaver](https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=light) | `https://svgl-badge.vercel.app/api/Software/Dreamweaver?theme=light` |
 | OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/AI/OpenAI?theme=light) | `https://svgl-badge.vercel.app/api/AI/OpenAI?theme=light` |
 | Threads | ![Threads](https://svgl-badge.vercel.app/api/Social/Threads?theme=light) | `https://svgl-badge.vercel.app/api/Social/Threads?theme=light` |

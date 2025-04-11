@@ -19,6 +19,7 @@
 | Coinbase | ![Coinbase](https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Coinbase?theme=dark&wordmark=true` |
 | Grok | ![Grok](https://svgl-badge.vercel.app/api/AI/Grok?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Grok?theme=dark&wordmark=true` |
 | DuckDuckGo | ![DuckDuckGo](https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Browser/DuckDuckGo?theme=dark&wordmark=true` |
+| Valibot | ![Valibot](https://svgl-badge.vercel.app/api/Library/Valibot?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/Valibot?theme=dark&wordmark=true` |
 | OpenAI | ![OpenAI](https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/OpenAI?theme=dark&wordmark=true` |
 | Link | ![Link](https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Crypto/Link?theme=dark&wordmark=true` |
 | Axiom | ![Axiom](https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Axiom?theme=dark&wordmark=true` |

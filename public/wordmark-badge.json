@@ -107,6 +107,12 @@
         "lightSvg": "duckduckgo-wordmark.svg",
         "darkSvg": "duckduckgo-wordmark.svg"
     },
+    "Valibot Library": {
+        "light": "/api/Library/Valibot?theme=light&wordmark=true",
+        "dark": "/api/Library/Valibot?theme=dark&wordmark=true",
+        "lightSvg": "valibot-wordmark-light.svg",
+        "darkSvg": "valibot-wordmark-dark.svg"
+    },
     "OpenAI AI": {
         "light": "/api/AI/OpenAI?theme=light&wordmark=true",
         "dark": "/api/AI/OpenAI?theme=dark&wordmark=true",
