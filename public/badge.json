@@ -1,7 +1,7 @@
 {
-    "Windsurf Software": {
-        "light": "/api/Software/Windsurf?theme=light",
-        "dark": "/api/Software/Windsurf?theme=dark",
+    "Windsurf AI": {
+        "light": "/api/AI/Windsurf?theme=light",
+        "dark": "/api/AI/Windsurf?theme=dark",
         "lightSvg": "windsurf-logo.svg",
         "darkSvg": "windsurf-logo.svg"
     },
@@ -2944,5 +2944,11 @@
         "dark": "/api/Software/GitHub?theme=dark",
         "lightSvg": "github_light.svg",
         "darkSvg": "github_dark.svg"
+    },
+    "Firebase Studio AI": {
+        "light": "/api/AI/Firebase%20Studio?theme=light",
+        "dark": "/api/AI/Firebase%20Studio?theme=dark",
+        "lightSvg": "firebase-studio.svg",
+        "darkSvg": "firebase-studio.svg"
     }
 }

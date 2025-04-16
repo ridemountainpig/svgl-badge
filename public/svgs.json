@@ -1,7 +1,10 @@
 [
     {
         "title": "Windsurf",
-        "category": "Software",
+        "category": [
+            "AI",
+            "Software"
+        ],
         "route": "/library/windsurf-logo.svg",
         "url": "https://codeium.com/windsurf"
     },
@@ -3708,5 +3711,14 @@
         },
         "url": "https://github.com/",
         "brandUrl": "https://brand.github.com/"
+    },
+    {
+        "title": "Firebase Studio",
+        "category": [
+            "AI",
+            "Google"
+        ],
+        "route": "/library/firebase-studio.svg",
+        "url": "https://firebase.studio/"
     }
 ]

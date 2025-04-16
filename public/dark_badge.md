@@ -1,7 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
-| Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/Software/Windsurf?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Windsurf?theme=dark` |
+| Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark` |
 | daisyUI | ![daisyUI](https://svgl-badge.vercel.app/api/Library/daisyUI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/daisyUI?theme=dark` |
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark` |
 | Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark` |
@@ -493,3 +493,4 @@
 | Better Auth | ![Better Auth](https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=dark` |
 | Buy Me a Coffee | ![Buy Me a Coffee](https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=dark` |
 | GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark` |
+| Firebase Studio | ![Firebase Studio](https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=dark` |
