@@ -2950,5 +2950,11 @@
         "dark": "/api/AI/Firebase%20Studio?theme=dark",
         "lightSvg": "firebase-studio.svg",
         "darkSvg": "firebase-studio.svg"
+    },
+    "HeroUI Library": {
+        "light": "/api/Library/HeroUI?theme=light",
+        "dark": "/api/Library/HeroUI?theme=dark",
+        "lightSvg": "heroui_black.svg",
+        "darkSvg": "heroui_light.svg"
     }
 }

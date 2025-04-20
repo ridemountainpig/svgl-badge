@@ -494,3 +494,4 @@
 | Buy Me a Coffee | ![Buy Me a Coffee](https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=dark` |
 | GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark` |
 | Firebase Studio | ![Firebase Studio](https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=dark` |
+| HeroUI | ![HeroUI](https://svgl-badge.vercel.app/api/Library/HeroUI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/HeroUI?theme=dark` |
