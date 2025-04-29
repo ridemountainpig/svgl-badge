@@ -448,5 +448,17 @@
         "dark": "/api/Software/GitHub?theme=dark&wordmark=true",
         "lightSvg": "github_wordmark_light.svg",
         "darkSvg": "github_wordmark_dark.svg"
+    },
+    "Convex Database": {
+        "light": "/api/Database/Convex?theme=light&wordmark=true",
+        "dark": "/api/Database/Convex?theme=dark&wordmark=true",
+        "lightSvg": "convex_wordmark_light.svg",
+        "darkSvg": "convex_wordmark_dark.svg"
+    },
+    "Clerk Authentication": {
+        "light": "/api/Authentication/Clerk?theme=light&wordmark=true",
+        "dark": "/api/Authentication/Clerk?theme=dark&wordmark=true",
+        "lightSvg": "clerk-wordmark-light.svg",
+        "darkSvg": "clerk-wordmark-dark.svg"
     }
 }

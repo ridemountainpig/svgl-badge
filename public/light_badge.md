@@ -453,7 +453,6 @@
 | JSON | ![JSON](https://svgl-badge.vercel.app/api/Language/JSON?theme=light) | `https://svgl-badge.vercel.app/api/Language/JSON?theme=light` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=light) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=light` |
 | SoundCloud | ![SoundCloud](https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light) | `https://svgl-badge.vercel.app/api/Music/SoundCloud?theme=light` |
-| Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light` |
 | Mermaid | ![Mermaid](https://svgl-badge.vercel.app/api/Library/Mermaid?theme=light) | `https://svgl-badge.vercel.app/api/Library/Mermaid?theme=light` |
 | Home Assistant | ![Home Assistant](https://svgl-badge.vercel.app/api/IoT/Home%20Assistant?theme=light) | `https://svgl-badge.vercel.app/api/IoT/Home%20Assistant?theme=light` |
 | UXAnaRangel | ![UXAnaRangel](https://svgl-badge.vercel.app/api/Community/UXAnaRangel?theme=light) | `https://svgl-badge.vercel.app/api/Community/UXAnaRangel?theme=light` |
@@ -496,3 +495,5 @@
 | GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=light) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=light` |
 | Firebase Studio | ![Firebase Studio](https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=light) | `https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=light` |
 | HeroUI | ![HeroUI](https://svgl-badge.vercel.app/api/Library/HeroUI?theme=light) | `https://svgl-badge.vercel.app/api/Library/HeroUI?theme=light` |
+| Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=light) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=light` |
+| Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light` |

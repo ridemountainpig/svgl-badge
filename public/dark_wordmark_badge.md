@@ -76,3 +76,5 @@
 | Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=dark&wordmark=true` |
 | Better Auth | ![Better Auth](https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Authentication/Better%20Auth?theme=dark&wordmark=true` |
 | GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark&wordmark=true` |
+| Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=dark&wordmark=true` |
+| Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark&wordmark=true` |

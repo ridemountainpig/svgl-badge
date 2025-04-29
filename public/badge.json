@@ -2705,12 +2705,6 @@
         "lightSvg": "soundcloud-logo.svg",
         "darkSvg": "soundcloud-logo_dark.svg"
     },
-    "Clerk Authentication": {
-        "light": "/api/Authentication/Clerk?theme=light",
-        "dark": "/api/Authentication/Clerk?theme=dark",
-        "lightSvg": "clerk-light.svg",
-        "darkSvg": "clerk-dark.svg"
-    },
     "Mermaid Library": {
         "light": "/api/Library/Mermaid?theme=light",
         "dark": "/api/Library/Mermaid?theme=dark",
@@ -2962,5 +2956,17 @@
         "dark": "/api/Library/HeroUI?theme=dark",
         "lightSvg": "heroui_black.svg",
         "darkSvg": "heroui_light.svg"
+    },
+    "Convex Database": {
+        "light": "/api/Database/Convex?theme=light",
+        "dark": "/api/Database/Convex?theme=dark",
+        "lightSvg": "convex.svg",
+        "darkSvg": "convex.svg"
+    },
+    "Clerk Authentication": {
+        "light": "/api/Authentication/Clerk?theme=light",
+        "dark": "/api/Authentication/Clerk?theme=dark",
+        "lightSvg": "clerk-light.svg",
+        "darkSvg": "clerk-dark.svg"
     }
 }
