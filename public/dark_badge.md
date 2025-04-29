@@ -460,6 +460,7 @@
 | UXCorpRangel | ![UXCorpRangel](https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=dark) | `https://svgl-badge.vercel.app/api/Community/UXCorpRangel?theme=dark` |
 | PostHog | ![PostHog](https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/PostHog?theme=dark` |
 | PowerToys | ![PowerToys](https://svgl-badge.vercel.app/api/Software/PowerToys?theme=dark) | `https://svgl-badge.vercel.app/api/Software/PowerToys?theme=dark` |
+| PowerShell | ![PowerShell](https://svgl-badge.vercel.app/api/Language/PowerShell?theme=dark) | `https://svgl-badge.vercel.app/api/Language/PowerShell?theme=dark` |
 | Lottielab | ![Lottielab](https://svgl-badge.vercel.app/api/Design/Lottielab?theme=dark) | `https://svgl-badge.vercel.app/api/Design/Lottielab?theme=dark` |
 | TanStack | ![TanStack](https://svgl-badge.vercel.app/api/Library/TanStack?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TanStack?theme=dark` |
 | TypeGPU | ![TypeGPU](https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark) | `https://svgl-badge.vercel.app/api/Library/TypeGPU?theme=dark` |

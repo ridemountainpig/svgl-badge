@@ -2747,6 +2747,12 @@
         "lightSvg": "powertoys.svg",
         "darkSvg": "powertoys.svg"
     },
+    "PowerShell Language": {
+        "light": "/api/Language/PowerShell?theme=light",
+        "dark": "/api/Language/PowerShell?theme=dark",
+        "lightSvg": "powershell.svg",
+        "darkSvg": "powershell.svg"
+    },
     "Lottielab Design": {
         "light": "/api/Design/Lottielab?theme=light",
         "dark": "/api/Design/Lottielab?theme=dark",

@@ -33,6 +33,7 @@
 | Hack The Box | ![Hack The Box](https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark&wordmark=true` |
 | Perplexity AI | ![Perplexity AI](https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Perplexity%20AI?theme=dark&wordmark=true` |
 | Pnpm | ![Pnpm](https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Pnpm?theme=dark&wordmark=true` |
+| Remix | ![Remix](https://svgl-badge.vercel.app/api/Framework/Remix?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Remix?theme=dark&wordmark=true` |
 | Flask | ![Flask](https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Flask?theme=dark&wordmark=true` |
 | Replicate | ![Replicate](https://svgl-badge.vercel.app/api/AI/Replicate?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Replicate?theme=dark&wordmark=true` |
 | Youtube Music | ![Youtube Music](https://svgl-badge.vercel.app/api/Google/Youtube%20Music?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Google/Youtube%20Music?theme=dark&wordmark=true` |

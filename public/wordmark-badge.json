@@ -191,6 +191,12 @@
         "lightSvg": "pnpm_wordmark_light.svg",
         "darkSvg": "pnpm_wordmark_dark.svg"
     },
+    "Remix Framework": {
+        "light": "/api/Framework/Remix?theme=light&wordmark=true",
+        "dark": "/api/Framework/Remix?theme=dark&wordmark=true",
+        "lightSvg": "remix_wordmark_light.svg",
+        "darkSvg": "remix_wordmark_dark.svg"
+    },
     "Flask Framework": {
         "light": "/api/Framework/Flask?theme=light&wordmark=true",
         "dark": "/api/Framework/Flask?theme=dark&wordmark=true",
