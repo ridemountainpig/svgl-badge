@@ -2,6 +2,7 @@
 | Title | Badge | Markdown |
 | --- | --- | --- |
 | Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark` |
+| Inngest | ![Inngest](https://svgl-badge.vercel.app/api/Software/Inngest?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Inngest?theme=dark` |
 | daisyUI | ![daisyUI](https://svgl-badge.vercel.app/api/Library/daisyUI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/daisyUI?theme=dark` |
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark` |
 | Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark` |

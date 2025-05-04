@@ -5,6 +5,12 @@
         "lightSvg": "windsurf-logo.svg",
         "darkSvg": "windsurf-logo.svg"
     },
+    "Inngest Software": {
+        "light": "/api/Software/Inngest?theme=light",
+        "dark": "/api/Software/Inngest?theme=dark",
+        "lightSvg": "inngest-light.svg",
+        "darkSvg": "inngest-dark.svg"
+    },
     "daisyUI Library": {
         "light": "/api/Library/daisyUI?theme=light",
         "dark": "/api/Library/daisyUI?theme=dark",
