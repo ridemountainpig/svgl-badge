@@ -2,6 +2,7 @@
 | Title | Badge | Markdown |
 | --- | --- | --- |
 | Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark` |
+| Mattermost | ![Mattermost](https://svgl-badge.vercel.app/api/Software/Mattermost?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Mattermost?theme=dark` |
 | Inngest | ![Inngest](https://svgl-badge.vercel.app/api/Software/Inngest?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Inngest?theme=dark` |
 | daisyUI | ![daisyUI](https://svgl-badge.vercel.app/api/Library/daisyUI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/daisyUI?theme=dark` |
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark` |
@@ -498,3 +499,4 @@
 | HeroUI | ![HeroUI](https://svgl-badge.vercel.app/api/Library/HeroUI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/HeroUI?theme=dark` |
 | Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=dark` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark` |
+| Terraform | ![Terraform](https://svgl-badge.vercel.app/api/IaC/Terraform?theme=dark) | `https://svgl-badge.vercel.app/api/IaC/Terraform?theme=dark` |
