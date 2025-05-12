@@ -2984,7 +2984,7 @@
     "Terraform IaC": {
         "light": "/api/IaC/Terraform?theme=light",
         "dark": "/api/IaC/Terraform?theme=dark",
-        "lightSvg": "library/terraform.svg",
-        "darkSvg": "library/terraform.svg"
+        "lightSvg": "terraform.svg",
+        "darkSvg": "terraform.svg"
     }
 }

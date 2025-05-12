@@ -3784,7 +3784,7 @@
             "Language",
             "Software"
         ],
-        "route": "library/terraform.svg",
+        "route": "/library/terraform.svg",
         "url": "https://terraform.io",
         "brandUrl": "https://brand.hashicorp.com"
     }
