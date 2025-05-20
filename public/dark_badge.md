@@ -69,6 +69,7 @@
 | Firefox | ![Firefox](https://svgl-badge.vercel.app/api/Browser/Firefox?theme=dark) | `https://svgl-badge.vercel.app/api/Browser/Firefox?theme=dark` |
 | LinkedIn | ![LinkedIn](https://svgl-badge.vercel.app/api/Social/LinkedIn?theme=dark) | `https://svgl-badge.vercel.app/api/Social/LinkedIn?theme=dark` |
 | Telegram | ![Telegram](https://svgl-badge.vercel.app/api/Social/Telegram?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Telegram?theme=dark` |
+| Matrix | ![Matrix](https://svgl-badge.vercel.app/api/Social/Matrix?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Matrix?theme=dark` |
 | WhatsApp | ![WhatsApp](https://svgl-badge.vercel.app/api/Social/WhatsApp?theme=dark) | `https://svgl-badge.vercel.app/api/Social/WhatsApp?theme=dark` |
 | Headless UI | ![Headless UI](https://svgl-badge.vercel.app/api/Library/Headless%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Headless%20UI?theme=dark` |
 | Kotlin | ![Kotlin](https://svgl-badge.vercel.app/api/Language/Kotlin?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Kotlin?theme=dark` |

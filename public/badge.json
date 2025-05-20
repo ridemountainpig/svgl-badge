@@ -407,6 +407,12 @@
         "lightSvg": "telegram.svg",
         "darkSvg": "telegram.svg"
     },
+    "Matrix Social": {
+        "light": "/api/Social/Matrix?theme=light",
+        "dark": "/api/Social/Matrix?theme=dark",
+        "lightSvg": "matrix-light.svg",
+        "darkSvg": "matrix-dark.svg"
+    },
     "WhatsApp Social": {
         "light": "/api/Social/WhatsApp?theme=light",
         "dark": "/api/Social/WhatsApp?theme=dark",
