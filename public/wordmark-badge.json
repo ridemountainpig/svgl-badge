@@ -1,4 +1,10 @@
 {
+    "Perspective Software": {
+        "light": "/api/Software/Perspective?theme=light&wordmark=true",
+        "dark": "/api/Software/Perspective?theme=dark&wordmark=true",
+        "lightSvg": "perspective-wordmark-light.svg",
+        "darkSvg": "perspective-wordmark-dark.svg"
+    },
     "PayPal Payment": {
         "light": "/api/Payment/PayPal?theme=light&wordmark=true",
         "dark": "/api/Payment/PayPal?theme=dark&wordmark=true",

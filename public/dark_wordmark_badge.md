@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Perspective | ![Perspective](https://svgl-badge.vercel.app/api/Software/Perspective?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Perspective?theme=dark&wordmark=true` |
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark&wordmark=true` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark&wordmark=true` |
 | Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=dark&wordmark=true` |

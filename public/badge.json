@@ -1,4 +1,10 @@
 {
+    "Perspective Software": {
+        "light": "/api/Software/Perspective?theme=light",
+        "dark": "/api/Software/Perspective?theme=dark",
+        "lightSvg": "perspective-light.svg",
+        "darkSvg": "perspective-dark.svg"
+    },
     "Windsurf AI": {
         "light": "/api/AI/Windsurf?theme=light",
         "dark": "/api/AI/Windsurf?theme=dark",

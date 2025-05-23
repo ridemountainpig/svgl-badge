@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Perspective | ![Perspective](https://svgl-badge.vercel.app/api/Software/Perspective?theme=light) | `https://svgl-badge.vercel.app/api/Software/Perspective?theme=light` |
 | Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=light) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=light` |
 | Mattermost | ![Mattermost](https://svgl-badge.vercel.app/api/Software/Mattermost?theme=light) | `https://svgl-badge.vercel.app/api/Software/Mattermost?theme=light` |
 | Inngest | ![Inngest](https://svgl-badge.vercel.app/api/Software/Inngest?theme=light) | `https://svgl-badge.vercel.app/api/Software/Inngest?theme=light` |
