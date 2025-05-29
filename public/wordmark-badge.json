@@ -395,6 +395,12 @@
         "lightSvg": "vercel_wordmark.svg",
         "darkSvg": "vercel_wordmark_dark.svg"
     },
+    "Model Context Protocol AI": {
+        "light": "/api/AI/Model%20Context%20Protocol?theme=light&wordmark=true",
+        "dark": "/api/AI/Model%20Context%20Protocol?theme=dark&wordmark=true",
+        "lightSvg": "model-context-protocol-wordmark-light.svg",
+        "darkSvg": "model-context-protocol-wordmark-dark.svg"
+    },
     "Zen Browser Browser": {
         "light": "/api/Browser/Zen%20Browser?theme=light&wordmark=true",
         "dark": "/api/Browser/Zen%20Browser?theme=dark&wordmark=true",

@@ -345,6 +345,7 @@
 | IBM | ![IBM](https://svgl-badge.vercel.app/api/Software/IBM?theme=dark) | `https://svgl-badge.vercel.app/api/Software/IBM?theme=dark` |
 | TrustPilot | ![TrustPilot](https://svgl-badge.vercel.app/api/Software/TrustPilot?theme=dark) | `https://svgl-badge.vercel.app/api/Software/TrustPilot?theme=dark` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=dark` |
+| Flow Launcher | ![Flow Launcher](https://svgl-badge.vercel.app/api/Devtool/Flow%20Launcher?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/Flow%20Launcher?theme=dark` |
 | Hack The Box | ![Hack The Box](https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark) | `https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=dark` |
 | Procure | ![Procure](https://svgl-badge.vercel.app/api/Marketplace/Procure?theme=dark) | `https://svgl-badge.vercel.app/api/Marketplace/Procure?theme=dark` |
 | Julia | ![Julia](https://svgl-badge.vercel.app/api/Language/Julia?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Julia?theme=dark` |
@@ -477,6 +478,7 @@
 | Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=dark` |
 | Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=dark` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark` |
+| Model Context Protocol | ![Model Context Protocol](https://svgl-badge.vercel.app/api/AI/Model%20Context%20Protocol?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Model%20Context%20Protocol?theme=dark` |
 | Socket.io | ![Socket.io](https://svgl-badge.vercel.app/api/Software/Socket.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Socket.io?theme=dark` |
 | Ant Design | ![Ant Design](https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=dark` |
 | VSCodium | ![VSCodium](https://svgl-badge.vercel.app/api/Software/VSCodium?theme=dark) | `https://svgl-badge.vercel.app/api/Software/VSCodium?theme=dark` |

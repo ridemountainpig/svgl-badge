@@ -2413,6 +2413,15 @@
         "url": "https://raycast.com/"
     },
     {
+        "title": "Flow Launcher",
+        "category": [
+            "Devtool",
+            "Software"
+        ],
+        "route": "/library/FlowLauncher.svg",
+        "url": "https://www.flowlauncher.com/"
+    },
+    {
         "title": "Hack The Box",
         "category": "Cybersecurity",
         "route": "/library/hack-the-box.svg",
@@ -3537,6 +3546,22 @@
         },
         "brandUrl": "https://vercel.com/geist/brands",
         "url": "https://vercel.com/"
+    },
+    {
+        "title": "Model Context Protocol",
+        "category": [
+            "AI",
+            "Framework"
+        ],
+        "route": {
+            "light": "/library/model-context-protocol-light.svg",
+            "dark": "/library/model-context-protocol-dark.svg"
+        },
+        "wordmark": {
+            "light": "/library/model-context-protocol-wordmark-light.svg",
+            "dark": "/library/model-context-protocol-wordmark-dark.svg"
+        },
+        "url": "https://modelcontextprotocol.io/"
     },
     {
         "title": "Socket.io",

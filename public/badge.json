@@ -2057,6 +2057,12 @@
         "lightSvg": "raycast.svg",
         "darkSvg": "raycast.svg"
     },
+    "Flow Launcher Devtool": {
+        "light": "/api/Devtool/Flow%20Launcher?theme=light",
+        "dark": "/api/Devtool/Flow%20Launcher?theme=dark",
+        "lightSvg": "FlowLauncher.svg",
+        "darkSvg": "FlowLauncher.svg"
+    },
     "Hack The Box Cybersecurity": {
         "light": "/api/Cybersecurity/Hack%20The%20Box?theme=light",
         "dark": "/api/Cybersecurity/Hack%20The%20Box?theme=dark",
@@ -2848,6 +2854,12 @@
         "dark": "/api/Hosting/Vercel?theme=dark",
         "lightSvg": "vercel.svg",
         "darkSvg": "vercel_dark.svg"
+    },
+    "Model Context Protocol AI": {
+        "light": "/api/AI/Model%20Context%20Protocol?theme=light",
+        "dark": "/api/AI/Model%20Context%20Protocol?theme=dark",
+        "lightSvg": "model-context-protocol-light.svg",
+        "darkSvg": "model-context-protocol-dark.svg"
     },
     "Socket.io Software": {
         "light": "/api/Software/Socket.io?theme=light",

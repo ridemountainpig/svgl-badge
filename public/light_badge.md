@@ -345,6 +345,7 @@
 | IBM | ![IBM](https://svgl-badge.vercel.app/api/Software/IBM?theme=light) | `https://svgl-badge.vercel.app/api/Software/IBM?theme=light` |
 | TrustPilot | ![TrustPilot](https://svgl-badge.vercel.app/api/Software/TrustPilot?theme=light) | `https://svgl-badge.vercel.app/api/Software/TrustPilot?theme=light` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=light) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=light` |
+| Flow Launcher | ![Flow Launcher](https://svgl-badge.vercel.app/api/Devtool/Flow%20Launcher?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/Flow%20Launcher?theme=light` |
 | Hack The Box | ![Hack The Box](https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=light) | `https://svgl-badge.vercel.app/api/Cybersecurity/Hack%20The%20Box?theme=light` |
 | Procure | ![Procure](https://svgl-badge.vercel.app/api/Marketplace/Procure?theme=light) | `https://svgl-badge.vercel.app/api/Marketplace/Procure?theme=light` |
 | Julia | ![Julia](https://svgl-badge.vercel.app/api/Language/Julia?theme=light) | `https://svgl-badge.vercel.app/api/Language/Julia?theme=light` |
@@ -477,6 +478,7 @@
 | Open WebUI | ![Open WebUI](https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Open%20WebUI?theme=light` |
 | Base UI | ![Base UI](https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Base%20UI?theme=light` |
 | Vercel | ![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light) | `https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light` |
+| Model Context Protocol | ![Model Context Protocol](https://svgl-badge.vercel.app/api/AI/Model%20Context%20Protocol?theme=light) | `https://svgl-badge.vercel.app/api/AI/Model%20Context%20Protocol?theme=light` |
 | Socket.io | ![Socket.io](https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light) | `https://svgl-badge.vercel.app/api/Software/Socket.io?theme=light` |
 | Ant Design | ![Ant Design](https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=light) | `https://svgl-badge.vercel.app/api/Library/Ant%20Design?theme=light` |
 | VSCodium | ![VSCodium](https://svgl-badge.vercel.app/api/Software/VSCodium?theme=light) | `https://svgl-badge.vercel.app/api/Software/VSCodium?theme=light` |
