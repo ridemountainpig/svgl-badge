@@ -3010,5 +3010,17 @@
         "dark": "/api/IaC/Terraform?theme=dark",
         "lightSvg": "terraform.svg",
         "darkSvg": "terraform.svg"
+    },
+    "Rspack Compiler": {
+        "light": "/api/Compiler/Rspack?theme=light",
+        "dark": "/api/Compiler/Rspack?theme=dark",
+        "lightSvg": "rspack.svg",
+        "darkSvg": "rspack.svg"
+    },
+    "Rsbuild Compiler": {
+        "light": "/api/Compiler/Rsbuild?theme=light",
+        "dark": "/api/Compiler/Rsbuild?theme=dark",
+        "lightSvg": "rsbuild.svg",
+        "darkSvg": "rsbuild.svg"
     }
 }

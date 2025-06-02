@@ -504,3 +504,5 @@
 | Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=dark` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark` |
 | Terraform | ![Terraform](https://svgl-badge.vercel.app/api/IaC/Terraform?theme=dark) | `https://svgl-badge.vercel.app/api/IaC/Terraform?theme=dark` |
+| Rspack | ![Rspack](https://svgl-badge.vercel.app/api/Compiler/Rspack?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rspack?theme=dark` |
+| Rsbuild | ![Rsbuild](https://svgl-badge.vercel.app/api/Compiler/Rsbuild?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rsbuild?theme=dark` |
