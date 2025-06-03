@@ -506,3 +506,4 @@
 | Terraform | ![Terraform](https://svgl-badge.vercel.app/api/IaC/Terraform?theme=dark) | `https://svgl-badge.vercel.app/api/IaC/Terraform?theme=dark` |
 | Rspack | ![Rspack](https://svgl-badge.vercel.app/api/Compiler/Rspack?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rspack?theme=dark` |
 | Rsbuild | ![Rsbuild](https://svgl-badge.vercel.app/api/Compiler/Rsbuild?theme=dark) | `https://svgl-badge.vercel.app/api/Compiler/Rsbuild?theme=dark` |
+| React Wheel Picker | ![React Wheel Picker](https://svgl-badge.vercel.app/api/Library/React%20Wheel%20Picker?theme=dark) | `https://svgl-badge.vercel.app/api/Library/React%20Wheel%20Picker?theme=dark` |

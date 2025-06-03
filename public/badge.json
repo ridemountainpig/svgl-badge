@@ -3022,5 +3022,11 @@
         "dark": "/api/Compiler/Rsbuild?theme=dark",
         "lightSvg": "rsbuild.svg",
         "darkSvg": "rsbuild.svg"
+    },
+    "React Wheel Picker Library": {
+        "light": "/api/Library/React%20Wheel%20Picker?theme=light",
+        "dark": "/api/Library/React%20Wheel%20Picker?theme=dark",
+        "lightSvg": "react-wheel-picker_light.svg",
+        "darkSvg": "react-wheel-picker_dark.svg"
     }
 }
