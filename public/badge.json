@@ -3028,5 +3028,11 @@
         "dark": "/api/Library/React%20Wheel%20Picker?theme=dark",
         "lightSvg": "react-wheel-picker_light.svg",
         "darkSvg": "react-wheel-picker_dark.svg"
+    },
+    "Lovable AI": {
+        "light": "/api/AI/Lovable?theme=light",
+        "dark": "/api/AI/Lovable?theme=dark",
+        "lightSvg": "lovable.svg",
+        "darkSvg": "lovable.svg"
     }
 }

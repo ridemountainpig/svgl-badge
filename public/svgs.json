@@ -3858,5 +3858,12 @@
             "dark": "/library/react-wheel-picker_dark.svg"
         },
         "url": "https://react-wheel-picker.chanhdai.com"
+    },
+    {
+        "title": "Lovable",
+        "category": "AI",
+        "route": "/library/lovable.svg",
+        "url": "https://lovable.dev/",
+        "brandUrl": "https://lovable.dev/brand"
     }
 ]
