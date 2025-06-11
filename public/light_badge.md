@@ -507,4 +507,5 @@
 | Rspack | ![Rspack](https://svgl-badge.vercel.app/api/Compiler/Rspack?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Rspack?theme=light` |
 | Rsbuild | ![Rsbuild](https://svgl-badge.vercel.app/api/Compiler/Rsbuild?theme=light) | `https://svgl-badge.vercel.app/api/Compiler/Rsbuild?theme=light` |
 | React Wheel Picker | ![React Wheel Picker](https://svgl-badge.vercel.app/api/Library/React%20Wheel%20Picker?theme=light) | `https://svgl-badge.vercel.app/api/Library/React%20Wheel%20Picker?theme=light` |
+| cPanel | ![cPanel](https://svgl-badge.vercel.app/api/Software/cPanel?theme=light) | `https://svgl-badge.vercel.app/api/Software/cPanel?theme=light` |
 | Lovable | ![Lovable](https://svgl-badge.vercel.app/api/AI/Lovable?theme=light) | `https://svgl-badge.vercel.app/api/AI/Lovable?theme=light` |

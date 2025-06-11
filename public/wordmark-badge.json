@@ -472,5 +472,11 @@
         "dark": "/api/Authentication/Clerk?theme=dark&wordmark=true",
         "lightSvg": "clerk-wordmark-light.svg",
         "darkSvg": "clerk-wordmark-dark.svg"
+    },
+    "cPanel Software": {
+        "light": "/api/Software/cPanel?theme=light&wordmark=true",
+        "dark": "/api/Software/cPanel?theme=dark&wordmark=true",
+        "lightSvg": "cPanel_orange_wordmark.svg",
+        "darkSvg": "cPanel_orange_wordmark.svg"
     }
 }

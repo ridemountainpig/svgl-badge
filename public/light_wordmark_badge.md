@@ -80,3 +80,4 @@
 | GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=light&wordmark=true` |
 | Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=light&wordmark=true` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=light&wordmark=true` |
+| cPanel | ![cPanel](https://svgl-badge.vercel.app/api/Software/cPanel?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/cPanel?theme=light&wordmark=true` |
