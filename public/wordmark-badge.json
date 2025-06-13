@@ -478,5 +478,11 @@
         "dark": "/api/Software/cPanel?theme=dark&wordmark=true",
         "lightSvg": "cPanel_orange_wordmark.svg",
         "darkSvg": "cPanel_orange_wordmark.svg"
+    },
+    "Mocha AI": {
+        "light": "/api/AI/Mocha?theme=light&wordmark=true",
+        "dark": "/api/AI/Mocha?theme=dark&wordmark=true",
+        "lightSvg": "mocha-light_wordmark.svg",
+        "darkSvg": "mocha-dark_wordmark.svg"
     }
 }

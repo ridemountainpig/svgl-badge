@@ -3040,5 +3040,11 @@
         "dark": "/api/AI/Lovable?theme=dark",
         "lightSvg": "lovable.svg",
         "darkSvg": "lovable.svg"
+    },
+    "Mocha AI": {
+        "light": "/api/AI/Mocha?theme=light",
+        "dark": "/api/AI/Mocha?theme=dark",
+        "lightSvg": "mocha-light.svg",
+        "darkSvg": "mocha-dark.svg"
     }
 }

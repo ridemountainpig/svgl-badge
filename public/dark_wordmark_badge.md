@@ -81,3 +81,4 @@
 | Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=dark&wordmark=true` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark&wordmark=true` |
 | cPanel | ![cPanel](https://svgl-badge.vercel.app/api/Software/cPanel?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/cPanel?theme=dark&wordmark=true` |
+| Mocha | ![Mocha](https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark&wordmark=true` |
