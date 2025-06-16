@@ -41,6 +41,12 @@
         "lightSvg": "drive.svg",
         "darkSvg": "drive.svg"
     },
+    "UV Devtool": {
+        "light": "/api/Devtool/UV?theme=light",
+        "dark": "/api/Devtool/UV?theme=dark",
+        "lightSvg": "uv.svg",
+        "darkSvg": "uv.svg"
+    },
     "Milanote Software": {
         "light": "/api/Software/Milanote?theme=light",
         "dark": "/api/Software/Milanote?theme=dark",
