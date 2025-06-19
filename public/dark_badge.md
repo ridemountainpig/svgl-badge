@@ -511,3 +511,4 @@
 | cPanel | ![cPanel](https://svgl-badge.vercel.app/api/Software/cPanel?theme=dark) | `https://svgl-badge.vercel.app/api/Software/cPanel?theme=dark` |
 | Lovable | ![Lovable](https://svgl-badge.vercel.app/api/AI/Lovable?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Lovable?theme=dark` |
 | Mocha | ![Mocha](https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark` |
+| OpenRouter | ![OpenRouter](https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=dark) | `https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=dark` |

@@ -3892,5 +3892,14 @@
             "dark": "/library/mocha-dark_wordmark.svg"
         },
         "url": "https://getmocha.com/"
+    },
+    {
+        "title": "OpenRouter",
+        "category": "AI",
+        "route": {
+            "light": "/library/openrouter_light.svg",
+            "dark": "/library/openrouter_dark.svg"
+        },
+        "url": "https://openrouter.ai/"
     }
 ]

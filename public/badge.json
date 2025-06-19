@@ -3052,5 +3052,11 @@
         "dark": "/api/AI/Mocha?theme=dark",
         "lightSvg": "mocha-light.svg",
         "darkSvg": "mocha-dark.svg"
+    },
+    "OpenRouter AI": {
+        "light": "/api/AI/OpenRouter?theme=light",
+        "dark": "/api/AI/OpenRouter?theme=dark",
+        "lightSvg": "openrouter_light.svg",
+        "darkSvg": "openrouter_dark.svg"
     }
 }
