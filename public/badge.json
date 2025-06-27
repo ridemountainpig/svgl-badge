@@ -3058,5 +3058,11 @@
         "dark": "/api/AI/OpenRouter?theme=dark",
         "lightSvg": "openrouter_light.svg",
         "darkSvg": "openrouter_dark.svg"
+    },
+    "Kokonut UI Library": {
+        "light": "/api/Library/Kokonut%20UI?theme=light",
+        "dark": "/api/Library/Kokonut%20UI?theme=dark",
+        "lightSvg": "kokonutui-light.svg",
+        "darkSvg": "kokonutui-dark.svg"
     }
 }

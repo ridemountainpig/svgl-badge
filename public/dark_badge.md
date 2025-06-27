@@ -512,3 +512,4 @@
 | Lovable | ![Lovable](https://svgl-badge.vercel.app/api/AI/Lovable?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Lovable?theme=dark` |
 | Mocha | ![Mocha](https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark` |
 | OpenRouter | ![OpenRouter](https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=dark) | `https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=dark` |
+| Kokonut UI | ![Kokonut UI](https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=dark` |
