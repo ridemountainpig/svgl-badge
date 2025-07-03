@@ -8,7 +8,7 @@ The Markdown Badges for all the SVGs available on [Svgl](https://svgl.app).
 ## Stack
 
 [![Svgl](https://svgl-badge.vercel.app/api/Library/Svgl?theme=light)](https://svgl.app)
-[![GitHub](https://svgl-badge.vercel.app/api/Software/Github?theme=light)](https://github.com/ridemountainpig/svgl-badge)
+[![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=light)](https://github.com/ridemountainpig/svgl-badge)
 [![Vercel](https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=light)](https://vercel.com)
 [![Next.JS](https://svgl-badge.vercel.app/api/Framework/Next.js?theme=light)](https://nextjs.org)
 [![Tailwind CSS](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)](https://tailwindcss.com)
