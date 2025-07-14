@@ -3064,5 +3064,11 @@
         "dark": "/api/Library/Kokonut%20UI?theme=dark",
         "lightSvg": "kokonutui-light.svg",
         "darkSvg": "kokonutui-dark.svg"
+    },
+    "Google Cloud Google": {
+        "light": "/api/Google/Google%20Cloud?theme=light",
+        "dark": "/api/Google/Google%20Cloud?theme=dark",
+        "lightSvg": "google-cloud.svg",
+        "darkSvg": "google-cloud.svg"
     }
 }

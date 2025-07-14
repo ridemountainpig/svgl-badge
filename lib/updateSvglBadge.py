@@ -40,6 +40,8 @@ async def getSvglJson():
         for key in svg_data_keys:
             data = data.replace(key, f"\"{key[:-1]}\":")
 
+        if data.strip()[-1] == ",":
+            data = data.strip()[:-1]
         data = json.loads("[" + data + "]")
 
         for svg in data:
