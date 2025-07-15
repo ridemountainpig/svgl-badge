@@ -41,6 +41,12 @@
         "lightSvg": "drive.svg",
         "darkSvg": "drive.svg"
     },
+    "Amazon Q AI": {
+        "light": "/api/AI/Amazon%20Q?theme=light",
+        "dark": "/api/AI/Amazon%20Q?theme=dark",
+        "lightSvg": "amazon-q.svg",
+        "darkSvg": "amazon-q.svg"
+    },
     "UV Devtool": {
         "light": "/api/Devtool/UV?theme=light",
         "dark": "/api/Devtool/UV?theme=dark",

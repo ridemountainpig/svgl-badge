@@ -8,6 +8,7 @@
 | daisyUI | ![daisyUI](https://svgl-badge.vercel.app/api/Library/daisyUI?theme=light) | `https://svgl-badge.vercel.app/api/Library/daisyUI?theme=light` |
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=light) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=light` |
 | Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=light` |
+| Amazon Q | ![Amazon Q](https://svgl-badge.vercel.app/api/AI/Amazon%20Q?theme=light) | `https://svgl-badge.vercel.app/api/AI/Amazon%20Q?theme=light` |
 | UV | ![UV](https://svgl-badge.vercel.app/api/Devtool/UV?theme=light) | `https://svgl-badge.vercel.app/api/Devtool/UV?theme=light` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=light) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=light` |
 | Together AI | ![Together AI](https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=light` |
