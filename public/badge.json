@@ -1,4 +1,10 @@
 {
+    "Google Classroom Education": {
+        "light": "/api/Education/Google%20Classroom?theme=light",
+        "dark": "/api/Education/Google%20Classroom?theme=dark",
+        "lightSvg": "google-classroom.svg",
+        "darkSvg": "google-classroom.svg"
+    },
     "Perspective Software": {
         "light": "/api/Software/Perspective?theme=light",
         "dark": "/api/Software/Perspective?theme=dark",

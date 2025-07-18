@@ -1,6 +1,7 @@
 
 | Title | Badge | Markdown |
 | --- | --- | --- |
+| Google Classroom | ![Google Classroom](https://svgl-badge.vercel.app/api/Education/Google%20Classroom?theme=light) | `https://svgl-badge.vercel.app/api/Education/Google%20Classroom?theme=light` |
 | Perspective | ![Perspective](https://svgl-badge.vercel.app/api/Software/Perspective?theme=light) | `https://svgl-badge.vercel.app/api/Software/Perspective?theme=light` |
 | Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=light) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=light` |
 | Mattermost | ![Mattermost](https://svgl-badge.vercel.app/api/Software/Mattermost?theme=light) | `https://svgl-badge.vercel.app/api/Software/Mattermost?theme=light` |

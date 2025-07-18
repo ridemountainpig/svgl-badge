@@ -1,5 +1,15 @@
 [
     {
+        "title": "Google Classroom",
+        "category": [
+            "Education",
+            "Google"
+        ],
+        "route": "/library/google-classroom.svg",
+        "url": "https://edu.google.com/workspace-for-education/products/classroom/",
+        "brandUrl": "https://developers.google.com/workspace/classroom/brand"
+    },
+    {
         "title": "Perspective",
         "category": "Software",
         "route": {
