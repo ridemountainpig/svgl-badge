@@ -3082,5 +3082,17 @@
         "dark": "/api/Google/Google%20Cloud?theme=dark",
         "lightSvg": "google-cloud.svg",
         "darkSvg": "google-cloud.svg"
+    },
+    "Effect TS Library": {
+        "light": "/api/Library/Effect%20TS?theme=light",
+        "dark": "/api/Library/Effect%20TS?theme=dark",
+        "lightSvg": "effect_light.svg",
+        "darkSvg": "effect_dark.svg"
+    },
+    "Ark UI Library": {
+        "light": "/api/Library/Ark%20UI?theme=light",
+        "dark": "/api/Library/Ark%20UI?theme=dark",
+        "lightSvg": "ark-ui.svg",
+        "darkSvg": "ark-ui.svg"
     }
 }

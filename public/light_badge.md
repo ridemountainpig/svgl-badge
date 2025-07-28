@@ -516,3 +516,5 @@
 | OpenRouter | ![OpenRouter](https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=light) | `https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=light` |
 | Kokonut UI | ![Kokonut UI](https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=light` |
 | Google Cloud | ![Google Cloud](https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=light` |
+| Effect TS | ![Effect TS](https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=light) | `https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=light` |
+| Ark UI | ![Ark UI](https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=light` |
