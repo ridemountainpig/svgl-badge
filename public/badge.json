@@ -3094,5 +3094,11 @@
         "dark": "/api/Library/Ark%20UI?theme=dark",
         "lightSvg": "ark-ui.svg",
         "darkSvg": "ark-ui.svg"
+    },
+    "Mantine Library": {
+        "light": "/api/Library/Mantine?theme=light",
+        "dark": "/api/Library/Mantine?theme=dark",
+        "lightSvg": "mantine.svg",
+        "darkSvg": "mantine.svg"
     }
 }

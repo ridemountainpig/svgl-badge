@@ -518,3 +518,4 @@
 | Google Cloud | ![Google Cloud](https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=light` |
 | Effect TS | ![Effect TS](https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=light) | `https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=light` |
 | Ark UI | ![Ark UI](https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=light` |
+| Mantine | ![Mantine](https://svgl-badge.vercel.app/api/Library/Mantine?theme=light) | `https://svgl-badge.vercel.app/api/Library/Mantine?theme=light` |
