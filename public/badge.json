@@ -3100,5 +3100,11 @@
         "dark": "/api/Library/Mantine?theme=dark",
         "lightSvg": "mantine.svg",
         "darkSvg": "mantine.svg"
+    },
+    "ESLint Library": {
+        "light": "/api/Library/ESLint?theme=light",
+        "dark": "/api/Library/ESLint?theme=dark",
+        "lightSvg": "eslint.svg",
+        "darkSvg": "eslint.svg"
     }
 }
