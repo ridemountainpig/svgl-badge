@@ -2459,6 +2459,12 @@
         "lightSvg": "microsoft-todo.svg",
         "darkSvg": "microsoft-todo.svg"
     },
+    "Manifest AI": {
+        "light": "/api/AI/Manifest?theme=light",
+        "dark": "/api/AI/Manifest?theme=dark",
+        "lightSvg": "manifest.svg",
+        "darkSvg": "manifest.svg"
+    },
     "Supabase Database": {
         "light": "/api/Database/Supabase?theme=light",
         "dark": "/api/Database/Supabase?theme=dark",
@@ -2723,9 +2729,9 @@
         "lightSvg": "zed-logo.svg",
         "darkSvg": "zed-logo_dark.svg"
     },
-    "Polar Software": {
-        "light": "/api/Software/Polar?theme=light",
-        "dark": "/api/Software/Polar?theme=dark",
+    "Polar Payment": {
+        "light": "/api/Payment/Polar?theme=light",
+        "dark": "/api/Payment/Polar?theme=dark",
         "lightSvg": "polar-sh_light.svg",
         "darkSvg": "polar-sh_dark.svg"
     },

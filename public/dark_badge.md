@@ -412,6 +412,7 @@
 | Node.js | ![Node.js](https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark` |
 | Raindrop.io | ![Raindrop.io](https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Raindrop.io?theme=dark` |
 | Microsoft Todo | ![Microsoft Todo](https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Microsoft%20Todo?theme=dark` |
+| Manifest | ![Manifest](https://svgl-badge.vercel.app/api/AI/Manifest?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Manifest?theme=dark` |
 | Supabase | ![Supabase](https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Supabase?theme=dark` |
 | Gleam | ![Gleam](https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark) | `https://svgl-badge.vercel.app/api/Language/Gleam?theme=dark` |
 | Flowbite | ![Flowbite](https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark) | `https://svgl-badge.vercel.app/api/Framework/Flowbite?theme=dark` |
@@ -456,7 +457,7 @@
 | daily.dev | ![daily.dev](https://svgl-badge.vercel.app/api/Community/daily.dev?theme=dark) | `https://svgl-badge.vercel.app/api/Community/daily.dev?theme=dark` |
 | Polars | ![Polars](https://svgl-badge.vercel.app/api/Library/Polars?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Polars?theme=dark` |
 | Zed | ![Zed](https://svgl-badge.vercel.app/api/Software/Zed?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Zed?theme=dark` |
-| Polar | ![Polar](https://svgl-badge.vercel.app/api/Software/Polar?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Polar?theme=dark` |
+| Polar | ![Polar](https://svgl-badge.vercel.app/api/Payment/Polar?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/Polar?theme=dark` |
 | bolt | ![bolt](https://svgl-badge.vercel.app/api/Devtool/bolt?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/bolt?theme=dark` |
 | JSON | ![JSON](https://svgl-badge.vercel.app/api/Language/JSON?theme=dark) | `https://svgl-badge.vercel.app/api/Language/JSON?theme=dark` |
 | nuqs | ![nuqs](https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark) | `https://svgl-badge.vercel.app/api/Library/nuqs?theme=dark` |
