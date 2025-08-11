@@ -3112,5 +3112,11 @@
         "dark": "/api/Library/ESLint?theme=dark",
         "lightSvg": "eslint.svg",
         "darkSvg": "eslint.svg"
+    },
+    "PlainSignal Analytics": {
+        "light": "/api/Analytics/PlainSignal?theme=light",
+        "dark": "/api/Analytics/PlainSignal?theme=dark",
+        "lightSvg": "plainsignal.svg",
+        "darkSvg": "plainsignal.svg"
     }
 }

@@ -521,3 +521,4 @@
 | Ark UI | ![Ark UI](https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=dark` |
 | Mantine | ![Mantine](https://svgl-badge.vercel.app/api/Library/Mantine?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Mantine?theme=dark` |
 | ESLint | ![ESLint](https://svgl-badge.vercel.app/api/Library/ESLint?theme=dark) | `https://svgl-badge.vercel.app/api/Library/ESLint?theme=dark` |
+| PlainSignal | ![PlainSignal](https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=dark) | `https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=dark` |
