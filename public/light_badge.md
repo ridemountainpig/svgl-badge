@@ -522,3 +522,4 @@
 | Mantine | ![Mantine](https://svgl-badge.vercel.app/api/Library/Mantine?theme=light) | `https://svgl-badge.vercel.app/api/Library/Mantine?theme=light` |
 | ESLint | ![ESLint](https://svgl-badge.vercel.app/api/Library/ESLint?theme=light) | `https://svgl-badge.vercel.app/api/Library/ESLint?theme=light` |
 | PlainSignal | ![PlainSignal](https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=light) | `https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=light` |
+| Heptabase | ![Heptabase](https://svgl-badge.vercel.app/api/Software/Heptabase?theme=light) | `https://svgl-badge.vercel.app/api/Software/Heptabase?theme=light` |

@@ -3118,5 +3118,11 @@
         "dark": "/api/Analytics/PlainSignal?theme=dark",
         "lightSvg": "plainsignal.svg",
         "darkSvg": "plainsignal.svg"
+    },
+    "Heptabase Software": {
+        "light": "/api/Software/Heptabase?theme=light",
+        "dark": "/api/Software/Heptabase?theme=dark",
+        "lightSvg": "heptabase.svg",
+        "darkSvg": "heptabase.svg"
     }
 }
