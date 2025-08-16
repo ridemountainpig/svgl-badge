@@ -72,7 +72,7 @@
 | Gemini | ![Gemini](https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Gemini?theme=dark&wordmark=true` |
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=dark&wordmark=true` |
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=dark&wordmark=true` |
-| Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=dark&wordmark=true` |
+| Replit | ![Replit](https://svgl-badge.vercel.app/api/AI/Replit?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Replit?theme=dark&wordmark=true` |
 | CurseForge | ![CurseForge](https://svgl-badge.vercel.app/api/Community/CurseForge?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Community/CurseForge?theme=dark&wordmark=true` |
 | Cursor | ![Cursor](https://svgl-badge.vercel.app/api/Software/Cursor?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Cursor?theme=dark&wordmark=true` |
 | Ghostty | ![Ghostty](https://svgl-badge.vercel.app/api/Software/Ghostty?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Ghostty?theme=dark&wordmark=true` |

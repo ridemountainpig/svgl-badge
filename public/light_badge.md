@@ -493,7 +493,7 @@
 | Inflection AI | ![Inflection AI](https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light) | `https://svgl-badge.vercel.app/api/AI/Inflection%20AI?theme=light` |
 | D3.js | ![D3.js](https://svgl-badge.vercel.app/api/Library/D3.js?theme=light) | `https://svgl-badge.vercel.app/api/Library/D3.js?theme=light` |
 | Anthropic | ![Anthropic](https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light) | `https://svgl-badge.vercel.app/api/AI/Anthropic?theme=light` |
-| Replit | ![Replit](https://svgl-badge.vercel.app/api/Software/Replit?theme=light) | `https://svgl-badge.vercel.app/api/Software/Replit?theme=light` |
+| Replit | ![Replit](https://svgl-badge.vercel.app/api/AI/Replit?theme=light) | `https://svgl-badge.vercel.app/api/AI/Replit?theme=light` |
 | Magic UI | ![Magic UI](https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Magic%20UI?theme=light` |
 | Web Components | ![Web Components](https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=light) | `https://svgl-badge.vercel.app/api/Library/Web%20Components?theme=light` |
 | Designali | ![Designali](https://svgl-badge.vercel.app/api/Design/Designali?theme=light) | `https://svgl-badge.vercel.app/api/Design/Designali?theme=light` |

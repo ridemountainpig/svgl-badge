@@ -2945,9 +2945,9 @@
         "lightSvg": "anthropic_black.svg",
         "darkSvg": "anthropic_white.svg"
     },
-    "Replit Software": {
-        "light": "/api/Software/Replit?theme=light",
-        "dark": "/api/Software/Replit?theme=dark",
+    "Replit AI": {
+        "light": "/api/AI/Replit?theme=light",
+        "dark": "/api/AI/Replit?theme=dark",
         "lightSvg": "replit.svg",
         "darkSvg": "replit.svg"
     },
