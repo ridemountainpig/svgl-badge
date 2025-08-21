@@ -5,6 +5,12 @@
         "lightSvg": "google-classroom.svg",
         "darkSvg": "google-classroom.svg"
     },
+    "Kimi AI": {
+        "light": "/api/AI/Kimi?theme=light",
+        "dark": "/api/AI/Kimi?theme=dark",
+        "lightSvg": "kimi.svg",
+        "darkSvg": "kimi.svg"
+    },
     "Perspective Software": {
         "light": "/api/Software/Perspective?theme=light",
         "dark": "/api/Software/Perspective?theme=dark",
@@ -3076,6 +3082,12 @@
         "dark": "/api/AI/OpenRouter?theme=dark",
         "lightSvg": "openrouter_light.svg",
         "darkSvg": "openrouter_dark.svg"
+    },
+    "OpenHunts Community": {
+        "light": "/api/Community/OpenHunts?theme=light",
+        "dark": "/api/Community/OpenHunts?theme=dark",
+        "lightSvg": "openhunts.svg",
+        "darkSvg": "openhunts.svg"
     },
     "Kokonut UI Library": {
         "light": "/api/Library/Kokonut%20UI?theme=light",

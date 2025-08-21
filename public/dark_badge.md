@@ -2,6 +2,7 @@
 | Title | Badge | Markdown |
 | --- | --- | --- |
 | Google Classroom | ![Google Classroom](https://svgl-badge.vercel.app/api/Education/Google%20Classroom?theme=dark) | `https://svgl-badge.vercel.app/api/Education/Google%20Classroom?theme=dark` |
+| Kimi | ![Kimi](https://svgl-badge.vercel.app/api/AI/Kimi?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Kimi?theme=dark` |
 | Perspective | ![Perspective](https://svgl-badge.vercel.app/api/Software/Perspective?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Perspective?theme=dark` |
 | Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=dark` |
 | Mattermost | ![Mattermost](https://svgl-badge.vercel.app/api/Software/Mattermost?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Mattermost?theme=dark` |
@@ -515,6 +516,7 @@
 | Lovable | ![Lovable](https://svgl-badge.vercel.app/api/AI/Lovable?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Lovable?theme=dark` |
 | Mocha | ![Mocha](https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark` |
 | OpenRouter | ![OpenRouter](https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=dark) | `https://svgl-badge.vercel.app/api/AI/OpenRouter?theme=dark` |
+| OpenHunts | ![OpenHunts](https://svgl-badge.vercel.app/api/Community/OpenHunts?theme=dark) | `https://svgl-badge.vercel.app/api/Community/OpenHunts?theme=dark` |
 | Kokonut UI | ![Kokonut UI](https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=dark` |
 | Google Cloud | ![Google Cloud](https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=dark` |
 | Effect TS | ![Effect TS](https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=dark` |

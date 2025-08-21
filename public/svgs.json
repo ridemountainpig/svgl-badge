@@ -10,6 +10,12 @@
         "brandUrl": "https://developers.google.com/workspace/classroom/brand"
     },
     {
+        "title": "Kimi",
+        "category": "AI",
+        "route": "/library/kimi.svg",
+        "url": "https://kimi.ai/"
+    },
+    {
         "title": "Perspective",
         "category": "Software",
         "route": {
@@ -3931,6 +3937,15 @@
             "dark": "/library/openrouter_dark.svg"
         },
         "url": "https://openrouter.ai/"
+    },
+    {
+        "title": "OpenHunts",
+        "category": [
+            "Community",
+            "Platform"
+        ],
+        "route": "/library/openhunts.svg",
+        "url": "https://openhunts.com"
     },
     {
         "title": "Kokonut UI",
