@@ -3136,5 +3136,11 @@
         "dark": "/api/Software/Heptabase?theme=dark",
         "lightSvg": "heptabase.svg",
         "darkSvg": "heptabase.svg"
+    },
+    "UnJS Library": {
+        "light": "/api/Library/UnJS?theme=light",
+        "dark": "/api/Library/UnJS?theme=dark",
+        "lightSvg": "unjs.svg",
+        "darkSvg": "unjs.svg"
     }
 }
