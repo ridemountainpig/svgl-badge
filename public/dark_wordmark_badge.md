@@ -82,3 +82,4 @@
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark&wordmark=true` |
 | cPanel | ![cPanel](https://svgl-badge.vercel.app/api/Software/cPanel?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/cPanel?theme=dark&wordmark=true` |
 | Mocha | ![Mocha](https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Mocha?theme=dark&wordmark=true` |
+| n8n | ![n8n](https://svgl-badge.vercel.app/api/AI/n8n?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/n8n?theme=dark&wordmark=true` |

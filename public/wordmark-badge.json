@@ -484,5 +484,11 @@
         "dark": "/api/AI/Mocha?theme=dark&wordmark=true",
         "lightSvg": "mocha-light_wordmark.svg",
         "darkSvg": "mocha-dark_wordmark.svg"
+    },
+    "n8n AI": {
+        "light": "/api/AI/n8n?theme=light&wordmark=true",
+        "dark": "/api/AI/n8n?theme=dark&wordmark=true",
+        "lightSvg": "n8n-wordmark-light.svg",
+        "darkSvg": "n8n-wordmark-dark.svg"
     }
 }
