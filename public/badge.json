@@ -3143,6 +3143,12 @@
         "lightSvg": "unjs.svg",
         "darkSvg": "unjs.svg"
     },
+    "PowerSync Database": {
+        "light": "/api/Database/PowerSync?theme=light",
+        "dark": "/api/Database/PowerSync?theme=dark",
+        "lightSvg": "powersync.svg",
+        "darkSvg": "powersync.svg"
+    },
     "n8n AI": {
         "light": "/api/AI/n8n?theme=light",
         "dark": "/api/AI/n8n?theme=dark",

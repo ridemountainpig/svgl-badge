@@ -526,5 +526,6 @@
 | PlainSignal | ![PlainSignal](https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=light) | `https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=light` |
 | Heptabase | ![Heptabase](https://svgl-badge.vercel.app/api/Software/Heptabase?theme=light) | `https://svgl-badge.vercel.app/api/Software/Heptabase?theme=light` |
 | UnJS | ![UnJS](https://svgl-badge.vercel.app/api/Library/UnJS?theme=light) | `https://svgl-badge.vercel.app/api/Library/UnJS?theme=light` |
+| PowerSync | ![PowerSync](https://svgl-badge.vercel.app/api/Database/PowerSync?theme=light) | `https://svgl-badge.vercel.app/api/Database/PowerSync?theme=light` |
 | n8n | ![n8n](https://svgl-badge.vercel.app/api/AI/n8n?theme=light) | `https://svgl-badge.vercel.app/api/AI/n8n?theme=light` |
 | Kibo UI | ![Kibo UI](https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=light` |

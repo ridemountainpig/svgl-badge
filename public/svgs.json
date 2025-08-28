@@ -4012,6 +4012,20 @@
         "url": "https://unjs.io/"
     },
     {
+        "title": "PowerSync",
+        "category": [
+            "Database",
+            "Library",
+            "Sync Engine"
+        ],
+        "route": "/library/powersync.svg",
+        "wordmark": {
+            "light": "/library/powersync-wordmark-light.svg",
+            "dark": "/library/powersync-wordmark-dark.svg"
+        },
+        "url": "https://powersync.com/"
+    },
+    {
         "title": "n8n",
         "category": [
             "AI",

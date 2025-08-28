@@ -485,6 +485,12 @@
         "lightSvg": "mocha-light_wordmark.svg",
         "darkSvg": "mocha-dark_wordmark.svg"
     },
+    "PowerSync Database": {
+        "light": "/api/Database/PowerSync?theme=light&wordmark=true",
+        "dark": "/api/Database/PowerSync?theme=dark&wordmark=true",
+        "lightSvg": "powersync-wordmark-light.svg",
+        "darkSvg": "powersync-wordmark-dark.svg"
+    },
     "n8n AI": {
         "light": "/api/AI/n8n?theme=light&wordmark=true",
         "dark": "/api/AI/n8n?theme=dark&wordmark=true",
