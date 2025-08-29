@@ -5,6 +5,12 @@
         "lightSvg": "perspective-wordmark-light.svg",
         "darkSvg": "perspective-wordmark-dark.svg"
     },
+    "Windsurf AI": {
+        "light": "/api/AI/Windsurf?theme=light&wordmark=true",
+        "dark": "/api/AI/Windsurf?theme=dark&wordmark=true",
+        "lightSvg": "windsurf-wordmark-light.svg",
+        "darkSvg": "windsurf-wordmark-dark.svg"
+    },
     "PayPal Payment": {
         "light": "/api/Payment/PayPal?theme=light&wordmark=true",
         "dark": "/api/Payment/PayPal?theme=dark&wordmark=true",
@@ -496,5 +502,11 @@
         "dark": "/api/AI/n8n?theme=dark&wordmark=true",
         "lightSvg": "n8n-wordmark-light.svg",
         "darkSvg": "n8n-wordmark-dark.svg"
+    },
+    "Ahrefs Platform": {
+        "light": "/api/Platform/Ahrefs?theme=light&wordmark=true",
+        "dark": "/api/Platform/Ahrefs?theme=dark&wordmark=true",
+        "lightSvg": "ahrefs-wordmark-light.svg",
+        "darkSvg": "ahrefs-wordmark-dark.svg"
     }
 }

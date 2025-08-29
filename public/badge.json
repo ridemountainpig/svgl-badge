@@ -20,8 +20,8 @@
     "Windsurf AI": {
         "light": "/api/AI/Windsurf?theme=light",
         "dark": "/api/AI/Windsurf?theme=dark",
-        "lightSvg": "windsurf-logo.svg",
-        "darkSvg": "windsurf-logo.svg"
+        "lightSvg": "windsurf-light.svg",
+        "darkSvg": "windsurf-dark.svg"
     },
     "Mattermost Software": {
         "light": "/api/Software/Mattermost?theme=light",
@@ -3160,5 +3160,11 @@
         "dark": "/api/Library/Kibo%20UI?theme=dark",
         "lightSvg": "kibo-ui-light.svg",
         "darkSvg": "kibo-ui-dark.svg"
+    },
+    "Ahrefs Platform": {
+        "light": "/api/Platform/Ahrefs?theme=light",
+        "dark": "/api/Platform/Ahrefs?theme=dark",
+        "lightSvg": "ahrefs.svg",
+        "darkSvg": "ahrefs.svg"
     }
 }

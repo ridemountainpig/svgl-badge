@@ -2,6 +2,7 @@
 | Title | Badge | Markdown |
 | --- | --- | --- |
 | Perspective | ![Perspective](https://svgl-badge.vercel.app/api/Software/Perspective?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Perspective?theme=light&wordmark=true` |
+| Windsurf | ![Windsurf](https://svgl-badge.vercel.app/api/AI/Windsurf?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Windsurf?theme=light&wordmark=true` |
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=light&wordmark=true` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=light&wordmark=true` |
 | Suno | ![Suno](https://svgl-badge.vercel.app/api/AI/Suno?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Suno?theme=light&wordmark=true` |
@@ -84,3 +85,4 @@
 | Mocha | ![Mocha](https://svgl-badge.vercel.app/api/AI/Mocha?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/Mocha?theme=light&wordmark=true` |
 | PowerSync | ![PowerSync](https://svgl-badge.vercel.app/api/Database/PowerSync?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/PowerSync?theme=light&wordmark=true` |
 | n8n | ![n8n](https://svgl-badge.vercel.app/api/AI/n8n?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/n8n?theme=light&wordmark=true` |
+| Ahrefs | ![Ahrefs](https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=light&wordmark=true` |

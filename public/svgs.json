@@ -34,8 +34,16 @@
             "AI",
             "Software"
         ],
-        "route": "/library/windsurf-logo.svg",
-        "url": "https://codeium.com/windsurf"
+        "route": {
+            "light": "/library/windsurf-light.svg",
+            "dark": "/library/windsurf-dark.svg"
+        },
+        "wordmark": {
+            "light": "/library/windsurf-wordmark-light.svg",
+            "dark": "/library/windsurf-wordmark-dark.svg"
+        },
+        "url": "https://windsurf.com/editor",
+        "brandUrl": "https://windsurf.com/brand"
     },
     {
         "title": "Mattermost",
@@ -4047,5 +4055,16 @@
             "dark": "/library/kibo-ui-dark.svg"
         },
         "url": "https://kibo-ui.com/"
+    },
+    {
+        "title": "Ahrefs",
+        "category": "Platform",
+        "route": "/library/ahrefs.svg",
+        "wordmark": {
+            "dark": "/library/ahrefs-wordmark-dark.svg",
+            "light": "/library/ahrefs-wordmark-light.svg"
+        },
+        "url": "https://ahrefs.com/",
+        "brandUrl": "https://ahrefs.com/logo"
     }
 ]

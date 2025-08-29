@@ -529,3 +529,4 @@
 | PowerSync | ![PowerSync](https://svgl-badge.vercel.app/api/Database/PowerSync?theme=dark) | `https://svgl-badge.vercel.app/api/Database/PowerSync?theme=dark` |
 | n8n | ![n8n](https://svgl-badge.vercel.app/api/AI/n8n?theme=dark) | `https://svgl-badge.vercel.app/api/AI/n8n?theme=dark` |
 | Kibo UI | ![Kibo UI](https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=dark` |
+| Ahrefs | ![Ahrefs](https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=dark) | `https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=dark` |
