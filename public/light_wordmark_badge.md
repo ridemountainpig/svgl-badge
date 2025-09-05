@@ -29,6 +29,7 @@
 | Monkeytype | ![Monkeytype](https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Monkeytype?theme=light&wordmark=true` |
 | Shopify | ![Shopify](https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Shopify?theme=light&wordmark=true` |
 | Webflow | ![Webflow](https://svgl-badge.vercel.app/api/CMS/Webflow?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Webflow?theme=light&wordmark=true` |
+| Sanity | ![Sanity](https://svgl-badge.vercel.app/api/CMS/Sanity?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/CMS/Sanity?theme=light&wordmark=true` |
 | Airbnb | ![Airbnb](https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Airbnb?theme=light&wordmark=true` |
 | Slack | ![Slack](https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Slack?theme=light&wordmark=true` |
 | Raycast | ![Raycast](https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Raycast?theme=light&wordmark=true` |

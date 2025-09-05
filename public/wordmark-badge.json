@@ -167,6 +167,12 @@
         "lightSvg": "webflow-wordmark-light.svg",
         "darkSvg": "webflow-wordmark-dark.svg"
     },
+    "Sanity CMS": {
+        "light": "/api/CMS/Sanity?theme=light&wordmark=true",
+        "dark": "/api/CMS/Sanity?theme=dark&wordmark=true",
+        "lightSvg": "sanity-wordmark-light.svg",
+        "darkSvg": "sanity-wordmark-dark.svg"
+    },
     "Airbnb Software": {
         "light": "/api/Software/Airbnb?theme=light&wordmark=true",
         "dark": "/api/Software/Airbnb?theme=dark&wordmark=true",

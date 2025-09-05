@@ -2012,8 +2012,8 @@
     "Sanity CMS": {
         "light": "/api/CMS/Sanity?theme=light",
         "dark": "/api/CMS/Sanity?theme=dark",
-        "lightSvg": "sanity.svg",
-        "darkSvg": "sanity.svg"
+        "lightSvg": "sanity-light.svg",
+        "darkSvg": "sanity-dark.svg"
     },
     "sky Entertainment": {
         "light": "/api/Entertainment/sky?theme=light",
