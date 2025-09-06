@@ -497,6 +497,18 @@
         "lightSvg": "mocha-light_wordmark.svg",
         "darkSvg": "mocha-dark_wordmark.svg"
     },
+    "Zulip Social": {
+        "light": "/api/Social/Zulip?theme=light&wordmark=true",
+        "dark": "/api/Social/Zulip?theme=dark&wordmark=true",
+        "lightSvg": "zulip-wordmark.svg",
+        "darkSvg": "zulip-wordmark.svg"
+    },
+    "Apache Kafka Analytics": {
+        "light": "/api/Analytics/Apache%20Kafka?theme=light&wordmark=true",
+        "dark": "/api/Analytics/Apache%20Kafka?theme=dark&wordmark=true",
+        "lightSvg": "apache-kafka-wordmark-light.svg",
+        "darkSvg": "apache-kafka-wordmark-dark.svg"
+    },
     "PowerSync Database": {
         "light": "/api/Database/PowerSync?theme=light&wordmark=true",
         "dark": "/api/Database/PowerSync?theme=dark&wordmark=true",

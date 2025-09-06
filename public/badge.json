@@ -59,6 +59,12 @@
         "lightSvg": "amazon-q.svg",
         "darkSvg": "amazon-q.svg"
     },
+    "Mulesoft Software": {
+        "light": "/api/Software/Mulesoft?theme=light",
+        "dark": "/api/Software/Mulesoft?theme=dark",
+        "lightSvg": "mulesoft.svg",
+        "darkSvg": "mulesoft.svg"
+    },
     "UV Devtool": {
         "light": "/api/Devtool/UV?theme=light",
         "dark": "/api/Devtool/UV?theme=dark",
@@ -3101,6 +3107,12 @@
         "lightSvg": "google-cloud.svg",
         "darkSvg": "google-cloud.svg"
     },
+    "Zulip Social": {
+        "light": "/api/Social/Zulip?theme=light",
+        "dark": "/api/Social/Zulip?theme=dark",
+        "lightSvg": "zulip.svg",
+        "darkSvg": "zulip.svg"
+    },
     "Effect TS Library": {
         "light": "/api/Library/Effect%20TS?theme=light",
         "dark": "/api/Library/Effect%20TS?theme=dark",
@@ -3124,6 +3136,12 @@
         "dark": "/api/Library/ESLint?theme=dark",
         "lightSvg": "eslint.svg",
         "darkSvg": "eslint.svg"
+    },
+    "Apache Kafka Analytics": {
+        "light": "/api/Analytics/Apache%20Kafka?theme=light",
+        "dark": "/api/Analytics/Apache%20Kafka?theme=dark",
+        "lightSvg": "apache-kafka-logo.svg",
+        "darkSvg": "apache-kafka-logo.svg"
     },
     "PlainSignal Analytics": {
         "light": "/api/Analytics/PlainSignal?theme=light",

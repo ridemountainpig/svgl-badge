@@ -11,6 +11,7 @@
 | PayPal | ![PayPal](https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark) | `https://svgl-badge.vercel.app/api/Payment/PayPal?theme=dark` |
 | Google Drive | ![Google Drive](https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Drive?theme=dark` |
 | Amazon Q | ![Amazon Q](https://svgl-badge.vercel.app/api/AI/Amazon%20Q?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Amazon%20Q?theme=dark` |
+| Mulesoft | ![Mulesoft](https://svgl-badge.vercel.app/api/Software/Mulesoft?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Mulesoft?theme=dark` |
 | UV | ![UV](https://svgl-badge.vercel.app/api/Devtool/UV?theme=dark) | `https://svgl-badge.vercel.app/api/Devtool/UV?theme=dark` |
 | Milanote | ![Milanote](https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Milanote?theme=dark` |
 | Together AI | ![Together AI](https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Together%20AI?theme=dark` |
@@ -519,10 +520,12 @@
 | OpenHunts | ![OpenHunts](https://svgl-badge.vercel.app/api/Community/OpenHunts?theme=dark) | `https://svgl-badge.vercel.app/api/Community/OpenHunts?theme=dark` |
 | Kokonut UI | ![Kokonut UI](https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Kokonut%20UI?theme=dark` |
 | Google Cloud | ![Google Cloud](https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=dark) | `https://svgl-badge.vercel.app/api/Google/Google%20Cloud?theme=dark` |
+| Zulip | ![Zulip](https://svgl-badge.vercel.app/api/Social/Zulip?theme=dark) | `https://svgl-badge.vercel.app/api/Social/Zulip?theme=dark` |
 | Effect TS | ![Effect TS](https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Effect%20TS?theme=dark` |
 | Ark UI | ![Ark UI](https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Ark%20UI?theme=dark` |
 | Mantine | ![Mantine](https://svgl-badge.vercel.app/api/Library/Mantine?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Mantine?theme=dark` |
 | ESLint | ![ESLint](https://svgl-badge.vercel.app/api/Library/ESLint?theme=dark) | `https://svgl-badge.vercel.app/api/Library/ESLint?theme=dark` |
+| Apache Kafka | ![Apache Kafka](https://svgl-badge.vercel.app/api/Analytics/Apache%20Kafka?theme=dark) | `https://svgl-badge.vercel.app/api/Analytics/Apache%20Kafka?theme=dark` |
 | PlainSignal | ![PlainSignal](https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=dark) | `https://svgl-badge.vercel.app/api/Analytics/PlainSignal?theme=dark` |
 | Heptabase | ![Heptabase](https://svgl-badge.vercel.app/api/Software/Heptabase?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Heptabase?theme=dark` |
 | UnJS | ![UnJS](https://svgl-badge.vercel.app/api/Library/UnJS?theme=dark) | `https://svgl-badge.vercel.app/api/Library/UnJS?theme=dark` |
