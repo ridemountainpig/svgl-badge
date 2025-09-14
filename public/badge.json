@@ -203,6 +203,36 @@
         "lightSvg": "nuxt.svg",
         "darkSvg": "nuxt.svg"
     },
+    "Nuxt UI Library": {
+        "light": "/api/Library/Nuxt%20UI?theme=light",
+        "dark": "/api/Library/Nuxt%20UI?theme=dark",
+        "lightSvg": "nuxt-ui-wordmark-light.svg",
+        "darkSvg": "nuxt-ui-wordmark-dark.svg"
+    },
+    "Nuxt Content Library": {
+        "light": "/api/Library/Nuxt%20Content?theme=light",
+        "dark": "/api/Library/Nuxt%20Content?theme=dark",
+        "lightSvg": "nuxt-content-wordmark-light.svg",
+        "darkSvg": "nuxt-content-wordmark-dark.svg"
+    },
+    "Nuxt Studio Library": {
+        "light": "/api/Library/Nuxt%20Studio?theme=light",
+        "dark": "/api/Library/Nuxt%20Studio?theme=dark",
+        "lightSvg": "nuxt-studio-wordmark-light.svg",
+        "darkSvg": "nuxt-studio-wordmark-dark.svg"
+    },
+    "NuxtHub Library": {
+        "light": "/api/Library/NuxtHub?theme=light",
+        "dark": "/api/Library/NuxtHub?theme=dark",
+        "lightSvg": "nuxthub.svg",
+        "darkSvg": "nuxthub.svg"
+    },
+    "Docus Software": {
+        "light": "/api/Software/Docus?theme=light",
+        "dark": "/api/Software/Docus?theme=dark",
+        "lightSvg": "docus-light.svg",
+        "darkSvg": "docus-dark.svg"
+    },
     "Visual Studio Code Software": {
         "light": "/api/Software/Visual%20Studio%20Code?theme=light",
         "dark": "/api/Software/Visual%20Studio%20Code?theme=dark",
@@ -3184,5 +3214,11 @@
         "dark": "/api/Platform/Ahrefs?theme=dark",
         "lightSvg": "ahrefs.svg",
         "darkSvg": "ahrefs.svg"
+    },
+    "Google Maps Google": {
+        "light": "/api/Google/Google%20Maps?theme=light",
+        "dark": "/api/Google/Google%20Maps?theme=dark",
+        "lightSvg": "googleMaps.svg",
+        "darkSvg": "googleMaps.svg"
     }
 }

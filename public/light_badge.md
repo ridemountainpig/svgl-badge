@@ -35,6 +35,11 @@
 | Vue | ![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Vue?theme=light` |
 | Vuetify | ![Vuetify](https://svgl-badge.vercel.app/api/Library/Vuetify?theme=light) | `https://svgl-badge.vercel.app/api/Library/Vuetify?theme=light` |
 | Nuxt | ![Nuxt](https://svgl-badge.vercel.app/api/Framework/Nuxt?theme=light) | `https://svgl-badge.vercel.app/api/Framework/Nuxt?theme=light` |
+| Nuxt UI | ![Nuxt UI](https://svgl-badge.vercel.app/api/Library/Nuxt%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Nuxt%20UI?theme=light` |
+| Nuxt Content | ![Nuxt Content](https://svgl-badge.vercel.app/api/Library/Nuxt%20Content?theme=light) | `https://svgl-badge.vercel.app/api/Library/Nuxt%20Content?theme=light` |
+| Nuxt Studio | ![Nuxt Studio](https://svgl-badge.vercel.app/api/Library/Nuxt%20Studio?theme=light) | `https://svgl-badge.vercel.app/api/Library/Nuxt%20Studio?theme=light` |
+| NuxtHub | ![NuxtHub](https://svgl-badge.vercel.app/api/Library/NuxtHub?theme=light) | `https://svgl-badge.vercel.app/api/Library/NuxtHub?theme=light` |
+| Docus | ![Docus](https://svgl-badge.vercel.app/api/Software/Docus?theme=light) | `https://svgl-badge.vercel.app/api/Software/Docus?theme=light` |
 | Visual Studio Code | ![Visual Studio Code](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=light) | `https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=light` |
 | Ton | ![Ton](https://svgl-badge.vercel.app/api/Crypto/Ton?theme=light) | `https://svgl-badge.vercel.app/api/Crypto/Ton?theme=light` |
 | Locofy | ![Locofy](https://svgl-badge.vercel.app/api/AI/Locofy?theme=light) | `https://svgl-badge.vercel.app/api/AI/Locofy?theme=light` |
@@ -533,3 +538,4 @@
 | n8n | ![n8n](https://svgl-badge.vercel.app/api/AI/n8n?theme=light) | `https://svgl-badge.vercel.app/api/AI/n8n?theme=light` |
 | Kibo UI | ![Kibo UI](https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=light` |
 | Ahrefs | ![Ahrefs](https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=light) | `https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=light` |
+| Google Maps | ![Google Maps](https://svgl-badge.vercel.app/api/Google/Google%20Maps?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Maps?theme=light` |

@@ -65,6 +65,24 @@
         "lightSvg": "react_wordmark_light.svg",
         "darkSvg": "react_wordmark_dark.svg"
     },
+    "Nuxt Framework": {
+        "light": "/api/Framework/Nuxt?theme=light&wordmark=true",
+        "dark": "/api/Framework/Nuxt?theme=dark&wordmark=true",
+        "lightSvg": "nuxt-wordmark-light.svg",
+        "darkSvg": "nuxt-wordmark-dark.svg"
+    },
+    "NuxtHub Library": {
+        "light": "/api/Library/NuxtHub?theme=light&wordmark=true",
+        "dark": "/api/Library/NuxtHub?theme=dark&wordmark=true",
+        "lightSvg": "nuxt-hub-wordmark-light.svg",
+        "darkSvg": "nuxt-hub-wordmark-dark.svg"
+    },
+    "Docus Software": {
+        "light": "/api/Software/Docus?theme=light&wordmark=true",
+        "dark": "/api/Software/Docus?theme=dark&wordmark=true",
+        "lightSvg": "docus-wordmark-light.svg",
+        "darkSvg": "docus-wordmark-dark.svg"
+    },
     "Spotify Music": {
         "light": "/api/Music/Spotify?theme=light&wordmark=true",
         "dark": "/api/Music/Spotify?theme=dark&wordmark=true",
