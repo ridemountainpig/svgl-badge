@@ -74,8 +74,8 @@
     "NuxtHub Library": {
         "light": "/api/Library/NuxtHub?theme=light&wordmark=true",
         "dark": "/api/Library/NuxtHub?theme=dark&wordmark=true",
-        "lightSvg": "nuxt-hub-wordmark-light.svg",
-        "darkSvg": "nuxt-hub-wordmark-dark.svg"
+        "lightSvg": "nuxthub-wordmark-light.svg",
+        "darkSvg": "nuxthub-wordmark-dark.svg"
     },
     "Docus Software": {
         "light": "/api/Software/Docus?theme=light&wordmark=true",
