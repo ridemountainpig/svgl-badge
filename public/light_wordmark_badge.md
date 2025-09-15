@@ -14,7 +14,7 @@
 | React | ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/React?theme=light&wordmark=true` |
 | Nuxt | ![Nuxt](https://svgl-badge.vercel.app/api/Framework/Nuxt?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Nuxt?theme=light&wordmark=true` |
 | NuxtHub | ![NuxtHub](https://svgl-badge.vercel.app/api/Library/NuxtHub?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/NuxtHub?theme=light&wordmark=true` |
-| Docus | ![Docus](https://svgl-badge.vercel.app/api/Software/Docus?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Software/Docus?theme=light&wordmark=true` |
+| Docus | ![Docus](https://svgl-badge.vercel.app/api/Nuxt/Docus?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Nuxt/Docus?theme=light&wordmark=true` |
 | Spotify | ![Spotify](https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Music/Spotify?theme=light&wordmark=true` |
 | Deno | ![Deno](https://svgl-badge.vercel.app/api/Library/Deno?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Library/Deno?theme=light&wordmark=true` |
 | Tailwind CSS | ![Tailwind CSS](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light&wordmark=true) | `https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light&wordmark=true` |

@@ -39,7 +39,7 @@
 | Nuxt Content | ![Nuxt Content](https://svgl-badge.vercel.app/api/Library/Nuxt%20Content?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Nuxt%20Content?theme=dark` |
 | Nuxt Studio | ![Nuxt Studio](https://svgl-badge.vercel.app/api/Library/Nuxt%20Studio?theme=dark) | `https://svgl-badge.vercel.app/api/Library/Nuxt%20Studio?theme=dark` |
 | NuxtHub | ![NuxtHub](https://svgl-badge.vercel.app/api/Library/NuxtHub?theme=dark) | `https://svgl-badge.vercel.app/api/Library/NuxtHub?theme=dark` |
-| Docus | ![Docus](https://svgl-badge.vercel.app/api/Software/Docus?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Docus?theme=dark` |
+| Docus | ![Docus](https://svgl-badge.vercel.app/api/Nuxt/Docus?theme=dark) | `https://svgl-badge.vercel.app/api/Nuxt/Docus?theme=dark` |
 | Visual Studio Code | ![Visual Studio Code](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark` |
 | Ton | ![Ton](https://svgl-badge.vercel.app/api/Crypto/Ton?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Ton?theme=dark` |
 | Locofy | ![Locofy](https://svgl-badge.vercel.app/api/AI/Locofy?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Locofy?theme=dark` |

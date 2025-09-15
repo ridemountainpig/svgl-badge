@@ -227,9 +227,9 @@
         "lightSvg": "nuxthub.svg",
         "darkSvg": "nuxthub.svg"
     },
-    "Docus Software": {
-        "light": "/api/Software/Docus?theme=light",
-        "dark": "/api/Software/Docus?theme=dark",
+    "Docus Nuxt": {
+        "light": "/api/Nuxt/Docus?theme=light",
+        "dark": "/api/Nuxt/Docus?theme=dark",
         "lightSvg": "docus-light.svg",
         "darkSvg": "docus-dark.svg"
     },
