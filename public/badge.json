@@ -3220,5 +3220,17 @@
         "dark": "/api/Google/Google%20Maps?theme=dark",
         "lightSvg": "googleMaps.svg",
         "darkSvg": "googleMaps.svg"
+    },
+    "WebGL Library": {
+        "light": "/api/Library/WebGL?theme=light",
+        "dark": "/api/Library/WebGL?theme=dark",
+        "lightSvg": "webgl.svg",
+        "darkSvg": "webgl_dark.svg"
+    },
+    "Intello Platform": {
+        "light": "/api/Platform/Intello?theme=light",
+        "dark": "/api/Platform/Intello?theme=dark",
+        "lightSvg": "intello-light.svg",
+        "darkSvg": "intello-dark.svg"
     }
 }

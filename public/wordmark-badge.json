@@ -544,5 +544,11 @@
         "dark": "/api/Platform/Ahrefs?theme=dark&wordmark=true",
         "lightSvg": "ahrefs-wordmark-light.svg",
         "darkSvg": "ahrefs-wordmark-dark.svg"
+    },
+    "Intello Platform": {
+        "light": "/api/Platform/Intello?theme=light&wordmark=true",
+        "dark": "/api/Platform/Intello?theme=dark&wordmark=true",
+        "lightSvg": "intello-wordmark-light.svg",
+        "darkSvg": "intello-wordmark-dark.svg"
     }
 }

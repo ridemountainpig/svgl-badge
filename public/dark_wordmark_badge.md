@@ -92,3 +92,4 @@
 | PowerSync | ![PowerSync](https://svgl-badge.vercel.app/api/Database/PowerSync?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Database/PowerSync?theme=dark&wordmark=true` |
 | n8n | ![n8n](https://svgl-badge.vercel.app/api/AI/n8n?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/AI/n8n?theme=dark&wordmark=true` |
 | Ahrefs | ![Ahrefs](https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=dark&wordmark=true` |
+| Intello | ![Intello](https://svgl-badge.vercel.app/api/Platform/Intello?theme=dark&wordmark=true) | `https://svgl-badge.vercel.app/api/Platform/Intello?theme=dark&wordmark=true` |

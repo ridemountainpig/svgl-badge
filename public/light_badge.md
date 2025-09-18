@@ -539,3 +539,5 @@
 | Kibo UI | ![Kibo UI](https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=light) | `https://svgl-badge.vercel.app/api/Library/Kibo%20UI?theme=light` |
 | Ahrefs | ![Ahrefs](https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=light) | `https://svgl-badge.vercel.app/api/Platform/Ahrefs?theme=light` |
 | Google Maps | ![Google Maps](https://svgl-badge.vercel.app/api/Google/Google%20Maps?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Maps?theme=light` |
+| WebGL | ![WebGL](https://svgl-badge.vercel.app/api/Library/WebGL?theme=light) | `https://svgl-badge.vercel.app/api/Library/WebGL?theme=light` |
+| Intello | ![Intello](https://svgl-badge.vercel.app/api/Platform/Intello?theme=light) | `https://svgl-badge.vercel.app/api/Platform/Intello?theme=light` |
