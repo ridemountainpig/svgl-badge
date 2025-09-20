@@ -3053,6 +3053,12 @@
         "lightSvg": "firebase-studio.svg",
         "darkSvg": "firebase-studio.svg"
     },
+    "Dingocoin Crypto": {
+        "light": "/api/Crypto/Dingocoin?theme=light",
+        "dark": "/api/Crypto/Dingocoin?theme=dark",
+        "lightSvg": "dingocoin.svg",
+        "darkSvg": "dingocoin.svg"
+    },
     "HeroUI Library": {
         "light": "/api/Library/HeroUI?theme=light",
         "dark": "/api/Library/HeroUI?theme=dark",

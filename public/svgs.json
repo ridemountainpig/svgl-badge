@@ -3926,6 +3926,12 @@
         "url": "https://firebase.studio/"
     },
     {
+        "title": "Dingocoin",
+        "category": "Crypto",
+        "route": "/library/dingocoin.svg",
+        "url": "https://dingocoin.com/"
+    },
+    {
         "title": "HeroUI",
         "category": "Library",
         "route": {

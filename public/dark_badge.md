@@ -511,6 +511,7 @@
 | Buy Me a Coffee | ![Buy Me a Coffee](https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=dark) | `https://svgl-badge.vercel.app/api/Software/Buy%20Me%20a%20Coffee?theme=dark` |
 | GitHub | ![GitHub](https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark) | `https://svgl-badge.vercel.app/api/Software/GitHub?theme=dark` |
 | Firebase Studio | ![Firebase Studio](https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=dark) | `https://svgl-badge.vercel.app/api/AI/Firebase%20Studio?theme=dark` |
+| Dingocoin | ![Dingocoin](https://svgl-badge.vercel.app/api/Crypto/Dingocoin?theme=dark) | `https://svgl-badge.vercel.app/api/Crypto/Dingocoin?theme=dark` |
 | HeroUI | ![HeroUI](https://svgl-badge.vercel.app/api/Library/HeroUI?theme=dark) | `https://svgl-badge.vercel.app/api/Library/HeroUI?theme=dark` |
 | Convex | ![Convex](https://svgl-badge.vercel.app/api/Database/Convex?theme=dark) | `https://svgl-badge.vercel.app/api/Database/Convex?theme=dark` |
 | Clerk | ![Clerk](https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark) | `https://svgl-badge.vercel.app/api/Authentication/Clerk?theme=dark` |
