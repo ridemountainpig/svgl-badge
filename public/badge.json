@@ -3238,5 +3238,11 @@
         "dark": "/api/Platform/Intello?theme=dark",
         "lightSvg": "intello-light.svg",
         "darkSvg": "intello-dark.svg"
+    },
+    "Kilo Code AI": {
+        "light": "/api/AI/Kilo%20Code?theme=light",
+        "dark": "/api/AI/Kilo%20Code?theme=dark",
+        "lightSvg": "kilocode-light.svg",
+        "darkSvg": "kilocode-dark.svg"
     }
 }

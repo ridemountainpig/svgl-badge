@@ -542,3 +542,4 @@
 | Google Maps | ![Google Maps](https://svgl-badge.vercel.app/api/Google/Google%20Maps?theme=light) | `https://svgl-badge.vercel.app/api/Google/Google%20Maps?theme=light` |
 | WebGL | ![WebGL](https://svgl-badge.vercel.app/api/Library/WebGL?theme=light) | `https://svgl-badge.vercel.app/api/Library/WebGL?theme=light` |
 | Intello | ![Intello](https://svgl-badge.vercel.app/api/Platform/Intello?theme=light) | `https://svgl-badge.vercel.app/api/Platform/Intello?theme=light` |
+| Kilo Code | ![Kilo Code](https://svgl-badge.vercel.app/api/AI/Kilo%20Code?theme=light) | `https://svgl-badge.vercel.app/api/AI/Kilo%20Code?theme=light` |
