@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Link from "next/link";
 import { ArrowUpRight, MoonIcon, SunIcon } from "lucide-react";
 import { useTheme } from "next-themes";
 
@@ -18,7 +19,7 @@ export function Navbar() {
         <div className="flex h-fit w-full items-center justify-between px-4 py-4 md:px-6">
             <h1 className="hidden">Svgl Badge</h1>
             <h2 className="hidden">Svgl</h2>
-            <a
+            <Link
                 href="/"
                 title="Svgl Badge"
                 className="flex h-fit items-center gap-x-4"
@@ -27,7 +28,7 @@ export function Navbar() {
                 <span className="text-[19px] font-medium tracking-wide">
                     Svgl Badge
                 </span>
-            </a>
+            </Link>
             <h3 className="hidden">Svgl Badge</h3>
             <h3 className="hidden">Svgl Wordmark Badge</h3>
             <div className="flex">
