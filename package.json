@@ -12,26 +12,32 @@
         "tailwind": "tailwindcss -i ./app/globals.css -o ./app/svgl-badge.css --watch"
     },
     "dependencies": {
-        "@next/third-parties": "^14.1.4",
-        "framer-motion": "^11.1.7",
+        "@next/third-parties": "^14.2.35",
+        "framer-motion": "^11.18.2",
         "image-size": "^1.2.1",
         "lucide-react": "^0.378.0",
-        "next": "15.5.10",
+        "next": "15.5.24",
         "next-themes": "^0.3.0",
-        "prettier-plugin-tailwindcss": "^0.5.13",
+        "prettier-plugin-tailwindcss": "^0.5.14",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
-        "react-hot-toast": "^2.4.1"
+        "react-hot-toast": "^2.6.0"
     },
     "devDependencies": {
-        "@types/node": "^20.11.14",
-        "@types/react": "^18.2.49",
-        "@types/react-dom": "^18.2.18",
-        "autoprefixer": "^10.4.17",
-        "eslint": "^8.56.0",
-        "eslint-config-next": "14.2.3",
-        "postcss": "^8.4.33",
-        "tailwindcss": "^3.4.1",
-        "typescript": "^5.3.3"
+        "@types/node": "^20.19.43",
+        "@types/react": "^18.3.31",
+        "@types/react-dom": "^18.3.7",
+        "autoprefixer": "^10.6.0",
+        "eslint": "^8.57.1",
+        "eslint-config-next": "15.5.24",
+        "postcss": "^8.5.28",
+        "tailwindcss": "^3.4.19",
+        "typescript": "^5.9.3"
+    },
+    "pnpm": {
+        "overrides": {
+            "postcss": "^8.5.28",
+            "@typescript-eslint/parser": "^8.70.0"
+        }
     }
 }
